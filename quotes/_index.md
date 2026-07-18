@@ -36,6 +36,7 @@ This is the filterable index of all entries in the `quotes/` directory. See `quo
 | Farm Credit Canada | Crown corp | FCC | [ecosystem-not-technology-framing](institutional-mission-statements/fcc-ecosystem-not-technology-framing.md) | mission | current |
 | Ag Data Transparent | Non-profit certification | Ag Data Transparent | [principles](institutional-mission-statements/ag-data-transparent-principles.md) | mission | current |
 | Suresh Neethirajan | University Research Chair | Dalhousie | [ai-strategy-stops-at-city-limits](researchers-and-experts/neethirajan-suresh-ai-strategy-stops-at-city-limits.md), [green-ai-cybersecurity](researchers-and-experts/neethirajan-suresh-green-ai-cybersecurity.md) | paraphrased | current |
+| Raffi Krikorian | CTO | Mozilla Foundation | [open-source-turning-point](researchers-and-experts/mozilla-krikorian-open-source-turning-point.md) | verbatim | current |
 | Yuan Zhang | Head of Global Sales | DJI Agriculture | [essential-farm-equipment](industry-executives/zhang-yuan-dji-essential-farm-equipment.md) | paraphrased | current |
 
 ---
@@ -169,7 +170,7 @@ This is the filterable index of all entries in the `quotes/` directory. See `quo
 - **Producers (5 entries):** Andrew Nelson, Djessie Donkers, Mathé van den Bosch, Jeff Torrie, Nicolas Fratantuono. Five concrete producer voices — worth noting that the field guide has *more* producer voices than I expected at the start. Could expand further.
 - **Industry executives (6 entries):** Willmot, Zhu, Peng Bin, Zhang, Leake, Naïo/xFarm. Six industry voices, predominantly vendor framing. The Leake / Nelson pair is the most useful for talk constructions — vendor framing + producer reality side-by-side.
 - **Institutional leaders (4 entries):** Three Pillaud verbatim quotes + Vaughan (CAFF). Substantive analytical voices.
-- **Researchers / experts (2 entries):** Neethirajan's two complementary framings. Single researcher but load-bearing.
+- **Researchers / experts (3 entries):** Neethirajan's two complementary framings + Mozilla CTO Raffi Krikorian. Single researcher (Neethirajan) plus Mozilla institutional voice; could expand further.
 - **Institutional mission statements (8 entries):** CARE Principles, IEEE 2890-2025, OADA, JoinData, IVADO, FCC, ADT, GIDA communique. These are not personal quotes but institutional positions — useful for talks about frameworks.
 
 ## How this index evolves
@@ -186,4 +187,4 @@ The field guide currently has:
 
 - **Industry executives** predominantly vendor framing. Counter-frames (cooperative / commons, Indigenous-led) are in institutional leaders and mission statements rather than industry-executives. That's a structural feature of who has voice in vendor marketing vs. cooperative / commons contexts.
 
-- **Researchers / experts** currently anchored to Neethirajan (Canadian academic-policy). Could expand with researchers from France (INRAE), China (CGIAIR-side), LAC, IDSov context (GIDA-affiliated researchers).
+- **Researchers / experts** currently anchored to Neethirajan and Mozilla CTO Krikorian. Could expand with researchers from France (INRAE), China (CGIAIR-side), LAC, IDSov context (GIDA-affiliated researchers).
