@@ -111,17 +111,58 @@ Three observations:
 
 3. **AIVA is a concrete Canadian contribution to global AI validation practice.** The validation hub model with farmer alliance members and standardised testing frameworks is meaningfully distinct from US/EU agtech validation infrastructure. Worth its own unit.
 
-## 7. Source list
+## 7. Adjacent ecosystems — Cohere, greenhouses, food waste (July 2026 deepening)
+
+### 7.1 Cohere — Canadian sovereign-AI infrastructure, agrifood potential unannounced
+
+Toronto-based AI company founded 2019 (Aidan Gomez, co-author of the Transformers paper). Enterprise-focused LLM platform; sovereign-data positioning (Canadian data residency, privacy-first). Recent public partnerships: University of Toronto (university-wide AI platform, multi-year).
+
+**No explicit agrifood partnership or product surfaced in current sources.** This is worth naming honestly. Cohere's sovereign-data positioning is *structurally adjacent* to farmer data sovereignty concerns (the FCC-framework and Neethirajan critical voice both address this), but no deployed agrifood product or partnership has been announced as of mid-2026.
+
+**Why this matters for the field guide:** Tracks as a potential. The next refresh should re-check Cohere's agrifood activity. If/when deployed, becomes a substantive Canadian-context LLM unit parallel to FCC Root AI (Crown corp) and CGIAR AgriLLM (multilateral). The structural position — sovereign Canadian AI infrastructure — would be the distinct contribution.
+
+### 7.2 Canadian greenhouse AI
+
+Leamington / Kingsville Ontario is one of the largest greenhouse clusters in North America, and Canadian greenhouse AI is a real and substantial sector. Notable material:
+
+- **Haven Greens** (King City, ON) — Canada's first fully automated AI-powered greenhouse. Founded by Jay Willmot (Dalhousie commerce / finance undergrad; York environmental studies + law). 5 acres with 10-acre expansion; targets ~2 million kg/year lettuce and leafy greens. Mobile Gully System (Finnish technology), RFID tracking, conveyor belts, robotic arms. Closed-loop water filtration (90% reduction). Carbon-neutral target 2027. 40+ employees. See `haven-greens.md`.
+- **Dr. Rozita Dara** (University of Guelph, AI4Food director) — substantive Canadian academic voice on greenhouse AI. Frames the technology as "the future" but also warns about over-dependence and cyber risk.
+- **Industry-level claim** (Greenhouse Canada, June 2026): "Growers with AI systems are generally seeing yield increases of 10 to 20 per cent, and in some trials, up to 30 per cent." Vendor-side claim, worth verifying.
+
+The 90% of leafy greens imported from US figure (York University report, cited in Haven Greens coverage) is the structural context — Canadian greenhouse AI is positioned in part as a food-sovereignty / import-replacement play.
+
+### 7.3 Canadian food waste AI
+
+Honest reading: Canada has *less* explicit AI-and-food-waste deployment than the US. The Canadian food waste work is dominated by *operational* infrastructure (Loop Resource, Second Harvest) rather than AI-specific deployment.
+
+- **Loop Resource** — Canadian operational food-waste infrastructure. Founded 2017; 230 million kg of unsold food diverted; 5,000 farms and 6 grocery banners served. *Not* an AI company — uses logistics and operations. The four-step waste reduction hierarchy (source reduction → charitable diversion → animal feed → composting) is operational infrastructure, not AI infrastructure. Worth capturing because it occupies the *food-waste* cell the user asked about. Not promoted to a standalone unit because it is operational, not AI.
+- **Second Harvest** — Canadian food rescue organisation. $1.8M Walmart Foundation grant (2026) for food rescue acceleration. Not specifically AI-driven.
+- **ReFED / Shelf Engine / Afresh** (US context) — AI-driven food-waste forecasting and order accuracy. Reported 14.8% average reduction in food waste per store. US-context; worth tracking for Canadian adoption.
+- **AI-Enhanced Food Waste Forecasting market** (vendor-side framing): $3.8B in 2025, projected $16.2B by 2034, 17.4% CAGR. Market-sizing figure; worth naming but verifying.
+- **ECCC** (Environment and Climate Change Canada) — *Taking stock: Reducing food loss and waste in Canada* report. Policy framing, not AI-specific.
+- See `canadian-food-waste-ai-landscape.md` for the consolidated unit capturing the Canadian context.
+
+### 7.4 What this scan asks of the field guide
+
+- The Canadian sovereign-AI infrastructure (Cohere) is structurally adjacent to farmer data sovereignty concerns but has not yet announced agrifood deployment. Worth tracking; not yet a content unit.
+- The Canadian greenhouse AI cell is substantively populated (Haven Greens, U of Guelph AI4Food). The protected-cultivation cell of the matrix gets real Canadian-specific content.
+- The Canadian food-waste AI cell is thinner than the US equivalent. Operational infrastructure (Loop Resource) is doing real work; AI-specific deployment is less visible. Worth recording honestly.
+- The user's three questions (Cohere, greenhouses, food waste) all deserve substantive treatment in the field guide — even when the answer is "not yet" or "less than elsewhere." Honest gaps are field-guide material.
+
+## 8. Source list
 
 Read in full or substantial part:
 
-- FCC (2026). *FCC Thought Leadership exploring AI opportunities for Canadian agriculture and food*. May 27, 2026. https://www.fcc-fac.ca/en/knowledge/economics/ai-opportunities-canadian-agriculture-food
-- FCC (2026). *AI could unlock a new era of growth for Canadian agriculture*. July 16, 2026. https://www.fcc-fac.ca/en/about-fcc/media-centre/news-releases/2026/ai-growth-canadian-agriculture
-- FCC (2025). *FCC Capital announces $2 billion investment into ag and food innovation*. May 30, 2025. https://www.fcc-fac.ca/en/about-fcc/media-centre/news-releases/2025/fcc-capital-investment-ag-food-innovation
-- FCC Capital. *Fund Investments*. https://www.fcc-fac.ca/en/financing/capital/fund-investments
-- AIVA Network. *AIVA Network set to advance Canadian agriculture innovation*. May 12, 2026. https://www.aivanetwork.ca/aiva-network-set-to-advance-canadian-agriculture-innovation/
-- EMILI (2026). *EMILI proud to introduce the AIVA Network in partnership*. https://emilicanada.com/news/emili-proud-to-introduce-the-aiva-network/
-- AgExpert. https://agexpert.ca/
-- The Western Producer (2026). *AI can help with research, but is not the only answer*.
+- Haven Greens. https://havengreens.ca/
+- Farmtario (2026). *Canada's first AI-driven greenhouse doubles down on sustainable farming*. https://farmtario.com/crops/canadas-first-ai-driven-greenhouse-doubles-down-on-sustainable-farming/
+- The Globe and Mail (2026). *How Haven Greens' automated farming system could change the lettuce game*. May 18, 2026. https://www.theglobeandmail.com/business/article-how-haven-greens-automated-farming-system-could-change-the-lettuce/
+- University of Guelph News (2025). *AI Optimizes Greenhouse Management But Brings Risks, U of G Prof Says*. https://news.uoguelph.ca/2025/06/ai-optimizes-greenhouse-management-but-brings-risks-u-of-g-prof-says/
+- Greenhouse Canada. *Maturation point: AI development in Canadian greenhouses*. https://www.greenhousecanada.com/maturation-point-ai-development/
+- Loop Resource. https://loopresource.ca/
+- Waste360. *Grant to Help Second Harvest Accelerate Food Rescue in Canada*. https://www.waste360.com/food-waste/grant-to-help-second-harvest-accelerate-food-rescue-in-canada
+- ReFED. *Three Ways AI Is Driving Reductions in Food Loss and Waste*. https://refed.org/articles/three-ways-ai-is-driving-reductions-in-food-loss-and-waste/
+- ECCC. *Taking stock: Reducing food loss and waste in Canada*. https://www.canada.ca/en/environment-climate-change/services/managing-reducing-waste/food-loss-waste/taking-stock.html
+- Cohere corporate. https://cohere.com/
+- University of Toronto + Cohere partnership announcement. https://www.utoronto.ca/news/u-t-partnership-cohere-sets-stage-responsible-ai-adoption-scale
 
 Cross-references to earlier Canadian sources remain valid.
