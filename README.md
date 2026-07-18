@@ -10,6 +10,7 @@ A knowledge base and presentation framework for public education on artificial i
 - `scans/` — environmental scan outputs (incoming)
 - `taxonomy/v4.md` — current taxonomy (fourth iteration). `taxonomy/v1.md`, `v2.md`, and `v3.md` retained as change-history anchors. Adds `data-governance` and `data-rights-framework` cross-cutting tags.
 - `units/` — content units, the substrate from which talks are built (incoming)
+- `quotes/` — speaker voices (verbatim quotes + paraphrased positions) for use in talks (new in v4 era)
 - `talks/` — assembled presentations built from the library (incoming)
 - `LICENSE` — CC BY 4.0 for content
 - `NOTICE` — MIT for code
