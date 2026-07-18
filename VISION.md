@@ -53,7 +53,7 @@ Every entry carries: `last_verified` date, source(s), claim type, and (where app
 
 ### Three-axis taxonomy
 
-Activity in AI-and-agrifood is mapped along three axes. The taxonomy is built iteratively and lives in `taxonomy/`.
+Activity in AI-and-agrifood is mapped along three axes. The taxonomy is built iteratively and lives in `taxonomy/`. The current working version is `taxonomy/revised.md`; `taxonomy/initial.md` is retained as the change-history anchor.
 
 1. **Sector position** — where in the value chain
    - inputs

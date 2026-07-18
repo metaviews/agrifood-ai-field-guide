@@ -8,7 +8,7 @@ A knowledge base and presentation framework for public education on artificial i
 
 - `VISION.md` — the project's framing and operating principles
 - `scans/` — environmental scan outputs (incoming)
-- `taxonomy/` — the three-axis taxonomy of AI activity in agrifood (incoming)
+- `taxonomy/revised.md` — current taxonomy (second iteration). `taxonomy/initial.md` retained as change-history anchor.
 - `talks/` — assembled presentations built from the library (incoming)
 - `LICENSE` — CC BY 4.0 for content
 - `NOTICE` — MIT for code
