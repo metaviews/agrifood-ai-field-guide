@@ -96,7 +96,10 @@ Entities directly connected to or supported by FCC's work in agrifood AI:
 - **Palette Skills** — Digital Agriculture Fundamentals and Agriculture Technology Leadership programs (cited in EMILI/CAPI submission)
 - **Pan-Canadian Smart Farm Network** — already in our regional scan
 - **CAAIN** (Canadian Agri-Food Automation and Intelligence Network) — federally supported, named in EMILI/CAPI submission
-- **Croptimistic Technology** — named in *AI for All* as Canadian AI showcase
+- **Croptimistic Technology** — named in *AI for All* as Canadian AI showcase; SWAT CAM is autonomous in-field imaging; 1M acres mapped by 2025 (in western Canada). See `croptimistic-swat-cam.md`.
+- **Olds College Smart Farm** — Alberta applied research at 3,600 acres; AIVA validation hub; operates the talent pipeline (Bachelor of Digital Agriculture). See `olds-college-smart-farm.md`.
+- **EMILI Innovation Farms** — Manitoba applied research at 10,000 acres across two commercial farms; AIVA co-founder; "powered by AgExpert." See `emili-innovation-farms.md`.
+- **RDAR** (Results Driven Agriculture Research) — Alberta producer-led research; 500+ projects in portfolio; Root AI partnership.
 
 ## 6. What the FCC cycle asks of the field guide
 
