@@ -11,7 +11,7 @@ capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: regulatory
 region: NA-Canada (Dalhousie NS, with pan-Canadian policy reach)
-actor: Suresh Neethirajan (Dalhousie University Research Chair in Digital Livestock Farming); with Mooanalytica team, Sylvain Charlebois, Dr. Craig MacEachern, Jeff Torrie, Dale Steele
+actor: Suresh Neethirajan (Dalhousie University Research Chair in Digital Livestock Farming); with Mooanalytica team, Dr. Craig MacEachern, Jeff Torrie, Dale Steele
 actor-type: (multi-type ecosystem; primary classification academic)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
@@ -33,7 +33,6 @@ This unit maps the actor-network around Suresh Neethirajan's distinctive Canadia
 
 ### Layer 2 — Dalhousie colleagues (same institution)
 
-- **Sylvain Charlebois** — Professor / Director of the Agri-Food Analytics Lab at Dalhousie University (Faculty of Management). Senior Fellow at the Frontier Centre for Public Policy. The most-cited Canadian food-policy academic voice in mainstream press. Adjacent research focus on food safety / consumer / policy. Recent piece: *Food safety needs an AI upgrade*. Quote in The Logic (2018): "There's a pull effect on agriculture from the retail and distribution side."
 - **Dr. Craig MacEachern** — McCain Foundation Postdoctoral Fellow at Dalhousie Faculty of Agriculture. Adjacent researcher on AI in agriculture.
 
 ### Layer 3 — Adjacent Canadian voices and producers in the ecosystem
@@ -67,15 +66,15 @@ Neethirajan's ecosystem is *Canadian academic + policy voice*. It complements th
 - The Dalhousie ecosystem is a *Canadian-specific* critical voice that complements the IPES-Food and Pillaud framings. Talks about Canadian agritech AI should engage with it.
 - The Green AI framing is the most credible Canadian-internal environmental-cost framing. Distinct from "AI helps sustainability" — names the *computational cost* of AI itself.
 - The cybersecurity-as-critical-infrastructure framing connects agritech to national resilience — a framing that's structurally different from productivity / yield / efficiency.
-- Charlebois's food-safety-AI-upgrade framing extends the Canadian conversation into consumer / retail / processing cells that have been under-populated in our scans.
+- Charlebois's food-safety-AI framing is adjacent but tangential — his broader work is food-distribution-and-policy commentary rather than substantive AI-in-agriculture work.
 - Jeff Torrie's quote on robotic milking and farm succession is a real operational case for farmer-driven tech adoption. Worth using in any talk about who actually adopts AI on farms and why.
 
 ## Critical context
 
 - The "Canada is losing ground" framing (The Logic 2018, AAFC briefing notes) predates the *AI for All* strategy (June 2026) but the structural diagnosis — skills gaps, data privacy concerns, broadband connectivity — is the same one FCC's July 2026 framework names. Eight years of structural diagnosis; partial movement through *AI for All* and FCC Capital $2B commitment.
 - Neethirajan's cybersecurity framing is recent (March 2026) and growing — this is an emerging critical lens, not yet a dominant one in the field guide.
-- Charlebois and Neethirajan are both at Dalhousie but in different faculties — they speak to different parts of the Canadian conversation. Not redundant.
-- Farmer's Edge is named in the Logic piece as "Canada's preeminent precision agtech company" (2018) but has had financial difficulties since — Canadian-context boom-bust analog to Indigo Ag.
+- MacEachern is the more substantive Dalhousie-adjacent voice surfaced; broader food-policy commentary circulating at Dalhousie is tangential to the field guide's substantive AI-and-agriculture framing.
+- The Logic 2018 piece surfaces: Jeff Torrie (real operational case for farmer-driven milking robotics adoption), Dale Steele (13% Wi-Fi/cellular data transfer, 39% data-sharing discomfort, 15% gov-data comfort — 2017 figures worth re-verifying), Farmer's Edge as Canadian boom-bust analog to Indigo Ag.
 - Dale Steele's 13% / 39% / 15% figures (2017) on connectivity / data sharing / government data sharing are old but the structural pattern likely holds. Worth re-verifying.
 
 ## Links
@@ -96,4 +95,3 @@ Neethirajan's ecosystem is *Canadian academic + policy voice*. It complements th
   - The Logic (2018). *Canada is losing ground in digital agriculture, industry experts say*. https://thelogic.co/news/the-big-read/canada-is-losing-ground-in-digital-agriculture-industry-experts-say/
   - Mooanalytica. https://mooanalytica.com/
   - Neethirajan, S. ResearchGate profile. https://www.researchgate.net/profile/Suresh-Neethirajan
-  - Charlebois, S. *Food safety needs an AI upgrade*. https://agrifoodanalyticslab.substack.com/p/food-safety-needs-an-ai-upgrade
