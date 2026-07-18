@@ -28,6 +28,7 @@ Cross-cutting tags:
   - policy-instrument: regulatory | fiscal | strategy
   - region: ...
   - actor: ...
+  - actor-type: vendor | state-agency | multilateral-body | academic | farmer-led | Indigenous-organisation | critical-civil-society | farmer-cooperative | industry-association | standards-body
 Content (the unit itself — claim, statistic, framework, or example with sources)
 Links:
   - gaps: G-NNN

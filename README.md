@@ -8,7 +8,7 @@ A knowledge base and presentation framework for public education on artificial i
 
 - `VISION.md` — the project's framing and operating principles
 - `scans/` — environmental scan outputs (incoming)
-- `taxonomy/revised.md` — current taxonomy (second iteration). `taxonomy/initial.md` retained as change-history anchor.
+- `taxonomy/revised.md` — current taxonomy (third iteration, v3). `taxonomy/v1.md` and `taxonomy/v2.md` retained as change-history anchors.
 - `units/` — content units, the substrate from which talks are built (incoming)
 - `talks/` — assembled presentations built from the library (incoming)
 - `LICENSE` — CC BY 4.0 for content

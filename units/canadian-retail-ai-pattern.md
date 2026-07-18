@@ -12,6 +12,7 @@ language-literacy-profile: standard-smartphone
 policy-instrument: (none)
 region: NA-Canada
 actor: Canadian grocery / pharmacy retail (Loblaw, Sobeys, Metro — Loblaw is the visible leader)
+actor-type: vendor
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

@@ -12,6 +12,7 @@ language-literacy-profile: standard-smartphone
 policy-instrument: (none)
 region: East-Asia
 actor: Alibaba Cloud (with pig farming and fruit / vegetable enterprises)
+actor-type: vendor
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

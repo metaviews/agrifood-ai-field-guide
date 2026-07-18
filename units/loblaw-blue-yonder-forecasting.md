@@ -12,6 +12,7 @@ language-literacy-profile: standard-smartphone
 policy-instrument: (none)
 region: NA-Canada
 actor: Loblaw Companies Limited (with Blue Yonder)
+actor-type: vendor
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

@@ -1,16 +1,27 @@
-# Taxonomy — revised working draft
+# Taxonomy — revised working draft (v3)
 
-**Status.** Second iteration. Anchored in `scans/2026-07-initial.md` and `scans/2026-07-regional.md`. Supersedes `taxonomy/initial.md` for active use; `initial.md` is retained as the change-history anchor.
+**Status.** Third iteration (v3). Anchored in the initial scan, two regional scans (Canada/China/Global South; Latin America / Caribbean), and the first seven content units. Canonical.
 
-**What's new since the initial draft.** Five revisions grounded in the regional scans:
+**Files in this directory:**
+- `taxonomy/v1.md` — first iteration; change-history anchor.
+- `taxonomy/v2.md` — second iteration; change-history anchor.
+- `taxonomy/revised.md` — this file (v3). Canonical.
 
-1. **Robotics split into ground / aerial sub-classes** — China evidence forces the separation of drones / UAVs from ground robotics.
-2. **`capital-intensity` cross-cutting tag** — smallholder / industrial / research-scale. The equity story moves on this.
-3. **`critical-voice` split into four sub-tags** — `food-sovereignty`, `indigenous-data-sovereignty`, `right-to-repair`, `digital-equity`. Overlapping but distinct lenses.
-4. **`language-literacy-profile` cross-cutting tag** — `voice-first` / `low-literacy` / `standard-smartphone`. Default for non-extension entries.
-5. **`policy-instrument` cross-cutting tag** — `regulatory` / `fiscal` / `strategy`. Distinct from `claim-type` because a policy instrument is *what it is*, not what it claims.
+**What's new since v2.** One revision:
 
-Smaller: hyphenation consistency across tag names; regional freshness dimension on sources (`last-regionally-scanned`).
+- **`actor-type` cross-cutting tag added.** The v2 scan-pattern over four regional scans surfaced 30+ actors across 8+ types. The free-text `actor` field was useful for naming but didn't let the KB filter by actor type. v3 adds `actor-type` as a discrete categorical tag, distinct from the named `actor` field. Values:
+  - `vendor` — commercial platform / product provider (Alibaba Cloud, JD.com, Loblaw, Agrosmart, Kilimo, Blue Yonder, OpenAI, John Deere)
+  - `state-agency` — government body acting in regulatory or operational capacity (MARA China, AAFC, USDA, ISED, IICA regional)
+  - `multilateral-body` — international / regional multilateral institutions (FAO, CGIAR system, IDB, CAF, World Bank, WFP)
+  - `academic` — university or research institute (Wageningen, Cornell, China Agricultural University, Cenfotec, Dalhousie, UCR / TEC)
+  - `farmer-led` — directly farmer-organised entity (Atelier Paysan, Farmers' Seed Network China, AGUAPAN Peru)
+  - `Indigenous-organisation` — Indigenous-led body or community (ONAMIAP, Chickasaw Nation data sovereignty work, Karuk Tribe)
+  - `critical-civil-society` — civil-society / NGO with explicit critical framing (IPES-Food, FIAN International, IT for Change, ETC Group, Collaboratory for Indigenous Data Governance)
+  - `farmer-cooperative` — cooperative or co-design entity (Prolinnova, JoinData, SmartAgriHubs)
+  - `industry-association` — trade body or industry consortium (CEMA, AgFunder, World Agri-Tech)
+  - `standards-body` — standard-setting organisation (IEEE for IEEE 2890)
+
+This tag was *required* by the LAC regional scan, not just suggested. The growing actor list needed a categorical axis.
 
 ---
 
@@ -37,7 +48,7 @@ What kind of AI does the work. Listed roughly in maturity order, not importance.
 1. **Predictive ML** — supervised, unsupervised, classical and deep; yield prediction, risk modelling, classification
 2. **Computer vision** — image and video classification, segmentation, spectral imaging, phenotyping
 3. **Robotics and autonomy — ground** — autonomous ground vehicles, manipulators, mobile platforms, weeding and spraying robots
-4. **Robotics and autonomy — aerial** — drones, UAVs, remote sensing platforms. *Sub-class separated from ground robotics in this revision; China evidence forces the split.*
+4. **Robotics and autonomy — aerial** — drones, UAVs, remote sensing platforms
 5. **Sensors and IoT + ML** — embedded sensing, edge inference, real-time monitoring
 6. **Decision-support systems** — agronomic advisory, irrigation scheduling, integrated management platforms
 7. **Generative AI and LLMs** — extension chatbots, research discovery, summarisation, content generation
@@ -82,18 +93,18 @@ Drives freshness rules. From VISION.md.
 
 ### critical-voice
 
-Where applicable, mark the entry with the critical lens it sits within. From the regional scan, the previous single tag has been split into four sub-tags so the lens is unambiguous.
+Where applicable, mark the entry with the critical lens it sits within.
 
 - `food-sovereignty` — IPES-Food framing; corporate concentration, alternative innovation systems, Big Tech / Big Ag critique
 - `indigenous-data-sovereignty` — CARE / IEEE 2890 framing; data about Indigenous peoples, lands, knowledge systems governed by those peoples
 - `right-to-repair` — FTC-Deere / Australian reforms / PIRG framing; farmer autonomy over equipment and data
 - `digital-equity` — digital divide / equity framing; access, capability, outcome gaps
 
-These overlap in real cases. Entries can carry more than one. The point is to disambiguate the *lens*, not to force a single choice.
+Entries can carry more than one. The point is to disambiguate the *lens*, not to force a single choice.
 
 ### capital-intensity
 
-Orthogonal to the three primary axes. The same deployment can be smallholder-scale in one context and industrial-scale in another; the tag describes the deployment, not the technology.
+Orthogonal to the three primary axes.
 
 - `smallholder` — operational scale and design assumptions match smallholder contexts (sub-hectare plots, low capital, low connectivity, voice-first interfaces)
 - `industrial` — operational scale and design assumptions match industrial contexts (large plots, capital-intensive, high connectivity, smartphone or equipment-integrated)
@@ -103,9 +114,11 @@ Orthogonal to the three primary axes. The same deployment can be smallholder-sca
 
 Relevant primarily for extension and advisory entries. Default for non-extension entries: `standard-smartphone`.
 
-- `voice-first` — designed for voice interaction (IVR, voice notes, local-language speech recognition). Key deployment pattern for smallholder contexts (e.g. SIKIA, AIEP, AgriLLM aspiration).
+- `voice-first` — designed for voice interaction (IVR, voice notes, local-language speech recognition). Key deployment pattern for smallholder contexts.
 - `low-literacy` — designed for low-literacy users; visual or audio dominant.
 - `standard-smartphone` — designed for literate users with smartphone access. The default assumption in OECD-EU deployment.
+
+*Note:* Several deployments surveyed (Agrosmart, Kilimo, CGIAR / AIEP-style work) describe an SMS-fallback or feature-phone-compatible design layer that the current schema doesn't capture. Worth watching; not yet promoted to a fourth value.
 
 ### policy-instrument
 
@@ -123,7 +136,22 @@ Every entry carries `region` and `actor` where known.
 
 `region` examples (not exhaustive): `global-N`, `EU`, `UK`, `NA-US`, `NA-Canada`, `LATAM`, `SSA`, `MENA`, `South-Asia`, `East-Asia`, `Oceania`.
 
-`actor` examples: `FAO`, `IPES-Food`, `Microsoft`, `John Deere`, `Atelier Paysan`, `Farmers' Seed Network China`, `CGIAR`, `MARA`, `Alibaba`, `CAPI`, `EMILI`, `Collaboratory for Indigenous Data Governance`, etc.
+`actor` examples: `FAO`, `IPES-Food`, `Microsoft`, `John Deere`, `Atelier Paysan`, `Farmers' Seed Network China`, `CGIAR`, `MARA`, `Alibaba`, `CAPI`, `EMILI`, `Collaboratory for Indigenous Data Governance`, `Loblaw`, `Blue Yonder`, `OpenAI`, `Agrosmart`, `Kilimo`, `IT for Change`, `FIAN International`, `ONAMIAP`, `IWGIA`, `IICA`, `IDB`, `EMBRAPA`, etc.
+
+### actor-type (new in v3)
+
+Distinct from the named `actor` field. Categorical; one value per entry. Lets the KB filter and surface patterns across actor types.
+
+- `vendor` — commercial platform / product provider
+- `state-agency` — government body acting in regulatory or operational capacity
+- `multilateral-body` — international / regional multilateral institution
+- `academic` — university or research institute
+- `farmer-led` — directly farmer-organised entity
+- `Indigenous-organisation` — Indigenous-led body or community
+- `critical-civil-society` — civil-society / NGO with explicit critical framing
+- `farmer-cooperative` — cooperative or co-design entity
+- `industry-association` — trade body or industry consortium
+- `standards-body` — standard-setting organisation
 
 ---
 
@@ -137,83 +165,84 @@ Each gap entry carries:
 - the (sector × class × purpose) intersection it's about
 - a one-line statement of why activity is plausible here
 - sources searched and not found
-- a `last-searched` date — gap entries are re-searched on the same cadence as `claim`
+- a `last-searched` date
 
-First gap candidates from the scans:
+Gap candidates (16 total across all scans):
 
-- **G-001:** `inputs × all × all` — vendor activity high but under-surfaced in dominant scans
+- **G-001:** `inputs × all × all` — vendor activity high but under-surfaced
 - **G-002:** `waste-and-recovery × all × supply-chain-efficiency`
 - **G-003:** `consumption × all × extension-and-advisory`
 - **G-004:** `all × generative-AI × extension-and-advisory` in low-resource / smallholder contexts
 - **G-005:** `all × all × governance-and-accountability` — audit, certification, recourse tooling
-- **G-006:** `consumption × all × all` — Canadian-specific. Strong candidate for a first content unit.
-- **G-007:** `inputs × all × all` — Canadian-specific. Likely evidence problem.
-- **G-008:** Cross-border data governance interoperability for AI in agrifood (general, but most acute in China context)
-- **G-009:** `all × generative-AI-and-LLMs × extension-and-advisory` — China-specific. Reported in fragments, no consolidated source.
-- **G-010:** Indigenous-led AI agrifood deployment. CARE / IEEE 2890 framework exists; operational deployments from Indigenous data sovereign institutions are sparse.
-- **G-011:** Generative AI / LLMs deployed with local Indigenous languages in agrifood advisory.
-- **G-012:** Climate-adaptation AI specifically for smallholder and pastoralist contexts.
+- **G-006:** `consumption × all × all` — Canadian-specific
+- **G-007:** `inputs × all × all` — Canadian-specific
+- **G-008:** Cross-border data governance interoperability (most acute in China context)
+- **G-009:** `all × generative-AI-and-LLMs × extension-and-advisory` — China-specific
+- **G-010:** Indigenous-led AI agrifood deployment (CARE / IEEE 2890 framework exists; operational deployments sparse)
+- **G-011:** Generative AI / LLMs with local Indigenous languages in agrifood advisory
+- **G-012:** Climate-adaptation AI for smallholder / pastoralist contexts
+- **G-013:** Caribbean-specific agritech activity (Jamaica, Trinidad, DR, Cuba, Haiti)
+- **G-014:** LAC animal production AI beyond dairy (poultry, beef, aquaculture)
+- **G-015:** Independent verification of vendor-reported yield / input figures (Agrosmart 60%, Kilimo 20%, JD Farm 30-50%)
+- **G-016:** UNDROP / UNDRIP-aligned AI deployment in LAC
 
 ### Contested claims
 
 Claims the scan treats as live rather than settled.
 
-Each carries:
-- the claim, in plain language
-- the source(s) asserting it
-- the source(s) contesting it
-- `last-reviewed` date
+Each carries: the claim in plain language, the source(s) asserting it, the source(s) contesting it, `last-reviewed` date.
 
-First contested claim candidates:
+Contested claim candidates (15 total):
 
 - **C-001:** "AI will help feed the world."
 - **C-002:** "Precision agriculture reduces inputs." (net effect contested)
 - **C-003:** "Farmer data is the new oil." (sovereignty vs value-capture framings)
 - **C-004:** "AI is inevitable in agrifood." (political choice framing)
-- **C-005:** "AI will close the productivity gap between smallholder and industrial farms." (widening-gap counter; productively evaluable only with capital-intensity tag in place)
+- **C-005:** "AI will close the productivity gap between smallholder and industrial farms." (widening-gap counter)
 - **C-006:** "AI will reduce chemical inputs." (sector-scale effect under-measured)
-- **C-007:** "Canada can become a global leader in agricultural AI." (EMILI/CAPI framing; gap to US investment is structural)
-- **C-008:** "Canada's existing AI governance framework covers agricultural deployment." (counter: regulatory absence, not deregulation; Neethirajan)
-- **C-009:** "China's smart agriculture deployment is a model for other developing economies." (DCZ study implicit framing; capital-intensity tension unresolved)
-- **C-010:** "The Action Plan will reach its 30% informatization target by end of 2026." (USDA notes no new resources announced)
-- **C-011:** "AI will close the smallholder productivity gap." (digital divide is the binding constraint; AI may widen the gap)
-- **C-012:** "AgriLLM-style extension LLMs serve smallholders." (training data uneven across languages and crops)
+- **C-007:** "Canada can become a global leader in agricultural AI." (EMILI/CAPI framing)
+- **C-008:** "Canada's existing AI governance framework covers agricultural deployment." (counter: regulatory absence; Neethirajan)
+- **C-009:** "China's smart agriculture deployment is a model for other developing economies."
+- **C-010:** "The Action Plan will reach its 30% informatization target by end of 2026."
+- **C-011:** "AI will close the smallholder productivity gap." (digital divide is the binding constraint)
+- **C-012:** "AgriLLM-style extension LLMs serve smallholders." (training data uneven)
+- **C-013:** "AgriTech is a tool for smallholder inclusion in LAC." (IT for Change counter-frame)
+- **C-014:** "Microsoft-style connectivity projects extend AI benefits to smallholders."
+- **C-015:** "LAC agritech startups reach smallholder farmers at scale." (reaching ≠ meaningful benefit)
 
 ### Sovereignty flags
 
 Entries that raise data sovereignty, food sovereignty, labour displacement, or vendor lock-in concerns. The four `critical-voice` sub-tags above largely cover this surface; sovereignty flags exist for entries that don't fit cleanly into one of those sub-tags but raise related concerns.
 
-Each carries:
-- which axis positions are affected
-- the specific concern
-- reference to the sovereignty framework it sits within (where applicable)
-
 ---
 
 ## Freshness model
 
-Every source carries `last-verified`, `claim-type` (from above), and **now** `last-regionally-scanned`. The regional dimension lets the freshness model account for sources that go stale at different rates in different regions.
+Every source carries `last-verified`, `claim-type`, and `last-regionally-scanned`. Regional dimension lets the freshness model account for sources that go stale at different rates in different regions.
 
-- A `framework` source about the EU (e.g. EP study): verify every 2 years.
-- A `claim` source about China (e.g. National Smart Agriculture Action Plan): verify annually and flag explicitly if the regional scan is older than 12 months.
-- An `example` source about a deployed tool (e.g. AgriLLM prototype): confirm still live annually; verify against operational evidence not just announcement.
+- A `framework` source about the EU: verify every 2 years.
+- A `claim` source about China: verify annually and flag if regional scan >12 months old.
+- An `example` source about a deployed tool: confirm still live annually; verify against operational evidence.
 
-The freshness model and the regional scan are entangled: when the regional scan is updated, the freshness clocks for that region's sources reset.
+When the regional scan is updated, the freshness clocks for that region's sources reset.
 
 ---
 
 ## What this taxonomy still does not do
 
-- It does not yet encode **maturity as a primary axis**. `activity-status` approximates it but isn't first-class. If a future revision surfaces strong evidence that maturity should drive its own matrix (rather than cross-reference), promote.
-- It does not yet encode **scale as a primary axis**. `capital-intensity` covers smallholder / industrial / research-scale; if scale needs to be more granular, refine the tag before promoting.
-- It does not yet encode **interoperability** (data formats, federated learning support, federation governance). Surfaced by the regional scans as relevant but not load-bearing yet. Worth watching.
+- **Maturity as a primary axis.** `activity-status` approximates; not first-class.
+- **Scale as a primary axis.** `capital-intensity` covers smallholder / industrial / research-scale.
+- **Interoperability** (data formats, federated learning support). Watched but not load-bearing.
+- **Outcome measurement.** Whether the AI deployment achieved its stated purpose is rarely verified in our sources. Worth promoting if the schema is asked to support outcome-based claims in talks.
 
-These are open questions for the third iteration, after the first round of content units gets populated and shows where the schema strains.
+These are open questions for v4.
 
 ---
 
 ## Change log
 
-**v2 (this file).** Five revisions from regional scan evidence: drones / aerial sub-class; capital-intensity tag; critical-voice split into four sub-tags; language-literacy-profile tag; policy-instrument tag. Hyphenation consistency. Regional freshness dimension added.
+**v3 (this file).** One revision: `actor-type` cross-cutting tag added. Required by the LAC regional scan after 30+ actors across 8+ types accumulated. Distinct from the free-text `actor` name field; categorical; lets the KB filter by actor type. Ten values defined.
 
-**v1 (initial.md).** Three primary axes (sector position, AI technique class, purpose); claim-type, activity-status, critical-voice, region, actor cross-cutting tags; first-class objects for gaps, contested claims, sovereignty flags. Five gaps and six contested claims seeded.
+**v2 (`taxonomy/v2.md`).** Five revisions from regional scan evidence: drones / aerial sub-class; capital-intensity tag; critical-voice split into four sub-tags; language-literacy-profile tag; policy-instrument tag. Hyphenation consistency; regional freshness dimension. Gaps G-001..012 and contested claims C-001..012.
+
+**v1 (`taxonomy/v1.md`).** Three primary axes; claim-type, activity-status, critical-voice, region, actor tags; first-class objects for gaps, contested claims, sovereignty flags. Five gaps and six contested claims seeded.

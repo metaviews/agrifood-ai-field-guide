@@ -12,6 +12,7 @@ language-literacy-profile: standard-smartphone
 policy-instrument: (none)
 region: LATAM
 actor: Agrosmart (Brazil; venture-funded)
+actor-type: vendor
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---
