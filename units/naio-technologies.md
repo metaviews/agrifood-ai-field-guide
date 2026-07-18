@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: EU (France origin), NA-US (California deployment), EU (multi-country)
 actor: Naïo Technologies (Toulouse, France)
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

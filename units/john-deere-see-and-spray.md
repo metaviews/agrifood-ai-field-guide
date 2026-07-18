@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: NA-US
 actor: John Deere (Deere & Company)
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

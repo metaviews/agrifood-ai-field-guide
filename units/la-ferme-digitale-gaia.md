@@ -13,6 +13,8 @@ policy-instrument: strategy
 region: EU (France; pan-European)
 actor: La Ferme Digitale (industry association); with INRAE, ACTA, OSFARM partnerships
 actor-type: industry-association
+data-governance: co-operative / commons
+data-rights-framework: co-operative
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

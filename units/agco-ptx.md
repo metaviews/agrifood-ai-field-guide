@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: NA-US, NA-Canada, EU (Germany origin)
 actor: AGCO Corporation (Fendt, Massey Ferguson, Valtra, PTx, Precision Planting, PTx Trimble)
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

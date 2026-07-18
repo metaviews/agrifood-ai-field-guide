@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: NA-Canada (Quebec origin; Saputo, Olymel, Agropur are export-oriented)
 actor: SoraLINK (vendor); deployed across Saputo, Olymel, Agropur (food processors)
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

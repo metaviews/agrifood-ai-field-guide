@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: East-Asia (origin); deployed globally across 100+ countries
 actor: DJI Agriculture
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: farmer-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

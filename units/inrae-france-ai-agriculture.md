@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: EU (France)
 actor: INRAE (Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement)
 actor-type: academic
+data-governance: state-stewarded
+data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

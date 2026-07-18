@@ -13,6 +13,8 @@ policy-instrument: strategy
 region: NA-Canada (Quebec / Greater Montréal)
 actor: Zone Agtech; Montréal International; Sollum, ChrysaLabs, SoraLINK, Savoura, Lufa Farms, GoodLeaf Farms (vendors)
 actor-type: (multi-type: industry-association for cluster, vendor for individual businesses, state-agency-adjacent for Montréal International)
+data-governance: mixed
+data-rights-framework: not applicable
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

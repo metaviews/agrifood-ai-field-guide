@@ -13,6 +13,8 @@ policy-instrument: strategy
 region: NA-Canada
 actor: Farm Credit Canada (FCC) and Deloitte Canada, in collaboration
 actor-type: state-agency-adjacent (Crown corporation + analyst)
+data-governance: not applicable
+data-rights-framework: not applicable
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

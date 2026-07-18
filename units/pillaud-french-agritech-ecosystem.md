@@ -13,6 +13,8 @@ policy-instrument: strategy
 region: EU (France; pan-European)
 actor: Hervé Pillaud (co-founder La Ferme Digitale); with Justine Lipuma, David Joulin, INRAE, ACTA, OSFARM, Naïo Technologies, Mistral AI, World FIRA
 actor-type: (multi-type ecosystem; primary classification industry-association)
+data-governance: co-operative / commons
+data-rights-framework: co-operative
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

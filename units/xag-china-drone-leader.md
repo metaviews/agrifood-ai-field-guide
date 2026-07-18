@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: East-Asia (China primary; emerging international)
 actor: XAG (founded 2007; founder/CEO Peng Bin)
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

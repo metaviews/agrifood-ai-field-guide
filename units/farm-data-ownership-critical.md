@@ -13,6 +13,8 @@ policy-instrument: regulatory (Ag Data Transparent; FTC-Deere; CARE Principles)
 region: Global
 actor: IPES-Food; FIAN International Secretariat; Indigenous Navigator (ONAMIAP / IWGIA); Community Alliance with Family Farmers (CAFF); Civil Eats; Ag Data Transparent; IEEE Standards Association
 actor-type: (multi-type: critical-civil-society; Indigenous-organisation; standards-body)
+data-governance: not applicable
+data-rights-framework: not applicable
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

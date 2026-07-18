@@ -13,6 +13,8 @@ policy-instrument: regulatory (Ag Data Transparent certification; FTC-Deere sett
 region: Global (multi-jurisdiction, primarily US/EU/Canada/Brazil/Argentina)
 actor: Bayer Climate FieldView, John Deere Operations Center, AGCO PTx Trimble, CNH AFS Connect, Trimble, Taranis, Cainthus/Elanco, Lely, Merck Animal Health, Afimilk, Climate FieldView
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

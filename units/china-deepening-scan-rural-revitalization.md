@@ -13,6 +13,8 @@ policy-instrument: strategy
 region: East-Asia (China); national framework with provincial implementation
 actor: MARA (Ministry of Agriculture and Rural Affairs); State Council; provincial agricultural authorities
 actor-type: state-agency
+data-governance: state-stewarded
+data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

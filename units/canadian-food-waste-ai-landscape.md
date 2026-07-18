@@ -13,6 +13,8 @@ policy-instrument: strategy
 region: NA-Canada (national), with US context
 actor: ReFED, Shelf Engine, Afresh (US AI deployments); ECCC (Canadian policy); Loblaw (Canadian retail AI, adjacent)
 actor-type: vendor (US AI vendors) / state-agency (ECCC) / standards-body (ReFED)
+data-governance: mixed
+data-rights-framework: not applicable
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

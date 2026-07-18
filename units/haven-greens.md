@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: NA-Canada (King City, Ontario)
 actor: Haven Greens (Jay Willmot, founder / CEO)
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

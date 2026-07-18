@@ -13,6 +13,8 @@ policy-instrument: regulatory
 region: NA-Canada (Dalhousie NS, with pan-Canadian policy reach)
 actor: Suresh Neethirajan (Dalhousie University Research Chair in Digital Livestock Farming); with Mooanalytica team, Dr. Craig MacEachern, Jeff Torrie, Dale Steele
 actor-type: (multi-type ecosystem; primary classification academic)
+data-governance: not applicable
+data-rights-framework: not applicable
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

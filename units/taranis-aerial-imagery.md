@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: MENA (Israel origin), NA-US, EU, LATAM, SSA (multi-continent)
 actor: Taranis (Israel)
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

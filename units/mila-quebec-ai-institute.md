@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: NA-Canada (Quebec / Montréal)
 actor: Mila — Quebec Artificial Intelligence Institute; DISA project
 actor-type: academic
+data-governance: state-stewarded
+data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

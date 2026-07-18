@@ -13,6 +13,8 @@ policy-instrument: (not applicable)
 region: NA-Canada
 actor: Statistics Canada (data source); FCC and Deloitte Canada (analytical work)
 actor-type: state-agency (Statistics Canada) / vendor (FCC analytical arm)
+data-governance: mixed
+data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

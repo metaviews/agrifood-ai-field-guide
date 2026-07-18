@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: Global
 actor: (multi-type — IoT vendors, equipment makers, government agencies, vendors, aggregators)
 actor-type: (multi-type)
+data-governance: dark
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

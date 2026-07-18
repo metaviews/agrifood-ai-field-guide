@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: LATAM
 actor: Agrosmart (Brazil; venture-funded)
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

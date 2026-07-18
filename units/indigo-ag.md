@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: NA-US (Boston; Memphis operations)
 actor: Indigo Ag
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

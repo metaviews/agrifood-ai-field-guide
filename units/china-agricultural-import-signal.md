@@ -13,6 +13,8 @@ policy-instrument: strategy
 region: East-Asia (China); global impact
 actor: China Ministry of Agriculture and Rural Affairs (MARA); China Agricultural Outlook Committee
 actor-type: state-agency
+data-governance: state-stewarded
+data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

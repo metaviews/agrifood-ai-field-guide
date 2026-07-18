@@ -13,6 +13,8 @@ policy-instrument: regulatory (FAIR / CARE Principles); strategy (USDA public ac
 region: Global (international coordination via GODAN; regional state data layers)
 actor: GODAN, CGIAR Platform for Big Data in Agriculture, USDA National Agricultural Library, ISRIC, Copernicus (ESA), FAO, GBIF, OpenAQ
 actor-type: (multi-type: civil-society for GODAN; multilateral-body for CGIAR, FAO; state-agency for USDA, ESA, GBIF)
+data-governance: open
+data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

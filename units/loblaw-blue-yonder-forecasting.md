@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: NA-Canada
 actor: Loblaw Companies Limited (with Blue Yonder)
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

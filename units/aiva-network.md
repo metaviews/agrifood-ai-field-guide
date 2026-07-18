@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: NA-Canada (Manitoba, Saskatchewan, Alberta, Ontario)
 actor: AIVA Network (founded by FCC, EMILI, WHIN)
 actor-type: (multi-type: vendor FCC is state-adjacent; EMILI is industry-led; WHIN is US-based; AIVA itself is a network)
+data-governance: co-operative / commons
+data-rights-framework: co-operative
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

@@ -13,6 +13,8 @@ policy-instrument: strategy
 region: NA-Canada (Quebec / Montréal; pan-Canadian implementation)
 actor: IVADO (Institute for Data Valorization); with R3AI project
 actor-type: academic
+data-governance: state-stewarded
+data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

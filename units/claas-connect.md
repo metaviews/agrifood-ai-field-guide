@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: EU (Germany origin), NA-US, NA-Canada, LATAM, SSA, Oceania, multi-continent
 actor: CLAAS KGaA mbH (German family business)
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

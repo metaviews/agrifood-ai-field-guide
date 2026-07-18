@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: NA-Canada (Alberta; Saskatchewan via partnership)
 actor: Olds College of Agriculture & Technology
 actor-type: academic
+data-governance: mixed
+data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

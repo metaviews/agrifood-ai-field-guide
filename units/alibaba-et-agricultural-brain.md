@@ -13,6 +13,8 @@ policy-instrument: (none)
 region: East-Asia
 actor: Alibaba Cloud (with pig farming and fruit / vegetable enterprises)
 actor-type: vendor
+data-governance: proprietary
+data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---
