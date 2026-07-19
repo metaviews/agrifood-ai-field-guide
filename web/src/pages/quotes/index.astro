@@ -1,57 +1,69 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
+import { renderMarkdownExcerpt, extractQuoteSection } from '../../quote-render.ts';
 
 const quotes = await getCollection('quotes');
 
-// Each quote file has a '## Quote / Position' section with the actual
-// quote body. Pull it out and render inline so the index shows the
-// actual quote text, not just a filename-as-title listing.
+// Each quote file has a '## Quote / Position' section. Render it as
+// proper markdown so nested blockquotes, italics, bold, and links survive.
+// The result preserves quote-within-quote and paraphrase-after-quote
+// structures that a regex-flatten approach would lose.
 
 interface QuoteEntry {
   id: string;
   speaker: string | undefined;
   organization: string | undefined;
+  role: string | undefined;
   category: string | undefined;
   region: string | undefined;
   bodyHtml: string;
 }
 
-function escapeHtml(s: string): string {
-  return s
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
-}
-
 const entries: QuoteEntry[] = [];
 for (const q of quotes) {
   const rawText: string = (q as any).body ?? '';
-  const quoteMatch = rawText.match(
-    /^## Quote\s*\/\s*Position\s*\n+([\s\S]*?)(?=\n## |\n*$)/m
-  );
-  let bodyHtml = '';
-  if (quoteMatch) {
-    const body = quoteMatch[1].trim();
-    bodyHtml = body
-      .split('\n')
-      .map((line) => line.replace(/^>\s?/, '').trim())
-      .filter((line) => line.length > 0)
-      .join(' ');
-    bodyHtml = escapeHtml(bodyHtml);
+  const excerpt = extractQuoteSection(rawText);
+  const bodyHtml = excerpt ? await renderMarkdownExcerpt(excerpt) : '';
+
+  // Derive category from directory structure if the frontmatter
+  // doesn't have one. Quote files live in directories like
+  // quotes/industry-executives/, quotes/institutional-leaders/, etc.
+  // which represent the natural speaker groupings.
+  let category = q.data.category as string | undefined;
+  if (!category) {
+    const idParts = q.id.split('/');
+    if (idParts.length > 1) {
+      category = idParts.slice(0, -1).join('/');
+    }
   }
+
   entries.push({
     id: q.id,
     speaker: q.data.speaker,
     organization: (q.data as any).organization,
-    category: q.data.category,
+    role: (q.data as any)['speaker-role'],
+    category,
     region: q.data.region,
     bodyHtml,
   });
 }
 
-// Group by category
+// Group by category, with human-readable labels for the directory-derived
+// categories. Quote files live in directories like industry-executives/,
+// institutional-leaders/, etc., which represent natural speaker groupings.
+const CATEGORY_LABELS: Record<string, string> = {
+  'industry-executives': 'Industry executives',
+  'institutional-leaders': 'Institutional leaders',
+  'institutional-mission-statements': 'Institutional mission statements',
+  'producers': 'Producers',
+  'researchers-and-experts': 'Researchers and experts',
+};
+
+function categoryLabel(cat: string): string {
+  return CATEGORY_LABELS[cat] ?? cat.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
 const byCategory: Record<string, QuoteEntry[]> = {};
 for (const e of entries) {
   const cat = e.category ?? 'Other';
@@ -68,21 +80,21 @@ const categoryOrder = Object.keys(byCategory).sort();
   <h1>Quotes</h1>
   <p>
     Named voices on AI in agrifood — verbatim statements and paraphrased
-    positions, grouped by category. Each quote has named source attribution
-    and links to its full context.
+    positions, grouped by category. Each entry links to its full context
+    and source.
   </p>
 
   {categoryOrder.map((cat) => (
-    <section class="quote-section">
-      <h2>{cat}</h2>
+    <section class="quote-section" id={`cat-${cat}`}>
+      <h2>{categoryLabel(cat)}</h2>
       {byCategory[cat].map((e) => (
         <article class="quote-entry">
-          <blockquote class="quote-body">
-            {e.bodyHtml}
-          </blockquote>
+          <div class="quote-body" set:html={e.bodyHtml} />
           <p class="quote-attribution">
-            <a href={`/quotes/${e.id}/`}>{e.speaker ?? '(unnamed speaker)'}</a>
-            {e.organization && <span class="quote-org"> — {e.organization}</span>}
+            <span class="speaker"><a href={`/quotes/${e.id}/`}>{e.speaker ?? '(unnamed)'}</a></span>
+            {e.role && <span class="role">, {e.role}</span>}
+            {e.organization && <span class="org"> — {e.organization}</span>}
+            {e.region && <span class="region"> ({e.region})</span>}
           </p>
         </article>
       ))}
@@ -105,31 +117,64 @@ const categoryOrder = Object.keys(byCategory).sort();
     margin-bottom: 1rem;
   }
   .quote-entry {
-    margin: 1.5rem 0;
-    padding-left: 1.2em;
+    margin: 1.75rem 0;
+    padding: 0.5em 0 0.5em 1.2em;
     border-left: 2px solid var(--rule);
   }
-  .quote-body {
+  .quote-body :global(blockquote) {
     margin: 0;
-    font-style: italic;
     color: var(--ink);
     line-height: 1.55;
+    font-style: italic;
+    border-left: none;
+    padding-left: 0;
+  }
+  .quote-body :global(blockquote p) {
+    margin: 0 0 0.6em 0;
+  }
+  .quote-body :global(blockquote p:last-child) {
+    margin-bottom: 0;
+  }
+  .quote-body :global(blockquote blockquote) {
+    margin: 0.4em 0 0.4em 1em;
+    font-size: 0.95em;
+    color: var(--ink-soft);
+  }
+  .quote-body :global(p) {
+    margin: 0.5em 0 0 0;
+    font-style: normal;
+    color: var(--ink-soft);
+  }
+  .quote-body :global(em) {
+    font-style: italic;
+  }
+  .quote-body :global(strong) {
+    font-weight: 600;
+  }
+  .quote-body :global(a) {
+    color: var(--ink);
+    text-decoration: underline;
+    text-underline-offset: 2px;
   }
   .quote-attribution {
     margin: 0.5em 0 0 0;
-    font-size: 0.9rem;
+    font-size: 0.88rem;
     color: var(--ink-soft);
+    font-style: normal;
   }
-  .quote-attribution a {
+  .speaker a {
     color: var(--ink);
     text-decoration: none;
     border-bottom: 1px solid var(--rule);
-    font-style: normal;
+    font-weight: 500;
   }
-  .quote-attribution a:hover {
+  .speaker a:hover {
     border-bottom-color: var(--ink-soft);
   }
-  .quote-org {
+  .role, .org, .region {
     color: var(--ink-faint);
+  }
+  .region {
+    font-size: 0.85em;
   }
 </style>

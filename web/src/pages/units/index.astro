@@ -6,13 +6,18 @@ import { bucketize, BUCKET_ORDER } from '../../unit-buckets.ts';
 const units = await getCollection('units');
 units.sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
 
-// Group units by bucket
+// Group units by bucket. A unit may belong to multiple buckets (e.g. a
+// cooperative that spans open-field and livestock production).
 const byBucket: Record<string, typeof units> = {};
 for (const bucket of BUCKET_ORDER) {
   byBucket[bucket.id] = [];
 }
 for (const unit of units) {
-  const buckets = bucketize(unit.data['sector-position']);
+  const buckets = bucketize({
+    sectorPosition: unit.data['sector-position'],
+    title: unit.data.title,
+    summary: unit.data.summary,
+  });
   for (const b of buckets) {
     if (byBucket[b]) byBucket[b].push(unit);
   }
@@ -21,22 +26,43 @@ for (const unit of units) {
 function titleOf(u: typeof units[number]): string {
   return u.data.title ?? u.id;
 }
+
+// Build the table-of-contents entries with unit counts
+const toc = BUCKET_ORDER.map((bucket) => ({
+  id: bucket.id,
+  label: bucket.label,
+  count: byBucket[bucket.id].length,
+}));
 ---
 
 <Base title="Units" description="Substantive knowledge units on AI in agrifood, organised by sector.">
   <h1>Units</h1>
   <p>
-    Substantive knowledge units on concrete AI deployments in agrifood,
-    grouped by sector. Each unit has source attribution and is written to
-    be re-usable across talks.
+    Substantive knowledge units on concrete AI deployments in agrifood.
+    Each unit has source attribution and is written to be re-usable
+    across talks.
   </p>
+
+  <nav class="toc" aria-label="Bucket navigation">
+    <h2>Browse by sector</h2>
+    <ul>
+      {toc.map((entry) => (
+        <li>
+          <a href={`#bucket-${entry.id}`}>
+            <span class="toc-label">{entry.label}</span>
+            <span class="toc-count">{entry.count}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </nav>
 
   {BUCKET_ORDER.map((bucket) => {
     const list = byBucket[bucket.id];
     if (list.length === 0) return null;
     return (
-      <section class="bucket">
-        <h2>{bucket.label}</h2>
+      <section class="bucket" id={`bucket-${bucket.id}`}>
+        <h2>{bucket.label} <span class="bucket-count">({list.length})</span></h2>
         <p class="bucket-desc">{bucket.description}</p>
         <ul class="bucket-list">
           {list.map((unit) => (
@@ -52,8 +78,55 @@ function titleOf(u: typeof units[number]): string {
 </Base>
 
 <style>
+  .toc {
+    background: var(--cream-soft);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    padding: 1.1rem 1.25rem;
+    margin: 1.5rem 0 2.5rem 0;
+  }
+  .toc h2 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-soft);
+    margin: 0 0 0.6em 0;
+    padding: 0;
+    border: none;
+  }
+  .toc ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.4rem 1rem;
+  }
+  .toc li a {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem;
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--rule);
+    padding: 0.25em 0;
+  }
+  .toc li a:hover {
+    border-bottom-color: var(--ink);
+  }
+  .toc-label {
+    font-size: 0.9rem;
+  }
+  .toc-count {
+    color: var(--ink-faint);
+    font-size: 0.8rem;
+    font-variant-numeric: tabular-nums;
+  }
+
   .bucket {
     margin: 2.5rem 0;
+    scroll-margin-top: 1rem;
   }
   .bucket:first-of-type {
     margin-top: 1.5rem;
@@ -64,6 +137,11 @@ function titleOf(u: typeof units[number]): string {
     border-bottom: 1px solid var(--rule);
     padding-bottom: 0.25em;
     margin-bottom: 0.4em;
+  }
+  .bucket-count {
+    font-size: 0.85rem;
+    color: var(--ink-faint);
+    font-weight: 400;
   }
   .bucket-desc {
     color: var(--ink-soft);
