@@ -43,16 +43,16 @@ jobs:
           node-version: '20'
           cache: 'npm'
           cache-dependency-path: web/package-lock.json
-      - run: npm ci
-      - run: npm run build
+      - run: cd web && npm ci
+      - run: cd web && npm run build
       - name: Verify build output
         run: |
-          if [ ! -d "dist" ]; then
-            echo "::error::Build did not produce a dist/ directory"
+          if [ ! -d "web/dist" ]; then
+            echo "::error::Build did not produce a web/dist/ directory"
             exit 1
           fi
-          if [ ! -d "dist/pagefind" ]; then
+          if [ ! -d "web/dist/pagefind" ]; then
             echo "::error::Pagefind index not generated; check that pagefind ran during build"
             exit 1
           fi
-          echo "Build OK. dist/ contains $(find dist -type f | wc -l) files."
+          echo "Build OK. web/dist/ contains $(find web/dist -type f | wc -l) files."

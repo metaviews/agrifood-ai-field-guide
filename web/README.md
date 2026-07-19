@@ -17,12 +17,14 @@ Astro-built static website for the Agrifood AI Field Guide knowledge base. Deplo
 3. Configure:
    - Project name: `agrifood-ai-field-guide`
    - Production branch: `main`
-   - Build command: `npm run build`
-   - Build output directory: `dist`
-   - Root directory: `web`
+   - Build command: `cd web && npm install && npm run build`
+   - Build output directory: `web/dist`
+   - Root directory: leave blank (the build command does the cd)
    - Environment variables: none required
 4. **Custom domains** → add `agrifood.metaviews.ca`
 5. DNS: if `metaviews.ca` is on Cloudflare, the CNAME is provisioned automatically; otherwise add a CNAME record at the registrar pointing to the Pages project hostname.
+
+Note: the build command does `cd web && ...` rather than relying on Cloudflare's "Root directory" field because Cloudflare's behavior on that field is inconsistent — it does not always set the cwd for npm-based builds. The explicit cd is portable.
 
 After the one-time setup, every push to `main` builds and deploys automatically. Pull requests get preview deployments (configured via Cloudflare Pages' built-in PR previews).
 
