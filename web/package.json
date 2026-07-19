@@ -6,7 +6,7 @@
   "description": "Public-facing website for the Agrifood AI Field Guide knowledge base. Built with Astro, deployed via Cloudflare Pages.",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && pagefind --site dist",
+    "build": "astro build && pagefind --site dist && mkdir -p ../dist && rm -rf ../dist/* && cp -r dist/* ../dist/",
     "preview": "astro preview",
     "astro": "astro"
   },
