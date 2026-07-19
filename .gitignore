@@ -5,7 +5,3 @@ dist/
 *.log
 .env
 .env.local
-
-# Repo-root dist (mirror of web/dist for Cloudflare Pages default-inference)
-# web/dist is already gitignored via web/.gitignore
-/dist/
