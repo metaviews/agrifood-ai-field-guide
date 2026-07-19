@@ -1,59 +1,63 @@
-# Content units
+# Units
 
-A unit is a small, self-contained piece of knowledge positioned in the taxonomy. Units are the substrate from which talks are assembled.
+Units are the substrate from which talks are built. Each unit documents a single concrete AI deployment (or, in some cases, a *pattern claim* over multiple deployments) at a known actor with named-source evidence.
 
-## Why units, not a monolithic document
+## Layout
 
-A knowledge base for presentation-building needs to be *combinable*. A unit carries enough metadata to be found by taxonomy position (sector × AI class × purpose), enough freshness data to be trusted, and enough linking to related gaps and contested claims to be honest about what's known and contested.
+- `cargill-carve-meat-processing.md`, `tyson-aws-poultry-vision.md`, `jbs-usa-volur-carcass-sorting.md`, `smithfield-pork-vision-robotics.md`, `maple-leaf-foods-ai-canada.md` — NA meat-processing AI quartet + Canadian counterpart
+- `tomra-na-food-sorting.md`, `key-technology-na-food-sorting.md`, `kpm-siftai-beef-fm-detection.md`, `headwall-laitram-hyperspectral-seafood.md` — NA food-processing optical sorting + hyperspectral AI
+- `sysco-ai360-foodservice.md`, `usfoods-wheres-my-truck-menu-iq.md`, `ahold-delhaize-usa-retailer-ai.md` — NA foodservice distribution + grocery wholesale AI
+- `albertsons-afresh-fresh-suite.md`, `leanpath-food-waste-tracker.md`, `winnow-na-foodservice.md` — US commercial-kitchen / fresh-grocery / food-waste AI
+- `walmart-sparky-ai-shopping-assistant.md`, `instacart-cart-assistant.md`, `instacart-ask-instacart-search.md`, `kroger-gemini-shopping-assistant.md` — US grocery-retail consumer-facing AI
+- `mcdonalds-ibm-ai-drive-thru-discontinued.md`, `mcdonalds-ibm-aot-discontinued.md`, `doordash-ai-voice-ordering-discontinued.md`, `kroger-ocado-cfc-closures-discontinued.md` — discontinued pilots (sector honesty)
+- `taco-bell-omilia-drive-thru-voice-ai.md`, `wendys-freshai-google.md`, `dominos-dom-voice-assistant.md`, `sweetgreen-infinite-kitchen.md` — US QSR/restaurant voice-AI + kitchen robotics
+- `hungryroot-ai-meal-recommendation.md`, `uber-eats-ai-cart-assistant.md`, `myfitnesspal-cal-ai-coach.md`, `zoe-us-ai-personalised-nutrition.md` — NA consumer-nutrition / delivery AI
+- `north-america-consumption-ai-pattern.md` — meta frame on NA consumption-layer AI landscape (mid-2026)
+- (other units in the directory cover on-farm production, EU/China industry, academic institute clusters, frameworks, critical voices — see directory listing)
 
-Units are designed to be small enough to fit in a slide, large enough to anchor a paragraph in a talk. They are not mini-essays and they are not single sentences.
+## Cycle status — food-side deepening (July 2026)
 
-## Anatomy of a unit
+**Trigger.** User observed that "agrifood" had been treated as "agri + food" in name but the knowledge base was heavy on the agri side. Audit confirmed: pre-cycle food-side (post-harvest → waste-and-recovery) was 13 unique units vs 23 on-farm — ratio 0.43.
 
-Every unit has the following structure. Fields are mandatory unless noted.
+**Cycle outcome (broad scope):** +30 new units across three waves.
 
-```
-ID
-Title (one line)
-Three-axis position:
-  - sector-position: ...
-  - ai-technique-class: ...
-  - purpose: ...
-Cross-cutting tags:
-  - claim-type: fact | statistic | claim | framework | example
-  - activity-status: deployed | piloting | research | announced | discontinued
-  - critical-voice: food-sovereignty | indigenous-data-sovereignty | right-to-repair | digital-equity
-  - capital-intensity: smallholder | industrial | research-scale
-  - language-literacy-profile: voice-first | low-literacy | standard-smartphone
-  - policy-instrument: regulatory | fiscal | strategy
-  - region: ...
-  - actor: ...
-  - actor-type: vendor | state-agency | multilateral-body | academic | farmer-led | Indigenous-organisation | critical-civil-society | farmer-cooperative | industry-association | standards-body
-Content (the unit itself — claim, statistic, framework, or example with sources)
-Links:
-  - gaps: G-NNN
-  - contested-claims: C-NNN
-  - sovereignty-flags: (if applicable)
-  - related-units: (if applicable)
-Freshness:
-  - last-verified: YYYY-MM
-  - last-regionally-scanned: YYYY-MM
-  - source-list: [...]
-```
+| Sector | Pre-cycle | Post-cycle | Δ |
+|---|---|---|---|
+| inputs | 1 | 1 | 0 |
+| on-farm-production-open-field | 20 | 20 | 0 |
+| on-farm-production-protected | 6 | 6 | 0 |
+| animal-production | 7 | 7 | 0 |
+| post-harvest-handling-and-storage | 1 | 1 | 0 |
+| **processing** | **2** | **11** | **+9** |
+| **distribution-and-retail** | **10** | **19** | **+9** |
+| **consumption** | **6** | **19** | **+13** |
+| **waste-and-recovery** | **1** | **3** | **+2** |
+| Food-side unique units | 13 | 42 | +29 |
+| **Food-side / on-farm ratio** | **0.43** | **1.83** | **+1.40** |
 
-## What units are not
+**Substantive findings the cycle surfaced (worth surfacing in talks):**
 
-- Not a database row. Markdown with structured frontmatter-style metadata is the format; no database, no schema migration story.
-- Not exhaustive. A unit captures one piece of knowledge; the same actor can have many units.
-- Not vendor brochures. Each unit carries sources and links to gaps/contested claims; this is not a marketing surface.
-- Not evergreen. Units past their freshness window are flagged, not deleted. Staleness is signal.
+1. **NA meat-packing AI quartet is now complete** — Cargill (beef line CV) + Tyson (poultry line CV) + JBS (beef cut-plan AI) + Smithfield (pork robotics + vision). The four largest US protein packers by volume all have publicly-documented AI in production. Talk-stage structural observation.
 
-## File naming
+2. **Discontinued is a populated category.** Three consumer-facing AI discontinuations (McDonald's × IBM drive-thru AOT in two framings + DoorDash voice-ordering) and one grocer fulfilment walk-back (Kroger × Ocado CFC closures with candid "bet on robotics went too far") in 18 months. Vendor narratives emphasise what's deployed; this cycle records what's been walked back.
 
-`units/<id>.md` where `<id>` is a short stable identifier. Suggested format: `units/<actor-or-topic-slug>-<descriptor>.md`. Examples after this revision: `loblaw-chatgpt-pcxpress.md`.
+3. **Two discontinued-on-the-same-tech-axis pairs** — McDonald's × IBM AOT (IBM-mediated, accent/dialect failure) vs Taco Bell × Omilia (890+ drive-thrus, 38 states) on the same QSR-voice-AI axis. McDonald's × Kroger Ocado (fulfilment robotics) vs Walmart Sam's Club AI exit tech (120+ clubs, line-side CV) on the in-store retail-tech axis. Both pairs are useful industry case studies.
 
-## Filling out the schema for the first unit
+4. **Big-Three-US-grocer × foundation-model matrix** — Walmart ↔ OpenAI, Kroger ↔ Google (Gemini Enterprise Jan 2026), Loblaw ↔ OpenAI (Canada). Three retailers, three vendors. OpenAI Instant Checkout is the convergent layer but foundation-model choice is still open.
 
-The first unit (Loblaw × ChatGPT) deliberately exercises every cross-cutting tag at least once across its three sub-units. This is a schema stress test, not because every unit needs every tag, but because the first unit should reveal which tags earn their place and which get in the way.
+5. **TOMRA NA / Key Technology NA pair fills G-019** explicitly named in the regional NA/EU industry scan. Together they cover produce, berries, leafy greens, tree nuts, pasta, wine across 19+ named NA customers.
 
-If a future unit doesn't need a tag, leave it out. The schema is a *menu*, not a checklist.
+6. **NA dairy processing AI is genuinely empty** as a verifiable pattern (Saputo internal only; Agropur = MES not vision AI; Hilmar/Leprino/DFA = no public deployment). Recorded as a structural gap.
+
+7. **Foodservice distribution AI pattern** — Sysco AI360 (90% GenAI sales-consultant adoption) + US Foods (Where's My Truck fleet-wide AI ETA + Menu IQ). Two of the largest NA foodservice distributors now both publicly-documented AI. The next two (PFG, GFS) are thinner and worth tracking.
+
+8. **All 30 cycle units are vendor actor-type** — consistent with project priority (memory: user has signalled "don't expect a lot of non-vendor actor types"). Future cycles looking to rebalance actor-type should pick a different sub-sector.
+
+## Pre-existing cross-reference debt
+
+The cycle did not introduce any new unresolved cross-references. **62 pre-existing unresolved refs** in 13 pre-cycle units (mostly AI-institute cluster abbreviations like `leaf-penn-state-institute.md` referenced as just `leaf-penn-state-institute.md`, or `iowa-state-institute.md` referenced as `iowa-state-institute.md` where the canonical filename is `aiira-iowa-state-institute.md`). Not blocking, but worth a separate cleanup pass at some point. Do not treat as introduced by this cycle.
+
+## Freshness
+
+- last-verified: 2026-07 (food-side deepening cycle)
+- last-regionally-scanned: 2026-07
