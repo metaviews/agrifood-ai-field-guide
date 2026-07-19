@@ -41,6 +41,7 @@ The audience knows AI is in the news but doesn't have a working picture of *what
 | **Agrosmart** | SaaS climate-smart farming platform | Brazil origin | 100,000+ farmers in 9 countries; 48M+ hectares monitored (vendor-reported, AQ Jan 2026 primary) |
 | **Kilimo × Microsoft Chile Maipo** | irrigation-decision AI | Argentina origin | 450 ha; 13% water reduction; 1.5M m³ saved over 3 years (Microsoft × Kilimo April 2025) |
 | **Auravant** | SaaS agronomy platform | Argentina origin | 20M+ ha; 123,000+ users; 156 countries (vendor-reported, homepage counter) |
+| **Taranis** | crop intelligence AI | Israel origin; global deployment | AI-powered crop intelligence, leaf-level aerial scouting; Taranis Yield Impact™; Israeli agritech ecosystem 750+ companies / 150+ startups (2025) |
 
 **Units used:** `units/john-deere-see-and-spray.md`, `units/bayer-climate-fieldview.md`, `units/dji-agriculture-global-export.md`, `units/xag-china-drone-leader.md`, `units/lely-astronaut.md`, `units/yamaha-fazer-agricopter-drone-japan.md`, `units/spread-techno-farm-vertical-lettuce-japan.md`.
 
@@ -68,6 +69,8 @@ The audience knows AI is in the news but doesn't have a working picture of *what
 | **PUCV × LEM System** | inputs (seed industry) | `units/chile-pucv-seed-quality-ai.md` — Chilean counter-season seed-hybridisation labour-side computer vision (FONDEF IT funded); 38,000-ton seed export context; cross-border pattern with Canada: `units/chile-canada-seed-ai-cross-border.md` |
 | **Argentine SENASA mandate** | animal production | `units/argentine-beef-electronic-traceability-senasa.md` — *State-driven* mandatory electronic cattle traceability (53.5M head, July 2026 full mandatory compliance, World Bank financing); distinct driver / IT substrate / funding / scope dimension from Brazilian big-three corporate programmes |
 | **Brazilian seed AI** | inputs (seed industry) | `units/brazilian-seed-ai-academic-research-led.md` — *Academic-research-led + multinational-corporate-pipelined*; cluster-with-three-structures (Sangjan 2025 cited 24 + Tedeschi 2025 PMC cited 20; substantially empty at Brazilian-origin-corporate-vendor tier — negative-finding-as-substance) |
+| **UAE date palm AI platform** | inputs (genetic-resource preservation) | `units/uae-date-palm-ai-genetic-diversity.md` — UAE digital platform (April 2026; 130+ varieties; Zayed For Good × Khalifa International Award × ADAFSA; cultural-stewardship-driven) |
+| **Lebanon Berytech Agrytech + AgriSmart** | on-farm + farmer-facing mobile | `units/lebanon-agrytech-accelerator-agrismart.md` — Lebanese startup-ecosystem partial-focus unit (Berytech Agrytech accelerator Batch 7 Phase 2 active Oct 2025; AgriSmart Arabic-language WhatsApp chatbot; Ground Vertical Farming 90% water savings) |
 
 **Anchor quote (optional).** If audience is sympathetic to producer voices, drop in Jeff Torrie: *"If we didn't invest in new technology, there wasn't going to be succession. That's what it came down to."* (`quotes/producers/torrie-jeff-lely-succession.md`). This is the family-farm-succession motivation, distinct from vendor efficiency framing. *Note: 2018 source, flagged historical.*
 
