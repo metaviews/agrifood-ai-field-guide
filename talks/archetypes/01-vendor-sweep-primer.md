@@ -101,6 +101,15 @@ The audience knows AI is in the news but doesn't have a working picture of *what
 
 **Anchor quote (optional).** If audience responds to producer voices: Jay Willmot (Haven Greens founder) on local demand. `quotes/industry-executives/willmot-jay-haven-greens-local-demand.md`.
 
+### 5b. Optional cluster-pattern detour (3-4 min, skip if time pressure)
+
+If the audience is engaged enough for a third-tier observation, the vendor-sweep can pivot to *why are vendor deployments organized the way they are?*. The canonical answer lives in `talks/cluster-pattern-taxonomy.md`: six regional cycles have surfaced thirteen named cluster-patterns and three cross-region observations, including:
+- *Cluster patterns are layered-mix* (observed in LAC, MENA, EU-cluster-pattern)
+- *Cluster-with-three-structures is cross-region pattern* (Brazilian seed AI vs. Spanish cooperative AI)
+- *Cluster-with-state-substrate as substantive pattern* (Argentine beef AI SENASA + SIGSA + World Bank financing)
+
+Worth surfacing only if the audience is asking the meta-question. Not a default for the 45-min version.
+
 ### 6. Close — the literacy question (4 min)
 
 **The frame.** The point of the talk is not "AI is good" or "AI is bad." The point is that AI in agrifood is *real, deployed, and structured by who owns the data*. Literacy about that structure is the first step toward any informed position.
@@ -118,6 +127,8 @@ Common audience questions and the units they map to:
 
 - *"What about ChatGPT for farmers?"* → `units/root-ai.md` (FCC's free generative AI extension assistant for Canadian farmers, July 2026). Worth naming that this is the *first* deployment of a foundation model as a farmer-facing extension tool in Canada.
 - *"Is China ahead?"* → `scans/2026-07-china-deepening.md` for the export / policy / import signal layers; `units/dji-agriculture-global-export.md`, `units/xag-china-drone-leader.md`, `units/pinduoduo-smart-agriculture-competition.md` for vendor detail.
+- *"What about MENA?"* → `scans/2026-07-mena-scan.md` for the cluster scan; four anchor units (`units/taranis-israel-crop-intelligence.md` Israeli venture-funded; `units/uae-adafsa-ai-management-certification.md` UAE state-as-standards-setter — world's first ISO 42001:2023 AI management certification in agriculture; `units/uae-date-palm-ai-genetic-diversity.md` UAE state-as-deployment-of-record + cultural-stewardship; `units/lebanon-agrytech-accelerator-agrismart.md` Lebanese startup-ecosystem partial-focus); plus Morocco Al Moutmir (OCP Group) and Tunisia RoboCare from cycle-5. MENA cluster is now corpus-distinct as a five-cluster-pattern observation refined from cycle-4's three-sub-pattern.
+- *"What about Spanish cooperatives?"* → `scans/2026-07-spanish-cooperatives-ai.md` for the cluster scan; three anchor units (`units/spain-cooperative-agrifood-ai-cluster-pattern.md` cluster-pattern-with-three-structures observation; `units/spain-cooperative-covap-ai-deployment.md` first Spanish cooperative-led AI deployment-of-record with 5 named AI tracks; `units/mondragon-corporation-cooperative-federation.md` Mondragón institutional-federation-anchor substrate since 1956, €11.213B 2024 revenue, 70,000+ workers). Spanish cooperative AI cluster-with-three-structures observation parallels Brazilian seed AI cluster-with-three-structures with structurally-distinct Tier-2 substrates (Mondragón federation-institutional vs. Bayer/Syngenta/BASF/Corteva multinational-corporate-pipelined).
 - *"What about right to repair?"* → vendor lock-in is the bridge; mention as a structural concern. Not the spine of this talk but worth naming if asked.
 
 ## Freshness check
