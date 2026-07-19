@@ -36,10 +36,14 @@ The audience knows AI is in the news but doesn't have a working picture of *what
 | **DJI Agriculture** | agricultural drones | China origin | 400,000 drones, 980M acres, 100+ countries |
 | **XAG** | agricultural drones / services | China | 10M+ farmers (per unit) |
 | **Lely Astronaut** | robotic milking | EU-Netherlands | 50,000 units across 50 countries |
+| **Yamaha FAZER / RMAX** | unmanned helicopter aerial-spraying | Japan (rice) | 2.4M acres / >35% Japan rice-field coverage (V0 vendor-reported) |
+| **Spread Co. Techno Farm** | automated vertical-lettuce farm | Japan | 30,000 heads/day at 99% operating rate (Keihanna site) |
 
-**Units used:** `units/john-deere-see-and-spray.md`, `units/bayer-climate-fieldview.md`, `units/dji-agriculture-global-export.md`, `units/xag-china-drone-leader.md`, `units/lely-astronaut.md`.
+**Units used:** `units/john-deere-see-and-spray.md`, `units/bayer-climate-fieldview.md`, `units/dji-agriculture-global-export.md`, `units/xag-china-drone-leader.md`, `units/lely-astronaut.md`, `units/yamaha-fazer-agricopter-drone-japan.md`, `units/spread-techno-farm-vertical-lettuce-japan.md`.
 
-**Critical move (do not skip).** Name what each one *claims* and what each one *measures*. Bayer / John Deere claim input reduction (less herbicide, less fertilizer); DJI / XAG claim productivity at scale; Lely claims labour conditions (succession, fatigue, lifestyle). These are different claims, not interchangeable.
+**Critical move (do not skip).** Name what each one *claims* and what each one *measures*. Bayer / John Deere claim input reduction (less herbicide, less fertilizer); DJI / XAG claim productivity at scale; Lely claims labour conditions (succession, fatigue, lifestyle); Yamaha claims Japanese-rice precision aerial spraying; Spread claims indoor CEA labour-substitution at scale. These are different claims, not interchangeable.
+
+**East-Asia layer — say this if audience will absorb it (otherwise skip).** Japan anchors an *equipment-vendor industrial automation* pattern — Yamaha's unmanned helicopters and Spread's vertical farms are mature products from industrial-machinery majors applying their competence to agriculture under an ageing-farmer-labour-shortage imperative. China anchors a *state-vendor hybrid* with provincial autonomy (DJI, XAG, Alibaba ET Agricultural Brain). Korea anchors a *state-anchored cluster programme* with vendor participation (Smart Farm Innovation Valley; ioCrops deploying *into* Japan). The unit `units/japan-korea-agrifood-ai-pattern.md` is the corpus's anchor for this East-Asia cluster taxonomy.
 
 ### 3. Segment two — post-farm: processing, retail, waste (8 min)
 

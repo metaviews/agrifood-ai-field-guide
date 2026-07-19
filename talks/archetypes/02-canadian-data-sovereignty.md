@@ -52,7 +52,9 @@ The audience is producer-facing or producer-adjacent. They are suspicious of ven
 
 ### 4. Segment three — the cooperative alternative (10 min)
 
-**The Dutch example.** JoinData is the world's first agricultural data cooperative. Founded 2017 in the Netherlands. Independent, non-profit. Mission: *"any farmer can pool, control, connect and share data — in a safe, secure and fair way — with agribusiness and innovation partners, and to make sure the data and benefits flow back to the farmer."*
+**The structural choice is not binary.** Cooperation and state-stewardship are two distinct paths that each address data capture. Worth naming the four major data-stewardship models the corpus carries — three of them are below.
+
+**The Dutch example — cooperative-governed substrate.** JoinData is the world's first agricultural data cooperative. Founded 2017 in the Netherlands. Independent, non-profit. Mission: *"any farmer can pool, control, connect and share data — in a safe, secure and fair way — with agribusiness and innovation partners, and to make sure the data and benefits flow back to the farmer."*
 
 **Concrete scale (per Development Gateway / USAID case study, Feb 2023):**
 - **16,000+ farmer members**
@@ -76,6 +78,18 @@ The audience is producer-facing or producer-adjacent. They are suspicious of ven
 - Not a substitute for Ag Data Transparent (different layer — control vs contract transparency)
 
 **The Canadian context.** Worth knowing: there is currently **no Canadian JoinData equivalent** in the field guide. `napdc-national-ag-producer-data-cooperative.md` is a US federally-funded framework-development cooperative, not yet deployed. This is a gap, not a finding. Worth naming to the audience — *the cooperative alternative exists; the Canadian equivalent does not (yet).*
+
+**The wider context — three data-stewardship models compared.** The data-sovereignty question isn't binary. Three operational models the audience should know about:
+
+| Model | Initiation | Funding | Operational control | Who benefits? |
+|---|---|---|---|---|
+| **JoinData (NL)** — `units/joindata-netherlands.md` | Industry-led (FrieslandCampina et al.) | Membership fees + company fees | **Farmer-controlled cooperative** | Members directly |
+| **WAGRI (Japan)** — `units/wagri-japan-agricultural-data-platform.md` | State-led (NARO + MAFF) | State budget (Japan MAFF oversight) | **State-stewarded public platform** | Industry access via API; farmers via vendor-built apps |
+| **AgriStack / DAM (India)** — `units/india-digital-agriculture-mission-agristack.md` | State-led (Gov of India) | State budget (₹2,817 crore / $321M outlay) | **State-stewarded Digital Public Infrastructure** | Federation across state-agriculture-departments |
+
+These three models sit on a continuum — JoinData is member-governed; WAGRI is state-stewarded but vendor-accessible; AgriStack is fully state-stewarded and federation-cascaded. The Canadian conversation should know all three exist and ask: *what's the right governance layer for the Canadian context?* Per `units/japan-korea-agrifood-ai-pattern.md`, the East-Asia (Japan/Korea) cluster offers a state-stewarded pattern worth understanding even if Canada picks a different one.
+
+**South-Asia cross-reference — Korea's state-anchored cluster.** Korea's Smart Farm Innovation Valley (`units/korea-smart-farm-innovation-valley-rda.md`) is a fourth operational pattern: state-anchored cluster programme *with vendor participation*. Four sites (Sangju, Gimje, Milyang, Goheung) under MAFRA's *Act on Fostering and Supporting Smart Farming* with a 30%-smart-farming-by-2027 statutory target. This is *not* a data-stewardship model — it's a deployment-cluster model — but it shows Korea's response to the data-capture question: state-anchored cluster, vendor participation, young-farmer recruitment. Different answer than Canada's; worth naming.
 
 ### 5. Segment four — Canadian context: Haven Greens and the question of control (5 min)
 
@@ -105,6 +119,7 @@ This talk has substantive Q&A time. Anticipated questions and the units they map
 - *"What about AgExpert (FCC)?"* → named in `scans/2026-07-canada-cycle-fcc.md`. Crown corp's farm management software — data posture worth asking FCC directly about.
 - *"Is JoinData replicable in Canada?"* → `units/joindata-netherlands.md` carries a contested-claim: *Data cooperatives are a global alternative to vendor capture* (C-029). Counter: cultural fit matters; replication requires cooperative tradition. Worth naming this to the audience as a *real* question, not a settled answer.
 - *"What about my John Deere data?"* → Ag Data Transparent certification, John Deere Operations Center (`units/proprietary-farm-data.md`).
+- *"What about state-led substrates like WAGRI or AgriStack?"* → `units/wagri-japan-agricultural-data-platform.md`, `units/india-digital-agriculture-mission-agristack.md`. State-stewarded DPI is *not* the same as cooperative-governed substrate; the data-right posture is different (state-stewarded for both, farmer-owned for JoinData). Worth naming the structural distinction.
 
 ## Freshness check
 

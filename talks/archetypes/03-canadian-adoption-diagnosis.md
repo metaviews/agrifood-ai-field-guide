@@ -56,7 +56,7 @@ The audience is policy-facing and time-pressed. They need a *clear claim* about 
 
 ### 4. What's actually deployed in Canada (5 min)
 
-**Don't stay abstract.** After the diagnosis, name what's concretely deployed. Three Canadian deployments to lead with:
+**Don't stay abstract.** After the diagnosis, name what's concretely deployed. Four Canadian deployments to lead with:
 
 | Deployment | Cell | Why it matters |
 |---|---|---|
@@ -79,11 +79,12 @@ The audience is policy-facing and time-pressed. They need a *clear claim* about 
 
 ### 6. Close — the policy lever question (1 min)
 
-**The frame.** A diagnosis talk earns its keep by pointing toward levers. Three:
+**The frame.** A diagnosis talk earns its keep by pointing toward levers. Four:
 
 1. **Capital deployment** — FCC Capital, AAFC programs, provincial ministries. The capital gap is named; the lever is targeted capital deployment, not generic innovation funding.
 2. **Cooperative / commons infrastructure** — JoinData (NL) is the model; Canada has NAPDC development (`units/napdc-national-ag-producer-data-cooperative.md`) but no deployed equivalent. The lever is funding the *deployment* phase, not just the framework.
 3. **Data rights governance** — IEEE 2890-2025 (Indigenous data) and Ag Data Transparent certification (vendor-side) are the existing anchors. The lever is *Canadian-specific* data rights framework, harmonised with both.
+4. **State-stewarded DPI — Korea and Japan's model.** Korea's *Act on Fostering and Supporting Smart Farming* targets 30% of agricultural output via smart farming by 2027; the Smart Farm Innovation Valley (`units/korea-smart-farm-innovation-valley-rda.md`) is the operational surface. Japan's WAGRI (`units/wagri-japan-agricultural-data-platform.md`) is a state-stewarded data-collaboration platform operational since April 2019. **The lever is whether Canada wants a state-stewarded data infrastructure layer; if so, what scope and what data-rights posture.** Worth naming because both countries answer *yes* — and they answer differently (Korea = state-anchored cluster with vendor participation; Japan = state-DPI substrate with vendor-developed apps). See archetype 06 (regional-cluster-comparison) for the deeper treatment.
 
 **The single sentence.** Canada's AI adoption gap is not a technology gap; it is a *capital, infrastructure, governance* gap. The lever is policy that targets those three specifically, not generic AI strategy.
 
@@ -92,6 +93,7 @@ The audience is policy-facing and time-pressed. They need a *clear claim* about 
 - *"Is FCC part of the problem?"* → FCC is the most consequential Canadian institutional actor in agrifood AI deployment and funding. Their diagnosis is real; their positioning is structural. The framing is honest about this; it's a *real* form of expertise capture.
 - *"What about Indigenous data sovereignty?"* → `units/indigenous-data-sovereignty.md`, IEEE 2890-2025, CARE Principles. Worth knowing: CARE Principles are Indigenous-led, IEEE 2890-2025 is the world's first global standard for Indigenous data provenance (August 2025). The lever is *Indigenous-led governance*, not top-down Indigenous engagement.
 - *"Is China eating our lunch?"* → `scans/2026-07-china-deepening.md`. China is a leading AI power in agriculture (DJI, XAG, Pinduoduo, Alibaba ET Agricultural Brain) and a leading *exporter* of agritech. China's deployment scale is structurally different from Canada's; comparing them requires care about what "leading" means at which scale.
+- *"What about Korea or Japan?"* → `units/japan-korea-agrifood-ai-pattern.md` is the corpus's anchor for East-Asia comparison. Korea = state-anchored cluster programme under RDA/MAFRA's *Act on Fostering and Supporting Smart Farming* (30%-by-2027 target); Japan = equipment-vendor industrial automation (Spread Co. vertical farms, Yamaha FAZER aerial-spraying helicopters) plus state-DPI substrate (WAGRI). Each country answers the policy-lever question differently from Canada and from each other. Canada is *not* lagging because the East-Asia models are *not* the only answer; Canada's question is its own.
 
 ## Freshness check
 

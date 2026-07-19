@@ -1,0 +1,176 @@
+# Archetype 06 — How countries shape their agrifood AI cluster: a six-region comparison
+
+**A regional-cluster-comparison talk for academic and policy audiences — the meta-pattern archetype.**
+
+## Header
+
+| Field | Value |
+|---|---|
+| **Spine** | regional-cluster-comparison (new; not in the original five-spine methodology) |
+| **Audience** | academic (STS / political-economy / agrifood-tech studies), policy advisors working on national AI strategies, comparative-political-economy researchers, critical-civil-society researchers |
+| **Duration** | 60 min (45 min talk + 15 min Q&A) |
+| **Depth** | specialist (full taxonomy fluency; the audience knows multiple regional contexts or is willing to learn) |
+| **Region emphasis** | All six clusters: NA (US + Canada), EU (continental), China, India, Japan, Korea — with explicit cross-regional observation |
+| **Stance** | curious, critical, collaborative — with the explicit analytical claim that *countries with similar demographic imperatives operationalise AI differently, and the operational shape matters for the deployment's outcomes* |
+
+## What this talk is for
+
+The audience already knows the field guide's regional structure from other archetypes (01-05). What they're missing is *a meta-pattern observation that crosses regions*. They want to know: do all countries answer the agrifood AI question the same way? Are there materially different *cluster patterns*? What does the Korea-Japan pair teach us about how countries operationalise AI when they share a structural demographic imperative but differ in cluster-pattern leadership?
+
+This talk does the work the `units/japan-korea-agrifood-ai-pattern.md` meta-pattern unit does — surface it for a 60-minute audience that wants the structural comparison, not a list of country-by-country deployments. The Japan+Korea cycle (July 2026) made this archetype possible; without that cycle, the corpus would not have the cross-regional cluster-pattern anchor.
+
+**The single claim.** *Agrifood AI is not deployed in a country-neutral way.* Countries with similar demographic imperatives (ageing-farm populations; rural labour decline; food-security anxiety) operationalise the response through different *cluster patterns* — vendor-led industrial automation vs. state-anchored cluster programme vs. cooperative-governed substrate vs. state-DPI — and the operational shape of the cluster produces different outcomes. Surface this argument in the talk. The corpus has five meta-pattern units; this archetype draws on them all (Japan+Korea anchor + India anchor + NA consumption anchor, plus the regional scans for NA-EU and China).
+
+## Run-of-show
+
+### 1. Opening — the question on the table (4 min)
+
+**Frame.** Don't open with a survey of "AI in agriculture around the world" — that's archetype 01's job. Open with the structural question: *How do countries shape their agrifood AI cluster? Does the way the cluster is shaped matter for what gets produced and who benefits?*
+
+**Anchor.** The Japan+Korea meta-pattern unit is the canonical anchor for this observation. `units/japan-korea-agrifood-ai-pattern.md`: *"Even when two countries share an ageing-farmer-driver / state-instrument-response, how they operationalise the response can be materially different — Japan = vendor-led industrial automation, Korea = state-led cluster programme."*
+
+**The single claim.** *Cluster patterns are plural, not singular.* Six operating regional patterns — five documented in the corpus, one (Southeast Asia) with names of actors but no anchor units yet. Worth surfacing to the audience:
+
+| Region | Cluster pattern | Anchor unit(s) |
+|---|---|---|
+| NA (US + Canada) | Equipment-vendor + farmer-cooperative (where applicable) | `units/bayer-climate-fieldview.md`, `units/john-deere-see-and-spray.md`, `units/indigo-ag.md`, `units/joindata-netherlands.md` (NL cooperative reference but NA paradigm) |
+| EU (continental) | State / institutional anchor + cooperative governance | `units/joindata-netherlands.md`, `units/la-ferme-digitale-gaia.md`, `units/inrae-france-ai-agriculture.md`, Wageningen |
+| China | State-vendor hybrid + provincial autonomy | `units/dji-agriculture-global-export.md`, `units/alibaba-et-agricultural-brain.md`, `units/jd-farm-iot-blockchain.md`, `units/xag-china-drone-leader.md`, `units/pinduoduo-smart-agriculture-competition.md` |
+| India | State DPI substrate + private vendor layers | `units/india-digital-agriculture-mission-agristack.md`, `units/cropin-india.md`, `units/itc-maars-india.md`, `units/niqo-robotics-india.md`, `units/india-agrifood-ai-pattern.md` |
+| Japan | Equipment-vendor industrial automation | `units/spread-techno-farm-vertical-lettuce-japan.md`, `units/wagri-japan-agricultural-data-platform.md`, `units/yamaha-fazer-agricopter-drone-japan.md`, `units/japan-korea-agrifood-ai-pattern.md` |
+| Korea | State-anchored cluster programme | `units/korea-smart-farm-innovation-valley-rda.md`, `units/iocrops-greenhouse-ai-korea.md`, `units/korea-act-fostering-smart-farming.md`, `units/daedong-ai-lab-korean-agriculture.md`, `units/japan-korea-agrifood-ai-pattern.md` |
+
+### 2. Segment one — the demographic imperative is shared (6 min)
+
+**Frame.** Step back from cluster patterns. Look at *what's driving* them. Almost every high-income country with a contracted rural labour force + ageing-farmer demographics is facing the same structural imperative: *who will farm the next generation, and how do we keep food production economically viable?*
+
+**Anchor units / sources:**
+- OECD Agricultural Policy Monitoring and Evaluation 2025 (Japan: <https://www.oecd.org/en/publications/2025/10/agricultural-policy-monitoring-and-evaluation-2025_354e7040/full-report/japan_d94ab3f7.html>; Korea chapter).
+- Japan's ageing-farmer imperative framing — `units/yamaha-fazer-agricopter-drone-japan.md` (industrial-automation context).
+- Korea's young-farmer succession imperative — `units/korea-act-fostering-smart-farming.md` (30%-by-2027 target frame).
+
+**Critical move.** The *demographic imperative is shared*. The *response shape differs by cluster pattern*. The argument is not "Japan does AI one way, Korea does AI another"; it's "Japan and Korea both face the same demographic imperative, but they operationalise the response through different cluster patterns, and that produces different operational surfaces."
+
+### 3. Segment two — three cluster-pattern archetypes in detail (18 min)
+
+**Pivot.** Move from naming the patterns to *analysing* three of them in depth. The three strongest contrast pairs are: (a) Japan as equipment-vendor cluster vs. Korea as state-anchored cluster; (b) India as state-DPI substrate vs. China as state-vendor hybrid; (c) NA as equipment-vendor + cooperative vs. EU as cooperative-state-coordinated.
+
+#### 3.1 Japan vs. Korea — the closest comparison
+
+This is the Japan+Korea cycle's distinguishing observation. Both countries face the same demographic imperative; the operational shapes are inverted.
+
+**Japan pattern (equipment-vendor industrial automation):**
+- Drivers: Yamaha FAZER unmanned helicopters; Spread Techno Farm vertical-lettuce automation; Kubota Agri Concept 2.0 / Type: V; Yanmar SMARTPILOT robot tractor.
+- State role: MAFF provides WAGRI as state-DPI substrate (operational since April 2019); OECD framing of *Act on the Promotion of Smart Agricultural Technology Utilization to Improve Agricultural Productivity* (effective October 2024) is the regulatory framework.
+- Vendor concentration: industrial-machinery majors (motorcycle engines, boats, robotics) apply competence to agriculture.
+- Anchor unit: `units/japan-korea-agrifood-ai-pattern.md`.
+
+**Korea pattern (state-anchored cluster programme):**
+- Drivers: Smart Farm Innovation Valley (4 sites Sangju/Gimje/Milyang/Goheung); *Act on Fostering and Supporting Smart Farming* with 30%-by-2027 target; ioCrops (Korea-origin exporting globally); Daedong AI Lab (H1 2026 L4 tractor release).
+- State role: RDA + MAFRA anchor the cluster programme; FAO Digital Villages Initiative recognises Sangju; Smart Farmland Distribution Centers scaling 14 → 26 → planned 100.
+- Vendor participation: ioCrops, Daedong AI Lab — but state leads, vendors participate.
+- Anchor unit: `units/japan-korea-agrifood-ai-pattern.md`.
+
+**The cross-deployment observation worth surfacing.** ioCrops (Korea-origin) is deploying in *Japan*. This is the corpus's first explicit Korea→Japan deployment cross-ref and is the structural signal of cluster-pattern interdependence. Surface as C-NNN if not yet indexed (cross-reference `units/japan-korea-agrifood-ai-pattern.md` for the existing pattern claim).
+
+#### 3.2 India vs. China — state-vendor hybrid variations
+
+**India pattern (state-DPI substrate + private vendor layers):**
+- Drivers: AgriStack / DAM (₹2,817 crore / $321M outlay); farmer registry + plot registry + crop-sown registry; Kisan e-Mitra chatbot in 11 languages.
+- Vendor layer: Cropin (vendor AI-first platform); ITCMAARS (conglomerate phygital); Niqo Robotics (smallholder robotics).
+- Anchor units: `units/india-digital-agriculture-mission-agristack.md`, `units/india-agrifood-ai-pattern.md`.
+
+**China pattern (state-vendor hybrid + provincial autonomy):**
+- Drivers: Alibaba ET Agricultural Brain; JD Farm IoT + blockchain; DJI Agriculture (China origin, global export); XAG.
+- State-vendor alignment: state-aligned at policy level; vendor autonomy at the operational level; provincial autonomy drives variation.
+- Anchor units: `units/dji-agriculture-global-export.md`, `units/alibaba-et-agricultural-brain.md`, `units/jd-farm-iot-blockchain.md`, `units/xag-china-drone-leader.md`.
+
+**Critical move.** India and China both have heavy state involvement, but their state postures differ. India's is *substrate* (the state builds the data layer; vendors work above it). China's is *vendors aligned with state at policy level* (vendors are themselves deployers). Don't conflate.
+
+#### 3.3 NA vs. EU — equipment-vendor vs. cooperative-state
+
+**NA pattern (equipment-vendor concentration + cooperative-governed where applicable):**
+- Drivers: Climate FieldView (Bayer), John Deere See & Spray, Indigo Ag (boom-bust), USDA-NIFA AI Institutes.
+- Vendor concentration: massive equity-funded agritech industry + land-grant university research.
+- Cooperative layer: thin (NAPDC framework-development; no JoinData equivalent at scale).
+- Anchor units: `units/bayer-climate-fieldview.md`, `units/john-deere-see-and-spray.md`.
+
+**EU pattern (state / institutional anchor + cooperative governance):**
+- Drivers: Wageningen University & Research (NL); INRAE (FR); JoinData (NL cooperative); La Ferme Digitale / GAIA (FR cooperative-commons AI layer).
+- Institutional anchor: Wageningen is the corpus's clearest Wageningen-anchor; INRAE is the FR institutional counterpart.
+- Cooperative governance: more developed than NA; cooperative-cultural-tradition precondition.
+- Anchor units: `units/joindata-netherlands.md`, `units/la-ferme-digitale-gaia.md`, `units/inrae-france-ai-agriculture.md`.
+
+**Critical move.** EU's *cooperative-cultural-tradition* precondition is often cited but not always understood. The Dutch dairy cooperative tradition (FrieslandCampina et al.) goes back to the 19th century — JoinData works because the cooperative substrate already exists. NA's lack of NAPDC deployment-equivalent (development phase only) traces in part to thin cooperative-cultural-tradition infrastructure. This is a structural observation, not a moral one.
+
+### 4. Segment three — outcomes and contested claims (10 min)
+
+**Move from patterns to outcomes.** Once cluster patterns are named, the second-order question is: *what outcomes does each cluster produce?*
+
+#### 4.1 What each cluster produces
+
+- **NA cluster** → broadacre open-field row-crop optimisation at very large scale; vendor-concentrated value capture; thin cooperative alternative.
+- **EU cluster** → research-deep institutional anchor with cooperative governance overlay; export-orientation through cooperative structures; slower scale but durable.
+- **China cluster** → massive scale + state alignment; export-grade agritech (DJI global markets); provincial autonomy produces variance.
+- **India cluster** → state-DPI substrate reaching 76.3M+ farmer IDs + private-vendor layered services; smallholder-relevant vendor products (Cropin, ITCMAARS, Niqo); cooperative-equivalent transacting through state infrastructure.
+- **Japan cluster** → industrial automation deployed against ageing-farmer labour shortage; vendor-concentrated hardware excellence; state-DPI substrate for data layer.
+- **Korea cluster** → state-anchored cluster recruiting young farmers; vendor participation inside cluster; FAO-recognised Digital Villages anchor.
+
+#### 4.2 What each cluster does NOT produce
+
+The negative-finding discipline applies at the cluster level too.
+
+- **NA cluster** does not produce cooperative-governed data infrastructure at scale (NAPDC is in development).
+- **EU cluster** does not produce a state-DPI substrate at the scale of WAGRI or AgriStack (privacy / cooperative-cultural norms work against state-DPI).
+- **China cluster** does not produce a state-DPI substrate that engages with IDSov / CARE Principles (state-led but not Indigenous-led).
+- **India cluster** does not produce a cooperative-governed alternative (state-DPI is the substrate; cooperative tradition thin).
+- **Japan cluster** does not produce a state-anchored cluster programme at the Korean scale (state plays infrastructure role, not cluster-anchoring role).
+- **Korea cluster** does not produce a corporate-export-grade agritech at the Chinese scale (cluster-incubation focus, not export-orientation).
+
+**The structural observation.** Each cluster has a *signature strength* and a *signature gap*. Worth surfacing honestly to the audience: the trade-off is structural, not moral.
+
+### 5. Segment four — Southeast Asia as the corpus's next regional gap (4 min)
+
+**Pivot to forward-looking.** Southeast Asia is the corpus's largest un-covered regional gap as of mid-July 2026 (per `agrifood-knowledge-base-curation` SKILL known-regional-gaps section). Possible cluster-pattern candidates (per the SKILL pattern observation): *smallholder-vendor* (DiMuto Singapore, eFishery Indonesia, Semaai Indonesia); *cooperative-AI* (FAO Asia-Pacific digital-ag hub Thailand); *momo-tech-style state-corporate* (Vietnam). Surface as forward-looking observation: the corpus has named patterns but the SEA pattern is not yet anchored.
+
+### 6. Close — the take-home (3 min)
+
+**Single sentence.** *Cluster patterns are plural, not singular. The demographic imperative is shared across high-income ageing-farmer countries; the operational shape differs by cluster pattern; the operational shape matters for what gets produced and what doesn't.*
+
+**Three questions to leave the audience with.**
+
+1. Which cluster pattern does your country operate in?
+2. What is the cluster's signature strength, and what is the signature gap?
+3. What would a *different* cluster pattern look like for your country — and is the cultural-institutional substrate for that pattern actually in place?
+
+These are the working questions of the cluster-pattern spine. They are how the talk earns its keep.
+
+## Q&A handles
+
+- *"What about Latin America / Caribbean?"* → `scans/2026-07-regional-lac.md`. Cluster pattern candidate: smallholder-vendor or cooperative-AI; not yet anchored at the unit level. Per the SKILL, LAC is *less absent* than SEA but still light on anchor units. Worth saying: the corpus's SCA pattern observation is preliminary.
+- *"What about MENA?"* → Mostly absent from the corpus. Israeli-origin vendor (one unit) is the only operational anchor. UAE (NADEC), Saudi Arabia (Salic), Egypt would be the natural candidates for a future cycle. The cluster pattern candidate is most likely state-corporate along UAE/Saudi lines.
+- *"What about Oceania?"* → Australia (CSIRO Data61, AgriWebb, Ceres Tag, SwarmFarm) is the natural future-cycle candidate. Aotearoa NZ's Te Mana Raraunga is a separate Indigenous-data-sovereignty anchor already in the corpus (via archetype 05). Worth naming the Australian state-institutional anchor as the future cycle's candidate.
+- *"Does Korea's smart-farming target matter?"* → `units/korea-act-fostering-smart-farming.md`. 30%-by-2027 statutory target is the corpus's cleanest *quantitative* policy lever. The progress metric is V0 MAFRA-reported; verification gap (G-NN). Worth naming to the audience as an evidence-of-effort, not as evidence-of-achievement.
+- *"What's the difference between DPI substrate and cooperative substrate?"* → Compare JoinData (NL cooperative-governed; member-controlled; farmer membership fees) with WAGRI (Japan state-stewarded; vendor and farmer access via API; state-budget funded) and AgriStack (India state-stewarded; federation-cascaded across state-agriculture-departments; government-led). Three distinct data-rights postures even though all three are "non-vendor alternative" answers to proprietary platform capture. Worth saying: "non-vendor" is plural.
+
+## Freshness check
+
+- Japan+Korea cycle: 2026-07 verification trigger dates include H1 2026 Daedong L4 tractor release + Q4 2026 MAFRA 30% measurement + Spread Techno Farm Narita operational status.
+- India cycle: Cropin OrbitAI agentic AI on Google Cloud + MCP server launch (2026-07-14) is the freshest corpus signal; re-check at next quarterly.
+- China deepening: scan context established 2026-07; verify at next yearly cadence.
+- NA consumption cycle: archetypes 01-05 cross-references current; verify at next talk-assembly.
+
+## Substitutions
+
+- **If audience is Canada-anchored**, lead with the Canada-as-NA-cluster comparison and use the regional taxonomy to position Canada's 1.8%-vs-12.2% gap. Roughly archetype 03 with the cluster-pattern spine layered in.
+- **If audience is policy / leadership**, foreground the policy-lever question — what would cluster-pattern change imply for your country? Lead with Korea's 30%-by-2027 target as the cleanest quantitative policy lever.
+- **If audience is academic STS / political-economy**, deepen segment 4 with the negative-finding discipline (what each cluster does NOT produce) — material for academic critique.
+- **If audience is cooperative/commons focused**, swap segment 3.3 (NA vs. EU) for archetype 04 wholesale — bring in the cooperative substrate comparison explicitly.
+
+## What this archetype is doing in the methodology
+
+This is the *meta-pattern talk* — the one a presenter gives when the audience wants cross-regional structural analysis, not country-by-country deployment surveying. The 60-min duration matters because the six cluster-pattern taxonomy needs to be built carefully, *then* applied to the audience's own context. The Japan+Korea cluster-pattern observation (`units/japan-korea-agrifood-ai-pattern.md`) is the load-bearing claim; without it, the talk is a country-by-country list. With it, the talk earns its keep by demonstrating that *the shape of the cluster determines the shape of the deployment*.
+
+**The structural load-bearing move.** If the audience walks out thinking "agrifood AI is just deployed differently in different countries, that's just culture", the talk failed. The point is that *the cluster pattern is the substrate layer that drives operational outcomes*. Korea's 30%-by-2027 target would not work without the cluster-programme substrate; India's DPI substrate would not reach 76.3M farmers without the federation cascade; Japan's equipment-vendor deployment would not scale without the WAGRI data-substrate layer. Each cluster is *load-bearing* for its deployment.
+
+This archetype is *new* — added in July 2026 alongside the Japan+Korea cycle's meta-pattern unit. Future iterations of the corpus (additional cycles, additional regions) will refine the six-cluster taxonomy. The list of named patterns is a working hypothesis, not a finalised taxonomy.

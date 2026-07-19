@@ -82,15 +82,21 @@ The audience is interested in *alternatives* — they're already past the vendor
 
 **Why this matters.** The US model is *public investment in cooperative framework development*. The implication: government can fund the *conditions* for cooperative infrastructure without running it. This is structurally different from the Dutch and French models (where the cooperative tradition is the precondition) and from a fully state-stewarded model (where government runs the data).
 
-**Three cooperative / commons models compared:**
+**Four cooperative / commons / state-stewarded models compared:**
 
 | Model | Initiation | Funding | Operational control | Status |
 |---|---|---|---|---|
 | **JoinData (NL)** | Industry-led (FrieslandCampina et al.) | Membership fees + company fees | Farmer-controlled cooperative | Deployed (16,000+ members) |
 | **GAIA (FR)** | Industry-led (La Ferme Digitale) | Industry association | Industry-coordinated commons | Open-core infrastructure |
 | **NAPDC (US)** | Federally-funded | Government grants | Framework-development cooperative | Development phase |
+| **WAGRI (Japan)** — `units/wagri-japan-agricultural-data-platform.md` | State-led (NARO + MAFF) | State budget | **State-stewarded public platform** | Operational since April 2019 |
+| **Korea Smart Farm Innovation Valley** — `units/korea-smart-farm-innovation-valley-rda.md` | State-led (RDA + MAFRA) | State budget | **State-anchored cluster programme** | 4 sites operational since 2018 SIC launch |
 
-The cooperative / commons model is not monolithic. Different countries reach it through different institutional pathways.
+The cooperative / commons / state-stewarded model is not monolithic. Different countries reach it through different institutional pathways: industry-led (NL), industry-coordinated (FR), federally-funded framework (US), state-stewarded DPI (Japan), state-anchored cluster (Korea). Worth saying this to the audience — *the "alternative to vendor capture" is plural, not singular.*
+
+**Worth knowing what WAGRI isn't.** WAGRI is operational but it is *not* cooperative-governed; it is *state*-stewarded. Per the corpus's pattern observation (`units/japan-korea-agrifood-ai-pattern.md`), Japan's state-stewarded substrate operates *above* an equipment-vendor industrial-automation layer (Spread, Yamaha, Kubota, Yanmar). The state-DPI substrate complements vendor-layer deployment rather than replacing it. This is structurally different from JoinData, where the cooperative substrate *is* the operational layer.
+
+**Worth knowing what Korea's Smart Farm Innovation Valley isn't.** Korea's cluster is *not* a DPI substrate; it is a *deployment cluster* — a physical infrastructure of greenhouses, rental smart farms, test centres, startup incubation centres (SIC), and distribution centres anchored at four provincial sites. The unit `units/korea-smart-farm-innovation-valley-rda.md` carries the FAO Digital Villages profile for Sangju. The substrate (data layer) inside the cluster is vendor-proprietary at the site level; the cluster itself is state-stewarded at the programme level.
 
 ### 5. Segment four — OADA and the open-standards layer (6 min)
 
