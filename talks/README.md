@@ -41,6 +41,7 @@ The five spines currently documented in `talks/archetypes/`:
 - **Adoption-diagnosis** — why is X region lagging in AI adoption, and what does the data say
 - **Cooperative-alternative** — the farmer-cooperative model as a real, deployed alternative
 - **Critical-lens** — the structural critique of agrifood AI, centred on Indigenous data sovereignty and food sovereignty
+- **Regional-cluster-comparison (added July 2026)** — meta-pattern archetype; how countries operationalise agrifood AI differently through cluster patterns; seven regions covered (NA / EU / China / India / Japan / Korea / LAC)
 
 You can mix spines but you cannot dodge the choice. A talk that mixes data-sovereignty with vendor-sweep needs to commit to which one is the *frame* and which one is *evidence inside that frame*.
 

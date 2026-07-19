@@ -38,6 +38,9 @@ The audience knows AI is in the news but doesn't have a working picture of *what
 | **Lely Astronaut** | robotic milking | EU-Netherlands | 50,000 units across 50 countries |
 | **Yamaha FAZER / RMAX** | unmanned helicopter aerial-spraying | Japan (rice) | 2.4M acres / >35% Japan rice-field coverage (V0 vendor-reported) |
 | **Spread Co. Techno Farm** | automated vertical-lettuce farm | Japan | 30,000 heads/day at 99% operating rate (Keihanna site) |
+| **Agrosmart** | SaaS climate-smart farming platform | Brazil origin | 100,000+ farmers in 9 countries; 48M+ hectares monitored (vendor-reported, AQ Jan 2026 primary) |
+| **Kilimo × Microsoft Chile Maipo** | irrigation-decision AI | Argentina origin | 450 ha; 13% water reduction; 1.5M m³ saved over 3 years (Microsoft × Kilimo April 2025) |
+| **Auravant** | SaaS agronomy platform | Argentina origin | 20M+ ha; 123,000+ users; 156 countries (vendor-reported, homepage counter) |
 
 **Units used:** `units/john-deere-see-and-spray.md`, `units/bayer-climate-fieldview.md`, `units/dji-agriculture-global-export.md`, `units/xag-china-drone-leader.md`, `units/lely-astronaut.md`, `units/yamaha-fazer-agricopter-drone-japan.md`, `units/spread-techno-farm-vertical-lettuce-japan.md`.
 
@@ -56,6 +59,10 @@ The audience knows AI is in the news but doesn't have a working picture of *what
 | **Loblaw × PC Express in ChatGPT** | retail (consumer-facing) | `units/loblaw-pcxpress-chatgpt.md` — first-of-its-kind grocery shopping inside ChatGPT (2025) |
 | **Canadian food-waste AI landscape** | waste recovery | `units/canadian-food-waste-ai-landscape.md` — US context dominant, Canadian activity emerging |
 | **SoraLINK × Saputo/Olymel/Agropur** | processing | `units/soralink-export-food-processing.md` — predictive maintenance for export-oriented dairy/meat processing |
+| **Grupo Bimbo global bakery AI** | processing | `units/grupo-bimbo-global-bakery-ai.md` — DRL + IR thermal + humidity at baking control (peer-reviewed Food Chem X 2026 with Bimbo Bakeries India authors); Oracle Fusion Data Intelligence enterprise AI layer; multi-vector at $20B global-conglomerate scale |
+| **Marfrig × Agrorobótica** | animal production | `units/marfrig-agrorobotica-brazil-cattle-carbon.md` — AGLIBS LIBS laser spectroscopy for cattle-supplier farm soil carbon monitoring (Mato Grosso pilot) |
+| **PineSORT + AinnovaTech** | on-farm | `units/pinesort-ainnovatech-costa-rica-pineapple-ai.md` — Costa Rica pineapple plant-counting AI cluster (50 ha/day drone vs 2.5 ha/day manual — 20× productivity gain) |
+| **Falabella × Google Cloud TARS** | distribution / retail | `units/falabella-google-cloud-tars-lac.md` — Internal-operations generative AI on Google Cloud Conversational Agents + Gemini (LAC retail conglomerate; 22,000+ tickets; 33% reduction in human-agent tickets) |
 
 **Anchor quote (optional).** If audience is sympathetic to producer voices, drop in Jeff Torrie: *"If we didn't invest in new technology, there wasn't going to be succession. That's what it came down to."* (`quotes/producers/torrie-jeff-lely-succession.md`). This is the family-farm-succession motivation, distinct from vendor efficiency framing. *Note: 2018 source, flagged historical.*
 
