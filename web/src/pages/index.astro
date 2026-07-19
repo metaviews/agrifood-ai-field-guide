@@ -5,8 +5,8 @@ import { getCollection } from 'astro:content';
 const units = await getCollection('units');
 const scans = await getCollection('scans');
 const quotes = await getCollection('quotes');
-const talks = await getCollection('talks');
-const archetypes = await getCollection('archetypes');
+const allTalks = await getCollection('talks');
+const archetypes = allTalks.filter((t) => t.data.archetype_number !== undefined);
 ---
 
 <Base title="Agrifood AI Field Guide" cover={true} description="A working knowledge base on artificial intelligence in agrifood systems — concrete deployments, regional scans, talk methodology, and speaker voices.">
@@ -38,14 +38,9 @@ const archetypes = await getCollection('archetypes');
       <span class="count-desc">Named speakers, verbatim and paraphrased.</span>
     </a>
     <a href="/talks/" class="count-card">
-      <span class="count-num">{talks.length}</span>
-      <span class="count-label">talks</span>
-      <span class="count-desc">Methodology for assembling units into talks.</span>
-    </a>
-    <a href="/archetypes/" class="count-card">
       <span class="count-num">{archetypes.length}</span>
-      <span class="count-label">archetypes</span>
-      <span class="count-desc">Repeatable talk-assembly patterns.</span>
+      <span class="count-label">talk archetypes</span>
+      <span class="count-desc">Repeatable talk-assembly patterns with named units and quotes, plus methodology docs.</span>
     </a>
   </div>
 

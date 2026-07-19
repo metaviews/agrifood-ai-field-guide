@@ -76,24 +76,14 @@ const quotes = defineCollection({
 });
 
 // Talks — methodology, repeatable spines for assembling talks.
-// Includes the archetypes subdirectory; the archetypes collection below
-// filters to just the archetypes.
+// Includes the archetypes subdirectory: archetypes are public-facing
+// talk-assembly patterns that visitors reach via /talks/archetypes/X/.
+// The single 'Talks' nav entry covers both methodology docs and archetypes.
 const talks = defineCollection({
   loader: glob({ pattern: '**/!(README|_index)*.md', base: `${repoRoot}talks` }),
   schema: z.object({
     title: z.string().optional(),
     archetype: z.string().optional(),
-    audience: z.string().optional(),
-    duration: z.string().optional(),
-    summary: z.string().optional(),
-  }),
-});
-
-// Archetypes — repeatable talk-assembly patterns.
-const archetypes = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: `${repoRoot}talks/archetypes` }),
-  schema: z.object({
-    title: z.string(),
     archetype_number: z.number().optional(),
     audience: z.string().optional(),
     duration: z.string().optional(),
@@ -101,4 +91,4 @@ const archetypes = defineCollection({
   }),
 });
 
-export const collections = { units, scans, quotes, talks, archetypes };
+export const collections = { units, scans, quotes, talks };

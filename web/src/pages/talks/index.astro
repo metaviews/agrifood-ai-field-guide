@@ -3,18 +3,18 @@ import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { parseArchetypeHeader } from '../../archetype-metadata.ts';
 
-// The talks collection has two kinds of content:
-//   - archetypes/  → the six working talk-assembly patterns (the public-facing spine)
-//   - *.md at root → methodology and reference docs (taxonomy, index)
-//
-// The archetypes are what visitors come for. The methodology docs sit behind
-// them as supporting infrastructure.
+// The talks collection includes both methodology docs at talks/* and the
+// six archetype files at talks/archetypes/*. Sort archetypes by their
+// archetype_number; sort everything else alphabetically.
+const all = await getCollection('talks');
 
-const archetypes = await getCollection('archetypes');
-archetypes.sort((a, b) => (a.data.archetype_number ?? 999) - (b.data.archetype_number ?? 999));
+const archetypes = all
+  .filter((t) => t.data.archetype_number !== undefined)
+  .sort((a, b) => (a.data.archetype_number ?? 0) - (b.data.archetype_number ?? 0));
 
-const methodologyDocs = await getCollection('talks', (t) => !t.id.startsWith('archetypes/'));
-methodologyDocs.sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
+const methodologyDocs = all
+  .filter((t) => t.data.archetype_number === undefined)
+  .sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
 
 interface ArchetypeCard {
   num: number;
@@ -46,13 +46,13 @@ function titleOf(t: typeof methodologyDocs[number]): string {
 }
 ---
 
-<Base title="Talks" description="Six working talk archetypes for presenting AI in agrifood to different audiences.">
+<Base title="Talks" description="Working talk archetypes and methodology for presenting AI in agrifood.">
   <h1>Talks</h1>
   <p>
-    Six working talk archetypes — repeatable ways to assemble the corpus
-    into a presentation for a specific audience, duration, and analytical
-    spine. Each archetype is a complete run-of-show with named units,
-    named quotes, and substitutions for common contexts.
+    Working talk archetypes and methodology material. Each archetype
+    below is a complete run-of-show with named units, named quotes, and
+    substitutions for common contexts. Methodology docs sit below as
+    reference.
   </p>
 
   <section class="archetypes">
@@ -60,7 +60,7 @@ function titleOf(t: typeof methodologyDocs[number]): string {
       <article class="archetype-card">
         <div class="card-numeral">{String(card.num).padStart(2, '0')}</div>
         <div class="card-body">
-          <h2><a href={`/archetypes/${card.id}/`}>{card.title.replace(/^Archetype \d+\s*[—-]\s*/, '')}</a></h2>
+          <h2><a href={`/talks/${card.id}/`}>{card.title.replace(/^Archetype \d+\s*[—-]\s*/, '')}</a></h2>
           <dl class="card-meta">
             {card.spine && (
               <div class="meta-row">
@@ -101,10 +101,7 @@ function titleOf(t: typeof methodologyDocs[number]): string {
   <section class="methodology">
     <h2>Methodology</h2>
     <p>
-      Reference and methodology material that supports the archetypes.
-      The cluster-pattern taxonomy describes the recurring shape of
-      regional agrifood-AI deployments; the talks index is the quick-reference
-      table that previously lived in the corpus.
+      Reference material that supports the archetypes.
     </p>
     <ul class="methodology-list">
       {methodologyDocs.map((doc) => (
