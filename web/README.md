@@ -22,7 +22,7 @@ A top-level `package.json` at the repo root delegates to `web/` so the dashboard
    - Build command: `npm run build`
    - Build output directory: `web/dist`
    - Root directory: `/`
-   - Deploy command: `true` *(no-op; Pages auto-deploys the build output once the GitHub integration is configured. Cloudflare requires a value in this field but doesn't actually use it when the GitHub app is connected.)*
+   - Deploy command: `npx wrangler pages deploy dist --project-name=agrifood-ai-field-guide` *(this is what actually pushes the static files to Cloudflare's CDN; required for the domain to serve the built site)*
    - Version command: `true` *(same reason)*
    - Environment variables: none required
 4. **Custom domains** → add `agrifood.metaviews.ca`
