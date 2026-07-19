@@ -4,10 +4,11 @@
 
 **Why this exists.** A knowledge base only earns its keep if it can be turned into talks. Without a methodology layer, the units accumulate but the talks take longer to build than they should; the same analytical move gets rediscovered every time. The methodology layer is the *shared practice* — once it's documented, every talk is faster than the last.
 
-**What this directory contains.**
+## What this directory contains.
 - This README: operating principles, how to use the archetypes, when to deviate.
-- `talks/archetypes/` — five named, complete run-of-shows. Each is a worked example, not a template.
-- `talks/index.md` — quick-reference table of the five archetypes by audience, duration, and analytical spine.
+- `talks/cluster-pattern-taxonomy.md` — the canonical cluster-pattern vocabulary surfaced across six regional deepening cycles; this is the working analytical-lens doc that archetype 06 draws on.
+- `talks/archetypes/` — six named, complete run-of-shows. Each is a worked example, not a template.
+- `talks/index.md` — quick-reference table of the six archetypes by audience, duration, and analytical spine.
 
 ## Operating principles
 
@@ -35,13 +36,17 @@ These are orthogonal. The same spine (vendor-sweep) can serve a 20-min student t
 
 The most important choice when building a talk from this library is *the spine*. The spine is the single analytical argument the talk is built around. Without a spine, you have a content dump.
 
-The five spines currently documented in `talks/archetypes/`:
+The six spines currently documented in `talks/archetypes/`:
 - **Vendor-sweep** — what's actually deployed, by whom, at what scale, with what claims
 - **Data-sovereignty** — who owns / controls / benefits from the data underlying AI deployment
 - **Adoption-diagnosis** — why is X region lagging in AI adoption, and what does the data say
 - **Cooperative-alternative** — the farmer-cooperative model as a real, deployed alternative
 - **Critical-lens** — the structural critique of agrifood AI, centred on Indigenous data sovereignty and food sovereignty
-- **Regional-cluster-comparison (added July 2026)** — meta-pattern archetype; how countries operationalise agrifood AI differently through cluster patterns; seven regions covered (NA / EU / China / India / Japan / Korea / LAC)
+- **Regional-cluster-comparison (added July 2026)** — meta-pattern archetype; how countries operationalise agrifood AI differently through cluster patterns; nine regional contexts covered (NA / EU / China / India / Japan / Korea / LAC / MENA / EU Mediterranean-Spain); draws on the canonical cluster-pattern vocabulary in `talks/cluster-pattern-taxonomy.md`
+
+You can mix spines but you cannot dodge the choice. A talk that mixes data-sovereignty with vendor-sweep needs to commit to which one is the *frame* and which one is *evidence inside that frame*.
+
+**New spines as the corpus supports them.** The Spain + North Africa and Spanish cooperatives cycles (July 2026) surfaced two additional analytical moves that are not yet load-bearing spines but are candidates: (a) *cooperative-statutory-vs-corporate-statutory context framing* (Mondragón vs. Bayer-type parallel); (b) *state-driven vs. state-strategy vs. state-corporate substrate distinction* (Argentine SENASA vs. UAE ADAFSA vs. Morocco Al Moutmir). When the corpus supports either as a spine, a new archetype gets drafted. Same with the cross-cycle "cluster-with-three-structures as cross-region cluster pattern" observation: when it warrants an archetype, an archetype gets drafted.
 
 You can mix spines but you cannot dodge the choice. A talk that mixes data-sovereignty with vendor-sweep needs to commit to which one is the *frame* and which one is *evidence inside that frame*.
 
@@ -93,15 +98,22 @@ Document deviations. When you deviate substantively, add notes — a third-tier 
 ## Status and freshness
 
 The five archetypes are first iteration (July 2026). They exercise the full taxonomy (sector positions, AI classes, purposes, all eleven cross-cutting tags) and deploy representative units from each regional cycle. They are *the working example set*, not the only valid assemblies.
+The six archetypes are first iteration (July 2026), with archetype 06 added during the Japan+Korea cycle (mid-July 2026) and the cooperative-cluster-pattern refinement (Mondragón / COVAP / cluster-with-three-structures cross-region pattern) integrated after the Spanish cooperatives cycle (July 19 2026). The six archetypes exercise the full taxonomy (sector positions, AI classes, purposes, all fifteen v5 cross-cutting tags) and deploy representative units from each regional cycle. They are *the working example set*, not the only valid assemblies.
 
-When the corpus grows materially (new regional cycles, new quote categories, new cooperatives), the archetypes should be revisited. The next iteration could add a *AI and labour* spine and a *AI in food processing* spine as the corpus there deepens.
+**Cluster-pattern vocabulary.** Across six regional deepening cycles (LAC deepening; Brazil beef + Chile-Canada; Argentine beef + Brazilian seed; MENA + Lebanon; Spain + North Africa; Spanish cooperatives) the cluster-pattern observation has become a load-bearing analytical lens. The canonical cluster-pattern vocabulary is in `talks/cluster-pattern-taxonomy.md` and archetype 06 draws on it. Three observations from the cluster-pattern taxonomy:
+- (a) **Cluster patterns are layered-mix, not single-pattern** — observed across LAC, MENA, and EU-cluster-pattern.
+- (b) **Cluster-with-three-structures is a cross-region pattern** — observed in Brazilian seed AI (multinational-corporate-pipelined Tier-2) and Spanish cooperative AI (Mondragón-federation-institutional Tier-2), with structurally-distinct Tier-2 substrates.
+- (c) **Cluster-with-state-substrate as substantive pattern** distinct from cluster-with-state-strategy; surfaced in Argentine beef AI (SENASA + SIGSA + World Bank financing) and partially Morocco Al Moutmir (OCP Group's state-corporate substrate).
+
+When the corpus grows materially (new regional cycles, new quote categories, new cooperatives), the methodology layer refreshes. The next iteration candidates: a *AI and labour* spine, a *AI in food processing* spine, a *cooperative-statutory-vs-corporate-statutory context* spine, and a *cluster-pattern-as-archetype* archetype (currently the cluster-pattern observation is hosted as a cross-cutting analytical lens rather than its own archetype). Each candidate emerges when the corpus has units that load-bearingly demonstrate the pattern.
 
 ## Files
-
 - `talks/README.md` (this file)
-- `talks/index.md` — quick-reference table of the five archetypes
+- `talks/index.md` — quick-reference table of the six archetypes
+- `talks/cluster-pattern-taxonomy.md` — canonical cluster-pattern vocabulary surfaced across six regional cycles
 - `talks/archetypes/01-vendor-sweep-primer.md`
 - `talks/archetypes/02-canadian-data-sovereignty.md`
 - `talks/archetypes/03-canadian-adoption-diagnosis.md`
 - `talks/archetypes/04-cooperative-alternative.md`
 - `talks/archetypes/05-critical-lens-indigenous-sovereignty.md`
+- `talks/archetypes/06-regional-cluster-comparison.md`

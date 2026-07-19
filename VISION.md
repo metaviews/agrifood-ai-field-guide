@@ -98,7 +98,7 @@ Each layer is built only when the layer below it is solid enough to support it.
 
 ## Status
 
-Early. The repository is scaffolded with the structural decisions recorded here. The first concrete task is the **initial environmental scan** under `scans/`, which feeds the first draft of the taxonomy under `taxonomy/`. From there, content units follow.
+Mid-July 2026. **Layer 1 (content library) is mature:** 134 units, 19 scans, 7 quote files (one is a multi-voice corpus), 5 taxonomy versions, and six regional deepening cycles (LAC deepening; Brazil beef + Chile-Canada; Argentine beef + Brazilian seed; MENA + Lebanon; Spain + North Africa; Spanish cooperatives) have produced the corpus's cluster-pattern analytical lens. **Layer 2 (methodology and templates) is now substantial:** six archetypes (vendor-sweep / data-sovereignty / adoption-diagnosis / cooperative-alternative / critical-lens / regional-cluster-comparison); canonical cluster-pattern vocabulary in `talks/cluster-pattern-taxonomy.md`; six-spine taxonomy with the user's confirmed principle "as many archetypes as our research encounters". **Layer 3 (generation tooling) has not started.** Layer 3 begins only when Layer 2 is solid enough to support automated assembly — that milestone is the one that signals deck-tooling readiness.
 
 ## Licensing
 
