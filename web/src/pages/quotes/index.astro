@@ -3,51 +3,133 @@ import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
 const quotes = await getCollection('quotes');
-quotes.sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
+
+// Each quote file has a '## Quote / Position' section with the actual
+// quote body. Pull it out and render inline so the index shows the
+// actual quote text, not just a filename-as-title listing.
+
+interface QuoteEntry {
+  id: string;
+  speaker: string | undefined;
+  organization: string | undefined;
+  category: string | undefined;
+  region: string | undefined;
+  bodyHtml: string;
+}
+
+function escapeHtml(s: string): string {
+  return s
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+const entries: QuoteEntry[] = [];
+for (const q of quotes) {
+  const rawText: string = (q as any).body ?? '';
+  const quoteMatch = rawText.match(
+    /^## Quote\s*\/\s*Position\s*\n+([\s\S]*?)(?=\n## |\n*$)/m
+  );
+  let bodyHtml = '';
+  if (quoteMatch) {
+    const body = quoteMatch[1].trim();
+    bodyHtml = body
+      .split('\n')
+      .map((line) => line.replace(/^>\s?/, '').trim())
+      .filter((line) => line.length > 0)
+      .join(' ');
+    bodyHtml = escapeHtml(bodyHtml);
+  }
+  entries.push({
+    id: q.id,
+    speaker: q.data.speaker,
+    organization: (q.data as any).organization,
+    category: q.data.category,
+    region: q.data.region,
+    bodyHtml,
+  });
+}
+
+// Group by category
+const byCategory: Record<string, QuoteEntry[]> = {};
+for (const e of entries) {
+  const cat = e.category ?? 'Other';
+  if (!byCategory[cat]) byCategory[cat] = [];
+  byCategory[cat].push(e);
+}
+for (const cat of Object.keys(byCategory)) {
+  byCategory[cat].sort((a, b) => (a.speaker ?? '').localeCompare(b.speaker ?? ''));
+}
+const categoryOrder = Object.keys(byCategory).sort();
 ---
 
-<Base title="Quotes" description="Speaker voices, verbatim and paraphrased.">
+<Base title="Quotes" description="Speaker voices — verbatim and paraphrased positions on AI in agrifood.">
   <h1>Quotes</h1>
   <p>
-    Speaker voices — verbatim quotes and paraphrased positions, organised by
-    category. For use in talks and to ground the corpus in named voices.
+    Named voices on AI in agrifood — verbatim statements and paraphrased
+    positions, grouped by category. Each quote has named source attribution
+    and links to its full context.
   </p>
-  {quotes.map((q) => {
-    const title = q.data.title ?? q.id;
-    return (
-      <article class="entry">
-        <h2><a href={`/quotes/${q.id}/`}>{title}</a></h2>
-      </article>
-    );
-  })}
+
+  {categoryOrder.map((cat) => (
+    <section class="quote-section">
+      <h2>{cat}</h2>
+      {byCategory[cat].map((e) => (
+        <article class="quote-entry">
+          <blockquote class="quote-body">
+            {e.bodyHtml}
+          </blockquote>
+          <p class="quote-attribution">
+            <a href={`/quotes/${e.id}/`}>{e.speaker ?? '(unnamed speaker)'}</a>
+            {e.organization && <span class="quote-org"> — {e.organization}</span>}
+          </p>
+        </article>
+      ))}
+    </section>
+  ))}
 </Base>
 
 <style>
-  .entry {
-    padding: 1rem 0;
+  .quote-section {
+    margin: 2.5rem 0;
+  }
+  .quote-section:first-of-type {
+    margin-top: 1.5rem;
+  }
+  .quote-section h2 {
+    font-size: 1.4rem;
+    color: var(--ink);
     border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.25em;
+    margin-bottom: 1rem;
   }
-  .entry h2 {
+  .quote-entry {
+    margin: 1.5rem 0;
+    padding-left: 1.2em;
+    border-left: 2px solid var(--rule);
+  }
+  .quote-body {
     margin: 0;
-    font-size: 1.15rem;
+    font-style: italic;
+    color: var(--ink);
+    line-height: 1.55;
   }
-  .entry h2 a {
+  .quote-attribution {
+    margin: 0.5em 0 0 0;
+    font-size: 0.9rem;
+    color: var(--ink-soft);
+  }
+  .quote-attribution a {
     color: var(--ink);
     text-decoration: none;
     border-bottom: 1px solid var(--rule);
+    font-style: normal;
   }
-  .meta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-    margin-top: 0.5em;
-    font-size: 0.85rem;
+  .quote-attribution a:hover {
+    border-bottom-color: var(--ink-soft);
   }
-  .tag {
-    background: var(--cream-soft);
-    border: 1px solid var(--rule);
-    padding: 0.1em 0.5em;
-    border-radius: 2px;
-    color: var(--ink-soft);
+  .quote-org {
+    color: var(--ink-faint);
   }
 </style>

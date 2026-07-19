@@ -1,55 +1,99 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
+import { bucketize, BUCKET_ORDER } from '../../unit-buckets.ts';
 
 const units = await getCollection('units');
 units.sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
 
-function regionGroup(unit: typeof units[number]): string {
-  return unit.data.region ?? unit.data.country ?? 'Unspecified';
+// Group units by bucket
+const byBucket: Record<string, typeof units> = {};
+for (const bucket of BUCKET_ORDER) {
+  byBucket[bucket.id] = [];
+}
+for (const unit of units) {
+  const buckets = bucketize(unit.data['sector-position']);
+  for (const b of buckets) {
+    if (byBucket[b]) byBucket[b].push(unit);
+  }
+}
+
+function titleOf(u: typeof units[number]): string {
+  return u.data.title ?? u.id;
 }
 ---
 
-<Base title="Units" description="Substantive knowledge units on AI in agrifood.">
+<Base title="Units" description="Substantive knowledge units on AI in agrifood, organised by sector.">
   <h1>Units</h1>
   <p>
-    Substantive knowledge units, organised by the
-    <a href="https://github.com/metaviews/agrifood-ai-field-guide/blob/main/taxonomy/v5.md">three-axis taxonomy</a>.
-    Each unit has source attribution and is written to be re-usable across talks.
+    Substantive knowledge units on concrete AI deployments in agrifood,
+    grouped by sector. Each unit has source attribution and is written to
+    be re-usable across talks.
   </p>
 
-  {units.map((unit) => {
-    const title = unit.data.title ?? unit.id;
+  {BUCKET_ORDER.map((bucket) => {
+    const list = byBucket[bucket.id];
+    if (list.length === 0) return null;
     return (
-      <article class="unit-entry">
-        <h2><a href={`/units/${unit.id}/`}>{title}</a></h2>
-        {unit.data.summary && <p class="summary">{unit.data.summary}</p>}
-      </article>
+      <section class="bucket">
+        <h2>{bucket.label}</h2>
+        <p class="bucket-desc">{bucket.description}</p>
+        <ul class="bucket-list">
+          {list.map((unit) => (
+            <li>
+              <a href={`/units/${unit.id}/`}>{titleOf(unit)}</a>
+              {unit.data.summary && <span class="bucket-summary"> — {unit.data.summary}</span>}
+            </li>
+          ))}
+        </ul>
+      </section>
     );
   })}
 </Base>
 
 <style>
-  .unit-entry {
-    padding: 1rem 0;
-    border-bottom: 1px solid var(--rule);
+  .bucket {
+    margin: 2.5rem 0;
   }
-  .unit-entry h2 {
-    margin-top: 0;
-    margin-bottom: 0.3em;
-    font-size: 1.25rem;
+  .bucket:first-of-type {
+    margin-top: 1.5rem;
   }
-  .unit-entry h2 a {
+  .bucket h2 {
+    font-size: 1.4rem;
     color: var(--ink);
-    text-decoration: none;
     border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.25em;
+    margin-bottom: 0.4em;
   }
-  .unit-entry h2 a:hover {
-    border-bottom-color: var(--ink-soft);
-  }
-  .summary {
+  .bucket-desc {
     color: var(--ink-soft);
     font-size: 0.95rem;
+    font-style: italic;
+    margin: 0 0 0.85em 0;
+  }
+  .bucket-list {
+    list-style: none;
+    padding: 0;
     margin: 0;
+  }
+  .bucket-list li {
+    padding: 0.35em 0;
+    border-bottom: 1px dotted var(--rule);
+    line-height: 1.5;
+  }
+  .bucket-list li:last-child {
+    border-bottom: none;
+  }
+  .bucket-list a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+  }
+  .bucket-list a:hover {
+    border-bottom-color: var(--ink-soft);
+  }
+  .bucket-summary {
+    color: var(--ink-soft);
+    font-size: 0.92em;
   }
 </style>

@@ -35,11 +35,16 @@ const fullTitle = title === 'Agrifood AI Field Guide'
     </main>
     <footer class="site-footer">
       <div class="container-wide">
-        <p>
+        <p class="footer-primary">
           Agrifood AI Field Guide &middot; knowledge base
           &middot; <a href="https://github.com/metaviews/agrifood-ai-field-guide">source on GitHub</a>
           &middot; <a href="https://metaviews.ca">metaviews.ca</a>
           &middot; CC BY 4.0
+        </p>
+        <p class="footer-secondary">
+          Built with <a href="https://hermes-agent.nousresearch.com/docs">Hermes Agent</a>
+          and <a href="https://nousresearch.com">MiniMax M3</a>
+          &middot; all corpus content is open source under CC BY 4.0
         </p>
       </div>
     </footer>
@@ -69,6 +74,14 @@ const fullTitle = title === 'Agrifood AI Field Guide'
       .site-footer p {
         margin: 0;
         text-align: center;
+      }
+      .footer-primary {
+        margin: 0 !important;
+      }
+      .footer-secondary {
+        font-size: 0.85rem;
+        color: var(--ink-faint);
+        margin-top: 0.4em !important;
       }
     </style>
   </body>
