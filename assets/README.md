@@ -35,7 +35,7 @@ The cover is appropriate for:
 - README header (top of `README.md`)
 - Talk archetype title slides
 - Cluster-pattern-taxonomy document header
-- Deck-generation tooling output (when built, per VISION.md Layer 3)
+- Deck-generation tooling output (when built, per VISION.md Layer 4)
 
 The cover is **not** appropriate for:
 

@@ -88,17 +88,18 @@ AI in agrifood raises recurring questions about farmer data sovereignty, vendor 
 
 ## Layers
 
-The project develops in three layers, in order:
+The project develops in four layers, in order:
 
 1. **Content library** — modular, source-attributed knowledge units, organised by the three-axis taxonomy. This is the substrate.
 2. **Methodology and templates** — repeatable ways to assemble the library into talks for different audiences, durations, and depth levels.
-3. **Generation tooling** — when the methodology is settled, tooling that helps assemble decks from the library. Built last, because automating a deck requires the deck's shape to already be known.
+3. **Web generation** — a public-facing website that renders the knowledge base for browsing, search, and reading. Built on Cloudflare Pages, hooked to the GitHub repo. The website surfaces units, scans, archetypes, cluster-pattern observations, and the cover image as the project's public face.
+4. **Deck generation** — slide-deck tooling that takes the methodology layer's assembled talks and produces presentation decks. Built last, because automating a deck requires the deck's shape to already be known.
 
-Each layer is built only when the layer below it is solid enough to support it.
+Each layer is built only when the layer below it is solid enough to support it. The web layer (3) and the deck layer (4) are distinct: the web is *browsing and reading*, optimised for navigation and search; the deck is *presenting*, optimised for slide-format rendering. Building the web first makes sense because the corpus already has a natural unit-by-unit reading structure; building the deck requires the methodology layer to settle into repeatable assembly patterns first.
 
 ## Status
 
-Mid-July 2026. **Layer 1 (content library) is mature:** 134 units, 19 scans, 7 quote files (one is a multi-voice corpus), 5 taxonomy versions, and six regional deepening cycles (LAC deepening; Brazil beef + Chile-Canada; Argentine beef + Brazilian seed; MENA + Lebanon; Spain + North Africa; Spanish cooperatives) have produced the corpus's cluster-pattern analytical lens. **Layer 2 (methodology and templates) is now substantial:** six archetypes (vendor-sweep / data-sovereignty / adoption-diagnosis / cooperative-alternative / critical-lens / regional-cluster-comparison); canonical cluster-pattern vocabulary in `talks/cluster-pattern-taxonomy.md`; six-spine taxonomy with the user's confirmed principle "as many archetypes as our research encounters". **Layer 3 (generation tooling) has not started.** Layer 3 begins only when Layer 2 is solid enough to support automated assembly — that milestone is the one that signals deck-tooling readiness.
+Mid-July 2026. **Layer 1 (content library) is mature:** 134 units, 19 scans, 7 quote files (one is a multi-voice corpus), 5 taxonomy versions, and six regional deepening cycles (LAC deepening; Brazil beef + Chile-Canada; Argentine beef + Brazilian seed; MENA + Lebanon; Spain + North Africa; Spanish cooperatives) have produced the corpus's cluster-pattern analytical lens. **Layer 2 (methodology and templates) is now substantial:** six archetypes (vendor-sweep / data-sovereignty / adoption-diagnosis / cooperative-alternative / critical-lens / regional-cluster-comparison); canonical cluster-pattern vocabulary in `talks/cluster-pattern-taxonomy.md`; six-spine taxonomy with the user's confirmed principle "as many archetypes as our research encounters". **Layer 3 (web generation) and Layer 4 (deck generation) have not started.** Layer 3 is a public-facing website built on Cloudflare Pages, hooked to the GitHub repo; Layer 4 is slide-deck tooling. Both are downstream of the methodology layer.
 
 ## Licensing
 

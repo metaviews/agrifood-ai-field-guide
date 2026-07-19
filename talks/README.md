@@ -91,13 +91,12 @@ Document deviations. When you deviate substantively, add notes — a third-tier 
 
 ## What this methodology layer is not
 
-- Not a slide-deck template. The library is markdown; the archetypes are markdown. Tools that produce slides from this are a Layer 3 concern (`VISION.md`).
+- Not a slide-deck template. The library is markdown; the archetypes are markdown. Tools that produce slides from this are a Layer 4 concern (`VISION.md`).
 - Not a presentation-skills manual. The focus is assembly of content, not delivery technique.
-- Not exhaustive. Five archetypes is a working set, not a complete library. New spines (e.g. *AI and labour*, *AI and the climate transition*) should be added when the corpus supports them.
+- Not exhaustive. Six archetypes is a working set, not a complete library. New spines (e.g. *AI and labour*, *AI and the climate transition*) should be added when the corpus supports them.
 
 ## Status and freshness
 
-The five archetypes are first iteration (July 2026). They exercise the full taxonomy (sector positions, AI classes, purposes, all eleven cross-cutting tags) and deploy representative units from each regional cycle. They are *the working example set*, not the only valid assemblies.
 The six archetypes are first iteration (July 2026), with archetype 06 added during the Japan+Korea cycle (mid-July 2026) and the cooperative-cluster-pattern refinement (Mondragón / COVAP / cluster-with-three-structures cross-region pattern) integrated after the Spanish cooperatives cycle (July 19 2026). The six archetypes exercise the full taxonomy (sector positions, AI classes, purposes, all fifteen v5 cross-cutting tags) and deploy representative units from each regional cycle. They are *the working example set*, not the only valid assemblies.
 
 **Cluster-pattern vocabulary.** Across six regional deepening cycles (LAC deepening; Brazil beef + Chile-Canada; Argentine beef + Brazilian seed; MENA + Lebanon; Spain + North Africa; Spanish cooperatives) the cluster-pattern observation has become a load-bearing analytical lens. The canonical cluster-pattern vocabulary is in `talks/cluster-pattern-taxonomy.md` and archetype 06 draws on it. Three observations from the cluster-pattern taxonomy:
