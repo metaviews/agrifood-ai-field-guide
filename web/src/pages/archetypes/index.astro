@@ -26,10 +26,6 @@ archetypes.sort((a, b) => {
           {num !== undefined && <span class="num">{String(num).padStart(2, '0')}</span>}
           <a href={`/archetypes/${arch.id}/`}>{title}</a>
         </h2>
-        <div class="meta">
-          {arch.data.audience && <span class="tag">audience: {arch.data.audience}</span>}
-          {arch.data.duration && <span class="tag">{arch.data.duration}</span>}
-        </div>
         {arch.data.summary && <p class="summary">{arch.data.summary}</p>}
       </article>
     );

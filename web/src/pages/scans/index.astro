@@ -17,10 +17,6 @@ scans.sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id))
     return (
       <article class="entry">
         <h2><a href={`/scans/${scan.id}/`}>{title}</a></h2>
-        <div class="meta">
-          {scan.data.region && <span class="tag">{scan.data.region}</span>}
-          {scan.data.date && <span class="tag">{scan.data.date}</span>}
-        </div>
         {scan.data.summary && <p class="summary">{scan.data.summary}</p>}
       </article>
     );

@@ -24,10 +24,6 @@ const num = arch.data.archetype_number;
     {num !== undefined && <span class="num">{String(num).padStart(2, '0')}</span>}
     {title}
   </h1>
-  <div class="meta">
-    {arch.data.audience && <span class="tag">audience: {arch.data.audience}</span>}
-    {arch.data.duration && <span class="tag">{arch.data.duration}</span>}
-  </div>
   <Content />
 </Base>
 

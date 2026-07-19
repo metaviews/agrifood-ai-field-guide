@@ -23,12 +23,6 @@ function regionGroup(unit: typeof units[number]): string {
     return (
       <article class="unit-entry">
         <h2><a href={`/units/${unit.id}/`}>{title}</a></h2>
-        <div class="meta">
-            {unit.data.region && <span class="tag">{unit.data.region}</span>}
-            {unit.data['sector-position'] && <span class="tag">{unit.data['sector-position']}</span>}
-            {unit.data['ai-technique-class'] && <span class="tag">AI: {unit.data['ai-technique-class']}</span>}
-            {unit.data['activity-status'] && <span class="tag">{unit.data['activity-status']}</span>}
-          </div>
         {unit.data.summary && <p class="summary">{unit.data.summary}</p>}
       </article>
     );
@@ -52,20 +46,6 @@ function regionGroup(unit: typeof units[number]): string {
   }
   .unit-entry h2 a:hover {
     border-bottom-color: var(--ink-soft);
-  }
-  .meta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-    margin-bottom: 0.5em;
-    font-size: 0.85rem;
-  }
-  .tag {
-    background: var(--cream-soft);
-    border: 1px solid var(--rule);
-    padding: 0.1em 0.5em;
-    border-radius: 2px;
-    color: var(--ink-soft);
   }
   .summary {
     color: var(--ink-soft);

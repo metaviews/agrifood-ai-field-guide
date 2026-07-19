@@ -17,12 +17,6 @@ quotes.sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id)
     return (
       <article class="entry">
         <h2><a href={`/quotes/${q.id}/`}>{title}</a></h2>
-        <div class="meta">
-          {q.data.speaker && <span class="tag">{q.data.speaker}</span>}
-          {q.data.category && <span class="tag">{q.data.category}</span>}
-          {q.data.region && <span class="tag">{q.data.region}</span>}
-          {q.data.quote_date && <span class="tag">{q.data.quote_date}</span>}
-        </div>
       </article>
     );
   })}

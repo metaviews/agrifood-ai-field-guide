@@ -9,59 +9,53 @@ const talks = await getCollection('talks');
 const archetypes = await getCollection('archetypes');
 ---
 
-<Base title="Agrifood AI Field Guide" cover={true} description="A knowledge base on artificial intelligence in agrifood systems — units, scans, talks, archetypes, and speaker voices.">
+<Base title="Agrifood AI Field Guide" cover={true} description="A working knowledge base on artificial intelligence in agrifood systems — concrete deployments, regional scans, talk methodology, and speaker voices.">
   <h1>Agrifood AI Field Guide</h1>
 
   <p>
-    A working knowledge base for public education on artificial intelligence in
-    agrifood systems. The project develops in four layers: a content library of
-    source-attributed units; a methodology layer of repeatable talk archetypes;
-    a public-facing website (this one); and slide-deck tooling.
+    A working knowledge base on artificial intelligence in agrifood systems.
+    Each unit documents a concrete AI deployment with named-source evidence;
+    scans synthesise multiple units into regional or topic overviews;
+    quotes carry the voices of named speakers.
   </p>
 
-  <h2>What this site contains</h2>
+  <h2>Browse the corpus</h2>
 
   <div class="counts">
     <a href="/units/" class="count-card">
       <span class="count-num">{units.length}</span>
       <span class="count-label">units</span>
-      <span class="count-desc">Substantive knowledge units with source attribution.</span>
+      <span class="count-desc">Concrete deployments of AI in agrifood, with sources.</span>
     </a>
     <a href="/scans/" class="count-card">
       <span class="count-num">{scans.length}</span>
       <span class="count-label">scans</span>
-      <span class="count-desc">Regional or topic scans synthesising multiple units.</span>
+      <span class="count-desc">Regional or topic overviews drawing on multiple units.</span>
+    </a>
+    <a href="/quotes/" class="count-card">
+      <span class="count-num">{quotes.length}</span>
+      <span class="count-label">quotes</span>
+      <span class="count-desc">Named speakers, verbatim and paraphrased.</span>
     </a>
     <a href="/talks/" class="count-card">
       <span class="count-num">{talks.length}</span>
       <span class="count-label">talks</span>
-      <span class="count-desc">Methodology and templates for assembling talks.</span>
+      <span class="count-desc">Methodology for assembling units into talks.</span>
     </a>
     <a href="/archetypes/" class="count-card">
       <span class="count-num">{archetypes.length}</span>
       <span class="count-label">archetypes</span>
       <span class="count-desc">Repeatable talk-assembly patterns.</span>
     </a>
-    <a href="/quotes/" class="count-card">
-      <span class="count-num">{quotes.length}</span>
-      <span class="count-label">quotes</span>
-      <span class="count-desc">Speaker voices, verbatim and paraphrased.</span>
-    </a>
   </div>
 
-  <h2>Project voice</h2>
-  <p>
-    The cover image above is the project's visual identity: a mountain-goat herd
-    on a rocky outcrop, looking out over an agricultural valley. Three goats
-    with three differentiated postures evoke diverse grazing method and
-    distributed observation. The goats are a graphical offset to academic prose;
-    they do not appear in unit, scan, or quote files, and they are not
-    referenced in cycle annotations or commit messages.
-  </p>
-
-  <p>
-    See <a href="https://github.com/metaviews/agrifood-ai-field-guide/blob/main/VISION.md">VISION.md</a>
-    on the source repository for the full project architecture.
+  <p class="about-link">
+    The source repository is on
+    <a href="https://github.com/metaviews/agrifood-ai-field-guide">GitHub</a>
+    &mdash; including the
+    <a href="https://github.com/metaviews/agrifood-ai-field-guide/blob/main/taxonomy/v5.md">taxonomy</a>,
+    <a href="https://github.com/metaviews/agrifood-ai-field-guide/blob/main/VISION.md">project vision</a>,
+    and contribution discipline.
   </p>
 </Base>
 
@@ -103,5 +97,10 @@ const archetypes = await getCollection('archetypes');
     font-size: 0.85rem;
     color: var(--ink-faint);
     margin-top: 0.3em;
+  }
+  .about-link {
+    margin-top: 2rem;
+    font-size: 0.95rem;
+    color: var(--ink-soft);
   }
 </style>

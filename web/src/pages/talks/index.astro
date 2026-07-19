@@ -20,10 +20,6 @@ talks.sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id))
     return (
       <article class="entry">
         <h2><a href={`/talks/${talk.id}/`}>{title}</a></h2>
-        <div class="meta">
-          {talk.data.audience && <span class="tag">audience: {talk.data.audience}</span>}
-          {talk.data.duration && <span class="tag">{talk.data.duration}</span>}
-        </div>
         {talk.data.summary && <p class="summary">{talk.data.summary}</p>}
       </article>
     );
