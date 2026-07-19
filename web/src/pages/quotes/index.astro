@@ -1,0 +1,59 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const quotes = await getCollection('quotes');
+quotes.sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
+---
+
+<Base title="Quotes" description="Speaker voices, verbatim and paraphrased.">
+  <h1>Quotes</h1>
+  <p>
+    Speaker voices — verbatim quotes and paraphrased positions, organised by
+    category. For use in talks and to ground the corpus in named voices.
+  </p>
+  {quotes.map((q) => {
+    const title = q.data.title ?? q.id;
+    return (
+      <article class="entry">
+        <h2><a href={`/quotes/${q.id}/`}>{title}</a></h2>
+        <div class="meta">
+          {q.data.speaker && <span class="tag">{q.data.speaker}</span>}
+          {q.data.category && <span class="tag">{q.data.category}</span>}
+          {q.data.region && <span class="tag">{q.data.region}</span>}
+          {q.data.quote_date && <span class="tag">{q.data.quote_date}</span>}
+        </div>
+      </article>
+    );
+  })}
+</Base>
+
+<style>
+  .entry {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .entry h2 {
+    margin: 0;
+    font-size: 1.15rem;
+  }
+  .entry h2 a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.5em;
+    font-size: 0.85rem;
+  }
+  .tag {
+    background: var(--cream-soft);
+    border: 1px solid var(--rule);
+    padding: 0.1em 0.5em;
+    border-radius: 2px;
+    color: var(--ink-soft);
+  }
+</style>

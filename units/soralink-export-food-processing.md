@@ -1,6 +1,6 @@
 ---
 id: soralink-export-food-processing
-title: SoraLINK × Saputo/Olymel/Agropur — AI predictive maintenance in Quebec's export-oriented food processing
+title: 'SoraLINK × Saputo/Olymel/Agropur — AI predictive maintenance in Quebec''s export-oriented food processing'
 sector-position: processing
 ai-technique-class: predictive-ml, sensors-and-iot-ml
 purpose: input-reduction, supply-chain-efficiency, governance
@@ -17,6 +17,7 @@ data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

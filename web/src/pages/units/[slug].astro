@@ -1,0 +1,54 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const units = await getCollection('units');
+  return units.map((unit) => ({
+    params: { slug: unit.id },
+    props: { unit },
+  }));
+}
+
+const { unit } = Astro.props;
+const { Content } = await render(unit);
+const title = unit.data.title ?? unit.id;
+---
+
+<Base title={title} description={unit.data.summary ?? `Unit: ${title}`}>
+  <nav class="back-link">
+    <a href="/units/">&larr; All units</a>
+  </nav>
+  <h1>{title}</h1>
+  <div class="meta">
+    {unit.data.region && <span class="tag">{unit.data.region}</span>}
+    {unit.data.country && <span class="tag">{unit.data.country}</span>}
+    {unit.data.sector && <span class="tag">sector: {unit.data.sector}</span>}
+    {unit.data.ai_class && <span class="tag">AI: {unit.data.ai_class}</span>}
+    {unit.data.purpose && <span class="tag">purpose: {unit.data.purpose}</span>}
+    {unit.data.claim_type && <span class="tag">{unit.data.claim_type}</span>}
+  </div>
+  <Content />
+</Base>
+
+<style>
+  .back-link {
+    font-size: 0.9rem;
+    color: var(--ink-soft);
+    margin-bottom: 1rem;
+  }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1.5em;
+    font-size: 0.85rem;
+  }
+  .tag {
+    background: var(--cream-soft);
+    border: 1px solid var(--rule);
+    padding: 0.15em 0.55em;
+    border-radius: 2px;
+    color: var(--ink-soft);
+  }
+</style>

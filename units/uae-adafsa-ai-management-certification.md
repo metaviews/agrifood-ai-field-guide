@@ -1,15 +1,15 @@
 ---
 id: uae-adafsa-ai-management-certification
-title: ADAFSA (UAE Abu Dhabi Agriculture and Food Safety Authority) — world's first ISO 42001:2023 AI management certification in agriculture + Khalifa University partnership
+title: 'ADAFSA (UAE Abu Dhabi Agriculture and Food Safety Authority) — world''s first ISO 42001:2023 AI management certification in agriculture + Khalifa University partnership'
 sector-position: cross-value-chain (regulatory + agricultural + food safety)
 ai-technique-class: (cross-technique; ISO 42001 governs AI deployment across all techniques)
 purpose: regulatory-compliance, AI-management-systems, supply-chain-quality-assurance
 claim-type: example
-activity-status: certified (ISO 42001:2023 received 2025)
+activity-status: 'certified (ISO 42001:2023 received 2025)'
 critical-voice: (none — government body; certification achievement)
 capital-intensity: state-funded
 language-literacy-profile: (not applicable — institutional regulatory framework)
-policy-instrument: national-AI-strategy (UAE AI Strategy 2031) + international-standards (ISO 42001:2023)
+policy-instrument: 'national-AI-strategy (UAE AI Strategy 2031) + international-standards (ISO 42001:2023)'
 region: Middle-East (UAE / Abu Dhabi)
 actor: ADAFSA (Abu Dhabi Agriculture and Food Safety Authority) — UAE federal-level agricultural regulatory body; partner Khalifa University
 actor-type: state-agency (federal); university (research partner)
@@ -17,6 +17,7 @@ data-governance: state-federal-internal
 data-rights-framework: state-federal-internal-with-regulatory-oversight
 last-verified: 2026-07-19
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

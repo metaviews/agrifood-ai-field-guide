@@ -1,0 +1,107 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const units = await getCollection('units');
+const scans = await getCollection('scans');
+const quotes = await getCollection('quotes');
+const talks = await getCollection('talks');
+const archetypes = await getCollection('archetypes');
+---
+
+<Base title="Agrifood AI Field Guide" cover={true} description="A knowledge base on artificial intelligence in agrifood systems — units, scans, talks, archetypes, and speaker voices.">
+  <h1>Agrifood AI Field Guide</h1>
+
+  <p>
+    A working knowledge base for public education on artificial intelligence in
+    agrifood systems. The project develops in four layers: a content library of
+    source-attributed units; a methodology layer of repeatable talk archetypes;
+    a public-facing website (this one); and slide-deck tooling.
+  </p>
+
+  <h2>What this site contains</h2>
+
+  <div class="counts">
+    <a href="/units/" class="count-card">
+      <span class="count-num">{units.length}</span>
+      <span class="count-label">units</span>
+      <span class="count-desc">Substantive knowledge units with source attribution.</span>
+    </a>
+    <a href="/scans/" class="count-card">
+      <span class="count-num">{scans.length}</span>
+      <span class="count-label">scans</span>
+      <span class="count-desc">Regional or topic scans synthesising multiple units.</span>
+    </a>
+    <a href="/talks/" class="count-card">
+      <span class="count-num">{talks.length}</span>
+      <span class="count-label">talks</span>
+      <span class="count-desc">Methodology and templates for assembling talks.</span>
+    </a>
+    <a href="/archetypes/" class="count-card">
+      <span class="count-num">{archetypes.length}</span>
+      <span class="count-label">archetypes</span>
+      <span class="count-desc">Repeatable talk-assembly patterns.</span>
+    </a>
+    <a href="/quotes/" class="count-card">
+      <span class="count-num">{quotes.length}</span>
+      <span class="count-label">quotes</span>
+      <span class="count-desc">Speaker voices, verbatim and paraphrased.</span>
+    </a>
+  </div>
+
+  <h2>Project voice</h2>
+  <p>
+    The cover image above is the project's visual identity: a mountain-goat herd
+    on a rocky outcrop, looking out over an agricultural valley. Three goats
+    with three differentiated postures evoke diverse grazing method and
+    distributed observation. The goats are a graphical offset to academic prose;
+    they do not appear in unit, scan, or quote files, and they are not
+    referenced in cycle annotations or commit messages.
+  </p>
+
+  <p>
+    See <a href="https://github.com/metaviews/agrifood-ai-field-guide/blob/main/VISION.md">VISION.md</a>
+    on the source repository for the full project architecture.
+  </p>
+</Base>
+
+<style>
+  .counts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 0.85rem;
+    margin: 1.5rem 0 2rem 0;
+  }
+  .count-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2em;
+    padding: 0.95rem 1rem;
+    background: var(--cream-soft);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    text-decoration: none;
+    color: var(--ink);
+    transition: border-color 0.15s, background 0.15s;
+  }
+  .count-card:hover {
+    border-color: var(--ink-soft);
+    background: var(--cream-dark);
+  }
+  .count-num {
+    font-size: 1.85rem;
+    font-weight: 600;
+    color: var(--ink);
+    line-height: 1;
+  }
+  .count-label {
+    font-size: 1rem;
+    color: var(--ink-soft);
+    font-style: italic;
+  }
+  .count-desc {
+    font-size: 0.85rem;
+    color: var(--ink-faint);
+    margin-top: 0.3em;
+  }
+</style>

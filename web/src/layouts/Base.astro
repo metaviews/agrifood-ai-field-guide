@@ -1,0 +1,74 @@
+---
+import '../styles/global.css';
+import Nav from '../components/Nav.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  cover?: boolean;
+}
+
+const { title, description, cover = false } = Astro.props;
+const fullTitle = title === 'Agrifood AI Field Guide'
+  ? title
+  : `${title} | Agrifood AI Field Guide`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description ?? 'A knowledge base on artificial intelligence in agrifood systems.'} />
+    <title>{fullTitle}</title>
+    <link rel="icon" type="image/png" href="/favicon.png" />
+  </head>
+  <body>
+    <Nav />
+    {cover && (
+      <div class="cover-band">
+        <img src="/cover.png" alt="Agrifood AI Field Guide cover: mountain goat herd overlooking agricultural valley" />
+      </div>
+    )}
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container-wide">
+        <p>
+          Agrifood AI Field Guide &middot; knowledge base
+          &middot; <a href="https://github.com/metaviews/agrifood-ai-field-guide">source on GitHub</a>
+          &middot; CC BY 4.0
+        </p>
+      </div>
+    </footer>
+
+    <style>
+      .cover-band {
+        background: var(--cream-soft);
+        border-bottom: 1px solid var(--rule);
+        text-align: center;
+        padding: 1.25rem 0 0.5rem 0;
+      }
+      .cover-band img {
+        max-width: 56rem;
+        width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+      }
+      .site-footer {
+        background: var(--cream-soft);
+        border-top: 1px solid var(--rule);
+        padding: 1.5rem 0;
+        margin-top: 4rem;
+        color: var(--ink-soft);
+        font-size: 0.9rem;
+      }
+      .site-footer p {
+        margin: 0;
+        text-align: center;
+      }
+    </style>
+  </body>
+</html>

@@ -10,17 +10,19 @@ critical-voice: (none directly — vendor framing dominates the public surface)
 capital-intensity: industrial (small-engine + FRP + electronic-control equipment, deployed at rice-grower cooperative distribution level)
 language-literacy-profile: (not applicable — equipment-side, no farmer UI dependency)
 policy-instrument: regulatory (Japanese government's 2014 revision to the Aircraft Manufacturing Industry Act, lifting max takeoff weight 100kg → 150kg, enabled the FAZER R generation; the policy was under the "aggressive agriculture policy" labelling)
-region: East-Asia (Japan; rice-paddy deployment primary; Australia and US deployments via Yamaha's FAA exemption secondary)
+region: 'East-Asia (Japan; rice-paddy deployment primary; Australia and US deployments via Yamaha''s FAA exemption secondary)'
 actor: Yamaha Motor Co., Ltd. (Iwata, Shizuoka, Japan)
 actor-type: vendor
 data-governance: proprietary (Yamaha's product-franchise; data flows opaque)
 data-rights-framework: vendor-owned
 maturity-scale: S3-S4 (vendor-reported 2.4M acres / 35%+ Japan rice-field coverage; modern fleet size unverified post-2015)
-maturity-verification: V0 on fleet / acres / coverage figures (vendor-reported via Yamaha's FAA exemption filing); V2 on historical 1,220 units by 2001 figure (academic citation, *RMAX helicopter UAV* paper)
-maturity-longevity: L4 (generational / legacy: 1997 RMAX, 2000 RMAX G0 autopilot, 2003 GPS-augmented Type II G, 2006 RMAX G1 RTK-DGPS, 2016 FAZER R, multi-decade stable product line)
+maturity-verification: 'V0 on fleet / acres / coverage figures (vendor-reported via Yamaha''s FAA exemption filing); V2 on historical 1,220 units by 2001 figure (academic citation, *RMAX helicopter UAV* paper)'
+maturity-longevity: 'L4 (generational / legacy: 1997 RMAX, 2000 RMAX G0 autopilot, 2003 GPS-augmented Type II G, 2006 RMAX G1 RTK-DGPS, 2016 FAZER R, multi-decade stable product line)'
 maturity-translation: T3 (institutional pathway via Japanese agricultural cooperative machinery distribution; FAA exemption gives US commercial-service path)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
+
 ---
 
 # Yamaha Motor — FAZER / RMAX unmanned helicopter precision aerial-spraying platform

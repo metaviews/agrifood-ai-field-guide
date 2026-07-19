@@ -1,6 +1,6 @@
 ---
 id: niqo-robotics-india
-title: Niqo Robotics — AI spot-spray ground robotics, the corpus's strongest smallholder-physical-AI unit in South Asia
+title: 'Niqo Robotics — AI spot-spray ground robotics, the corpus''s strongest smallholder-physical-AI unit in South Asia'
 sector-position: on-farm-production-open-field
 ai-technique-class: robotics-autonomy-ground, computer-vision
 purpose: input-reduction, yield-optimisation, climate-adaptation
@@ -15,12 +15,14 @@ actor: Niqo Robotics (Bengaluru, India; founded 2015 as TartanSense, rebranded M
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
-maturity-scale: S2 (early deployed: 50 units, 120,000 acres per Omnivore 2024; 140,000 acres cumulative + 3,000+ farmers per NITI Aayog 2024 — figure consistency gap recorded in G-068)
+maturity-scale: 'S2 (early deployed: 50 units, 120,000 acres per Omnivore 2024; 140,000 acres cumulative + 3,000+ farmers per NITI Aayog 2024 — figure consistency gap recorded in G-068)'
 maturity-verification: V1 (NITI Aayog tier-1 state policy source corroborates Omnivore tier-5 investor report figures)
-maturity-longevity: L2 (multi-generation operational: founded 2015, rebranded 2023, deployment accelerating through 2024-2026)
+maturity-longevity: 'L2 (multi-generation operational: founded 2015, rebranded 2023, deployment accelerating through 2024-2026)'
 maturity-translation: T2 (multiple operational deployments across Maharashtra + Karnataka + USA; institutional endorsement via NITI Aayog)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
+
 ---
 
 # Niqo Robotics — AI spot-spray ground robotics

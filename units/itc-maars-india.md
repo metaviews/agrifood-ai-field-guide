@@ -17,10 +17,11 @@ data-governance: proprietary
 data-rights-framework: vendor-owned (conglomerate-owned; FPO-mediated)
 maturity-scale: S3 (>2.3M farmers, >2,100 FPOs, 11 states, multi-commodity — wheat, soybean, millets)
 maturity-verification: V0 (vendor-reported scale figures and impact estimates; tier-1 ITC portal + tier-5 trade press)
-maturity-longevity: L3 (mature / durable: built on 25-year e-Choupal network; deployed 2022 with clear roadmap to 2030)
+maturity-longevity: 'L3 (mature / durable: built on 25-year e-Choupal network; deployed 2022 with clear roadmap to 2030)'
 maturity-translation: T3 (institutional adoption pathway via FPO + ICAR + 19 banking / input / crop-nutrition partners)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 # ITCMAARS — the conglomerate-phygital AI farmer platform built on 25 years of e-Choupal

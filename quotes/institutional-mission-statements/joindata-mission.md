@@ -6,12 +6,13 @@ speaker-role: Independent non-profit cooperative
 organization: JoinData (Netherlands)
 region: EU-Netherlands
 date: 2017 (founded)
-source-url: https://join-data.nl/en/about-joindata/
+source-url: 'https://join-data.nl/en/about-joindata/'
 source-publication: JoinData website
 units-referenced-in: joindata-netherlands,data-commons-architecture
 tags: theme=data-governance,theme=cooperative-commons,region=EU-Netherlands,language=English,intended-use-in-talk=framing-support
 context-summary: JoinData mission — the first agricultural data cooperative. Anchors the operational layer of the data commons architecture.
 freshness: current
+
 ---
 
 ## Quote / Position

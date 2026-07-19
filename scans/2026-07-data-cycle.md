@@ -1,3 +1,8 @@
+---
+title: Data Cycle
+date: 2026-07
+---
+
 # Data Cycle — July 2026
 
 **Status.** Cross-cutting scan. Distinct from the regional cycles (Canada, China, France, Latin America, Global South, NA/EU industry, Quebec). This scan is about the *data substrate* that all agrifood AI deployment depends on — a precondition that has been implicit throughout the field guide and is now foregrounded.

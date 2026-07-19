@@ -6,12 +6,13 @@ speaker-role: Indigenous data governance alliance
 organization: Global Indigenous Data Alliance (GIDA)
 region: Global
 date: 2025-08
-source-url: https://www.iwgia.org/en/articles/iw-2026-indigenous-data-sovereignty
+source-url: 'https://www.iwgia.org/en/articles/iw-2026-indigenous-data-sovereignty'
 source-publication: IWGIA Indigenous World 2026 (citing GIDA "CARE Directs Us Home" communiqué, August 2025)
 units-referenced-in: indigenous-data-sovereignty
 tags: theme=indigenous-data-sovereignty,theme=data-governance,region=Global,language=English,intended-use-in-talk=primary-quote
-context-summary: GIDA's August 2025 "CARE Directs Us Home" communiqué — warns against treating CARE as a static compliance checklist. Substantive implementation caution.
+context-summary: 'GIDA''s August 2025 "CARE Directs Us Home" communiqué — warns against treating CARE as a static compliance checklist. Substantive implementation caution.'
 freshness: current
+
 ---
 
 ## Quote / Position

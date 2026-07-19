@@ -1,0 +1,22 @@
+{
+  "name": "agrifood-ai-field-guide-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Public-facing website for the Agrifood AI Field Guide knowledge base. Built with Astro, deployed via Cloudflare Pages.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@astrojs/mdx": "^3.1.9",
+    "@astrojs/rss": "^4.0.9",
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.18.2",
+    "pagefind": "^1.1.1",
+    "typescript": "^5.6.3"
+  }
+}

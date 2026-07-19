@@ -1,3 +1,8 @@
+---
+title: Spain + North Africa Deepening Scan
+date: 2026-07
+---
+
 # Spain + North Africa Deepening Scan — July 19 2026
 
 **Status.** Two-phase cycle (scout + deep). Builds on:

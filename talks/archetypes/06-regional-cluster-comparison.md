@@ -1,3 +1,8 @@
+---
+title: 'Archetype 06 — How countries shape their agrifood AI cluster: a regional comparison'
+archetype_number: 6
+---
+
 # Archetype 06 — How countries shape their agrifood AI cluster: a regional comparison
 
 **A regional-cluster-comparison talk for academic and policy audiences — the meta-pattern archetype.**

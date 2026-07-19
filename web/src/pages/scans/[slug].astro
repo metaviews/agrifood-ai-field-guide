@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const scans = await getCollection('scans');
+  return scans.map((scan) => ({
+    params: { slug: scan.id },
+    props: { scan },
+  }));
+}
+
+const { scan } = Astro.props;
+const { Content } = await render(scan);
+const title = scan.data.title ?? scan.id;
+---
+
+<Base title={title} description={scan.data.summary ?? `Scan: ${title}`}>
+  <nav class="back-link">
+    <a href="/scans/">&larr; All scans</a>
+  </nav>
+  <h1>{title}</h1>
+  <div class="meta">
+    {scan.data.region && <span class="tag">{scan.data.region}</span>}
+    {scan.data.date && <span class="tag">{scan.data.date}</span>}
+  </div>
+  <Content />
+</Base>
+
+<style>
+  .back-link { font-size: 0.9rem; color: var(--ink-soft); margin-bottom: 1rem; }
+  .meta { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.5em; font-size: 0.85rem; }
+  .tag {
+    background: var(--cream-soft);
+    border: 1px solid var(--rule);
+    padding: 0.15em 0.55em;
+    border-radius: 2px;
+    color: var(--ink-soft);
+  }
+</style>

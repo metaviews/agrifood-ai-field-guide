@@ -11,12 +11,13 @@ capital-intensity: state-backed-corporate (OCP Group + Moroccan state)
 language-literacy-profile: farmer-facing (Arabic + French + Berber — Morocco multilingual)
 policy-instrument: Green Generation 2020-2030 (state strategy) + OCP Group institutional (multilateral phosphate finance)
 region: Morocco (North Africa)
-actor: OCP Group (Moroccan state-affiliated phosphate multinational — world's largest phosphate reserves and fertilizer producer); Al Moutmir Program (OCP-led since September 2018); Moroccan Ministry of Agriculture (Green Generation 2020-2030 lead); ICARDA / INRA Morocco (research partners); IRESEN (renewable-energy-and-green-tech research institute; corpus-track)
+actor: 'OCP Group (Moroccan state-affiliated phosphate multinational — world''s largest phosphate reserves and fertilizer producer); Al Moutmir Program (OCP-led since September 2018); Moroccan Ministry of Agriculture (Green Generation 2020-2030 lead); ICARDA / INRA Morocco (research partners); IRESEN (renewable-energy-and-green-tech research institute; corpus-track)'
 actor-type: state-corporate (OCP Group); state-strategy (Moroccan Green Generation); research-institute (ICARDA, INRA Morocco)
 data-governance: OCP-controlled (state-affiliated)
 data-rights-framework: state-corporate-internal
 last-verified: 2026-07-19
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

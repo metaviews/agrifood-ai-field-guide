@@ -10,7 +10,7 @@ critical-voice: food-sovereignty (state-stewarded multilateral governance frame 
 capital-intensity: (cross-cutting — multilateral-state-funded with capacity-building commitments to developing-country members; vendor-layer deployments to follow per member-state priority)
 language-literacy-profile: (cross-cutting — member-state-led; Chinese-language and English-language operational framing per Xinhua)
 policy-instrument: regulatory, fiscal, strategy (multilateral agreement + announced capacity-building including 5,000 AI research projects for developing-country members over next five years; functions as the China-side counterweight to OECD-anchored AI governance frames)
-region: East-Asia (institutional leadership: China, headquartered in Shanghai; multi-continent membership spanning East-Asia, South-Asia, Central Asia, Africa, Latin America, MENA)
+region: 'East-Asia (institutional leadership: China, headquartered in Shanghai; multi-continent membership spanning East-Asia, South-Asia, Central Asia, Africa, Latin America, MENA)'
 actor: WAICO secretariat (Shanghai; formation in progress as of mid-July 2026) — operating under signed agreement of 29 founding member states with Chinese Foreign Minister Wang Yi signing on behalf of China; UN Secretary-General Guterres attending ceremony as institutional observer
 actor-type: state-agency (multilateral; treaty-based intergovernmental organisation)
 data-governance: state-stewarded (the institution's frame is state-led multilateral AI governance; per-vertical data-rights posture not yet specified at signing)
@@ -21,6 +21,7 @@ maturity-longevity: L0 (first-generation operational; announced July 2026; no ge
 maturity-translation: T2 (institutional pathway via the signed agreement + UN General Assembly Resolution A/RES/79/325 dialogue track + member-state national policy frameworks — but the WAICO-specific translation mechanism is not yet operational for agriculture applications)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 # WAICO — World Artificial Intelligence Cooperation Organisation

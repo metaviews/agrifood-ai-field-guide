@@ -1,6 +1,6 @@
 ---
 id: wagri-japan-agricultural-data-platform
-title: WAGRI — Japan's Agricultural Data Collaboration Platform (NARO operating body, MAFF oversight)
+title: 'WAGRI — Japan''s Agricultural Data Collaboration Platform (NARO operating body, MAFF oversight)'
 sector-position: (cross-cutting — data infrastructure serving on-farm through consumption)
 ai-technique-class: predictive-ml, decision-support-systems, generative-ai-llms
 purpose: supply-chain-efficiency, governance, climate-adaptation, food-security-sovereignty
@@ -16,11 +16,13 @@ actor-type: state-agency (with NARO as operating body)
 data-governance: state-stewarded (WAGRI is described in the MAFF official explainer as "the agricultural data platform combining 'WA (which means circle in Japanese)' that links various data and services and 'WA (which means harmony in Japanese)' that promotes further harmonization of various communities")
 data-rights-framework: state-stewarded
 maturity-scale: S2 (operational at national scale since April 2019; specific ICT-vendor customer count unverified publicly)
-maturity-verification: V1 (peer-reviewed architecture documentation: Kawamura 2022, *Smart Agricultural Technology*, cited 16, describing WAGRI's ICT-vendor API architecture; official MAFF platform explainer PDF documents the data categories and API providers)
+maturity-verification: 'V1 (peer-reviewed architecture documentation: Kawamura 2022, *Smart Agricultural Technology*, cited 16, describing WAGRI''s ICT-vendor API architecture; official MAFF platform explainer PDF documents the data categories and API providers)'
 maturity-longevity: L3 (operational since April 2019; multi-year with continuous operation through 2026; NARO maintenance logs visible at the live operator site through 2026)
-maturity-translation: T3 (institutional pathway: NARO operating body + MAFF oversight + ICT vendor / agricultural machinery manufacturer service-development layer + farmer-facing application layer)
+maturity-translation: 'T3 (institutional pathway: NARO operating body + MAFF oversight + ICT vendor / agricultural machinery manufacturer service-development layer + farmer-facing application layer)'
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
+
 ---
 
 # WAGRI — Japan's Agricultural Data Collaboration Platform

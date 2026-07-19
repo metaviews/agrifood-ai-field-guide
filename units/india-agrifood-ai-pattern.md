@@ -1,6 +1,6 @@
 ---
 id: india-agrifood-ai-pattern
-title: India agrifood AI pattern — three private + one state, layered on a DPI substrate (the corpus's first South-Asia meta-pattern unit)
+title: 'India agrifood AI pattern — three private + one state, layered on a DPI substrate (the corpus''s first South-Asia meta-pattern unit)'
 sector-position: (cross-cutting — meta-pattern observation)
 ai-technique-class: (cross-cutting — all major technique classes represented)
 purpose: (cross-cutting — all major purpose categories represented)
@@ -15,12 +15,14 @@ actor: (composite — Cropin + ITCMAARS + Niqo + DAM + IndiaAI Mission)
 actor-type: (composite — vendor + industry + state-agency)
 data-governance: mixed (proprietary for vendor layer, proprietary-conglomerate for ITCMAARS, state-stewarded for DAM)
 data-rights-framework: mixed (vendor-owned, state-stewarded, FPO-mediated)
-maturity-scale: S3 (composite: 76.3M farmer IDs in DAM alone; 7M farmers in Cropin; 2.3M farmers in ITCMAARS; 3,000+ farmers in Niqo; >38.8M farmers reached via monsoon forecast pilot)
+maturity-scale: 'S3 (composite: 76.3M farmer IDs in DAM alone; 7M farmers in Cropin; 2.3M farmers in ITCMAARS; 3,000+ farmers in Niqo; >38.8M farmers reached via monsoon forecast pilot)'
 maturity-verification: V0 (all scale figures vendor- or state-reported; the pattern claim itself is corroborated by Huda et al. 2026 peer-reviewed survey)
-maturity-longevity: L2 (multi-generation operational: e-Choupal heritage 25 years; Cropin since 2010; DAM first-generation; Niqo L2 with 2023 rebrand)
+maturity-longevity: 'L2 (multi-generation operational: e-Choupal heritage 25 years; Cropin since 2010; DAM first-generation; Niqo L2 with 2023 rebrand)'
 maturity-translation: T3 (institutional adoption pathway via DAM + FPO + KVK + Microsoft + WEF IMPACT AI framework)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
+
 ---
 
 # India agrifood AI pattern — three private + one state, layered

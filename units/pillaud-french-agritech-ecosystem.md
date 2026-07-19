@@ -1,6 +1,6 @@
 ---
 id: pillaud-french-agritech-ecosystem
-title: Hervé Pillaud's French agritech AI ecosystem — the cooperative / commons network
+title: 'Hervé Pillaud''s French agritech AI ecosystem — the cooperative / commons network'
 sector-position: (cross-cutting — ecosystem mapping)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
@@ -17,6 +17,7 @@ data-governance: co-operative / commons
 data-rights-framework: co-operative
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

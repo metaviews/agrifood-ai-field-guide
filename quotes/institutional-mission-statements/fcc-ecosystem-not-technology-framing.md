@@ -6,12 +6,13 @@ speaker-role: Canadian federal Crown corporation
 organization: Farm Credit Canada (FCC)
 region: NA-Canada
 date: 2026-05-27
-source-url: https://www.fcc-fac.ca/en/knowledge/economics/ai-opportunities-canadian-agriculture-food
+source-url: 'https://www.fcc-fac.ca/en/knowledge/economics/ai-opportunities-canadian-agriculture-food'
 source-publication: FCC (May 27, 2026)
 units-referenced-in: fcc-ecosystem-not-technology,fcc-canada-ai-adoption
 tags: theme=policy-framework,theme=ai-deployment,region=NA-Canada,language=English,intended-use-in-talk=primary-quote
-context-summary: FCC's ecosystem-not-technology framing — Canadian AI adoption is constrained by ecosystem factors, not technology availability. Worth knowing for the institutional-policy voice.
+context-summary: 'FCC''s ecosystem-not-technology framing — Canadian AI adoption is constrained by ecosystem factors, not technology availability. Worth knowing for the institutional-policy voice.'
 freshness: current
+
 ---
 
 ## Quote / Position

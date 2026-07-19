@@ -1,3 +1,8 @@
+---
+title: Scan
+date: 2026-07
+---
+
 # Scan — India Cycle: AI in Indian Agrifood (July 2026)
 
 **Status / scope / method / cutoff.**

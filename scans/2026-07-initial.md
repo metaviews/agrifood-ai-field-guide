@@ -1,3 +1,8 @@
+---
+title: Initial Environmental Scan
+date: 2026-07
+---
+
 # Initial Environmental Scan — July 2026
 
 **Scope.** A first working scan of activity around artificial intelligence in the agrifood sector — research, deployment, criticism, policy, and adjacent practice — to seed the field guide's taxonomy and surface where activity is, where it isn't, and where the framing is contested.

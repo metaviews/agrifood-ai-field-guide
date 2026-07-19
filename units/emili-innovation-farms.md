@@ -12,11 +12,12 @@ language-literacy-profile: standard-smartphone
 policy-instrument: (none)
 region: NA-Canada (Manitoba)
 actor: Enterprise Machine Intelligence and Learning Initiative (EMILI)
-actor-type: (multi-type: industry-led nonprofit; classified as industry-association for taxonomy purposes)
+actor-type: '(multi-type: industry-led nonprofit; classified as industry-association for taxonomy purposes)'
 data-governance: co-operative / commons
 data-rights-framework: co-operative
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

@@ -11,12 +11,13 @@ capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: regulatory (USDA-NIFA AI Institute); strategy (carbon markets, climate-smart agriculture)
 region: NA-US (U Minnesota Twin Cities lead; multi-state partner network)
-actor: AI-CLIMATE Institute (lead: University of Minnesota Twin Cities)
+actor: 'AI-CLIMATE Institute (lead: University of Minnesota Twin Cities)'
 actor-type: academic
 data-governance: mixed (research data public; carbon-market partner data proprietary)
 data-rights-framework: distributed (research outputs public; deployed carbon-accounting tools vary)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

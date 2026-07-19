@@ -15,12 +15,13 @@ actor: Cropin Technology (Bengaluru, India; founded 2010)
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
-maturity-scale: S3 (deployed at scale: 30M acres digitized, 100+ B2B customers, 103 countries, multi-region; but adoption depth per farmer still constrained by data layer)
+maturity-scale: 'S3 (deployed at scale: 30M acres digitized, 100+ B2B customers, 103 countries, multi-region; but adoption depth per farmer still constrained by data layer)'
 maturity-verification: V0 (vendor-reported scale figures — functionally V1 because customer-named across continents and partner-corroborated via ADPC + Google Cloud)
-maturity-longevity: L2 (multi-generation operational: 15 years, SmartFarm 2010 → Cropin Cloud 2018 → OrbitAI 2026; three generations)
+maturity-longevity: 'L2 (multi-generation operational: 15 years, SmartFarm 2010 → Cropin Cloud 2018 → OrbitAI 2026; three generations)'
 maturity-translation: T2 (multiple operational deployments across enterprise customers and development-agency pilots; translation arm via Cropin AI Labs)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 # Cropin — AI-first agrifood platform, the largest deployment substrate in South Asia

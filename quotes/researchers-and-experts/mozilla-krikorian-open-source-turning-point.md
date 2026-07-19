@@ -6,12 +6,13 @@ speaker-role: Chief Technology Officer
 organization: Mozilla Foundation
 region: Global
 date: 2026-07-14
-source-url: https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/
+source-url: 'https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/'
 source-publication: Mozilla blog post (July 14, 2026), accompanying the State of Open Source AI report
 units-referenced-in: mozilla-state-of-open-source-ai-2026,open-source-in-agrifood-framework
 tags: theme=policy-framework,theme=ai-deployment,region=Global,language=English,intended-use-in-talk=primary-quote
-context-summary: Mozilla CTO's load-bearing framing of the open-source AI moment. Worth knowing for any talk about open-source AI in agrifood.
+context-summary: 'Mozilla CTO''s load-bearing framing of the open-source AI moment. Worth knowing for any talk about open-source AI in agrifood.'
 freshness: current
+
 ---
 
 ## Quote / Position

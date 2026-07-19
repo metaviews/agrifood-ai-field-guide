@@ -1,3 +1,8 @@
+---
+title: Regional Scans
+date: 2026-07
+---
+
 # Regional Scans — July 2026
 
 **Status.** Three regional extensions to `scans/2026-07-initial.md`. Read together they update the initial scan's claim about geographic balance.

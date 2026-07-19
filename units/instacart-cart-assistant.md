@@ -11,12 +11,13 @@ capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: (none)
 region: NA-US (Instacart operates across US cities; OpenAI partnership announced December 8, 2025; Cart Assistant mobile-app-level US consumer reach)
-actor: Instacart (deployer); OpenAI (technology partner — Agentic Commerce Protocol and Instant Checkout); parent: Maplebear Inc.
+actor: 'Instacart (deployer); OpenAI (technology partner — Agentic Commerce Protocol and Instant Checkout); parent: Maplebear Inc.'
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

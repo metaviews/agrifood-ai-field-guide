@@ -1,3 +1,8 @@
+---
+title: LAC Deepening Scan
+date: 2026-07
+---
+
 # LAC Deepening Scan — Latin America and the Caribbean — July 19 2026
 
 **Status.** Deepening scan. Builds directly on `scans/2026-07-regional-lac.md` (the corpus's existing LAC regional scan from earlier in July 2026) by surfacing six new verified deployments, reframing the LAC cluster-pattern observation against the recon pass at `~/ai-agrifood/recon-lac-agrifood-ai-2026-07-19.md`, and updating the contested-claim and gaps ledgers.

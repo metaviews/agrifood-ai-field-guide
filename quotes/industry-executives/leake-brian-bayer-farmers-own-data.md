@@ -6,12 +6,13 @@ speaker-role: Spokesperson
 organization: Bayer (Climate FieldView)
 region: NA-US
 date: 2026-03
-source-url: https://civileats.com/2026/03/23/a-hidden-crop-for-corporate-tech-farm-data/
+source-url: 'https://civileats.com/2026/03/23/a-hidden-crop-for-corporate-tech-farm-data/'
 source-publication: Civil Eats (March 23, 2026); Bayer statement
 units-referenced-in: proprietary-farm-data
 tags: theme=data-rights,theme=data-governance,region=NA-US,language=English,intended-use-in-talk=primary-quote
-context-summary: Bayer's corporate framing of farmer-data ownership. Worth knowing because the framing is real but partial — operational reality (Civil Eats analysis) shows contracts favor businesses.
+context-summary: 'Bayer''s corporate framing of farmer-data ownership. Worth knowing because the framing is real but partial — operational reality (Civil Eats analysis) shows contracts favor businesses.'
 freshness: current
+
 ---
 
 ## Quote / Position

@@ -1,6 +1,6 @@
 ---
 id: japan-korea-agrifood-ai-pattern
-title: Japan and Korea agrifood AI pattern — equipment-vendor industrial automation (Japan) + state-anchored cluster programme (Korea), in parallel — the corpus's first multi-country East-Asia meta-pattern
+title: 'Japan and Korea agrifood AI pattern — equipment-vendor industrial automation (Japan) + state-anchored cluster programme (Korea), in parallel — the corpus''s first multi-country East-Asia meta-pattern'
 sector-position: (cross-cutting — meta-pattern observation across the value chain)
 ai-technique-class: (cross-cutting — all major technique classes represented across the seven anchor units)
 purpose: (cross-cutting — all major purpose categories represented; ageing-farmer succession is the shared structural driver)
@@ -15,12 +15,14 @@ actor: (composite — Spread Co. + Yamaha Motor + Kubota + Yanmar + WAGRI + ioCr
 actor-type: (composite — vendor + state-agency; the structural distinction is *who leads* in each country — Japan vendors lead, Korea state leads)
 data-governance: mixed (vendor-proprietary for industrial automation; state-stewarded for DPI substrates and smart-farming clusters)
 data-rights-framework: mixed (vendor-owned for industrial automation; state-stewarded for DPI substrates; cooperative-translation potential for Korean NACF/NongHyup is unexplored — G-079)
-maturity-scale: S2-S3 (composite: 30,000 heads/day Spread Co. Keihanna; 2.4M acres Yamaha aerial-spraying; seven Smart Farm Innovation Valley sites with 208 enrolled / 168 active trainees; ioCrops multi-country operational; Daedong AI Lab H1 2026 release pending)
+maturity-scale: 'S2-S3 (composite: 30,000 heads/day Spread Co. Keihanna; 2.4M acres Yamaha aerial-spraying; seven Smart Farm Innovation Valley sites with 208 enrolled / 168 active trainees; ioCrops multi-country operational; Daedong AI Lab H1 2026 release pending)'
 maturity-verification: V0-V2 (Spread operating-rate V1; WAGRI architecture V1; Yamaha acres-and-coverage V0; Korea Smart Farm Innovation Valley V1 via FAO; ioCrops V2 via Ceccarelli 2022; Daedong V0 self-statement)
 maturity-longevity: L1-L4 (Yamaha FAZER/RMAX L4 35-year product line; WAGRI L3 since April 2019; Spread L2 multi-site; Smart Farm Innovation Valley L1 first-gen since 2018; Daedong L1 first-gen since 2024)
 maturity-translation: T2-T3 (Japan-side vendor T3 with FAA exemption path / corporate R&D; Korea-side state T3 with MAFRA + RDA institutional pathway; corporate T2 via Doosan Robotics + Daedong partnership)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
+
 ---
 
 # Japan and Korea agrifood AI pattern — equipment-vendor industrial automation (Japan) + state-anchored cluster programme (Korea)

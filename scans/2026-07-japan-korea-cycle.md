@@ -1,3 +1,8 @@
+---
+title: Scan
+date: 2026-07
+---
+
 # Scan — Japan + Korea Cycle: AI in Japanese and Korean Agrifood (July 2026)
 
 ## 1. Why this cycle now

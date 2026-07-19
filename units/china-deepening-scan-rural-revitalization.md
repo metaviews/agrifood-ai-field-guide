@@ -1,6 +1,6 @@
 ---
 id: china-deepening-scan-rural-revitalization
-title: China's rural revitalisation and Digital Villages policy framework — the state-directed umbrella
+title: 'China''s rural revitalisation and Digital Villages policy framework — the state-directed umbrella'
 sector-position: (cross-cutting — policy framework)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
@@ -17,6 +17,7 @@ data-governance: state-stewarded
 data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

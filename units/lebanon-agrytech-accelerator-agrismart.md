@@ -12,11 +12,12 @@ language-literacy-profile: consumer-facing (Arabic-language WhatsApp chatbot)
 policy-instrument: Lebanese-economic-development-program (Berytech) + international-foundation-partnership
 region: Middle-East (Lebanon; partial focus of cycle)
 actor: Berytech (Lebanese ecosystem for entrepreneurs) + Agrytech Accelerator Program; AgriSmart (Berytech Agrytech Batch 7 Phase 2; co-founders Elie Salloum + Jamal Merhej); Ground Vertical Farming (Berytech Agrytech graduate; vertical-farming startup); KARYA, Luxeed, FoodSight, others in Agrytech cohort (future units)
-actor-type: (cluster) Lebanese startup-ecosystem: ecosystem-foundation (Berytech); startup (AgriSmart, Ground Vertical Farming, others)
+actor-type: '(cluster) Lebanese startup-ecosystem: ecosystem-foundation (Berytech); startup (AgriSmart, Ground Vertical Farming, others)'
 data-governance: (multiple — startup-internal)
 data-rights-framework: (multiple)
 last-verified: 2026-07-19
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

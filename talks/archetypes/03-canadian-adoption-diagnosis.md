@@ -1,3 +1,8 @@
+---
+title: 'Archetype 03 — Canada lags and that''s the story'
+archetype_number: 3
+---
+
 # Archetype 03 — Canada lags and that's the story
 
 **An adoption-diagnosis talk for policy and leadership audiences.**

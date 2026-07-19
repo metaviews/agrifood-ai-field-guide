@@ -1,3 +1,8 @@
+---
+title: Industry Activity in North America and Europe
+date: 2026-07
+---
+
 # Industry Activity in North America and Europe — July 2026
 
 **Status.** Fifth and sixth regional scans combined. Distinct from the prior scans in *purpose*: the prior scans balanced mainstream / institutional / critical; these scans lean toward **industry activity** because the field guide's stance is *curious, critical, and collaborative* — and the curious side has been under-populated.

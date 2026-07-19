@@ -1,0 +1,46 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base title="Search" description="Search the Agrifood AI Field Guide corpus.">
+  <h1>Search</h1>
+  <p>
+    Search the corpus by keyword. Powered by
+    <a href="https://pagefind.app/">Pagefind</a>; the index is built at
+    deployment time.
+  </p>
+
+  <div id="search"></div>
+
+  <noscript>
+    <p>
+      Search requires JavaScript. The site is otherwise navigable without
+      JavaScript; each section has its own index page.
+    </p>
+  </noscript>
+
+  <script is:inline>
+    // Pagefind runs after Astro's build completes, so the assets it produces
+    // don't exist at static-analysis time. We inject the script tag at runtime
+    // instead of declaring it as a static <script src="..."> in this template.
+    (function () {
+      var css = document.createElement('link');
+      css.rel = 'stylesheet';
+      css.href = '/pagefind/pagefind-ui.css';
+      document.head.appendChild(css);
+
+      var s = document.createElement('script');
+      s.src = '/pagefind/pagefind-ui.js';
+      s.onload = function () {
+        // @ts-ignore
+        new PagefindUI({
+          element: '#search',
+          showImages: false,
+          showSubResults: true,
+          resetStyles: false,
+        });
+      };
+      document.head.appendChild(s);
+    })();
+  </script>
+</Base>

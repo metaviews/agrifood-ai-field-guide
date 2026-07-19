@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allTalks = await getCollection('talks');
+  return allTalks.map((talk) => ({
+    params: { slug: talk.id },
+    props: { talk },
+  }));
+}
+
+const { talk } = Astro.props;
+const { Content } = await render(talk);
+const title = talk.data.title ?? talk.id;
+---
+
+<Base title={title} description={talk.data.summary ?? `Talk: ${title}`}>
+  <nav class="back-link">
+    <a href="/talks/">&larr; All talks</a>
+  </nav>
+  <h1>{title}</h1>
+  <div class="meta">
+    {talk.data.audience && <span class="tag">audience: {talk.data.audience}</span>}
+    {talk.data.duration && <span class="tag">{talk.data.duration}</span>}
+  </div>
+  <Content />
+</Base>
+
+<style>
+  .back-link { font-size: 0.9rem; color: var(--ink-soft); margin-bottom: 1rem; }
+  .meta { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.5em; font-size: 0.85rem; }
+  .tag {
+    background: var(--cream-soft);
+    border: 1px solid var(--rule);
+    padding: 0.15em 0.55em;
+    border-radius: 2px;
+    color: var(--ink-soft);
+  }
+</style>

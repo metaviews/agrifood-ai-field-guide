@@ -11,12 +11,13 @@ capital-intensity: enterprise
 language-literacy-profile: (not applicable — supply-chain AI)
 policy-instrument: corporate-public-commitment
 region: South-America (Brazil origin; multi-continent exporter)
-actor: JBS S.A. (Brazil; world's largest beef processor)
+actor: 'JBS S.A. (Brazil; world''s largest beef processor)'
 actor-type: vendor (industry-leader processor; deploys AI on its own supply chain)
 data-governance: proprietary
 data-rights-framework: corporate-internal
 last-verified: 2026-07-19
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

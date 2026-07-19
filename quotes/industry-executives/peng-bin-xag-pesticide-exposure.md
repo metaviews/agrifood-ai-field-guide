@@ -3,15 +3,16 @@ id: peng-bin-xag-pesticide-exposure
 type: verbatim-quote
 speaker: Peng Bin
 speaker-role: Founder / CEO
-organization: XAG (China's largest agricultural drone service provider)
+organization: 'XAG (China''s largest agricultural drone service provider)'
 region: East-Asia
 date: 2018
-source-url: https://www.scmp.com/tech/enterprises/article/3006246/meet-man-behind-one-chinas-biggest-agricultural-drone-makers
+source-url: 'https://www.scmp.com/tech/enterprises/article/3006246/meet-man-behind-one-chinas-biggest-agricultural-drone-makers'
 source-publication: South China Morning Post (2018)
 units-referenced-in: xag-china-drone-leader
 tags: theme=worker-conditions,theme=vendor-deployment,region=East-Asia,language=English,intended-use-in-talk=primary-quote
-context-summary: Peng's origin narrative frames XAG's drone deployment as labour-saving / farmer-safety technology. Distinct from productivity-efficiency framings. Worth knowing for the worker-conditions motivation of agricultural automation.
+context-summary: 'Peng''s origin narrative frames XAG''s drone deployment as labour-saving / farmer-safety technology. Distinct from productivity-efficiency framings. Worth knowing for the worker-conditions motivation of agricultural automation.'
 freshness: historical
+
 ---
 
 ## Quote / Position

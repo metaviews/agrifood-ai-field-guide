@@ -1,3 +1,8 @@
+---
+title: 'Archetype 04 — The cooperative alternative'
+archetype_number: 4
+---
+
 # Archetype 04 — The cooperative alternative
 
 **A cooperative-alternative deep-dive for policy, cooperative, and academic audiences.**

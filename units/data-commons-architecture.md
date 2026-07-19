@@ -12,11 +12,12 @@ language-literacy-profile: (not applicable)
 policy-instrument: regulatory; strategy
 region: Global (with country-specific operational examples)
 actor: JoinData, NAPDC / Ag Data Coop, OADA, Ag Data Transparent, FAIR Principles
-actor-type: (multi-type: farmer-cooperative, state-agency, standards-body, civil-society)
+actor-type: '(multi-type: farmer-cooperative, state-agency, standards-body, civil-society)'
 data-governance: not applicable
 data-rights-framework: not applicable
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

@@ -1,3 +1,8 @@
+---
+title: 'Archetype 01 — What''s actually deployed'
+archetype_number: 1
+---
+
 # Archetype 01 — What's actually deployed
 
 **A vendor-sweep primer for non-specialist audiences.**

@@ -10,13 +10,14 @@ critical-voice: digital-equity
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: regulatory (USDA-NIFA AFRI competitive grant); strategy (USDA FY2025-2026 AI Strategy)
-region: NA-US (WSU lead; multi-state: Oregon State, University of Maryland, Iowa State collaborators)
-actor: AgAID Institute (lead: Washington State University; Director Ananth Kalyanaraman)
+region: 'NA-US (WSU lead; multi-state: Oregon State, University of Maryland, Iowa State collaborators)'
+actor: 'AgAID Institute (lead: Washington State University; Director Ananth Kalyanaraman)'
 actor-type: academic
 data-governance: mixed (research data via Cooperative Extension partnerships; proprietary vendor integrations where commercialised)
 data-rights-framework: distributed (research outputs are public; deployed extensions vary by partner)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

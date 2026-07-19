@@ -1,6 +1,6 @@
 ---
 id: mcdonalds-ibm-ai-drive-thru-discontinued
-title: McDonald's × IBM AI drive-thru — the largest NA QSR AI deployment that ended in 2024
+title: 'McDonald''s × IBM AI drive-thru — the largest NA QSR AI deployment that ended in 2024'
 sector-position: consumption
 ai-technique-class: generative-ai-and-llms (voice-based conversational ordering)
 purpose: consumer-facing, worker-conditions
@@ -10,13 +10,14 @@ critical-voice: (none directly — vendor framing, with worker-conditions concer
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone (no consumer-end UI; the drive-thru surface was the consumer touchpoint)
 policy-instrument: (none)
-region: NA-US (McDonald's pilot in 100+ US drive-thru locations; IBM operated the technology stack from McD Tech Labs acquired Dec 2021)
-actor: McDonald's (deployer); IBM (technology vendor — McD Tech Labs acquired Dec 2021, returned to IBM June 2024)
+region: 'NA-US (McDonald''s pilot in 100+ US drive-thru locations; IBM operated the technology stack from McD Tech Labs acquired Dec 2021)'
+actor: 'McDonald''s (deployer); IBM (technology vendor — McD Tech Labs acquired Dec 2021, returned to IBM June 2024)'
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

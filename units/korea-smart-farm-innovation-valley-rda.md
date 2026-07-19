@@ -10,7 +10,7 @@ critical-voice: food-sovereignty (state-anchored agrifood cluster programme targ
 capital-intensity: mixed (state-funded infrastructure; incubation approach supports both industrial-scale anchor farms and smallholder young-farmer integration)
 language-literacy-profile: mixed (Korean-language curriculum; vendor-built operational applications; international expansion via FAO Digital Villages Initiative)
 policy-instrument: regulatory, fiscal, strategy (the *Act on Fostering and Supporting Smart Farming* provides statutory frame; Smart Farm Innovation Valley is operational programme; 30%-by-2027 target is strategy anchor)
-region: East-Asia (Korea; Republic of Korea, four provincial sites: Sangju-Gyeongsangbuk, Gimje-Jeollabuk, Milyang-Gyeongsangnam, Goheung-Jeollanam)
+region: 'East-Asia (Korea; Republic of Korea, four provincial sites: Sangju-Gyeongsangbuk, Gimje-Jeollabuk, Milyang-Gyeongsangnam, Goheung-Jeollanam)'
 actor: Republic of Korea — Ministry of Agriculture, Food and Rural Affairs (MAFRA), operational via Rural Development Administration (RDA), with provincial co-location
 actor-type: state-agency (with FAO Digital Villages Initiative international recognition)
 data-governance: mixed (state-anchored cluster; vendor-ICT-stack controlled at site level)
@@ -18,9 +18,10 @@ data-rights-framework: state-stewarded (the cluster is government-programme-anch
 maturity-scale: S2 (four sites operational; trainee pipeline 208 enrolled / 168 active as of 2022; FAO Digital Villages recognition for Sangju; Smart Farmland Distribution Centers scaling 14 → 26 → 100)
 maturity-verification: V1 (FAO Digital Villages Initiative independently profiles Sangju with site-by-site trainee and specialisation data; MAFRA-act target independently cited in OECD 2025 Korea agricultural policy monitoring; FFTC policy briefs name operational details)
 maturity-longevity: L1 (first-generation operational since 2018 Startup Incubation Centre launch; trainee pipeline from 104 (2019) → 208 (2022) demonstrates operational durability)
-maturity-translation: T3 (institutional pathway: MAFRA + RDA + provincial governments + Startup Incubation Centres + Smart Farmland Distribution Centers + FAO Digital Villages international anchor)
+maturity-translation: 'T3 (institutional pathway: MAFRA + RDA + provincial governments + Startup Incubation Centres + Smart Farmland Distribution Centers + FAO Digital Villages international anchor)'
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 # Korea — Smart Farm Innovation Valley (Sangju, Gimje, Milyang, Goheung)

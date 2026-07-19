@@ -11,12 +11,13 @@ capital-intensity: (not applicable — institutional deployment infrastructure)
 language-literacy-profile: standard-smartphone
 policy-instrument: strategy (Extension Foundation report; USDA-NIFA New Technologies for Ag Extension funding)
 region: NA-US (national Land-grant system; all 50 states)
-actor: Extension Foundation (lead authors: Aaron Weibe, Dhruti Patel, David Warren, Mark Locklear)
-actor-type: (multi-type: industry-association for Extension Foundation; USDA-NIFA funded; academic-via-Extension-affiliated-universities)
+actor: 'Extension Foundation (lead authors: Aaron Weibe, Dhruti Patel, David Warren, Mark Locklear)'
+actor-type: '(multi-type: industry-association for Extension Foundation; USDA-NIFA funded; academic-via-Extension-affiliated-universities)'
 data-governance: mixed (Extension data partly public; vendor-integrated tools proprietary)
 data-rights-framework: distributed (research outputs public; deployed extension tools vary)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

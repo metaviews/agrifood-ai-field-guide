@@ -11,12 +11,13 @@ capital-intensity: industrial
 language-literacy-profile: (not applicable)
 policy-instrument: (none)
 region: NA-US (Hyrum UT initial deployment; planned scale-out to other JBS USA plants)
-actor: JBS USA (operator; world's largest meat processor); Völur (Norway-origin, US business; AI vendor)
+actor: 'JBS USA (operator; world''s largest meat processor); Völur (Norway-origin, US business; AI vendor)'
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

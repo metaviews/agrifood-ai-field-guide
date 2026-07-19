@@ -6,12 +6,13 @@ speaker-role: Editorial framing
 organization: A Growing Culture (agrifood / food sovereignty Substack publication)
 region: Global
 date: 2023-01-25
-source-url: https://agrowingculture.substack.com/p/the-open-source-ethos
+source-url: 'https://agrowingculture.substack.com/p/the-open-source-ethos'
 source-publication: A Growing Culture, Offshoot (Substack), January 25, 2023
 units-referenced-in: open-source-in-agrifood-framework
 tags: theme=cooperative-commons,theme=indigenous-data-sovereignty,region=Global,language=English,intended-use-in-talk=primary-quote
-context-summary: A Growing Culture's explicit bridge between software open source, scholarly open access, biological open-pollination, and traditional seed saving. The conceptual move from "open source as technical choice" to "open source as cultural continuation of agricultural heritage."
+context-summary: 'A Growing Culture''s explicit bridge between software open source, scholarly open access, biological open-pollination, and traditional seed saving. The conceptual move from "open source as technical choice" to "open source as cultural continuation of agricultural heritage."'
 freshness: current
+
 ---
 
 ## Quote / Position

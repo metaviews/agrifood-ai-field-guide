@@ -1,3 +1,8 @@
+---
+title: France Cycle
+date: 2026-07
+---
+
 # France Cycle — July 2026
 
 **Status.** New regional cycle. Extends the EU coverage from `scans/2026-07-regional-industry-na-eu.md` (which covered NA + EU industry activity) and `scans/2026-07-initial.md` (which had EP study as the EU anchor).

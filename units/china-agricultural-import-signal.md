@@ -1,6 +1,6 @@
 ---
 id: china-agricultural-import-signal
-title: China's agricultural import signal — 2026-2035 outlook: 26.2% decline in soybean imports from 2025 record
+title: 'China''s agricultural import signal — 2026-2035 outlook: 26.2% decline in soybean imports from 2025 record'
 sector-position: (cross-cutting — affects all import-dependent sectors)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
@@ -17,6 +17,7 @@ data-governance: state-stewarded
 data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

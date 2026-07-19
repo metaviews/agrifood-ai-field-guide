@@ -6,12 +6,13 @@ speaker-role: University Research Chair in Digital Livestock Farming
 organization: Dalhousie University (Faculty of Agriculture + Faculty of Computer Science); Mooanalytica research team lead
 region: NA-Canada
 date: 2024-2026
-source-url: https://www.dal.ca/news/2026/03/30/agriculture-technology-artificial-intelligence.html
+source-url: 'https://www.dal.ca/news/2026/03/30/agriculture-technology-artificial-intelligence.html'
 source-publication: Dalhousie news (March 30, 2026); Policy Options / academic publications
 units-referenced-in: neethirajan-dalhousie-ecosystem
 tags: theme=policy-framework,theme=ai-deployment,region=NA-Canada,language=English,intended-use-in-talk=primary-quote
-context-summary: Neethirajan's framing of Canadian AI policy as urban-centric — distinct from IPES-Food corporate lens, distinct from Pillaud cooperative lens. The Canadian academic-policy critique.
+context-summary: 'Neethirajan''s framing of Canadian AI policy as urban-centric — distinct from IPES-Food corporate lens, distinct from Pillaud cooperative lens. The Canadian academic-policy critique.'
 freshness: current
+
 ---
 
 ## Quote / Position

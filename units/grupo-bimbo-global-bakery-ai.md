@@ -11,12 +11,13 @@ capital-intensity: enterprise
 language-literacy-profile: (not applicable — internal corporate deployment)
 policy-instrument: (none)
 region: North-America (Mexico HQ; multi-continent corporate including India subsidiary deployment)
-actor: Grupo Bimbo (Mexico HQ; corporate; world's largest bakery)
+actor: 'Grupo Bimbo (Mexico HQ; corporate; world''s largest bakery)'
 actor-type: vendor (industry-leader processor)
 data-governance: proprietary
 data-rights-framework: corporate-internal
 last-verified: 2026-07-19
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

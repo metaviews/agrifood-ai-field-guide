@@ -1,6 +1,6 @@
 ---
 id: jd-farm-iot-blockchain
-title: JD Farm — vertically integrated IoT, AI, and blockchain from China's largest retailer
+title: 'JD Farm — vertically integrated IoT, AI, and blockchain from China''s largest retailer'
 sector-position: on-farm-production-open-field, animal-production
 ai-technique-class: computer-vision, sensors-and-iot-ml
 purpose: supply-chain-efficiency, traceability
@@ -17,6 +17,7 @@ data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

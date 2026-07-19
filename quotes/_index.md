@@ -1,3 +1,7 @@
+---
+title: 'Quotes and Paraphrased Positions — Index'
+---
+
 # Quotes and Paraphrased Positions — Index
 
 This is the filterable index of all entries in the `quotes/` directory. See `quotes/README.md` for the schema and maintenance discipline.

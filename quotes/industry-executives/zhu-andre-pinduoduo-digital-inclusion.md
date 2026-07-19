@@ -3,15 +3,16 @@ id: zhu-andre-pinduoduo-digital-inclusion
 type: verbatim-quote
 speaker: Andre Zhu
 speaker-role: Senior Vice President
-organization: Pinduoduo (China's largest agricultural e-commerce platform)
+organization: 'Pinduoduo (China''s largest agricultural e-commerce platform)'
 region: East-Asia
 date: 2020-12
-source-url: https://techcrunch.com/2020/12/16/pinduoduo-agritech/
+source-url: 'https://techcrunch.com/2020/12/16/pinduoduo-agritech/'
 source-publication: TechCrunch (December 2020)
 units-referenced-in: pinduoduo-smart-agriculture-competition
 tags: theme=vendor-deployment,theme=food-sovereignty,region=East-Asia,language=English,intended-use-in-talk=primary-quote
-context-summary: Pinduoduo SVP frames the platform's agritech investment as 'digital inclusion' — distinct from productivity-efficiency framings dominant in Western vendor marketing.
+context-summary: 'Pinduoduo SVP frames the platform''s agritech investment as ''digital inclusion'' — distinct from productivity-efficiency framings dominant in Western vendor marketing.'
 freshness: current
+
 ---
 
 ## Quote / Position

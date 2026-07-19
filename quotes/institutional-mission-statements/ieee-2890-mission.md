@@ -6,12 +6,13 @@ speaker-role: Standards body
 organization: IEEE Standards Association
 region: Global
 date: 2025-08 (approved after 5-year development)
-source-url: https://standards.ieee.org/ieee/2890/10318/
+source-url: 'https://standards.ieee.org/ieee/2890/10318/'
 source-publication: IEEE Standards Association
 units-referenced-in: indigenous-data-sovereignty,data-commons-architecture
 tags: theme=data-governance,theme=data-rights,theme=indigenous-data-sovereignty,region=Global,language=English,intended-use-in-talk=framing-support
-context-summary: IEEE 2890-2025 — world's first global standard for provenance of Indigenous data. Operationalises CARE Principles into industry specifications.
+context-summary: 'IEEE 2890-2025 — world''s first global standard for provenance of Indigenous data. Operationalises CARE Principles into industry specifications.'
 freshness: current
+
 ---
 
 ## Quote / Position

@@ -1,0 +1,75 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const units = await getCollection('units');
+units.sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
+
+function regionGroup(unit: typeof units[number]): string {
+  return unit.data.region ?? unit.data.country ?? 'Unspecified';
+}
+---
+
+<Base title="Units" description="Substantive knowledge units on AI in agrifood.">
+  <h1>Units</h1>
+  <p>
+    Substantive knowledge units, organised by the
+    <a href="https://github.com/metaviews/agrifood-ai-field-guide/blob/main/taxonomy/v5.md">three-axis taxonomy</a>.
+    Each unit has source attribution and is written to be re-usable across talks.
+  </p>
+
+  {units.map((unit) => {
+    const title = unit.data.title ?? unit.id;
+    return (
+      <article class="unit-entry">
+        <h2><a href={`/units/${unit.id}/`}>{title}</a></h2>
+        <div class="meta">
+            {unit.data.region && <span class="tag">{unit.data.region}</span>}
+            {unit.data['sector-position'] && <span class="tag">{unit.data['sector-position']}</span>}
+            {unit.data['ai-technique-class'] && <span class="tag">AI: {unit.data['ai-technique-class']}</span>}
+            {unit.data['activity-status'] && <span class="tag">{unit.data['activity-status']}</span>}
+          </div>
+        {unit.data.summary && <p class="summary">{unit.data.summary}</p>}
+      </article>
+    );
+  })}
+</Base>
+
+<style>
+  .unit-entry {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .unit-entry h2 {
+    margin-top: 0;
+    margin-bottom: 0.3em;
+    font-size: 1.25rem;
+  }
+  .unit-entry h2 a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .unit-entry h2 a:hover {
+    border-bottom-color: var(--ink-soft);
+  }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 0.5em;
+    font-size: 0.85rem;
+  }
+  .tag {
+    background: var(--cream-soft);
+    border: 1px solid var(--rule);
+    padding: 0.1em 0.5em;
+    border-radius: 2px;
+    color: var(--ink-soft);
+  }
+  .summary {
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+    margin: 0;
+  }
+</style>

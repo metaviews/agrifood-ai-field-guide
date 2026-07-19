@@ -1,0 +1,11 @@
+name = "agrifood-ai-field-guide"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "dist"
+
+# Custom domain is configured in the Cloudflare Pages dashboard:
+# Pages -> agrifood-ai-field-guide -> Custom domains -> agrifood.metaviews.ca
+#
+# DNS for agrifood.metaviews.ca must include a CNAME record pointing to
+# the Pages project. Cloudflare provisions this automatically when the
+# custom domain is added via the dashboard if metaviews.ca is already on
+# Cloudflare DNS.

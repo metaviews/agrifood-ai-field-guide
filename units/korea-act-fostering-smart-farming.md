@@ -18,9 +18,10 @@ data-rights-framework: state-stewarded (the Act explicitly positions the state a
 maturity-scale: S2 (four Smart Farm Innovation Valley sites operational; four zonal designations 2025; Smart Farmland Distribution Centers scaling 14 → 26 → planned 100)
 maturity-verification: V1 (OECD 2025 *Korea Agricultural Policy Monitoring and Evaluation* cites the Act + 30%-by-2027 target as MAFRA priority; FFTC policy briefs name operational details; FAO Digital Villages Initiative independently profiles Sangju)
 maturity-longevity: L2 (statute enacted; multi-year operational layer; trainee pipeline operational across 2018 SIC launch → 2019 → 2022)
-maturity-translation: T3 (institutional pathway: MAFRA + RDA + provincial governments + Startup Incubation Centres + FAO international anchor)
+maturity-translation: 'T3 (institutional pathway: MAFRA + RDA + provincial governments + Startup Incubation Centres + FAO international anchor)'
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 # Korea — *Act on Fostering and Supporting Smart Farming*

@@ -1,3 +1,9 @@
+---
+title: 'Regional Scan: Latin America and the Caribbean'
+date: 2026-07
+
+---
+
 # Regional Scan: Latin America and the Caribbean — July 2026
 
 **Status.** Fourth regional scan. Extends `scans/2026-07-initial.md` and `scans/2026-07-regional.md`.

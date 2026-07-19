@@ -1,3 +1,8 @@
+---
+title: Open Source in Agrifood
+date: 2026-07
+---
+
 # Open Source in Agrifood — July 2026 Cross-Cutting Synthesis
 
 **Status.** Cross-cutting scan. Distinct from the regional cycles. Synthesises how open source already weaves through the field guide's 49 units, 9 scan documents, and 24 quote entries. Anchored in the Mozilla State of Open Source AI report (July 14, 2026), the A Growing Culture "Open Source Ethos" framing (January 25, 2023), and the FAO / OSPOs for Good perspective.

@@ -18,9 +18,10 @@ data-rights-framework: vendor-owned
 maturity-scale: S3 (30,000 heads/day capacity at Keihanna; Techno Farm Fukuroi designed for 10 tons/day, 8 tons packaged)
 maturity-verification: V1 (operating rate 99% peer-trade-reported via VerticalFarmDaily; Series A $30M third-party reported via Green Queen; 80% automation / 97% yield / 96.6% water-reduction figures from Kyoto tech-companies aggregator)
 maturity-longevity: L2 (Techno Farm Keihanna operating since November 2018; Kameoka precursor was 6 years to profitability; multi-site expansion via Fukuroi + planned Narita shows multi-generation operational pattern)
-maturity-translation: T3 (institutional pathway: $30M Series A 2023 to expand globally; partner J Leaf / JXTG Group for Techno Farm Narita; Vertical Farming association membership)
+maturity-translation: 'T3 (institutional pathway: $30M Series A 2023 to expand globally; partner J Leaf / JXTG Group for Techno Farm Narita; Vertical Farming association membership)'
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 # Spread Co. — Techno Farm Keihanna (and Techno Farm Fukuroi)

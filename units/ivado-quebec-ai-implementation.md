@@ -1,6 +1,6 @@
 ---
 id: ivado-quebec-ai-implementation
-title: IVADO — Quebec-side implementation partner for Canada's *AI for All* strategy
+title: 'IVADO — Quebec-side implementation partner for Canada''s *AI for All* strategy'
 sector-position: (cross-cutting — implementation / policy partner)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
@@ -17,6 +17,7 @@ data-governance: state-stewarded
 data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

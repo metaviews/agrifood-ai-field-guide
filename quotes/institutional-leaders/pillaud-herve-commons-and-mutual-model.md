@@ -6,12 +6,13 @@ speaker-role: Co-founder, La Ferme Digitale
 organization: La Ferme Digitale (French agtech association)
 region: EU-France
 date: 2025-04
-source-url: https://www.inrae.fr/en/reports/can-ai-make-agriculture-more-sustainable/ferme-digitale-hub-agritech-innovation
+source-url: 'https://www.inrae.fr/en/reports/can-ai-make-agriculture-more-sustainable/ferme-digitale-hub-agritech-innovation'
 source-publication: INRAE report on La Ferme Digitale (April 2025)
 units-referenced-in: pillaud-french-agritech-ecosystem,la-ferme-digitale-gaia
 tags: theme=cooperative-commons,theme=data-governance,region=EU-France,language=English,intended-use-in-talk=primary-quote
-context-summary: Pillaud's framing of the commons response — drawing on cooperative tradition. Anchors the cooperative / commons AI infrastructure alternative.
+context-summary: 'Pillaud''s framing of the commons response — drawing on cooperative tradition. Anchors the cooperative / commons AI infrastructure alternative.'
 freshness: current
+
 ---
 
 ## Quote / Position

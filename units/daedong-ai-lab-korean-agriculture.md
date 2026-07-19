@@ -11,16 +11,18 @@ capital-intensity: industrial (Korean agricultural-machinery major; AI software 
 language-literacy-profile: standard-smartphone (AI Daedongi chatbot)
 policy-instrument: (none directly — Daedong operates within MAFRA's regulatory framework for agricultural robots; Ministry of Agriculture policy supports the *Agricultural Robot Demonstration Support Project*)
 region: East-Asia (Korea; Republic of Korea national anchor)
-actor: Daedong Group (Co-CEOs Kim Jun-sik and Won Yu-hyun) — operating through Daedong AI Lab (CEO Choi Joon-gi), Daedong's AI-robotics software subsidiary founded 2024. Daedong is the parent of the "Kioti" tractor brand internationally.
+actor: 'Daedong Group (Co-CEOs Kim Jun-sik and Won Yu-hyun) — operating through Daedong AI Lab (CEO Choi Joon-gi), Daedong''s AI-robotics software subsidiary founded 2024. Daedong is the parent of the "Kioti" tractor brand internationally.'
 actor-type: vendor
 data-governance: proprietary (Daedong's training data — 500K images, 3M driving-video samples)
 data-rights-framework: vendor-owned
 maturity-scale: S1 (announced/piloting; flagship L4 tractor H1 2026 not yet released at retrieval date July 2026; RT-100 transport robot Feb 2025 already deployed but deployment volume not publicly named)
-maturity-verification: V0 (vendor self-statement: 500K image / 3M video dataset described as "the largest agricultural dataset in Korea"; product launches confirmed; deployment numbers not in primary sources)
+maturity-verification: 'V0 (vendor self-statement: 500K image / 3M video dataset described as "the largest agricultural dataset in Korea"; product launches confirmed; deployment numbers not in primary sources)'
 maturity-longevity: L1 (first-generation AI Lab (founded 2024); multi-product AI portfolio being developed; H1 2026 L4 release is the key verification trigger)
-maturity-translation: T2 (institutional pathway: Korea Institute of Agricultural Technology Promotion, MAFRA, Saemangeum Agro-Bio Complex demonstration project; Doosan Robotics partnership Oct 2025)
+maturity-translation: 'T2 (institutional pathway: Korea Institute of Agricultural Technology Promotion, MAFRA, Saemangeum Agro-Bio Complex demonstration project; Doosan Robotics partnership Oct 2025)'
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
+
 ---
 
 # Daedong AI Lab — Three-Core-AI-Domains strategy for Korean agriculture

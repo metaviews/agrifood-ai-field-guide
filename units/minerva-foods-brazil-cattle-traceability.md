@@ -11,12 +11,13 @@ capital-intensity: enterprise
 language-literacy-profile: (not applicable — supply-chain AI)
 policy-instrument: corporate-low-carbon-program; international-trade-compliance
 region: South-America (Brazil origin; global export footprint)
-actor: Minerva Foods (Brazil; world's third-largest beef processor after Marfrig and JBS; acquired 16 Marfrig plants for $1.54B in 2024-25)
+actor: 'Minerva Foods (Brazil; world''s third-largest beef processor after Marfrig and JBS; acquired 16 Marfrig plants for $1.54B in 2024-25)'
 actor-type: vendor (industry-leader processor; deploys AI on its own supply chain and on the third-party supplier base)
 data-governance: proprietary
 data-rights-framework: corporate-internal-and-supplier-tier
 last-verified: 2026-07-19
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

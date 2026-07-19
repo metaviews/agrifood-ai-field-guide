@@ -6,12 +6,13 @@ speaker-role: University Research Chair in Digital Livestock Farming
 organization: Dalhousie University; Mooanalytica
 region: NA-Canada
 date: 2026-04
-source-url: https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1766844/full
+source-url: 'https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1766844/full'
 source-publication: Frontiers in Sustainable Food Systems (April 2026)
 units-referenced-in: neethirajan-dalhousie-ecosystem
 tags: theme=ai-deployment,theme=research-framework,region=NA-Canada,language=English,intended-use-in-talk=framing-support
-context-summary: Neethirajan's two complementary framings — Green AI as a research framework and Cybersecurity as critical infrastructure. Worth knowing for the academic-policy critical voice on AI deployment in agrifood.
+context-summary: 'Neethirajan''s two complementary framings — Green AI as a research framework and Cybersecurity as critical infrastructure. Worth knowing for the academic-policy critical voice on AI deployment in agrifood.'
 freshness: current
+
 ---
 
 ## Quote / Position

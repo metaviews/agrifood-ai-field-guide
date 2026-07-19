@@ -1,6 +1,6 @@
 ---
 id: haven-greens
-title: Haven Greens — Canada's first fully automated AI-powered greenhouse
+title: 'Haven Greens — Canada''s first fully automated AI-powered greenhouse'
 sector-position: on-farm-production-protected
 ai-technique-class: sensors-and-iot-ml, predictive-ml, robotics-autonomy-ground
 purpose: yield-optimisation, input-reduction, supply-chain-efficiency
@@ -17,6 +17,7 @@ data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

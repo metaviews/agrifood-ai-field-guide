@@ -6,12 +6,13 @@ speaker-role: Dairy farmer
 organization: (independent; JoinData member farmer)
 region: EU-Netherlands
 date: 2023-02
-source-url: https://developmentgateway.org/wp-content/uploads/2023/02/Agricultural-Data_CaseStudy_Feb2023.pdf
+source-url: 'https://developmentgateway.org/wp-content/uploads/2023/02/Agricultural-Data_CaseStudy_Feb2023.pdf'
 source-publication: Development Gateway / USAID Case Study (February 2023)
 units-referenced-in: joindata-netherlands
 tags: theme=data-governance,theme=data-rights,theme=cooperative-commons,region=EU-Netherlands,language=English,intended-use-in-talk=primary-quote
 context-summary: Van den Bosch captures the producer-side benefit of JoinData — farmer control over who can see production data. Concrete dairy-farmer perspective on data authorisation management.
 freshness: current
+
 ---
 
 ## Quote / Position

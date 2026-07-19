@@ -1,6 +1,6 @@
 ---
 id: usfoods-wheres-my-truck-menu-iq
-title: US Foods — Where's My Truck (AWS SageMaker) + Menu IQ AI menu profitability tools for NA foodservice
+title: 'US Foods — Where''s My Truck (AWS SageMaker) + Menu IQ AI menu profitability tools for NA foodservice'
 sector-position: distribution-and-retail
 ai-technique-class: predictive-ml, generative-ai-and-llms
 purpose: supply-chain-efficiency, market-access
@@ -11,12 +11,13 @@ capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: (none)
 region: NA-US (US Foods operates across the US)
-actor: US Foods (operator; #2 NA foodservice distributor); AWS (technology partner — SageMaker + ECS + Fargate + Aurora for Where's My Truck; MOXē platform for Menu IQ)
+actor: 'US Foods (operator; #2 NA foodservice distributor); AWS (technology partner — SageMaker + ECS + Fargate + Aurora for Where''s My Truck; MOXē platform for Menu IQ)'
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

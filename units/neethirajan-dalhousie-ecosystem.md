@@ -1,6 +1,6 @@
 ---
 id: neethirajan-dalhousie-ecosystem
-title: Suresh Neethirajan's Dalhousie / Canadian policy ecosystem — Green AI and digital livestock
+title: 'Suresh Neethirajan''s Dalhousie / Canadian policy ecosystem — Green AI and digital livestock'
 sector-position: animal-production, on-farm-production-open-field
 ai-technique-class: sensors-and-iot-ml, predictive-ml, computer-vision
 purpose: climate-adaptation, input-reduction, governance
@@ -17,6 +17,7 @@ data-governance: not applicable
 data-rights-framework: not applicable
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

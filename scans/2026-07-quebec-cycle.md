@@ -1,3 +1,8 @@
+---
+title: Quebec Cycle
+date: 2026-07
+---
+
 # Quebec Cycle — July 2026
 
 **Status.** New regional cycle. Substantial Canadian deepening following the FCC cycle, Neethirajan ecosystem work, and Haven Greens / food-waste framework.

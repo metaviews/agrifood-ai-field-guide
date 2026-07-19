@@ -11,12 +11,13 @@ capital-intensity: industrial and smallholder
 language-literacy-profile: (not applicable — research context)
 policy-instrument: (none)
 region: East-Asia (China); multi-country participants
-actor: Pinduoduo (China's largest agricultural e-commerce platform); with China Agricultural University; international university partners
+actor: 'Pinduoduo (China''s largest agricultural e-commerce platform); with China Agricultural University; international university partners'
 actor-type: vendor (with academic partnership)
 data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

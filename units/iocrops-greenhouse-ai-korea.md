@@ -16,11 +16,12 @@ actor-type: vendor
 data-governance: proprietary (FTVC™ stack data flows opaque to public)
 data-rights-framework: vendor-owned
 maturity-scale: S2-S3 (Korea-home deployed per trade press; Ation labour-management product cited as deployed in Korea by Greenhouse Canada; specific deployment scale numbers not in primary sources)
-maturity-verification: V2 (multi-source international trade press on multi-country expansion; ioCrops' own site lists deployment countries; peer-reviewed citation: Ceccarelli 2022 FAO / ageconsearch, cited 26, on ioCrops deployment model)
+maturity-verification: 'V2 (multi-source international trade press on multi-country expansion; ioCrops'' own site lists deployment countries; peer-reviewed citation: Ceccarelli 2022 FAO / ageconsearch, cited 26, on ioCrops deployment model)'
 maturity-longevity: L2 (company founded 2017; multi-country operational; in-market since Ation launch and earlier product; multi-product stack now expanding to Grotecture™ OS layer)
 maturity-translation: T2-T3 (institutional research layer via Autonomous Greenhouse Challenge participation; commercial-deployment layer via international trade press)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 # ioCrops — FTVC™ full-tech greenhouse-automation stack

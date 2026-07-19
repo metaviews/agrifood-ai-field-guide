@@ -6,12 +6,13 @@ speaker-role: Dairy farmer
 organization: (independent; Grey County, Ontario)
 region: NA-Canada
 date: 2018-04
-source-url: https://thelogic.co/news/the-big-read/canada-is-losing-ground-in-digital-agriculture-industry-experts-say/
+source-url: 'https://thelogic.co/news/the-big-read/canada-is-losing-ground-in-digital-agriculture-industry-experts-say/'
 source-publication: The Logic (2018)
 units-referenced-in: neethirajan-dalhousie-ecosystem
 tags: theme=worker-conditions,theme=ai-deployment,theme=funding-models,region=NA-Canada,language=English,intended-use-in-talk=primary-quote
 context-summary: Torrie deployed Lely-style milking robots in 2016 as a succession strategy. The quote anchors the worker-conditions motivation for agricultural automation — keeping the family operation viable across generations.
 freshness: historical
+
 ---
 
 ## Quote / Position

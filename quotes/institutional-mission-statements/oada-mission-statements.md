@@ -6,12 +6,13 @@ speaker-role: Open-source project
 organization: Open Ag Data Alliance (OADA)
 region: Global
 date: (project ongoing; principles document on openag.io)
-source-url: https://openag.io/principles/
+source-url: 'https://openag.io/principles/'
 source-publication: Open Ag Data Alliance principles document
 units-referenced-in: oada-open-ag-data-alliance,data-commons-architecture
 tags: theme=data-governance,theme=data-rights,theme=cooperative-commons,region=Global,language=English,intended-use-in-talk=primary-quote
-context-summary: OADA's foundational principles — distributed model, farmer data ownership, non-commercial / non-lobbying positioning. The open-source interoperability standards layer.
+context-summary: 'OADA''s foundational principles — distributed model, farmer data ownership, non-commercial / non-lobbying positioning. The open-source interoperability standards layer.'
 freshness: current
+
 ---
 
 ## Quote / Position

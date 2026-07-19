@@ -10,13 +10,14 @@ critical-voice: (none directly — vendor framing)
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: (none)
-region: NA-US (Albertsons stores chainwide, plus 40 states via Afresh's other grocer customers)
-actor: Afresh Technologies (vendor); Albertsons (lead customer; 2,200+ stores rolled out in 7 months); Meijer, Fresh Thyme, Brookshire's, Stater Bros, Smart & Final (additional partners)
+region: 'NA-US (Albertsons stores chainwide, plus 40 states via Afresh''s other grocer customers)'
+actor: 'Afresh Technologies (vendor); Albertsons (lead customer; 2,200+ stores rolled out in 7 months); Meijer, Fresh Thyme, Brookshire''s, Stater Bros, Smart & Final (additional partners)'
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

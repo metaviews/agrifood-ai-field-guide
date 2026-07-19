@@ -6,12 +6,13 @@ speaker-role: Framework authors
 organization: Global Indigenous Data Alliance (GIDA)
 region: Global
 date: 2018-11 (drafted); 2020 (published in Data Science Journal)
-source-url: https://www.gida-global.org/careprinciples
+source-url: 'https://www.gida-global.org/careprinciples'
 source-publication: Carroll, S.R. et al. (2020). Data Science Journal.
 units-referenced-in: indigenous-data-sovereignty,farm-data-ownership-critical,open-data-ecosystem
 tags: theme=data-governance,theme=data-rights,theme=indigenous-data-sovereignty,region=Global,language=English,intended-use-in-talk=primary-quote
 context-summary: CARE Principles — Collective benefit, Authority to control, Responsibility, Ethics — the substantive Indigenous data governance framework. 1,808 citations on the foundational paper.
 freshness: current
+
 ---
 
 ## Quote / Position

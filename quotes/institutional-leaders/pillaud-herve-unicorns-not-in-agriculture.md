@@ -6,12 +6,13 @@ speaker-role: Co-founder, La Ferme Digitale; farmer-livestock producer (retired 
 organization: La Ferme Digitale (French agtech association)
 region: EU-France
 date: 2025-04
-source-url: https://www.inrae.fr/en/reports/can-ai-make-agriculture-more-sustainable/ferme-digitale-hub-agritech-innovation
+source-url: 'https://www.inrae.fr/en/reports/can-ai-make-agriculture-more-sustainable/ferme-digitale-hub-agritech-innovation'
 source-publication: INRAE report on La Ferme Digitale / agritech AI (April 2025; 7-part dossier)
 units-referenced-in: pillaud-french-agritech-ecosystem,la-ferme-digitale-gaia
 tags: theme=funding-models,theme=cooperative-commons,region=EU-France,language=English,intended-use-in-talk=primary-quote
-context-summary: Pillaud's structural critique of agritech VC funding model — unicorn-style scaling doesn't work in agriculture. Anchors the cooperative / commons response.
+context-summary: 'Pillaud''s structural critique of agritech VC funding model — unicorn-style scaling doesn''t work in agriculture. Anchors the cooperative / commons response.'
 freshness: current
+
 ---
 
 ## Quote / Position

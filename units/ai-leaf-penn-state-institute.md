@@ -11,12 +11,13 @@ capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: regulatory (USDA-NIFA AI Institute); strategy
 region: NA-US (Penn State lead; Colorado State, U Minnesota, and other partners)
-actor: AI-LEAF Institute (lead: Pennsylvania State University)
+actor: 'AI-LEAF Institute (lead: Pennsylvania State University)'
 actor-type: academic
 data-governance: mixed (research data partly public; partner integration varies)
 data-rights-framework: distributed (research outputs public; deployed tools vary by partner)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

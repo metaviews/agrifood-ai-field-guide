@@ -1,3 +1,8 @@
+---
+title: US Academic Research Cycle
+date: 2026-07
+---
+
 # US Academic Research Cycle — July 2026
 
 **Status.** New regional cycle. Adds the US academic research layer to the field guide, which has previously been vendor-dominated on the US side. Distinct from prior scans in *actor type*: the existing US coverage is overwhelmingly vendor (Bayer Climate FieldView, John Deere See & Spray, Indigo Ag, AGCO PTx, Apeel RipeTrack, Taranis). This cycle adds the academic / federally-funded institutional layer.

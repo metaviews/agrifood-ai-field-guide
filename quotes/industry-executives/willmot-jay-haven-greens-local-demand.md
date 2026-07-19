@@ -6,12 +6,13 @@ speaker-role: Founder / CEO
 organization: Haven Greens (King City, Ontario)
 region: NA-Canada
 date: 2026-05
-source-url: https://www.theglobeandmail.com/business/article-how-haven-greens-automated-farming-system-could-change-the-lettuce/
+source-url: 'https://www.theglobeandmail.com/business/article-how-haven-greens-automated-farming-system-could-change-the-lettuce/'
 source-publication: Globe and Mail (May 2026)
 units-referenced-in: haven-greens
 tags: theme=ai-deployment,theme=food-sovereignty,region=NA-Canada,language=English,intended-use-in-talk=primary-quote
-context-summary: Willmot's quote captures the founder framing of Haven Greens' Canadian market opportunity — strong domestic demand, not just productivity. Worth knowing for the food-sovereignty framing of Canadian protected-cultivation AI deployment.
+context-summary: 'Willmot''s quote captures the founder framing of Haven Greens'' Canadian market opportunity — strong domestic demand, not just productivity. Worth knowing for the food-sovereignty framing of Canadian protected-cultivation AI deployment.'
 freshness: current
+
 ---
 
 ## Quote / Position

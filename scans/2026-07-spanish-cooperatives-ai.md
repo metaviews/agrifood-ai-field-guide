@@ -1,3 +1,8 @@
+---
+title: Spanish Cooperatives + Farming + Food + AI
+date: 2026-07
+---
+
 # Spanish Cooperatives + Farming + Food + AI — Deepening Scan, July 19 2026
 
 **Status.** Two-phase cycle (scout + deep). Builds on:

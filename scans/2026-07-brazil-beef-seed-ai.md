@@ -1,3 +1,8 @@
+---
+title: Brazil Beef AI + Chile
+date: 2026-07
+---
+
 # Brazil Beef AI + Chile-Canada Seed AI Cycle — July 19 2026
 
 **Status.** Two-track cycle deepening scan. Builds on:

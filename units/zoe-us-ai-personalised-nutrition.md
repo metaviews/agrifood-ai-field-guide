@@ -14,7 +14,6 @@ region: NA-USA (and UK home market)
 actor: ZOE Ltd (with various academic collaborators)
 actor-type: vendor
 data-governance: proprietary
-data-governance: proprietary
 data-rights-framework: consumer-controlled (claimed)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07

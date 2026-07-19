@@ -6,12 +6,13 @@ speaker-role: Vineyard operator
 organization: (independent; Belgian vineyards using Naïo JO robots)
 region: EU-other
 date: 2024-05
-source-url: https://www.naio-technologies.com/en/home/
+source-url: 'https://www.naio-technologies.com/en/home/'
 source-publication: Naïo Technologies (vendor case study page); original press reference
 units-referenced-in: naio-technologies
 tags: theme=vendor-deployment,theme=ai-deployment,region=EU-other,language=English,intended-use-in-talk=primary-quote
-context-summary: Fratantuono's vineyard case study captures a specific Naïo deployment metric: 2% vine damage with JO robot vs. 10%+ with tractor drivers. Concrete comparison point for ground-robot precision spraying.
+context-summary: 'Fratantuono''s vineyard case study captures a specific Naïo deployment metric: 2% vine damage with JO robot vs. 10%+ with tractor drivers. Concrete comparison point for ground-robot precision spraying.'
 freshness: current
+
 ---
 
 ## Quote / Position

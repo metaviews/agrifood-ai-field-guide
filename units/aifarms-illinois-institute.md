@@ -11,12 +11,13 @@ capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: regulatory (USDA-NIFA + NSF joint funding); strategy
 region: NA-US (UIUC lead; multi-state partner network)
-actor: AIFARMS Institute (lead: University of Illinois Urbana-Champaign; Center for Digital Agriculture)
+actor: 'AIFARMS Institute (lead: University of Illinois Urbana-Champaign; Center for Digital Agriculture)'
 actor-type: academic
 data-governance: mixed (research datasets public; deployment-via-partner commercial)
 data-rights-framework: distributed (research outputs public; deployment integration varies)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

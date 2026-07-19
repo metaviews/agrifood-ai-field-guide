@@ -1,6 +1,6 @@
 ---
 id: india-digital-agriculture-mission-agristack
-title: Digital Agriculture Mission / AgriStack — the corpus's strongest state-DPI agrifood AI anchor
+title: 'Digital Agriculture Mission / AgriStack — the corpus''s strongest state-DPI agrifood AI anchor'
 sector-position: on-farm-production-open-field, distribution-and-retail
 ai-technique-class: predictive-ml, generative-ai-llms, sensors-and-iot-ml
 purpose: climate-adaptation, supply-chain-efficiency, food-security-sovereignty, governance
@@ -11,16 +11,18 @@ capital-intensity: mixed (state-funded, designed for both smallholder interface 
 language-literacy-profile: voice-first (Kisan e-Mitra in 11 regional languages; Bharat-VISTAAR voice-first via dial 155261), low-literacy (SMS-based advisory for non-smartphone users)
 policy-instrument: regulatory (Digital Agriculture Mission is a Government of India Cabinet decision, September 2024), fiscal (₹2,817 crore / $321M outlay)
 region: South-Asia (India; pan-Indian; multi-state implementation)
-actor: Government of India — Ministry of Agriculture & Farmers' Welfare (DA&FW) and Ministry of Electronics & Information Technology (MeitY)
+actor: 'Government of India — Ministry of Agriculture & Farmers'' Welfare (DA&FW) and Ministry of Electronics & Information Technology (MeitY)'
 actor-type: state-agency
 data-governance: state-stewarded
 data-rights-framework: state-stewarded (AgriStack as a Digital Public Infrastructure layer)
 maturity-scale: S3 (>76.3M farmer IDs, >235M plot records, >38.8M farmers reached via monsoon forecast pilot, >9.3M Kisan e-Mitra queries — multi-state, multi-year)
 maturity-verification: V0 (state-reported scale figures from PIB explainer, Feb 2026; no independent audit cited)
-maturity-longevity: L1 (first-generation operational: DAM launched Sept 2024; first 18 months of operation)
-maturity-translation: T3 (institutional adoption pathway: DA&FW + MeitY + state-agriculture departments + ICAR + KVKs + 10,000+ extension workers)
+maturity-longevity: 'L1 (first-generation operational: DAM launched Sept 2024; first 18 months of operation)'
+maturity-translation: 'T3 (institutional adoption pathway: DA&FW + MeitY + state-agriculture departments + ICAR + KVKs + 10,000+ extension workers)'
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
+
 ---
 
 # Digital Agriculture Mission / AgriStack

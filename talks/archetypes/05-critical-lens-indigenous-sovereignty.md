@@ -1,3 +1,8 @@
+---
+title: 'Archetype 05 — Critical lens: Indigenous sovereignty and the structural critique'
+archetype_number: 5
+---
+
 # Archetype 05 — Critical lens: Indigenous sovereignty and the structural critique
 
 **A critical-lens deep-dive for academic and policy audiences.**

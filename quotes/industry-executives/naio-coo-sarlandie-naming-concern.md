@@ -6,12 +6,13 @@ speaker-role: Chief Operating Officer
 organization: Naïo Technologies
 region: EU-France
 date: 2022 (WGCIT interview)
-source-url: https://www.wga.com/wgs-magazine/wgcit-resident-naio-technologies-offering-new-robotic-weeders-to-u-s-ag/
+source-url: 'https://www.wga.com/wgs-magazine/wgcit-resident-naio-technologies-offering-new-robotic-weeders-to-u-s-ag/'
 source-publication: WGCIT (Western Growers Center for Innovation & Technology)
 units-referenced-in: naio-technologies
 tags: theme=vendor-deployment,theme=ai-deployment,region=EU-France,language=English,intended-use-in-talk=framing-support
-context-summary: COO Sarlandie's framing captures the Naïo positioning — small-farm / specialty-crop robotics as distinct from broadacre. Worth knowing for vendor framing.
+context-summary: 'COO Sarlandie''s framing captures the Naïo positioning — small-farm / specialty-crop robotics as distinct from broadacre. Worth knowing for vendor framing.'
 freshness: historical
+
 ---
 
 ## Quote / Position

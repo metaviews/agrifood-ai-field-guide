@@ -1,6 +1,6 @@
 ---
 id: wendys-freshai-google
-title: Wendy's FreshAI — Google Cloud generative AI drive-thru voice ordering, deployed at ~100 restaurants across 17 states (Jan 2025)
+title: 'Wendy''s FreshAI — Google Cloud generative AI drive-thru voice ordering, deployed at ~100 restaurants across 17 states (Jan 2025)'
 sector-position: consumption
 ai-technique-class: generative-ai-and-llms
 purpose: consumer-facing
@@ -11,12 +11,13 @@ capital-intensity: industrial
 language-literacy-profile: standard-smartphone, voice-first
 policy-instrument: (none)
 region: NA-USA
-actor: Wendy's with Google Cloud
+actor: 'Wendy''s with Google Cloud'
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

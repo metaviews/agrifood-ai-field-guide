@@ -1,6 +1,6 @@
 ---
 id: root-ai
-title: Root AI — FCC's free generative AI extension assistant for Canadian producers
+title: 'Root AI — FCC''s free generative AI extension assistant for Canadian producers'
 sector-position: on-farm-production-open-field
 ai-technique-class: generative-ai-and-llms
 purpose: extension-and-advisory
@@ -17,6 +17,7 @@ data-governance: mixed
 data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

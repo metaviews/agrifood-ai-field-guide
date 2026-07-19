@@ -1,3 +1,8 @@
+---
+title: 'Archetype 02 — Who''s your data working for'
+archetype_number: 2
+---
+
 # Archetype 02 — Who's your data working for
 
 **A data-sovereignty talk for Canadian farmer co-ops and mixed public.**

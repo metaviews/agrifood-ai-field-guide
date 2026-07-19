@@ -1,6 +1,6 @@
 ---
 id: inrae-france-ai-agriculture
-title: INRAE — France's national research backbone for agricultural AI
+title: 'INRAE — France''s national research backbone for agricultural AI'
 sector-position: (cross-cutting — research infrastructure)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting — research mandate)
@@ -11,12 +11,13 @@ capital-intensity: (not applicable — research)
 language-literacy-profile: (not applicable)
 policy-instrument: (none)
 region: EU (France)
-actor: INRAE (Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement)
+actor: 'INRAE (Institut National de Recherche pour l''Agriculture, l''Alimentation et l''Environnement)'
 actor-type: academic
 data-governance: state-stewarded
 data-rights-framework: state-stewarded
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

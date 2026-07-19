@@ -1,6 +1,6 @@
 ---
 id: xag-china-drone-leader
-title: XAG — China's largest agricultural drone service provider, 1.2 million farmers served
+title: 'XAG — China''s largest agricultural drone service provider, 1.2 million farmers served'
 sector-position: on-farm-production-open-field
 ai-technique-class: robotics-autonomy-aerial, sensors-and-iot-ml
 purpose: input-reduction, yield-optimisation, supply-chain-efficiency, worker-conditions
@@ -17,6 +17,7 @@ data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

@@ -6,12 +6,13 @@ speaker-role: Co-founder, La Ferme Digitale
 organization: La Ferme Digitale (French agtech association)
 region: EU-France
 date: 2025-04
-source-url: https://www.inrae.fr/en/reports/can-ai-make-agriculture-more-sustainable/ferme-digitale-hub-agritech-innovation
+source-url: 'https://www.inrae.fr/en/reports/can-ai-make-agriculture-more-sustainable/ferme-digitale-hub-agritech-innovation'
 source-publication: INRAE report on La Ferme Digitale (April 2025)
 units-referenced-in: pillaud-french-agritech-ecosystem,la-ferme-digitale-gaia
 tags: theme=cooperative-commons,theme=ai-deployment,region=EU-France,language=English,intended-use-in-talk=primary-quote
-context-summary: Pillaud's epistemological observation — AI introduces probabilistic outputs that require cultural adaptation in agriculture. Anchors the deployment-design frame.
+context-summary: 'Pillaud''s epistemological observation — AI introduces probabilistic outputs that require cultural adaptation in agriculture. Anchors the deployment-design frame.'
 freshness: current
+
 ---
 
 ## Quote / Position

@@ -6,12 +6,13 @@ speaker-role: Non-profit certification body (made up of farmer-led organizations
 organization: Ag Data Transparent
 region: NA-US
 date: 2021 (certification framework)
-source-url: https://www.agdatatransparent.com/principles
+source-url: 'https://www.agdatatransparent.com/principles'
 source-publication: Ag Data Transparent principles document
 units-referenced-in: proprietary-farm-data,data-commons-architecture
 tags: theme=data-rights,theme=data-governance,region=NA-US,language=English,intended-use-in-talk=framing-support
 context-summary: Ag Data Transparent certification framework — the industry-led response to farm-data ownership concerns. Worth knowing for the operational instantiation of farmer-data ownership rights.
 freshness: current
+
 ---
 
 ## Quote / Position

@@ -1,6 +1,6 @@
 ---
 id: mcdonalds-ibm-aot-discontinued
-title: McDonald's × IBM Automated Order Taker (AOT) — ended July 2024 after 100+ restaurant pilot
+title: 'McDonald''s × IBM Automated Order Taker (AOT) — ended July 2024 after 100+ restaurant pilot'
 sector-position: consumption
 ai-technique-class: generative-ai-and-llms, predictive-ml
 purpose: consumer-facing
@@ -11,12 +11,13 @@ capital-intensity: industrial
 language-literacy-profile: standard-smartphone, voice-first
 policy-instrument: (none)
 region: NA-USA
-actor: McDonald's (formerly with IBM)
+actor: 'McDonald''s (formerly with IBM)'
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

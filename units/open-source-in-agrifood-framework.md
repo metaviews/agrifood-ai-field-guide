@@ -1,6 +1,6 @@
 ---
 id: open-source-in-agrifood-framework
-title: Open source in agrifood — cross-cutting framework: Mozilla findings, agricultural cultural ethos, and the field guide's existing threads
+title: 'Open source in agrifood — cross-cutting framework: Mozilla findings, agricultural cultural ethos, and the field guide''s existing threads'
 sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting)
 purpose: governance, market access
@@ -12,11 +12,12 @@ language-literacy-profile: (not applicable — multilingual implementations)
 policy-instrument: regulatory (CARE Principles, IEEE 2890-2025); strategy (Mozilla, FAO/UN Digital Public Goods)
 region: Global
 actor: Mozilla Foundation; FAO; CARE Principles / GIDA; OADA; JoinData; La Ferme Digitale / GAIA; CGIAR; NAPDC / Ag Data Coop; Indigenous Navigator; FarmOS; FarmVibes.AI
-actor-type: (multi-type: civil-society, multilateral-body, farmer-cooperative, standards-body, critical-civil-society)
+actor-type: '(multi-type: civil-society, multilateral-body, farmer-cooperative, standards-body, critical-civil-society)'
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 data-governance: open; co-operative / commons
 data-rights-framework: distributed; co-operative; Indigenous-sovereign
+
 ---
 
 ## Content

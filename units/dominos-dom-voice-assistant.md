@@ -1,6 +1,6 @@
 ---
 id: dominos-dom-voice-assistant
-title: Domino's Dom — voice ordering assistant, long-running consumer deployment
+title: 'Domino''s Dom — voice ordering assistant, long-running consumer deployment'
 sector-position: consumption
 ai-technique-class: predictive-ml (Nuance-era), generative-ai-and-llMs (recent extension)
 purpose: consumer-facing
@@ -11,12 +11,13 @@ capital-intensity: industrial
 language-literacy-profile: standard-smartphone, voice-first
 policy-instrument: (none)
 region: NA-USA (and global)
-actor: Domino's Pizza
+actor: 'Domino''s Pizza'
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
 ---
 
 ## Content

@@ -1,0 +1,66 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+// Talks excludes the archetypes subdirectory (rendered separately).
+const allTalks = await getCollection('talks');
+const talks = allTalks.filter((t) => !t.id.startsWith('archetypes/'));
+talks.sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
+---
+
+<Base title="Talks" description="Methodology and templates for assembling talks.">
+  <h1>Talks</h1>
+  <p>
+    The methodology layer: repeatable ways to assemble the library into talks
+    for different audiences, durations, and depth levels. See also
+    <a href="/archetypes/">Archetypes</a> for the named talk-assembly patterns.
+  </p>
+  {talks.map((talk) => {
+    const title = talk.data.title ?? talk.id;
+    return (
+      <article class="entry">
+        <h2><a href={`/talks/${talk.id}/`}>{title}</a></h2>
+        <div class="meta">
+          {talk.data.audience && <span class="tag">audience: {talk.data.audience}</span>}
+          {talk.data.duration && <span class="tag">{talk.data.duration}</span>}
+        </div>
+        {talk.data.summary && <p class="summary">{talk.data.summary}</p>}
+      </article>
+    );
+  })}
+</Base>
+
+<style>
+  .entry {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .entry h2 {
+    margin: 0 0 0.3em 0;
+    font-size: 1.25rem;
+  }
+  .entry h2 a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule);
+  }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 0.5em;
+    font-size: 0.85rem;
+  }
+  .tag {
+    background: var(--cream-soft);
+    border: 1px solid var(--rule);
+    padding: 0.1em 0.5em;
+    border-radius: 2px;
+    color: var(--ink-soft);
+  }
+  .summary {
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+    margin: 0;
+  }
+</style>

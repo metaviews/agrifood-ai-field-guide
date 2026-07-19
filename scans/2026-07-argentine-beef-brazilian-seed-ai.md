@@ -1,3 +1,8 @@
+---
+title: 2026 07 Argentine Beef Brazilian Seed Ai
+date: 2026-07
+---
+
 <parameter name="content"># Argentine Beef + Brazilian Seed AI Cycle — July 19 2026 (Negative-Finding-Dominant)
 
 **Status.** Single-cycle scan. Two-track deepening pass: **Argentine beef AI** + **Brazilian seed AI**. Builds on:

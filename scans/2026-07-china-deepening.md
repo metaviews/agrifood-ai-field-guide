@@ -1,3 +1,8 @@
+---
+title: China Cycle Deepening
+date: 2026-07
+---
+
 # China Cycle Deepening — July 2026
 
 **Status.** Substantial deepening of the China regional cycle. Distinct from the original 2026-07-regional.md China section, which was based on three vendor / institutional entries (Alibaba ET Agricultural Brain, JD Farm, Shengmu). This deepening captures the **export, import, and policy** layers that the original cycle didn't reach.

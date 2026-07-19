@@ -1,3 +1,9 @@
+---
+title: 'Canada Cycle: Farm Credit Canada and Adjacent Ecosystem'
+date: 2026-07
+
+---
+
 # Canada Cycle: Farm Credit Canada and Adjacent Ecosystem — July 2026
 
 **Status.** Deepening of the Canada regional scan from `scans/2026-07-regional.md`. Focus on FCC and the entities connected or adjacent to its work.

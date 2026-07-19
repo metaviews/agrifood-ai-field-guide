@@ -1,3 +1,8 @@
+---
+title: MENA + Lebanon Deepening Scan
+date: 2026-07
+---
+
 # MENA + Lebanon Deepening Scan — July 19 2026
 
 **Status.** Single-cycle scan. **Two-phase cycle** with a *scout phase* and a *deep phase*. Builds on:

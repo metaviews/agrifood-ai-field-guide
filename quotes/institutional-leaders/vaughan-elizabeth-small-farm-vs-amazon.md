@@ -6,12 +6,13 @@ speaker-role: Senior Manager, Small-Farm Tech Hub
 organization: Community Alliance with Family Farmers (CAFF)
 region: NA-US
 date: 2026-03
-source-url: https://civileats.com/2026/03/23/a-hidden-crop-for-corporate-tech-farm-data/
+source-url: 'https://civileats.com/2026/03/23/a-hidden-crop-for-corporate-tech-farm-data/'
 source-publication: Civil Eats (March 23, 2026)
 units-referenced-in: farm-data-ownership-critical
 tags: theme=data-rights,theme=digital-equity,theme=food-sovereignty,region=NA-US,language=English,intended-use-in-talk=primary-quote
-context-summary: Vaughan's framing of small-farm viability vs Big Tech capture — the community-food-system lens on data governance. Worth knowing for the farmer-advocacy critical voice.
+context-summary: 'Vaughan''s framing of small-farm viability vs Big Tech capture — the community-food-system lens on data governance. Worth knowing for the farmer-advocacy critical voice.'
 freshness: current
+
 ---
 
 ## Quote / Position

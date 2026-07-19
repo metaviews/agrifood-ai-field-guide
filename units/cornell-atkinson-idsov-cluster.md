@@ -10,13 +10,15 @@ critical-voice: indigenous-data-sovereignty; food-sovereignty
 capital-intensity: mixed (Indigenous-led small-scale; international framework scale)
 language-literacy-profile: voice-first (Indigenous community-led methodology)
 policy-instrument: regulatory (UNDRIP Article 3; CARE Principles; IEEE 2890-2025)
-region: Global (with operational anchors at Cornell, in Pacific islands, with Tohono O'odham Nation, and Aotearoa-linked scholars)
+region: 'Global (with operational anchors at Cornell, in Pacific islands, with Tohono O''odham Nation, and Aotearoa-linked scholars)'
 actor: Cornell Atkinson Center for Sustainability; American Indian and Indigenous Studies Program (Cornell); Manaʻoakamai Johnson; Michael Charles
-actor-type: (multi-type: academic primary; Indigenous-organisation partnership; critical-civil-society adjacent)
+actor-type: '(multi-type: academic primary; Indigenous-organisation partnership; critical-civil-society adjacent)'
 data-governance: co-operative / commons (Indigenous-led)
 data-rights-framework: Indigenous-sovereign
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
+
+
 ---
 
 ## Content
