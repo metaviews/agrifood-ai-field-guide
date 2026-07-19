@@ -1,0 +1,11 @@
+{
+  "name": "agrifood-ai-field-guide",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Knowledge base and presentation framework for public education on AI in agrifood systems. The web/ subdirectory holds the Astro v5 static site (Layer 3 of the four-layer architecture: L1 content, L2 methodology, L3 web, L4 deck).",
+  "scripts": {
+    "build": "cd web && npm install && npm run build",
+    "dev": "cd web && npm run dev",
+    "preview": "cd web && npm run preview"
+  }
+}
