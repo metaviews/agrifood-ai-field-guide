@@ -78,14 +78,16 @@ This is the Japan+Korea cycle's distinguishing observation. Both countries face 
 **India pattern (state-DPI substrate + private vendor layers):**
 - Drivers: AgriStack / DAM (₹2,817 crore / $321M outlay); farmer registry + plot registry + crop-sown registry; Kisan e-Mitra chatbot in 11 languages.
 - Vendor layer: Cropin (vendor AI-first platform); ITCMAARS (conglomerate phygital); Niqo Robotics (smallholder robotics).
-- Anchor units: `units/india-digital-agriculture-mission-agristack.md`, `units/india-agrifood-ai-pattern.md`.
+- **Multilateral posture:** India is *not* among WAICO's 29 founders (per `units/waico-alliance-china-multilateral-ai.md`) despite being a BRICS founder. India has reportedly aligned with a separate US-anchored AI governance initiative. The structural signal: India's state-DPI substrate posture (national-level) does not extend to multilateral-state coordination reach (China-via-WAICO pathway).
+- Anchor units: `units/india-digital-agriculture-mission-agristack.md`, `units/cropin-india.md`, `units/itc-maars-india.md`, `units/niqo-robotics-india.md`, `units/india-agrifood-ai-pattern.md`.
 
-**China pattern (state-vendor hybrid + provincial autonomy):**
+**China pattern (state-vendor hybrid + provincial autonomy + multilateral-state coordination):**
 - Drivers: Alibaba ET Agricultural Brain; JD Farm IoT + blockchain; DJI Agriculture (China origin, global export); XAG.
 - State-vendor alignment: state-aligned at policy level; vendor autonomy at the operational level; provincial autonomy drives variation.
-- Anchor units: `units/dji-agriculture-global-export.md`, `units/alibaba-et-agricultural-brain.md`, `units/jd-farm-iot-blockchain.md`, `units/xag-china-drone-leader.md`.
+- **Multilateral-state coordination reach (per WAICO, July 2026):** `units/waico-alliance-china-multilateral-ai.md`. WAICO is the *World Artificial Intelligence Cooperation Organisation*, treaty-based intergovernmental body headquartered in Shanghai, with 29 founding member states (China, Russia, Pakistan, Indonesia, Brazil, South Africa, Senegal, plus 22 others). The China cluster pattern now reaches beyond provincial autonomy to multilateral-state coordination. Notable absent: India (despite being a BRICS founder); Japan, Korea (no East-Asia-non-China founders). The China cluster pattern's *full* description is now: *state-vendor hybrid + provincial autonomy + multilateral-state coordination reach*.
+- Anchor units: `units/dji-agriculture-global-export.md`, `units/alibaba-et-agricultural-brain.md`, `units/jd-farm-iot-blockchain.md`, `units/xag-china-drone-leader.md`, `units/waico-alliance-china-multilateral-ai.md`.
 
-**Critical move.** India and China both have heavy state involvement, but their state postures differ. India's is *substrate* (the state builds the data layer; vendors work above it). China's is *vendors aligned with state at policy level* (vendors are themselves deployers). Don't conflate.
+**Critical move.** India and China both have heavy state involvement, but their state postures differ. India's is *substrate* (the state builds the data layer; vendors work above it). China's is *vendors aligned with state at policy level + multilateral-state coordination reach through WAICO*. Don't conflate.
 
 #### 3.3 NA vs. EU — equipment-vendor vs. cooperative-state
 
@@ -111,7 +113,7 @@ This is the Japan+Korea cycle's distinguishing observation. Both countries face 
 
 - **NA cluster** → broadacre open-field row-crop optimisation at very large scale; vendor-concentrated value capture; thin cooperative alternative.
 - **EU cluster** → research-deep institutional anchor with cooperative governance overlay; export-orientation through cooperative structures; slower scale but durable.
-- **China cluster** → massive scale + state alignment; export-grade agritech (DJI global markets); provincial autonomy produces variance.
+- **China cluster** → massive scale + state alignment + *multilateral-state coordination reach* (WAICO, July 2026); export-grade agritech (DJI global markets); provincial autonomy produces variance.
 - **India cluster** → state-DPI substrate reaching 76.3M+ farmer IDs + private-vendor layered services; smallholder-relevant vendor products (Cropin, ITCMAARS, Niqo); cooperative-equivalent transacting through state infrastructure.
 - **Japan cluster** → industrial automation deployed against ageing-farmer labour shortage; vendor-concentrated hardware excellence; state-DPI substrate for data layer.
 - **Korea cluster** → state-anchored cluster recruiting young farmers; vendor participation inside cluster; FAO-recognised Digital Villages anchor.
@@ -147,6 +149,7 @@ These are the working questions of the cluster-pattern spine. They are how the t
 
 ## Q&A handles
 
+- *"What about WAICO?"* → `units/waico-alliance-china-multilateral-ai.md`. WAICO is the corpus's strongest empirical evidence that *agrifood AI governance is moving up the international policy ladder*. Treat the institutional design claim as V1; treat any operational / deployment claim as V0 (announced, not documented). The single most important structural observation: *China's cluster pattern now extends beyond provincial autonomy to multilateral-state coordination reach* — Japan, Korea, and India have *not* joined WAICO. The multilateral AI governance field is splitting, not converging.
 - *"What about Latin America / Caribbean?"* → `scans/2026-07-regional-lac.md`. Cluster pattern candidate: smallholder-vendor or cooperative-AI; not yet anchored at the unit level. Per the SKILL, LAC is *less absent* than SEA but still light on anchor units. Worth saying: the corpus's SCA pattern observation is preliminary.
 - *"What about MENA?"* → Mostly absent from the corpus. Israeli-origin vendor (one unit) is the only operational anchor. UAE (NADEC), Saudi Arabia (Salic), Egypt would be the natural candidates for a future cycle. The cluster pattern candidate is most likely state-corporate along UAE/Saudi lines.
 - *"What about Oceania?"* → Australia (CSIRO Data61, AgriWebb, Ceres Tag, SwarmFarm) is the natural future-cycle candidate. Aotearoa NZ's Te Mana Raraunga is a separate Indigenous-data-sovereignty anchor already in the corpus (via archetype 05). Worth naming the Australian state-institutional anchor as the future cycle's candidate.

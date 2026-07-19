@@ -177,6 +177,10 @@ A 2025 paper in *Cogent Food & Agriculture* (Liu, X., 2025): "Empowering rural r
 - **G-033 (new):** Independent verification of DJI's 222M tons water saved and 30.87M tons CO2 reduced figures. Worth tracking.
 - **G-034 (new):** Pinduoduo Smart Agriculture Competition outcomes translated into commercial farm deployment. Worth tracking.
 - **G-035 (new):** Chinese rural revitalisation policy outcomes from the 2027 Plan once implemented. Forward-looking.
+- **C-056 (new, post-Japan+Korea cycle + WAICO):** "WAICO is the principal institutional vehicle for the multilateral governance of agricultural AI in the Global South." See `units/waico-alliance-china-multilateral-ai.md`. Contested on (a) whether member-state agricultural AI deployments materialise at scale, (b) whether India joins at a later date.
+- **G-081 (new, post-WAICO):** Independent identification of WAICO operational secretariat structure, named agriculture-vertical lead, and member-state implementation plans. At signing date (16-17 July 2026), no agriculture-vertical secretary, named secretariat, or member-state implementation plan is publicly disclosed.
+- **G-082 (new, post-WAICO):** Independent verification of Xi's "5,000 AI research projects" capacity-building announcement; vertical distribution (agriculture's share) and delivery timeline unverified.
+- **G-083 (new, post-WAICO):** Independent verification of member-state WAICO implementation, particularly for the agriculture sector in the founding 29 states.
 
 ## 7. Actor list
 
@@ -187,6 +191,10 @@ A 2025 paper in *Cogent Food & Agriculture* (Liu, X., 2025): "Empowering rural r
 - **Pinduoduo** — e-commerce platform; Smart Agriculture Competition; 16 million farmers connected.
 - **Alibaba Cloud** — ET Agricultural Brain (existing unit).
 - **JD.com** — JD Farm, JD Digits (existing unit).
+
+### Multilateral-state
+
+- **WAICO — World Artificial Intelligence Cooperation Organisation** — see `units/waico-alliance-china-multilateral-ai.md`. Signed 16 July 2026; 29 founding member states; Shanghai HQ; announced 5,000 AI research projects for developing-country members over next five years. *Not* in the existing actor list at scan-draft time; added post-hoc.
 - **Meituan, ByteDance / Douyin** — agrifood-adjacent; less surfaced.
 
 ### Government / policy

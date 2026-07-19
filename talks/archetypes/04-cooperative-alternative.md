@@ -82,7 +82,7 @@ The audience is interested in *alternatives* — they're already past the vendor
 
 **Why this matters.** The US model is *public investment in cooperative framework development*. The implication: government can fund the *conditions* for cooperative infrastructure without running it. This is structurally different from the Dutch and French models (where the cooperative tradition is the precondition) and from a fully state-stewarded model (where government runs the data).
 
-**Four cooperative / commons / state-stewarded models compared:**
+**Five cooperative / commons / state-stewarded models compared:**
 
 | Model | Initiation | Funding | Operational control | Status |
 |---|---|---|---|---|
@@ -93,6 +93,8 @@ The audience is interested in *alternatives* — they're already past the vendor
 | **Korea Smart Farm Innovation Valley** — `units/korea-smart-farm-innovation-valley-rda.md` | State-led (RDA + MAFRA) | State budget | **State-anchored cluster programme** | 4 sites operational since 2018 SIC launch |
 
 The cooperative / commons / state-stewarded model is not monolithic. Different countries reach it through different institutional pathways: industry-led (NL), industry-coordinated (FR), federally-funded framework (US), state-stewarded DPI (Japan), state-anchored cluster (Korea). Worth saying this to the audience — *the "alternative to vendor capture" is plural, not singular.*
+
+**A sixth, new addition — multilateral-state coordination (WAICO, July 2026).** `units/waico-alliance-china-multilateral-ai.md`. The *World Artificial Intelligence Cooperation Organisation* is a treaty-based intergovernmental AI governance body headquartered in Shanghai, with 29 founding member states. WAICO is *not* a data-stewardship model — it is a *governance layer above* data-stewardship models, where vertical application governance (including agriculture) gets specified by member-state priority over the next decade. The institutional design choice is *sovereignty-and-development-led*, structurally distinct from IDSov (rights-and-Indigenous-sovereignty-led) and from cooperative-substrate-framed models (member-controlled-led). Treat the institutional design claim as V1; treat any operational / agricultural-deployment claim as V0 (announced, not documented). Worth naming in any audience concerned with how data-stewardship choices will be settled multilaterally — because the *multilateral layer* is where sovereign-rights-vs-development-priorities gets resolved.
 
 **Worth knowing what WAGRI isn't.** WAGRI is operational but it is *not* cooperative-governed; it is *state*-stewarded. Per the corpus's pattern observation (`units/japan-korea-agrifood-ai-pattern.md`), Japan's state-stewarded substrate operates *above* an equipment-vendor industrial-automation layer (Spread, Yamaha, Kubota, Yanmar). The state-DPI substrate complements vendor-layer deployment rather than replacing it. This is structurally different from JoinData, where the cooperative substrate *is* the operational layer.
 
