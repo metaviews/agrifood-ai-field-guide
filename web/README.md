@@ -22,7 +22,8 @@ A top-level `package.json` at the repo root delegates to `web/` so the dashboard
    - Build command: `npm run build`
    - Build output directory: `web/dist`
    - Root directory: `/`
-   - Deploy command: *(leave blank — Pages auto-deploys the build output)*
+   - Deploy command: `true` *(Cloudflare Pages requires a value here; `true` is a no-op that exits 0; Pages auto-deploys the build output so the deploy command does not need to do anything)*
+   - Version command: `true` *(same reason)*
    - Environment variables: none required
 4. **Custom domains** → add `agrifood.metaviews.ca`
 5. DNS: if `metaviews.ca` is on Cloudflare, the CNAME is provisioned automatically; otherwise add a CNAME record at the registrar pointing to the Pages project hostname.
