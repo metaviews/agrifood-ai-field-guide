@@ -42,6 +42,7 @@ The audience knows AI is in the news but doesn't have a working picture of *what
 | **Kilimo × Microsoft Chile Maipo** | irrigation-decision AI | Argentina origin | 450 ha; 13% water reduction; 1.5M m³ saved over 3 years (Microsoft × Kilimo April 2025) |
 | **Auravant** | SaaS agronomy platform | Argentina origin | 20M+ ha; 123,000+ users; 156 countries (vendor-reported, homepage counter) |
 | **Taranis** | crop intelligence AI | Israel origin; global deployment | AI-powered crop intelligence, leaf-level aerial scouting; Taranis Yield Impact™; Israeli agritech ecosystem 750+ companies / 150+ startups (2025) |
+| **Ekonoke** | indoor hydroponic hops | Spain origin; deployment focus Spain | Indoor vertical hydroponic cultivation; multi-colour LED + AI climate control; 95% water-savings vs. open-field hops (per Reuters 2023 + Sifted 2025) |
 
 **Units used:** `units/john-deere-see-and-spray.md`, `units/bayer-climate-fieldview.md`, `units/dji-agriculture-global-export.md`, `units/xag-china-drone-leader.md`, `units/lely-astronaut.md`, `units/yamaha-fazer-agricopter-drone-japan.md`, `units/spread-techno-farm-vertical-lettuce-japan.md`.
 
@@ -71,6 +72,9 @@ The audience knows AI is in the news but doesn't have a working picture of *what
 | **Brazilian seed AI** | inputs (seed industry) | `units/brazilian-seed-ai-academic-research-led.md` — *Academic-research-led + multinational-corporate-pipelined*; cluster-with-three-structures (Sangjan 2025 cited 24 + Tedeschi 2025 PMC cited 20; substantially empty at Brazilian-origin-corporate-vendor tier — negative-finding-as-substance) |
 | **UAE date palm AI platform** | inputs (genetic-resource preservation) | `units/uae-date-palm-ai-genetic-diversity.md` — UAE digital platform (April 2026; 130+ varieties; Zayed For Good × Khalifa International Award × ADAFSA; cultural-stewardship-driven) |
 | **Lebanon Berytech Agrytech + AgriSmart** | on-farm + farmer-facing mobile | `units/lebanon-agrytech-accelerator-agrismart.md` — Lebanese startup-ecosystem partial-focus unit (Berytech Agrytech accelerator Batch 7 Phase 2 active Oct 2025; AgriSmart Arabic-language WhatsApp chatbot; Ground Vertical Farming 90% water savings) |
+| **Spain Ekonoke** | on-farm (controlled-environment) | `units/ekonoke-spanish-indoor-hop-hydroponics-ai.md` — Spanish indoor hydroponic hops; 95% water-savings vs. open-field (per Reuters 2023 + Sifted 2025); corpus's most extreme water-savings figure to date |
+| **Morocco Al Moutmir (OCP)** | on-farm (fertilizer-crop-management) | `units/morocco-al-moutmir-ocp-agritech.md` — OCP-led multi-service agritech programme since 2018 (Integrated Crop Program framework); AI-assisted fertilizer recommendation + smart irrigation; OCP world's-largest-phosphate + state-affiliated substrate; Green Generation 2020-2030 state strategy |
+| **Tunisia RoboCare** | on-farm (precision-ag multi-source) | `units/tunisia-robocare-precision-agriculture.md` — Sfax-founded precision-ag startup; 216 Capital six-figure investment June 2026; African + Middle Eastern expansion scope |
 
 **Anchor quote (optional).** If audience is sympathetic to producer voices, drop in Jeff Torrie: *"If we didn't invest in new technology, there wasn't going to be succession. That's what it came down to."* (`quotes/producers/torrie-jeff-lely-succession.md`). This is the family-farm-succession motivation, distinct from vendor efficiency framing. *Note: 2018 source, flagged historical.*
 
