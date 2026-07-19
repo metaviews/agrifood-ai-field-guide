@@ -97,7 +97,7 @@ Anchors the *US land-grant academic IDSov work* cell. Distinct from:
 
 - gaps: G-043 (Indigenous-led AI deployment in agrifood — partially addressed by Cornell Atkinson cluster framework-extension, but operational deployment remains gap), G-048 (Indigenous-led AI deployment at US land-grant scale — partially addressed)
 - contested-claims: C-029 (Data cooperatives are a global alternative to vendor capture — Johnson's "climate cooperatives" work provides a parallel framing; counter: cultural fit and Indigenous-led governance matter), C-038 (substantive analytical critique of US ag AI is leading academic work — Cornell Atkinson cluster is one of multiple substantive analytical voices)
-- related-units: indigenous-data-sovereignty.md, joindata-netherlands.md, napdc-national-ag-producer-data-cooperative.md, data-commons-architecture.md, oada-open-ag-data-alliance.md, care-principles-mission.md, ieee-2890-mission.md, usda-fy25-26-ai-strategy.md, extension-foundation-2026-national-ai-report.md, mila-quebec-ai-institute.md
+- related-units: indigenous-data-sovereignty.md, joindata-netherlands.md, napdc-national-ag-producer-data-cooperative.md, data-commons-architecture.md, oada-open-ag-data-alliance.md, ../quotes/institutional-mission-statements/care-principles-mission.md, ../quotes/institutional-mission-statements/ieee-2890-mission.md, usda-fy25-26-ai-strategy.md, extension-foundation-2026-national-ai-report.md, mila-quebec-ai-institute.md
 - sovereignty-flags: explicit — Indigenous-sovereignty framing is core; CARE Principles aligned
 
 ## Freshness

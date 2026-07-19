@@ -154,4 +154,4 @@ This unit lets a talk:
   - Horizon OpenAgri (April 18, 2024). *Open Source Revolution in EU Agriculture*. https://horizon-openagri.eu/2024/04/18/open-source-empowering-eu-farmers/
   - Vincent Martin, FAO (September 2024). *Decoding Transformation (2): Empowering Farmers with Open-Source solutions*. https://www.linkedin.com/pulse/decoding-transformation-2-empowering-farmers-solutions-vincent-martin-frjkf
   - Mozilla.ai. https://www.mozilla.ai/
-  - Cross-references to field guide units and quotes: `pillaud-herve-unicorns-not-in-agriculture.md`, `pillaud-herve-commons-and-mutual-model.md`, `nelson-andrew-proprietary-data-reluctance.md`, `leake-brian-bayer-farmers-own-data.md`.
+  - Cross-references to field guide units and quotes: `../quotes/institutional-leaders/pillaud-herve-unicorns-not-in-agriculture.md`, `../quotes/institutional-leaders/pillaud-herve-commons-and-mutual-model.md`, `../quotes/producers/nelson-andrew-proprietary-data-reluctance.md`, `../quotes/industry-executives/leake-brian-bayer-farmers-own-data.md`.

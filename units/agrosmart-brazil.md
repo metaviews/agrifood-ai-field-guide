@@ -48,7 +48,7 @@ Anchors the *venture-funded, smallholder-scale, smartphone-default* deployment p
 
 - gaps: G-015 (independent verification of vendor-reported figures), G-013 (Caribbean-specific under-surfaced)
 - contested-claims: C-013 (AgriTech for smallholder inclusion), C-015 (LAC agritech at scale = meaningful smallholder benefit)
-- related-units: kilimo-argentina.md, alibaba-et-agricultural-brain.md, jd-farm-iot-blockchain.md
+- related-units: alibaba-et-agricultural-brain.md, jd-farm-iot-blockchain.md
 - sovereignty-flags: implicit — Agrosmart is venture-funded; farmer data flows through corporate platform; farmer data governance not surfaced in vendor framing
 
 ## Freshness

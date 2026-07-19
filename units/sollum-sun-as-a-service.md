@@ -57,7 +57,7 @@ Anchors the *on-farm-production-protected × predictive-ML × input-reduction* c
 
 - gaps: G-030 (Sollum / Zone Agtech actual deployed acreage and number of grower deployments)
 - contested-claims: C-016 (precision input reduction — partial alignment with See & Spray 50%)
-- related-units: haven-greens.md (Canadian protected-cultivation), hoogendoorn-quebec-greenhouse.md (Dutch technology in Quebec), loblaw-blue-yonder-forecasting.md (Canadian retail supply-chain AI)
+- related-units: haven-greens.md (Canadian protected-cultivation), loblaw-blue-yonder-forecasting.md (Canadian retail supply-chain AI)
 - sovereignty-flags: implicit — light-recipe data on Sollum infrastructure; farmer data governance not surfaced
 
 ## Freshness

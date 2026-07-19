@@ -53,9 +53,17 @@ Units are the substrate from which talks are built. Each unit documents a single
 
 8. **All 30 cycle units are vendor actor-type** — consistent with project priority (memory: user has signalled "don't expect a lot of non-vendor actor types"). Future cycles looking to rebalance actor-type should pick a different sub-sector.
 
-## Pre-existing cross-reference debt
+## Cross-reference debt — RESOLVED
 
-The cycle did not introduce any new unresolved cross-references. **62 pre-existing unresolved refs** in 13 pre-cycle units (mostly AI-institute cluster abbreviations like `leaf-penn-state-institute.md` referenced as just `leaf-penn-state-institute.md`, or `iowa-state-institute.md` referenced as `iowa-state-institute.md` where the canonical filename is `aiira-iowa-state-institute.md`). Not blocking, but worth a separate cleanup pass at some point. Do not treat as introduced by this cycle.
+A pre-cycle audit reported **62 unresolved cross-references**, but a long-prefix sweep showed those were predominantly an artifact of the cross-reference scanner matching sub-tokens inside longer filenames (e.g. `illinois-institute.md` matched as a sub-token of `aifarms-illinois-institute.md`). Re-running with longest-prefix matching reduced the count to **8 real broken refs**, all in **4 files**, all addressed here:
+
+- `units/agrosmart-brazil.md` — dropped `kilimo-argentina.md` (no such unit; not invented)
+- `units/cornell-atkinson-idsov-cluster.md` — fixed `care-principles-mission.md` and `ieee-2890-mission.md` to `../quotes/institutional-mission-statements/...` (cross-directory ref to existing quote file)
+- `units/open-source-in-agrifood-framework.md` — fixed four pillaud/nelson/leake refs to `../quotes/...` paths
+- `units/sollum-sun-as-a-service.md` — dropped `hoogendoorn-quebec-greenhouse.md` (no such unit; not invented)
+
+Post-cleanup: **0 broken cross-references** in the knowledge base.
+
 
 ## Freshness
 
