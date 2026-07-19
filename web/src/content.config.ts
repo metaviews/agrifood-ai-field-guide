@@ -46,19 +46,6 @@ const units = defineCollection({
   }),
 });
 
-// Scans — regional or topic scans (synthesizing multiple units).
-const scans = defineCollection({
-  loader: glob({ pattern: '**/!(README|_index)*.md', base: `${repoRoot}scans` }),
-  schema: z.object({
-    title: z.string().optional(),
-    region: z.string().optional(),
-    scope: z.string().optional(),
-    summary: z.string().optional(),
-    date: z.string().optional(),
-    units_anchored: z.array(z.string()).default([]),
-  }),
-});
-
 // Quotes — speaker voices, verbatim or paraphrased.
 // Quote files use `id` as identifier and may have unquoted year-only dates,
 // so the schema accepts string|number|date for date-like fields.
@@ -91,4 +78,4 @@ const talks = defineCollection({
   }),
 });
 
-export const collections = { units, scans, quotes, talks };
+export const collections = { units, quotes, talks };

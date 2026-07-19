@@ -3,7 +3,6 @@ import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
 const units = await getCollection('units');
-const scans = await getCollection('scans');
 const quotes = await getCollection('quotes');
 const allTalks = await getCollection('talks');
 const archetypes = allTalks.filter((t) => t.data.archetype_number !== undefined);
@@ -26,11 +25,6 @@ const archetypes = allTalks.filter((t) => t.data.archetype_number !== undefined)
       <span class="count-num">{units.length}</span>
       <span class="count-label">units</span>
       <span class="count-desc">Concrete deployments of AI in agrifood, with sources.</span>
-    </a>
-    <a href="/scans/" class="count-card">
-      <span class="count-num">{scans.length}</span>
-      <span class="count-label">scans</span>
-      <span class="count-desc">Regional or topic overviews drawing on multiple units.</span>
     </a>
     <a href="/quotes/" class="count-card">
       <span class="count-num">{quotes.length}</span>

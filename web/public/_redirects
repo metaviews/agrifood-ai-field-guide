@@ -1,3 +1,7 @@
 # Redirect old /archetypes/ URLs to the new /talks/archetypes/ location
 # after the merger of archetypes into the talks collection.
 /archetypes/* /talks/archetypes/:splat 301
+
+# Scans are now corpus-internal only. Any external link to a scan
+# redirects to the units index, which is the public-facing entry point.
+/scans/* /units/ 301
