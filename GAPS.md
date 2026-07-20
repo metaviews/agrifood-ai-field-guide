@@ -377,3 +377,12 @@ Total gaps registered: 311
 - **G-310** (n=2, src=units/strathmore-university-ai-tools.md:163) — (reconstructed from units/strathmore-university-ai-tools.md L163; see context)
 - **G-311** (n=2, src=units/strathmore-university-ai-tools.md:164) — (reconstructed from units/strathmore-university-ai-tools.md L164; see context)
 - **G-312** (n=2, src=units/strathmore-university-ai-tools.md:165) — (reconstructed from units/strathmore-university-ai-tools.md L165; see context)
+
+## Canada funder-convenor substrate (July 2026)
+
+- **G-313** (n=1, src=scans/2026-07-canada-funder-convenor-substrate.md:296) — No federal or provincial programme specifically funds Indigenous-led agrifood AI deployment. CanNor REGI-AI funded an Inuit economic-development AI tool, but not an agrifood AI tool. PolArctic Sanikiluaq (Inuit-led mariculture AI) and Salmon Vision (Indigenous-led BC wild salmon AI) are operational but not funded through an Indigenous-led-agrifood-AI-specific programme.
+- **G-314** (n=1, src=scans/2026-07-canada-funder-convenor-substrate.md:297) — No federal farm-data-governance programme adopted. EMILI's Canadian Agri-Food Data Initiative (CADI) guidebooks are industry-led; CAPI/EMILI's ISED submission recommended a UK Farm Data Principles equivalent — not adopted. No federal CSA-equivalent safety standard for agrifood AI systems.
+- **G-315** (n=1, src=scans/2026-07-canada-funder-convenor-substrate.md:298) — No CSA-equivalent safety standard for agrifood AI systems in Canada. Health Canada cellular agriculture novel-food guidance is the closest sector-specific AI-adjacent federal posture. No FCC AgExpert data-licensing public framework.
+- **G-316** (n=1, src=scans/2026-07-canada-funder-convenor-substrate.md:299) — No FCC AgExpert data-licensing public framework. AgExpert has 25,000 users and 6.5M acres; data-licensing terms are private contract terms.
+- **G-317** (n=1, src=scans/2026-07-canada-funder-convenor-substrate.md:300) — RAII funding shares by RDA (other than PrairiesCan's $33.8M) not publicly disclosed. Open Canada Grants portal enumerates recipients but not by-region totals for non-Prairie RDAs.
+- **G-318** (n=1, src=scans/2026-07-canada-funder-convenor-substrate.md:301) — No federal funder channel covers post-consumer food waste AI specifically across CAAIN / Scale AI / Digital / PIC / RAII. Worth a future cycle scan focused on waste-and-recovery matrix cell + funder substrate.

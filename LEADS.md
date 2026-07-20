@@ -125,7 +125,53 @@ tentative patterns to test against future cycles.
 - `2026-07-brazil-beef-seed-ai.md` L171 — This is a NEW cluster pattern observation for the corpus — neither the existing seven-cluster taxonomy nor the LAC cluster-pattern candidate explicitly captures it:
 - `2026-07-brazil-beef-seed-ai.md` L175 — This may be a **ninth cluster pattern candidate** alongside the previous LAC deepening observation. To be tested against future cycles (e.g. Mexico-US-Canada cross-border clusters; India-Africa cross-border clusters).
 - `2026-07-lac-deepening.md` L56 — **LAC cluster-pattern candidate — "venture-funded SaaS-platform + multilateral-institutional convening + foundation-model-vendor collaboration + processed-food conglomerate + academic-and-commercial CV cluster"**
-- `2026-07-lac-deepening.md` L75 — **Tentative claim:** LAC may be a distinct *eighth cluster pattern* — characterised by *multilateral-institutional convening + venture-funded SaaS-platform + foundation-model-vendor collaboration* — though the pattern is not yet stable enough to be a closed typology. Future cycle
+| `2026-07-lac-deepening.md` L75 — **Tentative claim:** LAC may be a distinct *eighth cluster pattern* — characterised by *multilateral-institutional convening + venture-funded SaaS-platform + foundation-model-vendor collaboration* — though the pattern is not yet stable enough to be a closed typology. Future cycle
+
+## Canada funder/convenor substrate cycle (July 2026)
+
+Realized from `2026-07-canada-funder-convenor-substrate.md`:
+
+- **caain-portfolio-canada.md** — realized from `2026-07-canada-funder-convenor-substrate.md` L51
+  gaps: G-313, G-314, G-318
+  CAAIN portfolio unit covering 35+ CAAIN-funded projects ($19.1M+ CAAIN contribution against $52M+ total project value visible on public project pages), three pillars (automation/robotics, data-driven decision-making, validation/demonstration), three active 2026 funding calls (Clean Agtech $3.8M; Open Competition $9M rolling; Prairie Agtech Validation), founder/operator demographic, bank-financing-gap framing, smart farm validation infrastructure, processing-cell population across animal proteins.
+- **raii-canada-ai-adoption-programme.md** — realized from `2026-07-canada-funder-convenor-substrate.md` L207
+  gaps: G-313, G-317
+  RAII unit covering $200M Budget 2024 / $500M AI for All federal AI SME/adoption programme delivered by Canada's seven regional development agencies (ACOA, CED-Q, CanNor, FedNor, FedDev Ontario, PrairiesCan, PacifiCan), two streams (AI productization/commercialization + AI adoption), named agrifood recipients across all 7 RDA regions (Food and Beverage Atlantic Association Inc. Moncton NB; Cogent Real-Time Systems Markham ON $1.04M; CanNor's Prosper NWT / Inuvik Tech Society / Nunavut Economic Developers Association / DeltaVue), RAII/UBF tension as binding constraint dynamic.
+- **scale-ai-agriculture-canada.md** — realized from `2026-07-canada-funder-convenor-substrate.md` L260
+  gaps: G-313, G-318
+  Scale AI Agriculture & Mining portfolio unit covering 13 named projects (Agi3 insurance, Vivid Machines fruit, Terramera crop health, Verge Ag autonomous data, EarthDaily satellite, Local Line short supply chain, Nulogy packaging, Rubikloud pricing, Loblaw × Plotly, Transcontinental × Canadian Tire, Alfred × Fairmont hospitality F&B), cross-cluster pattern (5+ leads in both Scale AI and Digital), insurance vector (Agi3 × Enns Brothers × Rutherford Farms), Mars Canada packaging, Alfred × Fairmont consumption-side F&B AI.
+- **digital-supercluster-agriculture-canada.md** — realized from `2026-07-canada-funder-convenor-substrate.md` L321
+  gaps: G-313, G-318
+  Digital Technology Supercluster (DTC / DIGITAL) Natural Resources & Agriculture portfolio unit covering 20+ projects, AI for Aquaculture (Excel Career College + BCSFA + Vancouver Island First Nations) as the Indigenous-knowledge-integrated anchor, cross-cluster pattern with Scale AI, Talent & Connectivity pillar framing, Fresh Water Data Commons + Earth Data Store + Multi-lens Ecological Restoration Monitoring.
+- **protein-industries-canada-ai-programme.md** — realized from `2026-07-canada-funder-convenor-substrate.md` L382
+  gaps: G-313, G-318
+  PIC AI Programme unit covering $30M PCAIS-delivered programme that ended March 2026, three streams (Projects, Systems, Community), 7 projects total (DRIP, Pea Genomic Selection Platform, 5 unnamed active projects), Pea Genomic Selection Platform (PIC $1.4M / total $1.8M, GIFS Ag Tech Enterprise + DL Seeds + USask CDC + AAFC, January 14 2026 announcement) as substantive Prairie × seed × AI anchor, programme closure as substantive observation with no AI for All successor.
+
+## Open leads — Canada deepening cycle (pending units)
+
+Surfaced in `2026-07-canada-funder-convenor-substrate.md` L11 (unit candidate list) and `2026-07-canada-deepening-scout.md` §11.4 + §11A.7 (consolidated list), to be realized in subsequent scans:
+
+- **Canadian dairy AI unit** — CATTLEytics + SomaDetect + Milk Moovement + Lakeland Precision Ranching (cross-cutting dairy value chain unit).
+- **Canadian poultry AI unit** — Chick Pick + Farm Health Guardian + MatrixSpec Hyper-Eye + Targan WingScan-in-Quebec.
+- **Canadian meat-processing AI unit** — P&P Optica + mode40 + Circulus Agtech (with SoraLINK cross-reference for dairy).
+- **Canadian beekeeping AI unit** — Nectar BeeTrack.
+- **Canadian mushroom AI unit** — 4AG Robotics.
+- **Canadian orchard AI unit** — CropVue + Vivid Machines + SoilOptix.
+- **Canadian grain-grading AI unit** — Super GeoAI + VeriGrain + Grain Discovery.
+- **AIDA Atlantic Digital Agriculture unit** — AIDA as the Atlantic anchor.
+- **Prairie grain AI cluster unit** — Saskatoon/Regina/Winnipeg/Steinbach/Vermilion cluster.
+- **BC horticulture AI cluster unit** — Surrey/Salmon Arm/Vancouver Island cluster.
+- **Northern Canada CanNor AI 2026 unit** — CanNor Feb 2026 cycle.
+- **DFO Pacific salmon AI unit** — Chumputer + computer-vision migration counter + Factoid Finder.
+- **Canadian aquaculture AI unit** — Digital AI for Aquaculture + WellFish + Ocean Supercluster.
+- **Salmon Vision unit** — Salmon Vision deployment (BC Indigenous-led wild salmon AI). Strong peer-reviewed primary source.
+- **PolArctic unit** — PolArctic Sanikiluaq (Inuit-led mariculture AI, two-eyed seeing). Strong G-010 candidate.
+- **ReelData unit** — ReelData AI (Halifax RAS biomass CV). Atlantic aquaculture anchor.
+- **Vineland robotic greenhouse harvester unit** — Vineland robotic cucumber/bell-pepper harvester. Ontario horticulture.
+- **Pea Genomic Selection Platform unit** — Pea Genomic Selection Platform. Prairie inputs × seed × breeding.
+- **Canadian Pacific/Atlantic fisheries AI vendors unit** — OnDeck + Marine Thinking + Mowi Feed Centre + Oceans North EM pilot.
+- **Canada Health Canada drone pesticide policy unit** — surfaced in constraint/critical scout §10.
+- **Canada federal AI substrate unit** — federal AI safety/strategy/policy cluster (CAISI + AI for All + Directive on ADM).
 
 ## How to use this file
 
