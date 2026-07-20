@@ -199,6 +199,29 @@ Realized from `2026-07-canada-value-chains.md`:
   gaps: G-321
   Canadian grain-grading AI unit: Super GeoAI Technology Saskatoon SK (Phase 1 $372K / $1.20M + Phase 2 $712K / $2.17M, GeoAI wheat grading with Android + iOS apps + expansion to Canola + peas + VeriGrain integration); Grain Discovery Picton ON ($399K / $1.31M, B2B grain sustainability platform); A.U.G. Signals Toronto ON + AUAV Tech Calgary AB ($595K / $1.90M, broadacre drought severity index at 20m regional + 3.5m field-level). 100-year-old grain grading process is the legacy that GeoAI challenges.
 
+## Canada regional substrate cycle (July 2026)
+
+Realized from `2026-07-canada-regional-substrate.md`:
+
+- **aida-atlantic-digital-agriculture.md** — realized from `2026-07-canada-regional-substrate.md` §2
+  gaps: G-322, G-328
+  AIDA Atlantic digital agriculture unit covering the Atlantic Institute for Digital Agriculture at Dalhousie Faculty of Agriculture (Truro NS), Director Dr. Travis Esau, 5 research pillars (precision agriculture, robotics/automation/AI, data-driven management, human-computer interface, knowledge mobilization), 11 named Chair-holders (Al-Mallahi NB Potato; Colombo CRC Aquaculture Nutrition; Heung CRC Digital Soil Mapping + Canadian Soil Data Portal; Meagher Animal Science; Zaman Precision Agriculture + Variable Rate Sprayer patents; Price FAO Global Soil Lab; Haque PINet; Asah CRC Tier I Social Dimensions; Jiang Agronomy + $500K CFI/Research Nova Scotia; Kittilsen Extended Learning). Atlantic deployment actors: Chick Pick Moncton NB, Milk Moovement Halifax NS, WellFish PEI.
+- **prairie-grain-ai-cluster.md** — realized from `2026-07-canada-regional-substrate.md` §3
+  gaps: G-321
+  Prairie grain AI cluster unit covering three sub-clusters: (1) Saskatoon grain AI (Super GeoAI + VeriGrain + Raven OMNiPOWER + Mojow + USask CDC, 100-year-old grain grading legacy challenged); (2) Winnipeg/Steinbach/Vermilion protein AI (MacDon $9.26M largest CAAIN, mode40 carcass cooling ISED→CAAIN→AAFC Lacombe→commercial plants path, Lakeland Precision Ranching); (3) Calgary/Lethbridge/Olds digital ag (Ox+Plow + SmartGro + PIP International + Metabolomics + AltaML + AUAV Tech + Olds College). MacDon $9.26M largest single CAAIN. CAAIN funding as the leveller. Cross-cluster funding pattern.
+- **bc-horticulture-ai-cluster.md** — realized from `2026-07-canada-regional-substrate.md` §4
+  gaps: G-321, G-325, G-327
+  BC horticulture AI cluster unit covering four sub-clusters: (1) Surrey orchard (CropVue + OKSIR codling moth smart trap); (2) Salmon Arm mushroom (4AG Robotics); (3) Vancouver Island aquaculture training (Excel Career College AI for Aquaculture + BCSFA + First Nations); (4) Vancouver biocontrol + salmon (Catalera Terramera spinout $8.8M Series A, Mowi Canada West Feed Centre, OnDeck Fisheries AI $1.5M PCAIS, Salmon Vision team SFU + Gitanyow + Skeena Fisheries). Indigenous-led AI deployment (Salmon Vision) operationally deployed, not framework-only. 2026 DFO transition plan for 79 BC salmon farms unresolved.
+- **northern-canada-can-ai-2026.md** — realized from `2026-07-canada-regional-substrate.md` §5
+  gaps: G-313, G-324
+  Northern Canada CanNor AI 2026 unit covering CanNor Feb 6 2026 announcement ($2.815M, 4 projects, YT/NWT/NU, IDEANorth + REGI-AI): Prosper NWT ($2.316M / 3 years AI entrepreneurship), Inuvik Tech Society ($200K / 2 years digital literacy + AI training, "only recently gained reliable high-speed connectivity"), Nunavut Economic Developers Association ($200K / 3 years Inuit-led AI tool), DeltaVue Yukon ($100K / 1 year Arctic sensor platform). Plus PolArctic Sanikiluaq Inuit-led mariculture AI (first AI to treat Indigenous Knowledge and Western science as equals, Inuktitut + English). First documented Indigenous-led AI deployment with federal funding (Nunavut Economic Developers Association). RAII / UBF tension as binding constraint.
+- **dfo-pacific-salmon-ai.md** — realized from `2026-07-canada-regional-substrate.md` §6.1
+  gaps: G-323
+  DFO Pacific salmon AI unit covering three active pilots in Pacific Salmon Strategy Initiative: (1) Chumputer (deep-learning CNNs, 80,000+ scales/year, first step to all-salmon-species scale-reading); (2) Computer-vision salmon migration counter (Sproat and Stamp River fish ladders); (3) Factoid Finder (NLP/LLM-style AI for watershed planning, Integrated Planning for Salmon Ecosystems). Plus DFO 2026-27 Departmental Plan explicit AI investment. Digital modernization counterweight to $54.47M (2026-27) / $101.91M (2027-28) / $193.82M (2028-29) spending reduction / 551 FTE decrease by 2028-29.
+- **canadian-aquaculture-ai.md** — realized from `2026-07-canada-regional-substrate.md` §6.3-§6.9
+  gaps: G-321, G-325, G-326
+  Canadian aquaculture AI unit covering the Pacific + Atlantic vendor ecosystem: ReelData AI Halifax NS (RAS biomass CV, Buoyant Ventures VC), OnDeck Fisheries AI Vancouver ($1.5M PCAIS-funded, electronic monitoring 10-12× cost reduction), WellFish Tech PEI BioAlliance (non-lethal blood assessment), Marine Thinking Newfoundland (catch monitoring + ghost gear), Mowi Canada West (centralized AI-assisted Feed Centre), Ocean Supercluster H2S-sensor + AI-camera fish welfare project (Grieg Seafood), Oceans North Nova Scotia (at-sea observer EM pilot). The funding-stack pattern (venture + PCAIS + corporate + cluster + NGO) produces different data-governance postures.
+
 ## How to use this file
 
 When you start a new cycle, look first at 'Open leads' for named targets
