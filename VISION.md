@@ -53,7 +53,7 @@ Every entry carries: `last_verified` date, source(s), claim type, and (where app
 
 ### Three-axis taxonomy
 
-Activity in AI-and-agrifood is mapped along three axes. The taxonomy is built iteratively and lives in `taxonomy/`. The current working version is `taxonomy/v4.md`; `taxonomy/v1.md`, `v2.md`, and `v3.md` are retained as change-history anchors.
+Activity in AI-and-agrifood is mapped along three axes. The taxonomy is built iteratively and lives in `taxonomy/`. The current working version is `taxonomy/v4.md`; `taxonomy/v1.md`, `v2.md`, and `v3.md` are retained as change-history anchors. The corpus's distinct research methods (environmental scans, region-deepening, follow-on, substrate, two-phase, ecosystem mapping, cluster-pattern analysis, comparative scans, vendor-report hygiene, critical-voice surfacing, quote fishing, contested-claim tracking, negative-finding tolerance, gap + lead surfacing) are documented in `METHODS.md`.
 
 1. **Sector position** — where in the value chain
    - inputs
@@ -99,7 +99,7 @@ Each layer is built only when the layer below it is solid enough to support it. 
 
 ## Status
 
-Mid-July 2026. **Layer 1 (content library) is mature:** 134 units, 19 scans, 7 quote files (one is a multi-voice corpus), 5 taxonomy versions, and six regional deepening cycles (LAC deepening; Brazil beef + Chile-Canada; Argentine beef + Brazilian seed; MENA + Lebanon; Spain + North Africa; Spanish cooperatives) have produced the corpus's cluster-pattern analytical lens. **Layer 2 (methodology and templates) is now substantial:** six archetypes (vendor-sweep / data-sovereignty / adoption-diagnosis / cooperative-alternative / critical-lens / regional-cluster-comparison); canonical cluster-pattern vocabulary in `talks/cluster-pattern-taxonomy.md`; six-spine taxonomy with the user's confirmed principle "as many archetypes as our research encounters". **Layer 3 (web generation) and Layer 4 (deck generation) have not started.** Layer 3 is a public-facing website built on Cloudflare Pages, hooked to the GitHub repo; Layer 4 is slide-deck tooling. Both are downstream of the methodology layer.
+Late July 2026. **Layer 1 (content library) is mature:** 157 units, 25 scans, 30 quote entries, 5 taxonomy versions, six regional deepening cycles (LAC deepening; Brazil beef + Chile-Canada; Argentine beef + Brazilian seed; MENA + Lebanon; Spain + North Africa; Spanish cooperatives), and the African open-source cycle (eight substantive units). **Layer 2 (methodology and templates) is now substantial:** six archetypes (vendor-sweep / data-sovereignty / adoption-diagnosis / cooperative-alternative / critical-lens / regional-cluster-comparison); canonical cluster-pattern vocabulary in `talks/cluster-pattern-taxonomy.md`; six-spine taxonomy with the user's confirmed principle "as many archetypes as our research encounters"; corpus-build methods register in `METHODS.md` (14 named methods across scan-shape, ecosystem mapping, cluster-pattern analysis, vendor-report hygiene, critical-voice surfacing, contested-claim tracking, gap + lead surfacing); corpus registries in `GAPS.md` (311 G-NNN gaps indexed) and `LEADS.md` (32 leads surfaced during cycle work, with realized/open status). **Layer 3 (web generation) and Layer 4 (deck generation) have not started.** Layer 3 is a public-facing website built on Cloudflare Pages, hooked to the GitHub repo; Layer 4 is slide-deck tooling. Both are downstream of the methodology layer.
 
 ## Licensing
 

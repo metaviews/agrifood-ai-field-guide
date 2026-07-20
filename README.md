@@ -11,7 +11,8 @@ A knowledge base and presentation framework for public education on artificial i
 - `taxonomy/v5.md` — current taxonomy (fifth iteration). `taxonomy/v1.md..v4.md` retained as change-history anchors. Adds `maturity-scale`, `maturity-verification`, `maturity-longevity`, and `maturity-translation` cross-cutting tags for four-dimension maturity assessment.
 - `units/` — content units (157 entries) — the substrate from which talks are built. Vendor deployments, NA/EU/LAC/Africa/MENA/Asia academic institutes, data cooperatives, IDSov frameworks, critical voices, ecosystem mappings, hyperscaler and EU regulatory substrate.
 - `quotes/` — speaker voices (30 entries across 5 categories)
-- `talks/` — methodology layer: six working archetypes + cluster-pattern taxonomy. See `talks/README.md` for operating principles.
+- `talks/` — talk-assembly methodology: six working archetypes + cluster-pattern taxonomy. See `talks/README.md` for operating principles.
+- `METHODS.md` — corpus-build methodology: 14 named methods (environmental scan, region-deepening, follow-on, substrate, two-phase, ecosystem mapping, cluster-pattern analysis, comparative scan, vendor-report hygiene, critical-voice surfacing, quote fishing, contested-claim tracking, negative-finding tolerance, gap + lead surfacing)
 - `GAPS.md` — corpus-wide gap registry (311 G-NNN IDs indexed with best-available descriptions)
 - `LEADS.md` — corpus-wide lead registry (32 leads surfaced during cycle work, with realized/open status)
 - `LICENSE` — CC BY 4.0 for content

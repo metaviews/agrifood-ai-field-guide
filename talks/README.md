@@ -4,6 +4,8 @@
 
 **Why this exists.** A knowledge base only earns its keep if it can be turned into talks. Without a methodology layer, the units accumulate but the talks take longer to build than they should; the same analytical move gets rediscovered every time. The methodology layer is the *shared practice* — once it's documented, every talk is faster than the last.
 
+**Where this fits.** The field guide's research methods (how the corpus is *built* — environmental scans, region-deepening, ecosystem mapping, cluster-pattern analysis, vendor-report hygiene, contested-claim tracking, etc.) are documented in `METHODS.md` at repo root. This file documents the *talk-assembly* methods (how the corpus is *presented* — spines, archetypes, depth, audience accommodation). The two are adjacent but separate: METHODS.md is the researcher's field manual; this file is the presenter's field manual. A typical cycle uses both — the corpus-build methods to research and write units, then the talk-assembly methods to compose those units into a deck.
+
 ## What this directory contains.
 - This README: operating principles, how to use the archetypes, when to deviate.
 - `talks/cluster-pattern-taxonomy.md` — the canonical cluster-pattern vocabulary surfaced across six regional deepening cycles; this is the working analytical-lens doc that archetype 06 draws on.
@@ -107,7 +109,7 @@ The six archetypes are first iteration (July 2026), with archetype 06 added duri
 When the corpus grows materially (new regional cycles, new quote categories, new cooperatives), the methodology layer refreshes. The next iteration candidates: a *AI and labour* spine, a *AI in food processing* spine, a *cooperative-statutory-vs-corporate-statutory context* spine, and a *cluster-pattern-as-archetype* archetype (currently the cluster-pattern observation is hosted as a cross-cutting analytical lens rather than its own archetype). Each candidate emerges when the corpus has units that load-bearingly demonstrate the pattern.
 
 ## Files
-- `talks/README.md` (this file)
+- `talks/README.md` (this file) — talk-assembly methodology
 - `talks/index.md` — quick-reference table of the six archetypes
 - `talks/cluster-pattern-taxonomy.md` — canonical cluster-pattern vocabulary surfaced across six regional cycles
 - `talks/archetypes/01-vendor-sweep-primer.md`
@@ -116,3 +118,7 @@ When the corpus grows materially (new regional cycles, new quote categories, new
 - `talks/archetypes/04-cooperative-alternative.md`
 - `talks/archetypes/05-critical-lens-indigenous-sovereignty.md`
 - `talks/archetypes/06-regional-cluster-comparison.md`
+- `../METHODS.md` — corpus-build methodology (research methods register; 14 named methods)
+- `../GAPS.md` — corpus-wide gap registry (311 G-NNN IDs indexed)
+- `../LEADS.md` — corpus-wide lead registry (32 leads surfaced during cycle work)
+- `../taxonomy/v5.md` — current taxonomy
