@@ -29,7 +29,7 @@ references:
 
 # Canadian Indigenous Data Sovereignty + AI in Agrifood
 
-This unit consolidates the Indigenous Data Sovereignty (IDSov) + AI in Canadian agrifood substantive cell across four layers per the project's ecosystem-mapping pattern: framework, Canadian institutional, operational deployment, critical-analytical voice. **Cross-references `units/indigenous-data-sovereignty.md` (global framework), `units/cornell-atkinson-idsov-cluster.md` (US land-grant academic), and the four Canadian-context dedicated units.**
+This unit consolidates the Indigenous Data Sovereignty (IDSov) + AI in Canadian agrifood substantive cell across four layers per the project's ecosystem-mapping pattern: framework, Canadian institutional, operational deployment, critical-analytical voice. **Cross-references `units/indigenous-data-sovereignty.md` (global framework), `units/cornell-atkinson-idsov-cluster.md` (US land-grant academic), and the four Canadian-context dedicated units. See `scouts/2026-07-canada-ids-ecosystem-map.md` for the four-layer ecosystem-mapping pattern applied per-framework (collaborators / institutional anchors / adjacent voices / framework positions).**
 
 ## Substantive finding
 
