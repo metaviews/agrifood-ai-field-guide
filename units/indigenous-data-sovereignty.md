@@ -42,15 +42,39 @@ This unit captures the framework *and* the operational anchors — Indigenous-le
 
 ### IEEE 2890-2025 — Provenance of Indigenous Peoples' Data
 
-**Approved:** August 2025, after five-year development process
+**PAR Approval:** June 3, 2020. **Board Approval:** September 10, 2025. **Published:** November 14, 2025 (5-year development process).
 **Status:** World's first global standard for the provenance of Indigenous data
 **Format:** IEEE Recommended Practice (industry specification, not binding regulation)
 
-**What it does:** Operationalises the CARE Principles into industry specifications by detailing the process for describing and recording the *provenance* (origin and history of ownership) of data derived from Indigenous Peoples, lands, and waters.
+**Working Group Chair:** Stephanie Russo Carroll (University of Arizona). **IEEE Program Manager:** Malia Zaman. **Standard Committee:** SSIT/SC — Social Implications of Technology Standards Committee. **Working Group:** ID-WG — Indigenous Data Working Group.
 
-**Recognition:** GIDA recognised IEEE 2890-2025 as including the active participation of Indigenous members in the development process.
+**What it does:** Operationalises the CARE Principles into industry specifications by detailing the process for describing and recording the *provenance* (origin and history of ownership) of data derived from Indigenous Peoples, lands, and waters. **Critically: explicitly applies to AI/ML industries** (per Udall Center event description, February 2026): *"Within data-generated industries, such as artificial intelligence and machine learning, as well as biodiversity research and innovations in genomic science, this standard enhances the integrity of that data."*
+
+**Recognition:** GIDA recognised IEEE 2890-2025 as including the active participation of Indigenous members in the development process, with Indigenous Caucus, consultation with Indigenous Peoples, and ensuring open access. Webinar (February 18, 2026) led by Stephanie Carroll, Jane Anderson, Randy Akee, Camille Callison, Maui Hudson, Max Liboiron — hosted by Indigenous Data Exchange, Collaboratory for Indigenous Data Governance, IndigeLab Network, CBIKS and ENRICH.
 
 ### Operational anchors — Indigenous-led deployments
+
+#### PolArctic Sanikiluaq Nunavut (Two-Eyed Seeing operational pattern)
+
+**Approach:** Two-Eyed Seeing (Etuaptmumk) — Albert Marshall's Mi'kmaw concept that integrates Indigenous Knowledge and Western science as equals. **First AI to operationalise this for a Canadian Inuit community.** Inuktitut + English output.
+
+**Application:** Fisheries management + climate adaptation + shoreline protection monitoring in Sanikiluaq, Nunavut (Qikiqtaaluk Region, Belcher Islands).
+
+**Peer-reviewed:** Iravani, R., Biagi, M., Laforest, S., Lee, K., Isaacman, L., Chen, Z., An, C. (2025). *Protecting shorelines in Canadian Indigenous communities*. **Marine Pollution Bulletin** 219:118310. doi:10.1016/j.marpolbul.2025.118310.
+
+See `units/polarctic-sanikiluaq-mariculture-ai.md` for full unit.
+
+#### Salmon Vision BC (Gitanyow Fisheries Authority + SFU)
+
+**Approach:** AI-integrated fish weir monitoring. Combining AI with centuries-old Gitanyow fishing weir technology. Indigenous-led methodology with cutting-edge computer vision.
+
+**Performance:** ~90% coho accuracy / ~80% sockeye accuracy. 12 species. 500,000+ frames annotated.
+
+**Peer-reviewed:** Frontiers in Marine Science 2023.
+
+**Operational locations:** Bear River + Kitwanga River fish counting weirs, BC Central Coast.
+
+See `units/salmon-vision-bc-wild-salmon-ai.md` for full unit.
 
 #### Indigenous Navigator Peru (ONAMIAP-IWGIA, 2023-2025)
 
@@ -74,6 +98,14 @@ This unit captures the framework *and* the operational anchors — Indigenous-le
 **Status:** Established national-scale Indigenous data governance in Canada
 **Annual Report 2024-2025** referenced as the operational anchor for First Nations data sovereignty
 **OCAP® principles** (Ownership, Control, Access, Possession) — the Canadian Indigenous data governance framework
+
+**First Nations Data Governance Strategy (FNDGS):** Submitted to Indigenous Services Canada in 2025 (AFN Resolution 30-2025). Community-driven, Nation-based national strategy. **Plans regional information governance centres (one per region).** See `units/fnigc-first-nations-data-governance-strategy.md` for full unit.
+
+#### NCIAF — National Circle for Indigenous Agriculture and Food (Canadian institutional vehicle)
+
+**Launched:** 13 June 2024 with FCC support. **The only named Indigenous-led agrifood organisation with FCC backing and national scope.** MOU with CFA signed 2025. President and CEO Kallie Wood; Senior Director Gabrielle Fallu.
+
+See `units/nciaf-indigenous-agrifood-canada.md` for full unit.
 
 #### Te Mana Raraunga — Māori Data Sovereignty Network (Aotearoa NZ)
 
@@ -128,7 +160,22 @@ Worth distinguishing: AGUAPAN is **not** primarily a data sovereignty project �
 
 **The "be FAIR and CARE" framing is the key insight.** CARE complements FAIR rather than replacing it. Talks about Indigenous data governance should engage with both — CARE addresses people and purpose; FAIR addresses technical interoperability. Together they form a complete framework.
 
-**Worth naming honestly:** Indigenous-led AI deployment in agrifood specifically is *under-deployed* relative to vendor-led or state-led AI deployment. The gap is real. Worth knowing for any talk about IDSov operationalisation.
+**Worth naming honestly:** Indigenous-led AI deployment in agrifood specifically is *under-deployed* relative to vendor-led or state-led AI deployment, but **substantive operational deployments do exist**: PolArctic Sanikiluaq (peer-reviewed 2025), Salmon Vision BC (peer-reviewed 2023), NEDA AI tool (CanNor REGI-AI), Inuvik Tech Society (CanNor IDEANorth), Indigenous Pathfinders in AI (Mila 2025 cohort). The gap is **funding-instrument-specific** (no Indigenous-led-agrifood-AI-specific federal programme), not framework-substantive or operational-deployment-substantive. The framework-deployment funding-instrument gap is G-313.
+
+**The Canadian agrifood analytical voice — Ruder + Wittman + collaborators** — is substantively important:
+- Ruder, S.-L. & Wittman, H. (2025). *Agricultural data governance from the ground up: Exploring data justice with agri-food movements*. **Big Data & Society**. **Cited 22 times.** 40 workshops + 26 conferences across Western Canada, US, Latin America (2020-2023).
+- Ruder, S.-L. (2025). *Theorizing agricultural data policy and governance*. **Journal of Peasant Studies**. Cited 14 times.
+- Duncan, E. et al. (incl. Ruder). (2026). *The political economy of agricultural data governance*. **Journal of Rural Studies**. Cited 6 times.
+- **BCACARN Ethical Data Governance Toolkit (2024)** — first documented Canadian agrifood ethical data governance toolkit.
+
+Ruder-Wittman are the substantive Canadian agrifood data-governance analytical voice — distinct from Neethirajan (Dalhousie; AI-deployed-on-the-farm voice), Dara (U Guelph; greenhouse AI risk), Charlebois (Dalhousie; pragmatic-critical).
+
+**Mila's substantive Indigenous AI work** is institutional infrastructure, not a CSA joint-committee standard (correction to the constraint/critical scout §5 framing):
+- Indigenous AI Advisory Circle (Mila + CIFAR; 6 Indigenous leaders; convening function)
+- Indigenous Pathfinders in AI (Mila summer program; 2nd cohort 2025: 21 participants / 8 AI prototypes; capacity-building function)
+- Pathways to AI: An Introduction for Indigenous (Mila + FNTC course; education function)
+
+See `units/mila-indigenous-ai-infrastructure.md` for full unit.
 
 ## What this unit is doing in the taxonomy
 
@@ -141,6 +188,8 @@ Distinct from:
 - **JoinData** (`joindata-netherlands.md`) — Dutch cooperative cultural fit, not Indigenous-led.
 - **OADA** (`oada-open-ag-data-alliance.md`) — open-source standards, not Indigenous-led.
 - **CGIAR FAIR Principles** (`open-data-ecosystem.md`) — multilateral open data, complementary to CARE.
+- **Cornell Atkinson IDSov cluster** (`cornell-atkinson-idsov-cluster.md`) — US land-grant academic IDSov work.
+- **Canadian IDSov + AI in Agrifood** (`canadian-indigenous-data-sovereignty-agrifood.md`, new) — consolidates the framework + deployment + institutional + analytical-voice layers for Canadian context.
 
 ## Why it matters for talks
 
