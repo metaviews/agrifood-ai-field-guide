@@ -173,6 +173,32 @@ Surfaced in `2026-07-canada-funder-convenor-substrate.md` L11 (unit candidate li
 - **Canada Health Canada drone pesticide policy unit** — surfaced in constraint/critical scout §10.
 - **Canada federal AI substrate unit** — federal AI safety/strategy/policy cluster (CAISI + AI for All + Directive on ADM).
 
+## Canada value-chain matrix cycle (July 2026)
+
+Realized from `2026-07-canada-value-chains.md`:
+
+- **canadian-dairy-ai.md** — realized from `2026-07-canada-value-chains.md` §2
+  gaps: G-319
+  Canadian dairy AI unit covering the full value chain (production + processing + logistics): CATTLEytics Hamilton ON ($800K / $2.44M); SomaDetect Tillsonburg ON ($145K / $428K); Milk Moovement Halifax NS ($302K / $1.16M); Lakeland College Vermilion AB ($143K / $1.30M); plus SoraLINK × Saputo/Olymel/Agropur (existing). Equipment-agnostic ingestion framing (CATTLEytics + SomaDetect). Milk Moovement $20M USD Series A + CAAIN funding stack. Lakeland Precision Ranching spanning AB + MB + BC. First Canadian value chain where CAAIN + existing units cover the full chain.
+- **canadian-meat-processing-ai.md** — realized from `2026-07-canada-value-chains.md` §3
+  gaps: G-321
+  Canadian meat processing AI unit: P&P Optica Waterloo ON ($2.97M / $9.21M, ~20 systems across North America, hyperspectral meat quality); mode40 Steinbach MB ($465K / $1.38M, carcass cooling AI, AAFC Lacombe development path + 10 commercial plant validation); Circulus Agtech Montréal QC ($500K / $1.30M, closed-loop nutrient recovery). Processing cell now multi-protein across animal proteins. Closed-loop circular-economy AI as first Canadian circular-economy pattern.
+- **canadian-poultry-ai.md** — realized from `2026-07-canada-value-chains.md` §4
+  gaps: G-321
+  Canadian poultry AI unit: Chick Pick Solutions Moncton NB ($275K / $728K, chick sexing AI at MB + ON hatcheries); Farm Health Guardian Guelph ON ($228K / $691K, HPAI/Newcastle/aMPV/ILT disease mapping + GPS biosecurity); MatrixSpec Hyper-Eye Baie-D'Urfé QC ($1.33M / $3.31M, pre-incubation egg fertility/gender hyperspectral AI, 7-billion-chick culling claim as most consequential animal-welfare AI claim); plus Targan WingScan at Quebec hatcheries (US vendor, 30M+ chicks/week worldwide).
+- **canadian-beekeeping-ai.md** — realized from `2026-07-canada-value-chains.md` §5
+  gaps: G-321
+  Canadian beekeeping AI unit: Nectar Technologies Montréal QC ($732K / $2.28M, BeeTrack prescriptive beekeeping platform, 4,000–9,000 hive partner scale, partners Intermiel QC + Busy Bee Farm AB). First documented Canadian AI beekeeping deployment. Migration logic (QC blueberry → strawberry; AB canola). "Agtech not tech-ag" producer-led framing.
+- **canadian-mushroom-ai.md** — realized from `2026-07-canada-value-chains.md` §6
+  gaps: G-321
+  Canadian mushroom AI unit: 4AG Robotics Salmon Arm BC ($1.55M / $4.66M, vision-guided mushroom harvesting robot 24/7 + processing + packing + disease detection + climate control + CO2 reduction). First documented Canadian AI mushroom farming deployment. BC-anchored.
+- **canadian-orchard-ai.md** — realized from `2026-07-canada-value-chains.md` §7
+  gaps: G-321
+  Canadian orchard AI unit: CropVue Technologies Surrey BC ($106K / $310K, codling moth smart trap AI for OKSIR program); Vivid Machines Toronto ON (tree-fruitlet CV per tree, Quinton Gibson Ontario apple farm). Vivid Machines is the cross-cluster funding anchor (CAAIN + Scale AI + Digital).
+- **canadian-grain-grading-ai.md** — realized from `2026-07-canada-value-chains.md` §8
+  gaps: G-321
+  Canadian grain-grading AI unit: Super GeoAI Technology Saskatoon SK (Phase 1 $372K / $1.20M + Phase 2 $712K / $2.17M, GeoAI wheat grading with Android + iOS apps + expansion to Canola + peas + VeriGrain integration); Grain Discovery Picton ON ($399K / $1.31M, B2B grain sustainability platform); A.U.G. Signals Toronto ON + AUAV Tech Calgary AB ($595K / $1.90M, broadacre drought severity index at 20m regional + 3.5m field-level). 100-year-old grain grading process is the legacy that GeoAI challenges.
+
 ## How to use this file
 
 When you start a new cycle, look first at 'Open leads' for named targets
