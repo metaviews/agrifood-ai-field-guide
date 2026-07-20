@@ -17,12 +17,12 @@ Quick-reference table for the six working archetypes in `talks/archetypes/`. Eac
 
 If you're not sure which to start from, work through this decision tree:
 
-1. **Is the audience Canadian and farmer-facing?** → 02 (data sovereignty) or 03 (adoption diagnosis).
+1. **Is the audience Canadian and farmer-facing?** → 02 (data sovereignty) or 03 (adoption diagnosis). **Both archetypes were upgraded in the July 2026 Canada deepening cycle — see [`canada-deepening-cycle-2026-07.md`](canada-deepening-cycle-2026-07.md) for the specific upgrade notes (CAAIN funding-stack, RAII/UBF tension, Indigenous-led AI).**
 2. **Is the audience non-specialist and you need to introduce the field?** → 01 (vendor sweep).
 3. **Is the audience policy or sector-insider and the talk is short?** → 03 (adoption diagnosis).
-4. **Is the audience policy / cooperative / academic and the talk is about alternatives?** → 04 (cooperative alternative).
-5. **Is the audience academic / policy and the talk is about the structural critique?** → 05 (critical lens).
-6. **Is the audience academic / comparative-political-economy and the talk is about cross-regional cluster patterns?** → 06 (regional-cluster-comparison).
+4. **Is the audience policy / cooperative / academic and the talk is about alternatives?** → 04 (cooperative alternative). **Canadian anchor units added in July 2026 Canada deepening cycle.**
+5. **Is the audience academic / policy and the talk is about the structural critique?** → 05 (critical lens). **Major upgrade in July 2026 Canada deepening cycle — PolArctic Sanikiluaq + Salmon Vision + Nunavut Economic Developers Association + Inuvik Tech Society.**
+6. **Is the audience academic / comparative-political-economy and the talk is about cross-regional cluster patterns?** → 06 (regional-cluster-comparison). **Canada cluster pattern added in July 2026 Canada deepening cycle.**
 
 ## What each archetype contains
 
@@ -35,9 +35,14 @@ Each archetype file includes:
 
 ## Status
 
+**Status.**
 Six archetypes as of mid-July 2026 (five load-bearing + one meta-pattern archetype added with the Japan+Korea cycle). The cluster-pattern observation has matured across six regional deepening cycles into a canonical cluster-pattern vocabulary in `talks/cluster-pattern-taxonomy.md`; archetype 06 draws on it.
 
+**Cycle findings documents** — cycle-level consolidation of substantive findings for talk-building:
+- [`canada-deepening-cycle-2026-07.md`](canada-deepening-cycle-2026-07.md) — 18 new units across funder/convenor substrate + value-chain matrix + regional substrate. 10 talk-ready substantive findings; archetype-specific upgrade notes for 02 / 03 / 04 / 05 / 06. **Cycle completed July 2026.**
+
 **Cycle history** (older cycle annotations archived to `talks/cycle-history-archive.md` for compactness):
+- Canada deepening cycle (July 2026) — 18 new units + 3 scans + 2 scouts. Federal funder substrate (CAAIN/Scale AI/Digital/PIC/RAII), value-chain matrix (dairy/meat/poultry/bees/mushroom/orchard/grain), regional substrate (AIDA/Prairies/BC/North/DFO/aquaculture). Substantive findings include: cross-cluster funding pattern, funding-stack pattern in aquaculture (data-sovereignty architecture), MatrixSpec 7-billion-chick culling claim, RAII/UBF tension, PolArctic/Salmon Vision Indigenous-led AI. See `canada-deepening-cycle-2026-07.md`.
 - LAC deepening cycle (July 19 2026) — 7 new units + ecosystem-pattern observation; methodology integrated.
 - Brazilian beef + Chile-Canada seed AI cycle (July 19 2026) — cluster-with-tension + cross-border cluster patterns; methodology integrated.
 - Argentine beef + Brazilian seed AI cycle (July 19 2026) — five-driver layered-mix LAC observation; methodology integrated.
