@@ -23,7 +23,7 @@ last-regionally-scanned: 2026-07
 
 **Mila's substantive Indigenous AI work comprises three distinct vehicles — convening, education, and capacity-building. Not a CSA joint-committee standard (correction to the constraint/critical scout §5 framing).**
 
-## The three vehicles
+## The four vehicles
 
 ### 1. Indigenous AI Advisory Circle (Mila + CIFAR)
 
@@ -43,6 +43,16 @@ last-regionally-scanned: 2026-07
 
 **Why this matters:** Pathways to AI is the substantive Canadian academic Indigenous AI education programme. FNTC is the BC-anchored Indigenous technology training partner.
 
+### 4. Mila Indigenous AI Gathering 2026 (July 15-16, Montreal)
+
+**Operating institutional anchor.** Dana Tizya-Tramm (Vuntut Gwitchin Former Chief; Executive Director, Nadlii Society) named speaker. Other named speakers include Honourable Evan Solomon (Canada's Minister of AI and Digital Innovation), Valérie Pisano (Mila President/CEO), Joel Gamache (Director, National Indigenous Youth in STEM / Actua). https://mila.quebec/en/indigenous-ai-gathering-2026-meet-the-speakers
+
+**Why this matters:** The Indigenous AI Gathering 2026 is the substantive operating institutional anchor for the Canadian Indigenous AI community within the Mila institutional infrastructure. It brings together Mila + federal government + Indigenous leaders + Indigenous-led organisations (Nadlii Society) + Indigenous STEM training organisations (Actua).
+
+### 5. Mila AI Policy Fellowship 2026-2027
+
+**Indigenous AI thematic area** in the call for applications. https://mila.quebec/en/ai4humanity/ai-governance-policy-and-inclusion/mila-ai-policy-fellowship
+
 ## Correction to existing corpus
 
 **The constraint/critical scout §5 framing of "Mila-CSA Indigenous Data Sovereignty Standard" is incorrect.** Mila's substantive Indigenous AI work is institutional infrastructure (convening + education + capacity-building), not a CSA joint-committee standard. The cycle should treat Mila as the substantive Canadian academic Indigenous AI institutional anchor, not as a CSA joint-committee.
@@ -50,7 +60,8 @@ last-regionally-scanned: 2026-07
 This correction matters because:
 - The "Mila-CSA" framing implies a formal standard development process that has not occurred.
 - The Mila Indigenous AI infrastructure is substantively more important than a hypothetical standard would be.
-- The substantive contribution of Mila is the institutional infrastructure (Indigenous AI Advisory Circle + Indigenous Pathfinders + Pathways to AI with FNTC), which is operational, not normative.
+- The substantive contribution of Mila is the institutional infrastructure (Indigenous AI Advisory Circle + Indigenous Pathfinders + Pathways to AI with FNTC + Mila Indigenous AI Gathering 2026 + Mila AI Policy Fellowship Indigenous AI thematic area), which is operational, not normative.
+- **CSA Group's relevant artefact is internal staff *Indigenous Engagement Guidelines*** (a research-stage staff-guidance document). This is **not a published standard**.
 
 ## Why Mila matters for talks
 
@@ -71,7 +82,10 @@ This correction matters because:
 - sources:
   - mila.quebec/en/news/mila-and-cifar-launch-the-indigenous-ai-advisory-circle
   - mila.quebec/en/ai4humanity/ai-governance-policy-and-inclusion/indigenous-pathfinders-in-ai
+  - mila.quebec/en/indigenous-ai-gathering-2026-meet-the-speakers (Indigenous AI Gathering 2026 speakers + Dana Tizya-Tramm)
+  - mila.quebec/en/ai4humanity/ai-governance-policy-and-inclusion/mila-ai-policy-fellowship (AI Policy Fellowship 2026-2027 Indigenous AI thematic area)
   - LinkedIn: Mila collaboration with First Nations Technology Council — Pathways to AI: An Introduction for Indigenous (October 2025)
   - LinkedIn: Indigenous Pathfinders in AI showcase prototypes on Reconciliation Day 2025 (July 15, 2025; 21 participants; 8 AI prototypes)
+  - csagroup.org/article/research/indigenous-engagement-csa-group-guidelines/ (CSA Group internal staff document, NOT a published standard)
   - futureofgood.co/mila-launches-indigenous-ai-advisory-circle/
   - betakit.com/how-indigenous-technologists-are-building-data-sovereignty-into-ai/

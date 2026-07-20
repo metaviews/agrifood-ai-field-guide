@@ -23,17 +23,30 @@ last-regionally-scanned: 2026-07
 
 **Indigenous-led mariculture AI deployment. First AI to treat Indigenous Knowledge and Western science as equals. Inuktitut + English output. Peer-reviewed in Marine Pollution Bulletin 2025.**
 
+## Lead actors + named partners
+
+- **PolArctic LLC** — CEO **Leslie Canavera**. Recipient of the Women in AI North America Award for AI for Good: Environmental Social in 2022. https://www.polarcticllc.com/case-studies/case-study-2
+- **C-CORE** — Canadian innovation organisation, St. John's NL. Co-developer of the Commercial Inshore Fishery Potential (CIFP) Project.
+- **Community of Sanikiluaq, Nunavut** (Hudson Bay coast). Inuit-led **Arctic Eider Society** is based in Sanikiluaq.
+- **Nunavut Fishery Association (NFA)** — funder.
+- **Qikiqtaaluk Corporation** — Inuit birthright corp, Baffin Region; funder; owns the Indigenous-owned **Luddy Pudluck** research vessel that validated the deployment.
 ## What this deployment does
 
 PolArctic combines satellite data, artificial intelligence (AI), and Indigenous Knowledge to monitor marine habitats in Sanikiluaq, Nunavut (Qikiqtaaluk Region, Belcher Islands). **The approach is "Two-Eyed Seeing" (Etuaptmumk) — Albert Marshall's Mi'kmaw concept that integrates Indigenous Knowledge and Western science as equals.**
+
+The deployment specifically:
+- **Treats Indigenous Knowledge and Western science as equals in training AND validation** (per WWF *The Circle* 2023.01, Leslie Canavera).
+- **Trained with** NCRI (Nunavut Coastal Resource Inventory) data, historical trawl sampling, satellite imagery (multiple satellites), University of Quebec field data, near-shore bathymetry, sea-surface temperature.
+- **Output delivered in Inuktitut and English** to ensure community interpretability.
+- **Validated on the Indigenous-owned Luddy Pudluck research vessel** (Qikiqtaaluk Corporation).
+- **Concrete findings:** identified areas of higher concentrations of scallops, clams, and kelp near Sanikiluaq; mapped coastal nearshore for areas of risk not on nautical charts.
 
 Substantive applications:
 - Fisheries management + climate adaptation.
 - Shoreline protection monitoring.
 - Sea-ice tracking + ecosystem health.
 - Indigenous community economic development through mariculture.
-
-The Inuktitut + English output is the operational expression of the Two-Eyed Seeing integration — the AI system is bilingual at its core, not in a translated interface.
+- Subsequent scaling: PolArctic-C-CORE work has expanded to a digital twin of the Arctic Ocean (Arctic Economic Council coverage).
 
 ## Peer-reviewed status
 
@@ -58,7 +71,13 @@ Mixed academic + Indigenous + International. **No single federal programme funds
 
 ## Operational status
 
-Peer-reviewed 2025; pilot completed; production mariculture status unclear. **G-335: PolArctic operational status (production mariculture vs. pilot-completed) unclear post-2025 publication.**
+**Pilot completed 2021-2022** (Commercial Inshore Fishery Potential Project); **subsequent scaling ongoing** through 2024-2026 with continued WWF and other funding for follow-on mariculture/sea-ice work; expanded to digital twin of the Arctic Ocean.
+
+**G-335: PolArctic production mariculture status post-2022 pilot unclear; the project exists but the operational scaling model is evolving.**
+
+## Framework citation
+
+PolArctic does **not** cite OCAP®/CARE/NISR/IEEE 2890-2025 in its published documentation. The deployment integrates IK as equals in training and validation but does not formally name a framework as governing document. **This is the framework-deployment operationalisation pattern** — frameworks articulate; deployments operationalise; alignment is implicit, not explicit.
 
 ## Why this matters for talks
 
@@ -82,5 +101,9 @@ Peer-reviewed 2025; pilot completed; production mariculture status unclear. **G-
 - last-verified: 2026-07
 - sources:
   - sciencedirect.com/science/article/pii/S0025326X25007854 (Iravani et al. 2025 *Marine Pollution Bulletin* 219:118310)
+  - polarcticllc.com/case-studies/case-study-2 (PolArctic case study, Leslie Canavera CEO)
+  - arcticwwf.org/the-circle/stories/blending-indigenous-knowledge-and-artificial-intelligence-to-enable-adaptation/ (WWF *The Circle* 2023.01, Leslie Canavera)
+  - arctictoday.com/polarctic-llc-and-c-core-develop-first-artificial-intelligence-indigenous-knowledge-model-to-complete-nunavut-marine-resources-assessment/ (ArcticToday 24 Feb 2022)
+  - arcticeconomiccouncil.com/news/understanding-climate-change-through-a-digital-twin-of-the-arctic-ocean/ (Arctic Economic Council on digital twin expansion)
   - 2050nowlamaison.com/wp-content/uploads/2025/07/Regenerate-the-future-by-2050NOW-La-Maison.pdf (PolArctic IK + AI + scientific data integration)
   - researchgate.net/publication/365310073_The_International_Arctic_Science_Committee_IASC_in_the_Changing_Arctic_Between_International_Scientific_Cooperation_and_Science_Diplomacy (PolArctic custom AI/ML tools)

@@ -43,11 +43,13 @@ The framework-deployment gap is the substantive cycle finding. See `scans/2026-0
 
 **IEEE 2890-2025 — Provenance of Indigenous Peoples' Data.** Board approved September 10, 2025; published November 14, 2025. PAR approval June 3, 2020 (5-year development). Working Group Chair: Stephanie Russo Carroll (U Arizona). Standard Committee: SSIT/SC — Social Implications of Technology Standards Committee. Working Group: ID-WG — Indigenous Data Working Group. **First global standard for provenance of Indigenous data; explicitly applies to AI/ML industries** (per Udall Center event description, February 2026).
 
-**OCAP® (Ownership, Control, Access, Possession) — FNIGC, Ottawa.** Established 1998 as OCA; "P" affixed later. Registered trademark of FNIGC. **OCAP predates and informs the CARE Principles** (per GIDA 2024 communiqué).
+**OCAP® (Ownership, Control, Access, Possession) — FNIGC, Ottawa.** **Established 1998** at the National Steering Committee meeting of the First Nations and Inuit Regional Longitudinal Health Survey. The acronym began as "OCA" (attributed to NSC member Cathryn George, Association of Iroquois and Allied Indians) and a "P" was added by the committee to acknowledge First Nations' possession of their own data. FNIGC incorporated as a non-profit on 22 April 2010 (AFN Resolution #48/2009). **OCAP® and PCAP® registered trademarks with the Canadian Intellectual Property Office (CIPO)** — OCAP®/PCAP® logos granted August 2014; the acronyms themselves granted August 2015. PCAP® French-language version launched 2024, narrated by Wendat voice actor Andrée Levesque Sioui. FNIGC's 1998 history page confirms: "OCAP® is **specifically First Nations**, not Indigenous broadly" — important boundary constraint for the field guide.
 
 **First Nations Data Governance Strategy (FNDGS)** — FNIGC + regional partners. Submitted to Indigenous Services Canada 2025 (AFN Resolution 30-2025). Community-driven, Nation-based national strategy. **Plans regional information governance centres (one per region).**
 
-**Inuit Qaujimajatuqangit (IQ)** — Government of Nunavut traditional knowledge framework. National Inuit Strategy on Research (ITK) extends IQ into research governance. **PolArctic Sanikiluaq is the only operational agrifood-adjacent AI deployment that explicitly operationalises IQ.**
+**Inuit Qaujimajatuqangit (IQ)** — Government of Nunavut traditional knowledge framework. **Eight IQ Societal Values** (Government of Nunavut Department of Culture and Heritage): Inuuqatigiitsiarniq, Pijitsirniq, Pilimmaksarniq/Pijariuqsarniq, Piliriqatigiinniq/Ikajuqtugiinniq, Tunnganarniq, Aajiiqatigiinniq, Qanuqtuurniq, Avatittinnik Kamatsiarniq. Re-stated in the 2004 *Pinasauqatavut* and 2024 *Inuit Qaujimajatuqangit Education Framework*.
+
+**National Inuit Strategy on Research (NISR, ITK 2018)** — the substantive Inuit data-sovereignty framework, analogous to OCAP for First Nations. **Five priority areas:** (i) advancing Inuit governance in research; (ii) enhancing ethical conduct of research; (iii) aligning funding with Inuit research priorities; (iv) **ensuring Inuit access, ownership, and control over data and information**; (v) building capacity in Inuit Nunangat Research. **NISR is the operative citation in SIKU / Arctic Eider Society + SmartICE + Eweal primary-source literature** (per Nowosad et al. 2025 *Arctic Science*).
 
 **FAIR + CARE complementarity** — international bridge. Articulated by Carroll et al. 2020, Carroll et al. 2021, Taitingfong et al. 2024, GIDA 2024 "CARE Directs Us Home" communiqué (DOI: 10.6084/m9.figshare.29294120.v1), Ruder & Wittman 2025, Gacenga et al. 2024. **The bridge is the substantive synthesis that allows non-Indigenous federal science agencies (NRCAN, AAFC, DFO) to engage IDSov through their existing data infrastructure practices.**
 
@@ -61,8 +63,10 @@ The framework-deployment gap is the substantive cycle finding. See `scans/2026-0
 
 **Mila Indigenous AI institutional infrastructure.** Three distinct vehicles:
 - **Indigenous AI Advisory Circle** (Mila + CIFAR) — Six distinguished Indigenous leaders. Convening function.
-- **Indigenous Pathfinders in AI** — Mila summer program. **2nd cohort (2025): 21 participants / 8 AI prototypes presented at Mila on July 15, 2025.** Capacity-building function.
+- **Indigenous Pathfinders in AI** — Mila summer program. **2nd cohort (2025): 21 participants presented 8 AI prototypes at Mila on July 15, 2025.** Capacity-building function.
 - **Pathways to AI: An Introduction for Indigenous** — Mila + FNTC course. Education function.
+- **Mila Indigenous AI Gathering 2026** — July 15-16 2026, Montreal. **Dana Tizya-Tramm** (Vuntut Gwitchin Former Chief; Executive Director, Nadlii Society) named speaker. Operating institutional anchor for the gathering. https://mila.quebec/en/indigenous-ai-gathering-2026-meet-the-speakers
+- **Mila AI Policy Fellowship 2026-2027** — Indigenous AI thematic area in the call for applications.
 
 **First Nations Technology Council (FNTC, BC-anchored).** Mila + FNTC Pathways to AI partnership.
 
@@ -80,9 +84,13 @@ The framework-deployment gap is the substantive cycle finding. See `scans/2026-0
 |---|---|---|---|---|
 | PolArctic Sanikiluaq | PolArctic + Inuit community | Mixed academic + Indigenous + International | Peer-reviewed (Marine Pollution Bulletin 2025); production status unclear | Two-Eyed Seeing (Etuaptmumk) |
 | Salmon Vision BC | SFU + Gitanyow Fisheries Authority + Skeena Fisheries Commission | BCSFA + Ocean AID + DFO | Peer-reviewed (Frontiers in Marine Science 2023); ~90% coho / ~80% sockeye accuracy | Indigenous-led |
-| NEDA AI tool | Nunavut Economic Developers Association | CanNor REGI-AI ($200K / 3 years) | First documented Indigenous-led AI deployment with federal funding | Not explicitly named |
-| Inuvik Tech Society | Inuvik Tech Society | CanNor IDEANorth ($200K / 2 years) | Digital literacy + AI training | Not explicitly named |
+| NEDA AI tool | Nunavut Economic Developers Association (Executive Director Ammaan Merchant) | CanNor REGI-AI ($200K / 3 years; announced 6 Feb 2026 by Minister Rebecca Chartrand) | First documented Indigenous-led AI deployment with federal funding; community-economic-planning AI + grant-writing AI | Not explicitly named |
+| Inuvik Tech Society | Inuvik Tech Society | CanNor IDEANorth ($200K / 2 years; announced 6 Feb 2026) | Digital literacy + AI training (AI-readiness, not AI deployment) | Not explicitly named |
 | Indigenous Pathfinders in AI 2025 cohort | Mila + Indigenous mentors | Mila + CIFAR | 21 participants / 8 AI prototypes (July 15, 2025); 2026 cohort applications closed | CARE principles engaged |
+| SIKU / Arctic Eider Society | Arctic Eider Society (Sanikiluaq Nunavut) | Mixed | 125,000+ posts; operational digital infrastructure with NISR + FAIR + CARE operationalisation | NISR + FAIR + CARE explicit |
+| SmartICE | SmartICE social enterprise | Mixed | Operational sea-ice monitoring integrating IQ sea-ice terminology with ML; 9 Inuit communities by 2025 | NISR + IQ |
+| Eweal | U Waterloo + Arctic Eider Society | UWaterloo | Combining Inuit ice IK with deep learning models identifying hazardous open-water areas | NISR + IQ |
+| NRC Indigenous Languages Technology Project | National Research Council Canada (Dr. Patrick Littell) | Federal | Operational AI/NLP for Indigenous languages (Inuktitut, Plains Cree, East Cree, Michif, Ojibwe, Gitxsan, Inuinnaqtun) | Not agrifood-specific |
 
 **All four operational deployments are funded through non-Indigenous-specific federal instruments — the funding-stack pattern (DFO, CanNor, BCSFA, BCSRIF). This is the framework-deployment funding-instrument gap.**
 
@@ -93,6 +101,11 @@ The framework-deployment gap is the substantive cycle finding. See `scans/2026-0
 - Ruder, S.-L. (2025). *Theorizing agricultural data policy and governance*. **Journal of Peasant Studies**. Cited 14 times.
 - Duncan, E. et al. (incl. Ruder). (2026). *The political economy of agricultural data governance*. **Journal of Rural Studies**. Cited 6 times.
 - **BCACARN Ethical Data Governance Toolkit (2024)** — first documented Canadian agrifood ethical data governance toolkit.
+
+**Other substantive Canadian critical voices surfaced:**
+- **Dr. Benjamin Wald (2024). *First Nations and Artificial Intelligence*. Chiefs of Ontario commissioned paper, funded by Ontario Ministry of Health.** Most substantive Canadian First Nations AI policy paper identified; explicitly engages OCAP/CARE and identifies OCAP application gaps for AI training data and generative AI outputs. https://chiefs-of-ontario.org/wp-content/uploads/2024/05/2024_08_16_RP_First_Nations_and-_AI_Paper_BW_final_Ack.pdf
+- **Margaret Yun-Pu Tu (22 May 2025). "AI threatens Indigenous data sovereignty and digital self-determination." Policy Options (IRPP).** Argues OCAP integration into national AI policy "remains limited." https://policyoptions.irpp.org/2025/05/ai-indigenous-data/
+- **UBC CTLT Indigenous Initiatives (Bridge E, Block C) (19 Nov 2025). "AI Reflections: Indigenous Data Sovereignty and Artificial Intelligence."** UBC institutional voice. https://indigenousinitiatives.ctlt.ubc.ca/2025/11/19/ai-reflections-indigenous-data-sovereignty-and-artificial-intelligence/
 
 **Hannah Wittman (UBC, Faculty of Land and Food Systems + IRES).** Professor. Substantive papers:
 - Wittman, H. et al. (2022). *Land governance for agroecology*. **Elementa**.

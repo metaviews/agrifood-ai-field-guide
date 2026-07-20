@@ -183,6 +183,9 @@ Substantive papers:
 - **C-295:** "Two-Eyed Seeing is a metaphor without operational implementation." Counter: PolArctic is the operational implementation (peer-reviewed 2025).
 - **C-296:** "Indigenous agrifood in Canada has no institutional anchor." Counter: NCIAF (June 2024) + MOU with CFA (2025).
 - **C-297:** "CARE Principles are the operative Canadian Indigenous data governance framework." Counter: FNDGS (2025) is the operative Canadian framework; CARE is the international anchor.
+- **C-298 (new):** "Indigenous-led AI infrastructure is not framework-compliant." Counter: SIKU operationalises NISR + FAIR + CARE explicitly (Nowosad et al. 2025 *Arctic Science*).
+- **C-299 (new):** "Canadian Indigenous data sovereignty is framework-only, not deployment." Counter: SIKU is the deployment-side evidence; operational at 125,000+ posts scale (2024-2025 SIKU Annual Report).
+- **C-300 (new):** "Canadian First Nations AI policy is well-developed." Counter: Wald 2024 + Tu 2025 are the only substantive Canadian First Nations AI policy papers surfaced; FNIGC has no standalone statement on AI.
 
 ---
 
@@ -195,9 +198,13 @@ Substantive papers:
 - **G-332:** AAFC Indigenous Agriculture and Food Systems Initiative ($8.5M, 2018-2023) closed; no successor programme in AI for All (June 2026).
 - **G-333:** Indigenous-led agrifood AI readiness assessment for First Nations, Inuit, or Métis agrifood operators not published.
 - **G-334:** Mila's Indigenous Pathfinders in AI 8 AI prototypes (2025 cohort) — specific agrifood applications not publicly documented.
-- **G-335:** PolArctic operational status (production mariculture vs. pilot-completed) unclear post-2025 publication.
-- **G-336:** Salmon Vision's stated expansion to Koeye and KwaKwa rivers — operational status unclear.
+- **G-335:** PolArctic production mariculture status post-2022 pilot unclear; project exists but operational scaling model is evolving.
+- **G-336:** Salmon Vision's stated expansion to a half-dozen new watersheds on B.C.'s North and Central Coast — operational status unclear.
 - **G-337:** NCIAF operational programmes (specific AI deployment, specific training, specific funding flows) not yet publicly documented in detail.
+- **G-338 (new):** No Canadian agrifood-specific analog to SIKU. The Inuit-led digital infrastructure model has not been replicated for agrifood.
+- **G-339 (new):** NCIAF does not have operational digital infrastructure or NISR/CARE-aligned deployment.
+- **G-340 (new):** No Indigenous-language agrifood LLM deployed. The NRC Indigenous Languages Technology Project provides operational Indigenous-language AI but does not name agrifood advisory as a deployment domain. Confirms G-011 from the regional scan.
+- **G-341 (new):** The Maori-language Papa Reo / Te Hiku Media model (Aotearoa NZ) is the closest international analog to a substantive Indigenous-language AI deployment; no Canadian analog.
 
 ---
 
@@ -237,22 +244,29 @@ Substantive papers:
 
 ---
 
-## 12. Quick-reference unit index (for talk-building)
+**Quick-reference unit index (for talk-building):**
 
 **Consolidated unit (1):**
 - `units/canadian-indigenous-data-sovereignty-agrifood.md` — consolidates framework + deployment + institutional + analytical-voice layers for Canadian context. **Anchor for archetype 05 + 02 + 04 + 06.**
 
-**Operational deployments (2):**
+**Operational deployments (5 — including 3 added via subagent 1 corrections):**
 - `units/polarctic-sanikiluaq-mariculture-ai.md` — Inuit-led Two-Eyed Seeing operational pattern.
-- `units/salmon-vision-bc-wild-salmon-ai.md` — Gitanyow-led wild salmon AI.
+- `units/salmon-vision-bc-wild-salmon-ai.md` — Gitanyow + Heiltsuk-led wild salmon AI.
+- `units/siku-arctic-eider-society.md` — Inuit-led digital infrastructure in Sanikiluaq; NISR + FAIR + CARE operationalisation at 125,000+ posts scale.
+- `units/smartice-iq-sea-ice-ml.md` — Inuit sea-ice monitoring integrating IQ terminology with ML; 9 Inuit communities by 2025.
+- (Eweal UWaterloo + Arctic Eider Society; NRC Indigenous Languages Technology Project — covered in consolidated unit)
 
 **Institutional layer (3):**
 - `units/nciaf-indigenous-agrifood-canada.md` — Indigenous-led agrifood institutional vehicle.
 - `units/mila-indigenous-ai-infrastructure.md` — Canadian academic Indigenous AI infrastructure.
 - `units/fnigc-first-nations-data-governance-strategy.md` — FNDGS as operative Canadian framework.
 
+**Critical-voice layer (2):**
+- `units/chiefs-of-ontario-wald-2024.md` — Dr. Benjamin Wald 2024 commissioned paper; substantive Canadian First Nations AI policy paper.
+- (Ruder-Wittman critical voice covered in consolidated unit + existing quote file)
+
 **Updated unit (1):**
-- `units/indigenous-data-sovereignty.md` — global framework + international operational anchors. Updated to integrate PolArctic + Salmon Vision + NCIAF + FNDGS + Ruder-Wittman voice + Mila correction + IEEE 2890-2025 date correction.
+- `units/indigenous-data-sovereignty.md` — global framework + international operational anchors. Updated to integrate PolArctic + Salmon Vision + NCIAF + FNDGS + Ruder-Wittman voice + Mila correction + IEEE 2890-2025 date correction + NISR (ITK 2018).
 
 **New quotes (2):**
 - `quotes/institutional-mission-statements/ruder-wittman-data-justice-mission.md` — substantive Canadian agrifood data-governance voice.

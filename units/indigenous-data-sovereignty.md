@@ -97,7 +97,9 @@ See `units/salmon-vision-bc-wild-salmon-ai.md` for full unit.
 **Founded:** 1990s
 **Status:** Established national-scale Indigenous data governance in Canada
 **Annual Report 2024-2025** referenced as the operational anchor for First Nations data sovereignty
-**OCAP® principles** (Ownership, Control, Access, Possession) — the Canadian Indigenous data governance framework
+**OCAP® principles** (Ownership, Control, Access, Possession) — the Canadian Indigenous data governance framework. **Established 1998** at the National Steering Committee meeting of the First Nations and Inuit Regional Longitudinal Health Survey; the acronym began as "OCA" (attributed to NSC member Cathryn George) and a "P" was added by the committee. FNIGC incorporated 22 April 2010. OCAP® and PCAP® are registered trademarks with the Canadian Intellectual Property Office (CIPO); logos granted August 2014, acronyms August 2015. PCAP® French-language version launched 2024.
+
+**National Inuit Strategy on Research (NISR, ITK 2018)** — the substantive Inuit data-sovereignty framework, analogous to OCAP for First Nations. Five priority areas including (iv) ensuring Inuit access, ownership, and control over data and information. **NISR is the operative citation in SIKU / Arctic Eider Society + SmartICE + Eweal primary-source literature** (per Nowosad et al. 2025 *Arctic Science*). https://www.itk.ca/wp-content/uploads/2018/04/ITK_NISR-Report_English_low_res.pdf
 
 **First Nations Data Governance Strategy (FNDGS):** Submitted to Indigenous Services Canada in 2025 (AFN Resolution 30-2025). Community-driven, Nation-based national strategy. **Plans regional information governance centres (one per region).** See `units/fnigc-first-nations-data-governance-strategy.md` for full unit.
 
@@ -174,6 +176,10 @@ Ruder-Wittman are the substantive Canadian agrifood data-governance analytical v
 - Indigenous AI Advisory Circle (Mila + CIFAR; 6 Indigenous leaders; convening function)
 - Indigenous Pathfinders in AI (Mila summer program; 2nd cohort 2025: 21 participants / 8 AI prototypes; capacity-building function)
 - Pathways to AI: An Introduction for Indigenous (Mila + FNTC course; education function)
+- **Mila Indigenous AI Gathering 2026** (July 15-16 2026, Montreal) — operating institutional anchor. **Dana Tizya-Tramm** (Vuntut Gwitchin Former Chief; Executive Director, Nadlii Society) named speaker.
+- Mila AI Policy Fellowship 2026-2027 — Indigenous AI thematic area.
+
+CSA Group's relevant artefact is internal staff *Indigenous Engagement Guidelines* (not a published standard). **No published Mila-CSA Group standard on Indigenous data sovereignty surfaced as of July 2026** — reported as honest absence.
 
 See `units/mila-indigenous-ai-infrastructure.md` for full unit.
 
