@@ -36,6 +36,8 @@ This talk does the work the `units/japan-korea-agrifood-ai-pattern.md` meta-patt
 
 **Anchor.** The Japan+Korea meta-pattern unit is the canonical anchor for this observation. `units/japan-korea-agrifood-ai-pattern.md`: *"Even when two countries share an ageing-farmer-driver / state-instrument-response, how they operationalise the response can be materially different — Japan = vendor-led industrial automation, Korea = state-led cluster programme."*
 
+**The quantitative-panel spine (added cycle).** Per `units/open-source-ai-agrifood-quantitative-panel.md`, the cluster-pattern observation is *empirically anchored* — but the cluster-pattern question "how countries shape their agrifood AI cluster" sits inside a larger empirical observation: Stanford AI Index 2025 reports Canada $2.4B / China $47.5B / France €109B / India $1.25B / Saudi $100B in national AI investments. Mozilla 2026 reports 12 new national AI strategies launched last year; 47 countries restrict foreign processing for critical workloads. McFadden 2024 / USDA ERS reports 27% US farms precision-agriculture adoption (stratified by farm size). The corpus's substantive gap (panel-rows G-367..G-370) is that *the agrifood-specific carveout of these aggregate figures is not surveyed* — so the cluster-pattern comparison is structurally consistent with the panel's Public-Investment / Capacity-Build axis but does not have agrifood-specific public-investment figures per region. The cluster-pattern observation stands on deployment-of-record + institutional substrate + vendor-economics evidence; the panel provides the cross-economy empirical scaffold.
+
 **The single claim.** *Cluster patterns are plural, not singular.* Six operating regional patterns — five documented in the corpus, one (Southeast Asia) with names of actors but no anchor units yet. Worth surfacing to the audience:
 
 | Region | Cluster pattern | Anchor unit(s) |
@@ -204,6 +206,7 @@ These are the working questions of the cluster-pattern spine. They are how the t
 - India cycle: Cropin OrbitAI agentic AI on Google Cloud + MCP server launch (2026-07-14) is the freshest corpus signal; re-check at next quarterly.
 - China deepening: scan context established 2026-07; verify at next yearly cadence.
 - NA consumption cycle: archetypes 01-05 cross-references current; verify at next talk-assembly.
+- Quantitative-panel (`units/open-source-ai-agrifood-quantitative-panel.md`): first-iteration methodology; refresh trigger when Stanford AI Index 2026 / Mozilla State of Open Source AI 2027 / McFadden 2026 / Pennells v2 land. Six panel rows (G-366..G-371) carry forward as named corpus gaps.
 
 ## Substitutions
 
