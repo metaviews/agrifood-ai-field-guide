@@ -11,7 +11,7 @@ capital-intensity: smallholder (farm + retail) supporting industrial AI deployme
 language-literacy-profile: standard-smartphone
 policy-instrument: (none — substrate)
 region: NA-Canada (Ontario, Bothwell, Chatham-Kent county-adjacent)
-actor: Haggerty Creek Ltd. (joint venture since 2001: Baresich brothers + AGRIS Co-operative)
+actor: 'Haggerty Creek Ltd. (joint venture since 2001: Baresich brothers + AGRIS Co-operative)'
 actor-type: farmer-cooperative (the 50% AGRIS Co-operative partnership makes this structurally a co-operative hybrid)
 data-governance: (private — no public framework)
 data-rights-framework: (private contract terms)

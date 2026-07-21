@@ -2,7 +2,7 @@
 title: 'Canada — Indigenous Data Sovereignty + AI in Agrifood (frameworks, deployments, institutional layer, critical-analytical voice)'
 date: 2026-07
 kind: scan
-region: Canada (with international framework anchors: GIDA global; IEEE 2890 international; Cornell Atkinson IDSov US land-grant comparative anchor)
+region: 'Canada (with international framework anchors: GIDA global; IEEE 2890 international; Cornell Atkinson IDSov US land-grant comparative anchor)'
 builds_on:
   - scans/2026-07-canada-regional-substrate.md (PolArctic + Salmon Vision + CanNor §)
   - scouts/2026-07-canada-constraint-critical.md (framework §4)

@@ -7,7 +7,7 @@ organization: Open Source Initiative (OSI)
 region: Global
 date: 2025-09-10
 source-url: 'https://opensource.org/blog/report-from-oss-eu-2025-and-ai_dev-whats-next-for-osaid'
-source-publication: OSI blog "Report from OSS EU 2025 and AI_dev: What's next for OSAID" (Sept 10, 2025)
+source-publication: "OSI blog \"Report from OSS EU 2025 and AI_dev: What's next for OSAID\" (Sept 10, 2025)"
 units-referenced-in: mozilla-state-of-open-source-ai-2026,open-source-in-agrifood-framework
 tags: theme=policy-framework,region=Global,language=English,intended-use-in-talk=primary-quote
 context-summary: 'OSI ED''s binary-threshold framing of open-source AI: weights+build-code+dataset-code+training-data-or-data-information. The definitional substrate for any talk about open-source AI vs open-weights AI in agrifood.'
