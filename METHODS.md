@@ -528,6 +528,106 @@ Limitations: requires disciplined formatting on every cycle
 (`**G-NNN (new):** description` in scan tails, `gaps: G-NNN
 (short label)` in unit links).
 
+================================================================================
+15. PASS-2 SANITY CHECK (post-write fabrication audit)
+
+What it is: a 5–10 minute re-read of a freshly written scan (or
+unit) specifically targeting the *exposed surfaces* for fabrication.
+The audit is post-write, not pre-write: it catches what slipped past
+the writer's confidence, not what the writer flagged proactively.
+Output is a "Pass-N sanity-check corrections" section at the scan
+tail, with the pattern observed and a "What did not need correction"
+bounding subsection.
+
+Why this is a method, not a hygiene step: the substrate v2 scan §13
+caught two fabricated proper nouns ("Vincent Klingora" and "Lucia
+Stirling") in its own actor-map section; the quantitative panel
+§19 caught two more (search-snippet-only figures attributed to
+Omotayo 2025 without primary-source verification, plus the same
+fabrication class on actor rows). The pattern is reproducible. The
+discipline is named; the procedure is five steps:
+
+  1. Identify exposed rows — actor-map tables, bulleted lists
+     naming individuals, inline `name + role + organisation`
+     triplets, quote entries (especially institutional-leaders +
+     producers categories), any sentence attributing a *named*
+     claim to a *named* person.
+  2. Anchor test — for each name, is the claim about this person
+     anchored to a primary source the scan actually read? Acceptable
+     anchors: the scan quotes/paraphrases a document that names the
+     person; a URL the scan cites contains the name and the
+     attributed claim; a prior corpus unit is referenced and contains
+     the name and the attributed claim. Unacceptable anchors: "from
+     memory of the agritech ecosystem," "plausible name in this
+     position," inference from a real org's posture.
+  3. Replace or remove — three acceptable outcomes: (a) replace
+     with a documented analogue, cite the new source; (b) demote to
+     cluster-level claim ("Cluster X's position is paraphrased in
+     their published materials"); (c) remove the row, leave a
+     next-cycle work note in `GAPS.md` or `LEADS.md`.
+  4. Document the audit — add a "Pass-N sanity-check corrections"
+     section with: which rows were corrected, what each was replaced
+     with, the pattern observed, a "What did not need correction"
+     subsection to bound the audit.
+  5. Surface in registries — if a fabrication was caught and the
+     corrected version relies on a real-but-unverified name, that
+     name goes in `LEADS.md` as a verification-pending lead. If no
+     real analogue exists, the cell becomes a `GAPS.md` entry.
+
+The Pass-2 audit is most exposed to *missing itself* on confident
+fluent output. The rule: do not skip because the write felt
+thorough. The substrate v2 §13 case is the canonical worked example
+— the writer's own draft produced names that the writer's own
+review did not catch; only a structured re-read of the actor-map
+rows did.
+
+When to use:
+  - At the end of every fresh-pull scan cycle, before commit
+  - Before any scan or unit is exposed via the web layer
+  - Before any talk assembly that surfaces actor-map rows to a
+    live audience
+  - After any subagent-delegated writing pass (subagent summaries
+    are self-reports; rows added by subagents are the highest-risk
+    class — see `delegate_task` tool description)
+  - Need: corpus integrity before public-surface exposure
+
+Strengths: catches ~90% of fabrication risk (per the open-source
+substrate cycle-pattern reference). Cheap (5–10 min per scan).
+Self-tunes — the audit-trail section teaches the next cycle.
+
+Limitations: post-write, not pre-write. The model will still
+produce plausible-sounding names from memory; the discipline is the
+audit, not prevention at generation. Does not catch every class of
+fabrication — focuses on named individuals in actor-map rows;
+other claims (vendor figures, contested claims, market-research
+aggregator forecasts) are governed by V0–V4 verification and the
+H/S-tier framework.
+
+When NOT to use:
+  - On synthesis-of-existing scans (where the substantive content
+    is being composed from already-anchored sources — the discipline
+    applies to fresh-pull substrate and deepening scans)
+  - As a substitute for V0–V4 verification on vendor figures (the
+    two are complementary, not overlapping)
+  - As a retroactive sweep across all 35 existing scans unless a
+    scan is going public — the discipline is targeted to the next
+    fresh-pull pass
+
+Examples in corpus (canonical worked examples):
+  - `scans/2026-07-open-source-ai-substrate-v2.md` §13 — the
+    canonical case study. Caught "Vincent Klingora" and "Lucia
+    Stirling" in actor-map rows; replaced with anchored analogues
+    (Anne Bouverot / Meredith Whittaker); documented pattern
+    (fabrications appear in sections depending least on verbatim
+    source quotes).
+  - `scans/2026-07-open-source-ai-agrifood-quantitative-panel.md`
+    §19 — the follow-on cycle. Caught two search-snippet-only
+    figures attributed to Omotayo 2025 without primary-source
+    verification. The Pass-2 corrections on this scan were *less
+    severe* than on the substrate scan (which surfaced two
+    fabricated proper nouns); the reason: data-source-anchored
+    scans are safer than actor-map-anchored scans.
+
 How to use this methods register
 
   - pick the cycle's primary method first
