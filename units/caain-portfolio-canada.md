@@ -103,9 +103,9 @@ This is the **federal funder/convenor substrate unit** for the Canadian agrifood
 
 ## Links
 
-- gaps: G-313 (Indigenous-led agrifood AI funder gap), G-314 (no federal farm-data-governance programme)
-- contested-claims: C-278 (CAAIN is the principal Canadian agrifood AI funder — countered: Scale AI + Digital + PIC + RAII together fund more in dollar terms; CAAIN's distinction is automation/robotics/data-driven focus + physical validation)
-- related-units: `raii-canada-ai-adoption-programme.md`, `scale-ai-agriculture-canada.md`, `digital-supercluster-agriculture-canada.md`, `protein-industries-canada-ai-programme.md`, `fcc-canada-ai-adoption.md` (existing), `olds-college-smart-farm.md` (existing)
+- gaps: G-313 (Indigenous-led agrifood AI funder gap), G-314 (no federal farm-data-governance programme); G-329 (AI4Food specific industry partnerships); G-330 (AAL AI-technique deployment); G-331 (DISA Rwanda reframing); G-332 (no dedicated federal academic-research agrifood AI channel); G-333 (AAFC RDC inventory); G-334 (Vector + Amii agrifood surface)
+- contested-claims: C-278 (CAAIN is the principal Canadian agrifood AI funder — countered: Scale AI + Digital + PIC + RAII together fund more in dollar terms; CAAIN's distinction is automation/robotics/data-driven focus + physical validation); C-279 (federal AI strategy is sufficient substrate — countered by the parallel-cluster-vs-research-funding-stack distinction: cluster funding (TRL 7+) and academic-research funding (TRL 3–6) are complementary)
+- related-units: `raii-canada-ai-adoption-programme.md`, `scale-ai-agriculture-canada.md`, `digital-supercluster-agriculture-canada.md`, `protein-industries-canada-ai-programme.md`, `fcc-canada-ai-adoption.md` (existing), `olds-college-smart-farm.md` (existing), `aida-atlantic-digital-agriculture.md` (Atlantic academic), `ai4food-guelph.md` (Ontario academic), `aal-dalhousie.md` (critical-voice), `mila-quebec-agrifood.md` (Quebec academic), `canada-academic-research-funding-stack.md`
 - sovereignty-flags: implicit — CAAIN project leads retain IP; data-governance terms vary project-by-project; no CAAIN-level data-rights framework
 
 ## Freshness

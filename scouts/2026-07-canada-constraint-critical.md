@@ -296,7 +296,7 @@ related_scans:
 ### 5.2 Quebec AI — sectoral and academic
 
 - **Quebec $36M to Mila** (Quebec provincial AI institute funding, announced 2026). Mila is positioned as Quebec-side implementation partner for federal AI for All.
-- **Mila DISA project** — Data-driven Insights for Sustainable Agriculture; satellite-based regenerative-agriculture assessment. Research project, not commercial deployment.
+- **Mila's DISA project** — Data-driven Insights for Sustainable Agriculture; satellite-based regenerative-agriculture assessment **in Rwanda** (per Mila primary source — "Our scope is initially focused on the Rwandan context, the objective is to scale the project in multiple countries across the continent"). Five-organisation collaboration: Sustainability in the Digital Age + Future Earth + Planet (satellite imagery) + CIFOR-ICRAF + Mila. **Canadian-research-pipelined Rwandan-deployment** — not Canadian farm deployment. See `units/mila-quebec-agrifood.md` for full reframing; G-031 was retired/refamed as G-331.
 - **IVADO R3AI project** — Robust, Reasoning, Responsible AI. June 8, 2026 positioning statement: "Canada's National AI Strategy: Rising to the Ambitions of Canada, and of IVADO." Forward-looking.
 - **No Quebec-specific AI Act** equivalent to EU AI Act. No Quebec AI bill has been tabled as of July 2026.
 

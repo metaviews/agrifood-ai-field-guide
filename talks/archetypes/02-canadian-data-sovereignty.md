@@ -137,7 +137,7 @@ This talk has substantive Q&A time. Anticipated questions and the units they map
 
 ## Substitutions
 
-- **If audience is Quebec-anchored**, swap segments 4 and 5 for the Quebec cycle: Mila DISA project (`units/mila-quebec-ai-institute.md`), Sollum (`units/sollum-sun-as-a-service.md`), Greater Montréal agtech cluster (`units/greater-montreal-agtech-cluster.md`). The cooperative alternative gets reframed: Quebec has Zone Agtech but no JoinData equivalent either.
+- **If audience is Quebec-anchored**, swap segments 4 and 5 for the Quebec cycle: Mila DISA project (`units/mila-quebec-agrifood.md`; note: DISA is Rwandan-deployment + Canadian-research-pipelined, not Canadian-deployment per G-331), Sollum (`units/sollum-sun-as-a-service.md`), Greater Montréal agtech cluster (`units/greater-montreal-agtech-cluster.md`). The cooperative alternative gets reframed: Quebec has Zone Agtech but no JoinData equivalent either.
 - **If audience is academic**, deepen segment 3 with the open-source framework unit (`units/open-source-in-agrifood-framework.md`), Mozilla State of Open Source AI 2026 (`units/mozilla-state-of-open-source-ai-2026.md`).
 - **If audience is policy / leadership**, lead with the Canadian 1.8% adoption figure and use data sovereignty as the *why it matters* — roughly archetype 03 with the sovereignty spine.
 

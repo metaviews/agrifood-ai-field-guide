@@ -11,7 +11,7 @@ capital-intensity: (research)
 language-literacy-profile: (not applicable)
 policy-instrument: (none)
 region: NA-Canada (Quebec / Montréal)
-actor: Mila — Quebec Artificial Intelligence Institute; DISA project
+actor: Mila — Quebec Artificial Intelligence Institute; DISA project (Rwanda); Innovasea partnership
 actor-type: academic
 data-governance: state-stewarded
 data-rights-framework: state-stewarded
@@ -34,7 +34,7 @@ Mila (Quebec Artificial Intelligence Institute) is a research institute in Montr
 - **Antenna** — interdisciplinary platform for uploading, classifying, and analyzing in-the-wild images of invertebrates. Advances research and conservation.
 - **FLAIR** (First Languages AI Reality) — Indigenous languages, ASR. Adjacent to agrifood through language preservation in Indigenous communities.
 
-**The structural significance.** Mila is the largest academic AI cluster in Canada and one of the largest in the world. Its agrifood work (DISA) is real, deployed, and positioned within the broader applied projects portfolio. The provincial $36M funding is the strongest direct Quebec government commitment to AI in any sector.
+**The structural significance.** Mila is the largest academic AI cluster in Canada and one of the largest in the world. Its agrifood work spans DISA (Rwandan-deployment + Canadian-research-pipelined), Innovasea (Canadian aquaculture), and IVADO R3AI (positioning), with portfolio coverage across Mila's applied-projects area. The provincial $36M funding is the strongest direct Quebec government commitment to AI in any sector.
 
 ## What this unit is doing in the taxonomy
 
@@ -57,9 +57,9 @@ Anchors the *Quebec academic AI cluster* with a deployed agrifood project (DISA)
 
 ## Links
 
-- gaps: G-029 (Mila DISA partner farms / concrete deployed acreage)
-- contested-claims: C-020 (Mila agrifood is small subset — counter: DISA + Antenna + FLAIR is core)
-- related-units: ivado-quebec-ai-implementation.md (IVADO Quebec-side partner), canadian-food-waste-ai-landscape.md (Canadian AI in adjacent food-system cells), neethirajan-dalhousie-ecosystem.md (Canadian academic-policy voice)
+- gaps: G-028 (IVADO R3AI deployment outcomes not yet visible); G-029 legacy (now G-331 — DISA is Rwandan, not Canadian); G-334 (Vector + Amii agrifood surface not surfaced)
+- contested-claims: C-020 (Mila agrifood is small subset — counter: DISA + Innovasea + R3AI is core applied-project portfolio, but **DISA is Rwandan, not Canadian-deployment**, see G-331)
+- related-units: ivado-quebec-ai-implementation.md (IVADO Quebec-side partner), canadian-food-waste-ai-landscape.md (Canadian AI in adjacent food-system cells), neethirajan-dalhousie-ecosystem.md (Canadian academic-policy voice), mila-quebec-agrifood.md (per-cycle agrifood-vertical unit; corrects DISA Rwanda framing per G-331)
 - sovereignty-flags: implicit — FLAIR (Indigenous languages) work is adjacent to IDSov; not directly IDSov but engages with Indigenous data
 
 ## Freshness

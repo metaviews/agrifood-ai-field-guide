@@ -89,7 +89,7 @@ Distinct from:
 
 - gaps: G-035 (Indigenous data sovereignty operationalisation in agrifood; CARE Principles / IEEE 2890)
 - contested-claims: C-025 (new — "Open data resolves proprietary capture concerns" — counter: aggregation ≠ real-time; small-farm / Indigenous context under-represented)
-- related-units: proprietary-farm-data.md, dark-data-agrifood.md, farm-data-ownership-critical.md, mila-quebec-ai-institute.md (DISA uses open satellite data), fcc-ecosystem-not-technology.md (data governance as one of four constraints)
+- related-units: proprietary-farm-data.md, dark-data-agrifood.md, farm-data-ownership-critical.md, mila-quebec-ai-institute.md (DISA uses open satellite data; per G-331 reframing, DISA is Rwandan-deployment + Canadian-research-pipelined, not Quebec digital soil mapping — see mila-quebec-agrifood.md), fcc-ecosystem-not-technology.md (data governance as one of four constraints)
 - sovereignty-flags: explicit — FAIR Principles address technical interoperability; CARE Principles address Indigenous data sovereignty; field guide carries both
 
 ## Freshness

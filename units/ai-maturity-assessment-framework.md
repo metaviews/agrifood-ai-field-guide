@@ -141,7 +141,7 @@ This is the first-pass maturity assessment for all current units. Each row shows
 | `aifarms-illinois-institute.md` | S0 | V1 | L2 | T2 | Research-stage; peer-reviewed; foundational AI contributions |
 | `ai-climate-minnesota-institute.md` | S0 | V1 | L1 | T1 | Research-stage; peer-reviewed; 3-year deployment; young |
 | `ai-leaf-penn-state-institute.md` | S0 | V1 | L1 | T1 | Research-stage; peer-reviewed; 3-year deployment; young |
-| `mila-quebec-ai-institute.md` | S0 | V1 | L3 | T2 | DISA project; peer-reviewed; multi-year; partner farms |
+| `mila-quebec-ai-institute.md` | S0 | V1 | L3 | T2 | DISA Rwanda deployment per G-331; multi-year research pipeline; international partner-farm network |
 | `inrae-france-ai-agriculture.md` | S0 | V1 | L4 | T2 | National research backbone; multi-decade; institutional translation |
 | `ivado-quebec-ai-implementation.md` | S1 | V0 | L1 | T1 | Implementation partner; modest operational deployment |
 | `olds-college-smart-farm.md` | S1 | V0 | L2 | T2 | Alberta applied research; multi-year operational |

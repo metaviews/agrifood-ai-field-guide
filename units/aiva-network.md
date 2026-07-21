@@ -27,7 +27,7 @@ The *Agriculture Innovation, Validation, and Adoption Network* (AIVA) was launch
 **Concrete figures (May 2026):**
 - 9 multi-site collaboration projects in 2026 growing season.
 - 23 Farmer Alliance Members representing 235,000+ acres in Saskatchewan and Manitoba.
-- 4 validation hubs across Canada: EMILI Innovation Farms (Manitoba), Olds College (Alberta/Saskatchewan), Area X.O (Ottawa), Innovation Farms Ontario (Bothwell).
+- 4 validation hubs across Canada: EMILI Innovation Farms (Manitoba), Olds College (Alberta/Saskatchewan), Area X.O (Ottawa), Innovation Farms Ontario (Bothwell). **The Bothwell hub is located at Haggerty Creek Ltd. — a 2,000-acre cash-crop farm 50%-owned by the Baresich family and 50%-owned by AGRIS Co-operative Ltd. — see `haggerty-creek-ltd.md` and `agris-co-operative-ltd.md`.** A second Innovation Farms Ontario site is in Niagara (farm not named in primary sources).
 - 33 total projects on EMILI Innovation Farms in 2026.
 
 **AI-relevant projects being validated in 2026:**
@@ -60,15 +60,16 @@ This is also the field guide's first unit with **multiple actor types at the fou
 ## Critical context
 
 - AIVA is new (launched May 2026). 2026 is the first full growing season of operation. The 9 multi-site projects are the *first cohort* — outcomes won't be available until late 2026 / early 2027.
-- The 235,000 acres figure is concentrated in Saskatchewan and Manitoba (initial regions); expansion to other provinces is announced but not yet executed.
+- The 235,000 acres figure is concentrated in Saskatchewan and Manitoba (initial regions); expansion to other provinces is announced but not yet executed. Innovation Farms Ontario is the Ontario-specific deployment hub (Bothwell + Niagara); Ontario is not part of the 235,000-acre Farmer Alliance figure (which is SK/MB only).
 - The validation infrastructure addresses G-020 (independent verification of vendor-reported figures) structurally — AIVA's standardised testing is the kind of independent verification the field guide flagged as missing. Whether it produces verification at scale is a question to track.
 - AIVA's founding coalition includes a US-based partner (WHIN), which has implications for the *Canadian sovereignty* frame. Worth naming without flattening — the validation model itself travels well, the Canadian context anchors the deployment.
+- **The Innovation Farms Ontario hub is structured differently from the other three hubs.** It is the only hub where the on-farm substrate is operated as a 50/50 joint venture between a family farm and a 100%-farmer-owned co-operative (AGRIS Co-operative Ltd.). Western Fair Association and RHA Ventures add the convening-space and deal-flow layers. The other three hubs are industry-led non-profit (EMILI), academic (Olds), or municipal/research-park (Area X.O). The southwestern Ontario hub is the *co-operative-hybrid* archetype — see `agris-co-operative-ltd.md`.
 
 ## Links
 
-- gaps: G-020 (independent verification of vendor figures — AIVA is a structural response to this)
-- contested-claims: C-007 (Canada global leader), C-008 (existing AI governance covers ag AI)
-- related-units: fcc-canada-ai-adoption.md, canadian-retail-ai-pattern.md, jd-farm-iot-blockchain.md (Canadian context), agrosmart-brazil.md (smallholder-platform pattern contrast)
+- gaps: G-020 (independent verification of vendor figures — AIVA is a structural response to this); G-329 (AI4Food industry partnerships, partially filled by BeanGPT); G-331 (DISA Rwanda reframing); G-332 (academic-research funding channel); G-335 (BeanGPT funding stack details)
+- contested-claims: C-007 (Canada global leader), C-008 (existing AI governance covers ag AI); C-279 (federal AI strategy sufficient); C-288 (Canada has no seed-breeding AI — countered by BeanGPT); C-291 (2026 development is generative-AI integration into plant-breeding pipelines)
+- related-units: fcc-canada-ai-adoption.md, haggerty-creek-ltd.md (Innovation Farms Ontario substrate firm), agris-co-operative-ltd.md (co-operative owner of the substrate firm), aida-atlantic-digital-agriculture.md (Atlantic academic anchor), ai4food-guelph.md (Ontario academic anchor), uog-bean-gpt-najafabadi.md (first AI4Food deployment-tier product), aal-dalhousie.md (Dalhousie critical-voice), mila-quebec-agrifood.md (Quebec academic anchor), canada-academic-research-funding-stack.md (academic funding substrate), programmatic-breeding-ai.md (conceptual / methodological unit), canadian-retail-ai-pattern.md, jd-farm-iot-blockchain.md (Canadian context), agrosmart-brazil.md (smallholder-platform pattern contrast)
 - sovereignty-flags: implicit — Canadian validation infrastructure addresses the verification gap; WHIN's US origin a sovereignty-adjacent concern
 
 ## Freshness

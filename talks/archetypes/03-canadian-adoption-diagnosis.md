@@ -76,7 +76,7 @@ The audience is policy-facing and time-pressed. They need a *clear claim* about 
 
 **Don't skip Quebec.** Quebec is the most distinctive Canadian jurisdiction for AI. Three concrete deployments:
 
-- **Mila DISA project** — Quebec AI Institute (`units/mila-quebec-ai-institute.md`). Uses open satellite data + proprietary ML model for digital soil mapping across Quebec.
+- **Mila DISA project** — Quebec AI Institute (`units/mila-quebec-agrifood.md`). **Canadian-research-pipelined Rwandan-deployment** (per Mila primary source — "Our scope is initially focused on the Rwandan context"); uses open satellite data + proprietary ML model for satellite-based regenerative-agriculture assessment in Rwanda, *not* Canadian-deployment.
 - **Sollum sun-as-a-service** — AI-powered dynamic greenhouse lighting (`units/sollum-sun-as-a-service.md`). Quebec/Montérégie cluster.
 - **Greater Montréal agtech cluster** — Zone Agtech + 130+ AI-inclusive agtech businesses (`units/greater-montreal-agtech-cluster.md`). Substantive cluster with institutional anchors.
 
