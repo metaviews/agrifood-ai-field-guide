@@ -49,6 +49,15 @@ The audience is policy-facing and time-pressed. They need a *clear claim* about 
 
 **Critical context (speak it).** FCC's "ecosystem not technology" framing is genuine analysis but is also the framing that positions FCC Capital as the convener. There's a structural alignment between FCC's diagnosis and FCC's commercial offering. Worth knowing because it's a *real* form of expertise capture. The analysis can still be right; the source posture is what it is.
 
+**The binding-constraint layer (added cycle).** The four-factor diagnosis names the structural conditions; the binding-constraint layer names which factor is *most binding right now*. Two pieces of evidence:
+
+- **RAII scaling vs UBF non-renewal.** The Regional Artificial Intelligence Initiative is the federal AI SME funding layer — $200M (Budget 2024) scaling toward $500M in *AI for All* (June 2026), delivered through seven RDAs. The Universal Broadband Fund is the federal rural connectivity layer; Wire Report (May 27 2026) reports Ottawa will not renew it, and ISED confirmed (June 5 2026) it will not raise the 50/10 Mbps minimum standard. The Auditor General of Canada baseline (2021, still the operating reference) puts First Nations reserves broadband coverage at 42.9% — less than half the 90.9% national rate.
+- **DFO 551-FTE reduction as the substitution-not-augmentation signal.** DFO faces $54.47M (2026-27) → $101.91M (2027-28) → $193.82M (2028-29) spending reduction / 551-FTE decrease by 2028-29. DFO's three active Pacific salmon AI pilots (Chumputer, computer-vision migration counter, Factoid Finder) are positioned as the digital modernization counterweight. *Federal AI is being deployed to substitute for human capacity, not to augment it.*
+
+**The structural claim.** Adoption-support policy and connectivity infrastructure are out of phase. RAII scaling reaches farms whose connectivity is contracting; DFO AI pilots substitute for the FTE capacity the cuts removed. The 1.8% adoption figure is downstream of a binding-constraint environment where the *enabling conditions* for adoption are themselves unstable. Units: `units/raii-canada-ai-adoption-programme.md`, `units/dfo-pacific-salmon-ai.md`, `units/northern-canada-can-ai-2026.md`.
+
+**Cross-link.** Archetype 02 (data-sovereignty Canadian) carries the producer-facing framing of the same evidence: the data-sovereignty question runs on connectivity that may or may not be there. Same evidence, different use.
+
 ### 3. The peer-comparison — Canada in G7 (4 min)
 
 **The wider gap.** Beyond agriculture-vs-other-industries, FCC's report (July 2026) carries three further figures worth knowing:
@@ -99,12 +108,15 @@ The audience is policy-facing and time-pressed. They need a *clear claim* about 
 - *"What about Indigenous data sovereignty?"* → `units/indigenous-data-sovereignty.md`, IEEE 2890-2025, CARE Principles. Worth knowing: CARE Principles are Indigenous-led, IEEE 2890-2025 is the world's first global standard for Indigenous data provenance (August 2025). The lever is *Indigenous-led governance*, not top-down Indigenous engagement.
 - *"Is China eating our lunch?"* → `scans/2026-07-china-deepening.md`. China is a leading AI power in agriculture (DJI, XAG, Pinduoduo, Alibaba ET Agricultural Brain) and a leading *exporter* of agritech. China's deployment scale is structurally different from Canada's; comparing them requires care about what "leading" means at which scale.
 - *"What about Korea or Japan?"* → `units/japan-korea-agrifood-ai-pattern.md` is the corpus's anchor for East-Asia comparison. Korea = state-anchored cluster programme under RDA/MAFRA's *Act on Fostering and Supporting Smart Farming* (30%-by-2027 target); Japan = equipment-vendor industrial automation (Spread Co. vertical farms, Yamaha FAZER aerial-spraying helicopters) plus state-DPI substrate (WAGRI). Each country answers the policy-lever question differently from Canada and from each other. Canada is *not* lagging because the East-Asia models are *not* the only answer; Canada's question is its own.
+- *"What about RAII / rural connectivity?"* → The RAII / UBF tension is in segment 2 above. RAII ($200M → $500M per *AI for All* June 2026) is the federal AI SME funding layer; UBF (Wire Report May 27 2026) is the rural connectivity layer that does not renew; First Nations reserves coverage is 42.9% (OAG 2021 baseline). The lever is whether Budget 2027 funds UBF renewal or its successor — that is the policy question worth asking. Archetype 02 carries the producer-facing framing of the same evidence.
 
 ## Freshness check
 
 - The 1.8% figure is Q2 2025; re-check Statistics Canada for Q2 2026 figures before delivering.
 - FCC / Deloitte report is July 2026; confirm any updates.
 - Root AI launched July 2026; confirm still offered.
+- RAII / UBF framing (added cycle): per *AI for All* (June 2026) and Wire Report (May 27 2026). The 42.9% First Nations reserves figure references the 2021 Auditor General baseline; check for OAG 2026 update before delivery.
+- DFO 551-FTE reduction (added cycle): per DFO 2026-27 Departmental Plan. Re-verify at next plan release.
 - All other units: `last-verified: 2026-07`.
 
 ## Substitutions

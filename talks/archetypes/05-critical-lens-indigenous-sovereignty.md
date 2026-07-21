@@ -32,7 +32,15 @@ The audience already knows that agrifood AI raises structural concerns about who
 
 **The single claim.** *Indigenous data sovereignty is the most rigorous existing framework for the structural critique of agrifood AI.* It is rigorous because it is operationalised (IEEE 2890-2025), substantively deployed (Indigenous Navigator Peru, AGUAPAN, Mila FLAIR), and articulated by Indigenous-led institutions (GIDA — Global Indigenous Data Alliance).
 
-**Don't open with vendor examples.** This audience has heard them. Open with the framework.
+**The three-part status claim (revised cycle).** The Canadian corpus now supports a sharper statement about IDSov-in-agrifood status:
+
+- **Framework-rich.** CARE Principles (Carroll et al. 2020, 1,808 citations); IEEE 2890-2025 (approved 2025-09-10, published 2025-11-14, the world's first global standard explicitly for Indigenous data + AI/ML provenance); OCAP (1998); FNDGS (FNIGC, AFN Resolution 30-2025); NISR (ITK 2018); Maui's Te Mana Raraunga framework (Aotearoa NZ, 2015). The frameworks are articulated.
+- **Deployment-operational.** PolArctic Sanikiluaq (peer-reviewed *Marine Pollution Bulletin* 2025; first AI to operationalise Two-Eyed Seeing for a Canadian Inuit community; Inuktitut + English). Salmon Vision BC (peer-reviewed *Frontiers in Marine Science* 2023; Gitanyow + Heiltsuk-led; mAP-on-7-anadromous-salmonids at 500,000+ frame scale). SIKU / Arctic Eider Society (Inuit-led digital infrastructure; 125,000+ posts; NISR + FAIR + CARE operationalised; Nowosad et al. 2025 *Arctic Science*). SmartICE (9 Inuit communities by 2025; IQ terminology integrated with ML). Two-Eyed Seeing is no longer a metaphor; it's an operational pattern.
+- **Funder-poor.** No federal or provincial programme specifically funds Indigenous-led agrifood AI deployment (G-313). AAFC Indigenous Agriculture and Food Systems Initiative ($8.5M, 2018-2023) closed with no successor programme named in *AI for All* (June 2026). All operational deployments are funded through non-Indigenous-specific federal instruments (DFO, CanNor, BCSFA, BCSRIF, Mila). The framework is rich; the deployments are operational; **the dedicated funder does not exist**.
+
+**Don't open with vendor examples.** This audience has heard them. Open with the framework — and the three-part status claim frames the rest of the talk.
+
+**Substantive value of the reframing.** Naming *deployment-operational* at the front of the talk is non-trivial. Until the canada-ids-cycle, the corpus carried *framework-only* as the headline; with PolArctic + Salmon Vision + SIKU + SmartICE all peer-reviewed and named, the deployment claim is now defensible. Audiences that arrive thinking "Indigenous-led agrifood AI doesn't exist as operational practice" leave with that corrected. This is the substantive difference this cycle introduced.
 
 ### 2. Segment one — the CARE Principles (10 min)
 
@@ -164,10 +172,17 @@ These are not impossible; they are *underdeveloped*. The standards exist (CARE, 
 ## Freshness check
 
 - CARE Principles: Carroll et al. 2020; substantively stable, but new translations and adoption work continue. Re-verify biennially.
-- IEEE 2890-2025: August 2025 approval. Adoption status will evolve annually.
+- IEEE 2890-2025: approved 2025-09-10; published 2025-11-14. Adoption status will evolve annually.
 - Indigenous Navigator Peru: 2023-2025 period. Verify outcomes.
-- Mila FLAIR: verify project status annually.
+- PolArctic Sanikiluaq: peer-reviewed *Marine Pollution Bulletin* 2025; operational scaling model post-2022 pilot evolving (G-335).
+- Salmon Vision BC: peer-reviewed *Frontiers in Marine Science* 2023; stated expansion to six additional B.C. watersheds needs verification (G-336).
+- SIKU / Arctic Eider Society: 125,000+ posts per 2024-2025 SIKU Annual Report; NISR + FAIR + CARE operationalisation per Nowosad et al. 2025 *Arctic Science*.
+- SmartICE: 9 Inuit communities by 2025.
+- FNDGS: submitted to Indigenous Services Canada 2025 (AFN Resolution 30-2025); regional information governance centres in planning phase.
+- NCIAF: launched 2024-06-13; MOU with CFA signed 2025. Operational programmes not yet publicly documented in detail (G-337).
+- Mila Indigenous AI: 2025 cohort 21 participants / 8 AI prototypes; specific agrifood applications not yet publicly documented (G-334). Indigenous AI Gathering July 2026.
 - IPES-Food reports: substantive ongoing publication. Verify the most recent IPES-Food report relevant to agrifood AI / data sovereignty.
+- Three-part status claim (added cycle): PolArctic / Salmon Vision / SIKU / SmartICE / FNDGS / NCIAF / Mila are all `last-verified: 2026-07` — re-verify at next annual cadence.
 
 ## Substitutions
 

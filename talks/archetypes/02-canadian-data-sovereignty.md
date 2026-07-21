@@ -96,6 +96,32 @@ These three models sit on a continuum — JoinData is member-governed; WAGRI is 
 
 **South-Asia cross-reference — Korea's state-anchored cluster.** Korea's Smart Farm Innovation Valley (`units/korea-smart-farm-innovation-valley-rda.md`) is a fourth operational pattern: state-anchored cluster programme *with vendor participation*. Four sites (Sangju, Gimje, Milyang, Goheung) under MAFRA's *Act on Fostering and Supporting Smart Farming* with a 30%-smart-farming-by-2027 statutory target. This is *not* a data-stewardship model — it's a deployment-cluster model — but it shows Korea's response to the data-capture question: state-anchored cluster, vendor participation, young-farmer recruitment. Different answer than Canada's; worth naming.
 
+### 4b. Segment four-b — the Canadian binding constraint (4 min, added cycle)
+
+**The structural observation.** For Canadian producers adopting AI tools, the data-sovereignty question *runs on connectivity that may or may not be there*. The federal AI SME funding layer (RAII) is scaling; the federal rural connectivity layer (UBF) is not renewing. Without surfacing this, the talk pretends the data-sovereignty question can be settled independently of the connectivity question. It cannot.
+
+**RAII scaling ($200M → $500M).** The Regional Artificial Intelligence Initiative is the federal AI SME funding layer. Per *AI for All* (June 2026), RAII scales from $200M (Budget 2024) toward $500M, delivered through seven Regional Development Agencies (PrairiesCan's $33.8M share is the only publicly disclosed RDA-level share). RAII is the lever that's pulling *up*. Unit: `units/raii-canada-ai-adoption-programme.md`.
+
+**Universal Broadband Fund — non-renewal.** Wire Report (industry source, May 27 2026): "Ottawa will not renew its multi-billion dollar funding program designed to connect every household to high-speed internet by 2030." ISED confirmed June 5 2026 that it will not raise the 50/10 Mbps minimum service standard.
+
+**The Auditor General of Canada baseline (2021, still the operating reference):** 90.9% national broadband coverage, but only **42.9% on First Nations reserves** and 59.5% in rural and remote areas. First Nations reserves are at less than half the national rate.
+
+**The binding-constraint framing.** RAII scaling without UBF renewal means the AI SME funding layer reaches farms whose connectivity layer is contracting. Federal AI adoption support and rural connectivity support are out of phase. Producers looking at adoption need to ask: *will the connectivity be there next year?*
+
+**DFO's 551-FTE reduction (added cycle — sets up segment 5's Canadian anchor).** DFO faces a $54.47M (2026-27), $101.91M (2027-28), $193.82M (2028-29) spending reduction / 551-FTE decrease by 2028-29. Three active Pacific salmon AI pilots — Chumputer (deep-learning CNNs for salmon-scale age reading), computer-vision salmon migration counter at Sproat/Stamp River fish ladders, Factoid Finder (NLP for watershed planning) — are positioned as the digital modernization counterweight. *AI is being deployed in part to substitute for reduced FTE capacity rather than to augment it.* Unit: `units/dfo-pacific-salmon-ai.md`.
+
+**Talk-ready claims.**
+- Federal AI SME funding scales ($200M → $500M); rural connectivity funding does not renew (UBF May 2026).
+- First Nations reserves coverage is 42.9% — less than half the national 90.9% — and ISED won't raise the 50/10 Mbps standard.
+- DFO's three Pacific salmon AI pilots are the digital modernization counterweight to a 551-FTE reduction. AI is substituting for human capacity, not augmenting it.
+- For Canadian producers, the data-sovereignty question runs on the connectivity layer; that layer is the binding constraint the talk should name.
+
+**Critical move (speak it).** This is not an anti-AI observation. It's an observation about *the conditions under which the data-sovereignty question is meaningful*. A producer adopting Climate FieldView or JoinData needs both an adoption funding layer and a connectivity layer; one without the other doesn't produce sovereignty, it produces symptom-management.
+
+**Anchor units.** `units/raii-canada-ai-adoption-programme.md`, `units/northern-canada-can-ai-2026.md` (CanNor Inuvik Tech Society "only recently gained reliable, high-speed connectivity" language), `units/dfo-pacific-salmon-ai.md`.
+
+**Archetype cross-link.** Adoption-diagnosis (archetype 03) treats this as the binding-constraint diagnosis; this archetype treats it as the binding-constraint framing for the data-sovereignty decision. Same evidence, different use.
+
 ### 5. Segment four — Canadian context: Haven Greens and the question of control (5 min)
 
 **The Canadian anchor.** Haven Greens (King City, Ontario) is Canada's first fully automated AI-powered greenhouse. Unit: `units/haven-greens.md`. It's a *closed-loop proprietary farm + open consumer retail integration* — a *mixed* data-governance posture (per v4 taxonomy).
@@ -134,6 +160,8 @@ This talk has substantive Q&A time. Anticipated questions and the units they map
 - Haven Greens is May 2026 source; confirm deployment is still operating.
 - FCC Root AI launched July 2026; verify still offered.
 - Nelson quote is March 2026; current.
+- RAII / UBF framing (added cycle): RAII $200M → $500M trajectory per *AI for All* (June 2026); UBF non-renewal per Wire Report (May 27 2026); ISED 50/10 Mbps decision confirmed June 5 2026. Re-verify if Budget 2027 or *AI for All* update lands; the 90.9% / 42.9% Auditor General baseline still references 2021 — check for an OAG 2026 update.
+- DFO 551-FTE reduction (added cycle): per DFO 2026-27 Departmental Plan. Operational scale of three pilots not yet publicly documented (G-323); re-verify at next DFO plan release.
 
 ## Substitutions
 
