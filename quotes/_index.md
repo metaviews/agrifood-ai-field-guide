@@ -27,6 +27,9 @@ This is the filterable index of all entries in the `quotes/` directory. See `quo
 | Elizabeth Vaughan | Senior Manager | CAFF Small-Farm Tech Hub | [small-farm-vs-amazon](institutional-leaders/vaughan-elizabeth-small-farm-vs-amazon.md) | verbatim | current |
 | GIDA | (consortium) | Global Indigenous Data Alliance | [care-principles-mission](institutional-mission-statements/care-principles-mission.md), [care-directs-us-home](institutional-mission-statements/gida-care-directs-us-home.md) | mission | current |
 | Hervé Pillaud | Co-founder | La Ferme Digitale | [unicorns-not-in-agriculture](institutional-leaders/pillaud-herve-unicorns-not-in-agriculture.md), [culture-of-probability](institutional-leaders/pillaud-herve-culture-of-probability.md), [commons-and-mutual-model](institutional-leaders/pillaud-herve-commons-and-mutual-model.md) | verbatim (×3) | current |
+| Henna Virkkunen | Executive Vice-President | European Commission (Tech Sovereignty) | [european-sovereign-ai-vision](institutional-leaders/ec-virkkunen-european-sovereign-ai-vision.md) | verbatim | current |
+| Stefano Maffulli | Executive Director | Open Source Initiative (OSI) | [binary-threshold-open-source-ai](institutional-leaders/osi-maffulli-binary-threshold-open-source-ai.md) | verbatim | current |
+| Mike Krieger | Chief Product Officer | Anthropic | [mcp-infrastructure-critical](institutional-leaders/anthropic-krieger-mcp-infrastructure-critical.md) | verbatim | current |
 | IEEE SA | Standards body | IEEE Standards Association | [ieee-2890-mission](institutional-mission-statements/ieee-2890-mission.md) | mission | current |
 | IVADO | Implementation partner | IVADO | [ai-all-strategy-statement](institutional-mission-statements/ivado-ai-all-strategy-statement.md) | mission | current |
 | Jay Willmot | Founder / CEO | Haven Greens | [local-demand](industry-executives/willmot-jay-haven-greens-local-demand.md) | verbatim | current |
@@ -66,6 +69,9 @@ This is the filterable index of all entries in the `quotes/` directory. See `quo
 - Hervé Pillaud (La Ferme Digitale) — three verbatim quotes
 - Naïo Technologies COO Sarlandie
 
+### EU-institutional
+- Henna Virkkunen (European Commission Tech Sovereignty, EUROPA / EU sovereign AI)
+
 ### EU-Netherlands
 - Djessie Donkers (ZLTO)
 - Mathé van den Bosch (JoinData member)
@@ -83,7 +89,11 @@ This is the filterable index of all entries in the `quotes/` directory. See `quo
 - GIDA CARE Principles
 - GIDA "CARE Directs Us Home"
 - IEEE 2890-2025
-- OADA mission statements
+- OADA mission
+- Stefano Maffulli (OSI, binary-threshold open-source AI definition)
+- Mike Krieger (Anthropic, MCP donation rationale)
+- Vincent Martin (FAO, open-source as SDG-essential — under institutional-mission-statements)
+- Henna Virkkunen (European Commission, EU sovereign AI vision)
 
 ---
 
@@ -136,6 +146,17 @@ This is the filterable index of all entries in the `quotes/` directory. See `quo
 - IVADO statement (Canada AI for All)
 - FCC ecosystem-not-technology framing
 - Neethirajan (AI strategy stops at city limits; Green AI; Cybersecurity as critical infrastructure)
+- Virkkunen (EU sovereign AI vision)
+- Maffulli (OSI definitional framing)
+- Krieger (MCP as critical infrastructure for AI)
+
+### Open-source AI definitional / vendor-infrastructure
+- Krikorian (Mozilla CTO turning-point)
+- Maffulli (OSI binary threshold)
+- Krieger (Anthropic MCP donation)
+- Virkkunen (EC EUROPA / sovereign AI)
+- Martin / FAO institutional mission statements (institutional-mission-statements/fao-vincent-martin-open-source-innovation.md)
+- A Growing Culture ("Open Source Ethos" in agricultural heritage — under institutional-mission-statements)
 
 ### Funding models
 - Pillaud (unicorns do not exist in agriculture)
@@ -173,7 +194,7 @@ This is the filterable index of all entries in the `quotes/` directory. See `quo
 
 - **Producers (5 entries):** Andrew Nelson, Djessie Donkers, Mathé van den Bosch, Jeff Torrie, Nicolas Fratantuono. Five concrete producer voices — worth noting that the field guide has *more* producer voices than I expected at the start. Could expand further.
 - **Industry executives (6 entries):** Willmot, Zhu, Peng Bin, Zhang, Leake, Naïo/xFarm. Six industry voices, predominantly vendor framing. The Leake / Nelson pair is the most useful for talk constructions — vendor framing + producer reality side-by-side.
-- **Institutional leaders (4 entries):** Three Pillaud verbatim quotes + Vaughan (CAFF). Substantive analytical voices.
+- **Institutional leaders (7 entries):** Three Pillaud verbatim quotes + Vaughan (CAFF) + Virkkunen (EC), Maffulli (OSI), Krieger (Anthropic). Three new entries added July 2026 alongside the substrate scan, triangulating the public-institutional / definitional / vendor-infrastructure axes that complement Pillaud's cooperative / commons voice.
 - **Researchers / experts (3 entries):** Neethirajan's two complementary framings + Mozilla CTO Raffi Krikorian. Single researcher (Neethirajan) plus Mozilla institutional voice; could expand further.
 - **Institutional mission statements (8 entries):** CARE Principles, IEEE 2890-2025, OADA, JoinData, IVADO, FCC, ADT, GIDA communique. These are not personal quotes but institutional positions — useful for talks about frameworks.
 

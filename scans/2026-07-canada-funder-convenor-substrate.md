@@ -118,6 +118,8 @@ Three structural patterns worth naming:
 
 3. **Smart farm validation infrastructure.** CAAIN's mandate is "validation and demonstration of emerging agricultural technology" — it operates through the Pan-Canadian Smart Farm Network (already mentioned in existing scans; AIVA Network's four hubs are: EMILI Innovation Farms Manitoba; Olds College Smart Farm Alberta; Area X.O Ottawa; Innovation Farms Ontario). The CAAIN funding model is *physically-validated* — projects must be deployable on a smart farm — which is structurally distinct from software-only AI accelerator models.
 
+   **Sub-observation — the co-operative-deployer pattern.** CAAIN §1.5 (Haggerty AgRobotics, autonomous manure application, $1.51M total value) deployed on a farm substrate that is a *50/50 joint venture* between a family farm (Baresich) and a 100%-farmer-owned co-operative (AGRIS Co-operative Ltd., 1,000+ farmer-owners, 14 locations across Chatham-Kent / Essex / Middlesex ON). Most CAAIN projects deploy on private-operator farms; this is the one co-operative-JV case we have in the corpus. The CAAIN programme therefore rewards *founder-as-deployer* AND, in this one case, *co-operative-as-deployer*. See `haggerty-creek-ltd.md` and `agris-co-operative-ltd.md`.
+
 ### 2.4 What the corpus gets from a CAAIN unit
 
 A dedicated `units/caain-portfolio.md` would let every other Canadian cycle cite CAAIN as the federal automation + AI funding stream. The unit would compress the 35+ projects into a single navigable corpus cell. It would also surface the founder-pattern and the bank-financing-gap as field-guide material — both are distinctively Canadian structural observations worth carrying into talks.
@@ -443,6 +445,7 @@ The five-funder substrate maps onto the corpus's matrix in a way that **populate
 - **G-316 (new):** No FCC AgExpert data-licensing public framework. AgExpert has 25,000 users and 6.5M acres; the data-licensing terms are private contract terms.
 - **G-317 (new):** RAII funding shares by RDA (other than PrairiesCan's $33.8M) not publicly disclosed.
 - **G-318 (new):** No federal funder channel covers post-consumer food waste AI specifically across CAAIN / Scale AI / Digital / PIC / RAII. Worth a future cycle scan focused on waste-and-recovery matrix cell + funder substrate.
+- **G-319 (new):** No AGRIS Co-operative Ltd. data-governance public framework. AGRIS is the 100%-farmer-owned co-operative that is 50% owner of the Innovation Farms Ontario substrate farm. Co-operative principles would suggest co-operative data-licensing terms; primary sources do not disclose the Innovation Farms Ontario data-licensing terms or AGRIS's stance. Whether co-operative principles apply to farm data generated on AGRIS-jurisdiction farms via Innovation Farms Ontario is unverified. The CCSC (U Saskatchewan, 2021) co-operative-alternative framing is the structural argument; AGRIS would be the operational test.
 
 ---
 
@@ -487,6 +490,7 @@ The five-funder substrate maps onto the corpus's matrix in a way that **populate
 - **EMILI** (Enterprise Machine Intelligence Learning Initiative) — Canadian Agri-Food Data Initiative (CADI) guidebooks; partner in Pan-Canadian Smart Farm Network.
 - **CAPI** (Canadian Agri-Food Policy Institute) — ISED Public Consultation submission (Oct 2025) co-led with EMILI.
 - **CCSC** (Canadian Centre for the Study of Co-operatives, U Saskatchewan) — Big Data in Canadian Agriculture (August 2021).
+- **AGRIS Co-operative Ltd.** (Chatham-Kent, Essex, Middlesex ON) — 100%-farmer-owned grain + farm-input co-operative; 50% joint-venture partner of Haggerty Creek Ltd. (Innovation Farms Ontario substrate); GROWMARK FS System affiliate. See `agris-co-operative-ltd.md`.
 - **Protein Industries Canada** — Corporate Plan 2025–26 (March 10 2025).
 - **Global Innovation Clusters program** (ISED) — strategic framework for the five clusters.
 
