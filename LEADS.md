@@ -201,11 +201,11 @@ Realized from `2026-07-canada-value-chains.md`:
 
 ## Canada regional substrate cycle (July 2026)
 
-Realized from `2026-07-canada-regional-substrate.md`:
+Realized from `2026-07-canada-regional-substrate.md`. Note: `aida-atlantic-digital-agriculture.md` was realized here and then **substantively deepened** in the academic-research-substrate cycle (below); see the academic-research entry for the canonical version.
 
-- **aida-atlantic-digital-agriculture.md** — realized from `2026-07-canada-regional-substrate.md` §2
-  gaps: G-322, G-328
-  AIDA Atlantic digital agriculture unit covering the Atlantic Institute for Digital Agriculture at Dalhousie Faculty of Agriculture (Truro NS), Director Dr. Travis Esau, 5 research pillars (precision agriculture, robotics/automation/AI, data-driven management, human-computer interface, knowledge mobilization), 11 named Chair-holders (Al-Mallahi NB Potato; Colombo CRC Aquaculture Nutrition; Heung CRC Digital Soil Mapping + Canadian Soil Data Portal; Meagher Animal Science; Zaman Precision Agriculture + Variable Rate Sprayer patents; Price FAO Global Soil Lab; Haque PINet; Asah CRC Tier I Social Dimensions; Jiang Agronomy + $500K CFI/Research Nova Scotia; Kittilsen Extended Learning). Atlantic deployment actors: Chick Pick Moncton NB, Milk Moovement Halifax NS, WellFish PEI.
+- **aida-atlantic-digital-agriculture.md** (initial realization; superseded by deepening in academic-research-substrate cycle)
+  gaps: G-322, G-328 (carry)
+  Initial Atlantic-region realization covering AIDA's 5 research pillars and 11 Chair-holders estimate; subsequent deepening in `units/aida-atlantic-digital-agriculture.md` (canonical) corrects to 13 SAC + Neethirajan = 14 named scholars with full committee detail.
 - **prairie-grain-ai-cluster.md** — realized from `2026-07-canada-regional-substrate.md` §3
   gaps: G-321
   Prairie grain AI cluster unit covering three sub-clusters: (1) Saskatoon grain AI (Super GeoAI + VeriGrain + Raven OMNiPOWER + Mojow + USask CDC, 100-year-old grain grading legacy challenged); (2) Winnipeg/Steinbach/Vermilion protein AI (MacDon $9.26M largest CAAIN, mode40 carcass cooling ISED→CAAIN→AAFC Lacombe→commercial plants path, Lakeland Precision Ranching); (3) Calgary/Lethbridge/Olds digital ag (Ox+Plow + SmartGro + PIP International + Metabolomics + AltaML + AUAV Tech + Olds College). MacDon $9.26M largest single CAAIN. CAAIN funding as the leveller. Cross-cluster funding pattern.
@@ -221,6 +221,87 @@ Realized from `2026-07-canada-regional-substrate.md`:
 - **canadian-aquaculture-ai.md** — realized from `2026-07-canada-regional-substrate.md` §6.3-§6.9
   gaps: G-321, G-325, G-326
   Canadian aquaculture AI unit covering the Pacific + Atlantic vendor ecosystem: ReelData AI Halifax NS (RAS biomass CV, Buoyant Ventures VC), OnDeck Fisheries AI Vancouver ($1.5M PCAIS-funded, electronic monitoring 10-12× cost reduction), WellFish Tech PEI BioAlliance (non-lethal blood assessment), Marine Thinking Newfoundland (catch monitoring + ghost gear), Mowi Canada West (centralized AI-assisted Feed Centre), Ocean Supercluster H2S-sensor + AI-camera fish welfare project (Grieg Seafood), Oceans North Nova Scotia (at-sea observer EM pilot). The funding-stack pattern (venture + PCAIS + corporate + cluster + NGO) produces different data-governance postures.
+
+## AI plant breeding global scan (July 2026 cycle)
+
+Realized from `2026-07-ai-plant-breeding-global.md`:
+
+- **plant-breeding-ai-methodology.md** — substantive 2026 academic methodology stack (phenomics + genomics + multi-omics + GS + AI/ML + generative AI + CRISPR-AI)
+  gaps: G-338, G-339
+  Substantive 2026-anchor references include Xie et al. 2026 Plant Communications knowledge-graph LLM; Huang et al. 2026 Springer CRISPR-AI; Kamran et al. 2026 (cited 3) CRISPR-AI reducing 8-10 year cycles to 2-3 years; Wu et al. 2025 (cited 2) Crop GraphRAG; Crossa et al. 2025 (cited 109) ML big data; Sangjan et al. 2025 (cited 25) AI data integration; Garcia-Oliveira et al. 2026 (cited 7) Breeding Smarter.
+- **longping-yuan-caas-china-seed-ai.md** — Chinese state-orchestrated cluster; CAAS + Syngenta Group + BGI/MGI + smart-breeding national plan
+  gaps: G-340, G-341
+  Substantive Yuan Longping legacy; Syngenta Group Chinese state-ownership (USD$43B 2017 acquisition; Sinochem/ChemChina merger); CAAS knowledge-graph LLM (Xie 2026); BGI/MGI genomics substrate; 2021 amended Seed Law; March 2025 Sanya Seed Congress smart-breeding national frame; substantive GRAIN 2023 critical-voice observation.
+- **cgiar-eib-global-south-plant-breeding.md** — CGIAR Breeding for Tomorrow + EiB; 12 priority crops + 700K+ germplasm + Gates/FFAR/USAID substrate
+  gaps: G-342, G-343, G-344
+  Substantive only actor combining (a) substantive AI-augmented breeding pipelines, (b) multilateral-system governance, and (c) 700K+ germplasm samples in ITPGRFA trust. ICRISAT × CIMMYT AI-driven predictive breeding initiative. 15-30% genetic-gain uplift commitment through 2025-2030 portfolio.
+- **limagrain-kws-ragt-eu-private-plant-breeding.md** — EU private-breeding cluster; cooperative + family-controlled + public-academic
+  gaps: G-345, G-346
+  Limagrain (FR cooperative via InVivo); KWS (DE, family-controlled, 1856); RAGT (FR); Enza Zaden (NL, family-controlled); Rijk Zwaan (NL, family-controlled); Wageningen + INRAE public-academic; NGT Regulation 2026 substantive EU policy frame; Euroseeds industry convening.
+- **bayer-syngenta-corteva-multinational-pipelines.md** — Bayer + Syngenta Group + Corteva + BASF + ETC/GRAIN 2025 concentration observation
+  gaps: G-347, G-348
+  Bayer Crop Science ~€6-11bn R&D pipeline 2024-2030+; 10 blockbusters in 10 years commitment; Seed Production Innovation Center at Iowa State (2024); DEKALB Disease Shield® + Soybean Native Resistance + Corn Disease Shield; Syngenta Group AI Trends 2025; Corteva Granular on-farm AI + AI-augmented crop protection; BASF xarvio + Nunhems; ETC Group/GRAIN 2025: "Four firms control 56% of global seed market."
+- **usda-ars-iowa-state-aiira-us-land-grant.md** — US land-grant cluster; USDA-NIFA AI Institutes + USDA-ARS + Heritable Agriculture (Google X)
+  gaps: G-349, G-350, G-351
+  AIIRA at Iowa State (one of 11 NSF AI Research Institutes, 2021 cycle, $220M NSF investment); USDA-NIFA AFRI FY2026 $140M pool; USDA-ARS Plant Genetic Resources Unit (Geneva NY) + Genomics and Bioinformatics Research Unit (Stoneville MS); Texas A&M wheat-breeding pipeline genomic prediction; Heritable Agriculture (Google X spinoff, 2024, digital twin); Biographica (US/UK, $9.5M + BASF partnership, 2026); substantive land-grant × USDA-ARS × extension × corporate-startup architecture.
+- **indigenous-seed-sovereignty-ai-breeding.md** — cross-cutting critical-voice; ITPGRFA + CARE + DSI + IPES-Food 2026
+  gaps: G-352, G-353
+  ITPGRFA Multilateral System + 64 most-important crops; CARE Principles for Indigenous Data Governance; DSI — Digital Sequence Information 2024-2026 multilateral-mechanism under negotiation; IPES-Food 2026 Head in the Cloud critical-voice primary source; UN Special Rapporteur on Right to Food Michael Fakhri 2024-2025 statements; GRAIN 2023 Capturing the seed; ETC Group/GRAIN 2025 Top 10 agribusiness giants; Coomes 2015 (cited 422) + Westengen 2023 (cited 133) + Nabuuma 2022 (cited 76) farmer-led seed network academic-tier observation; Lawson 2024 (cited 25) + Arita 2025 (cited 5) DSI governance academic framing; PolArctic Sanikiluaq substantive Canadian-context Indigenous-led AI exemplar.
+- **ai-breeding-genetic-diversity-counter-narrative.md** — cross-cutting counter-narrative; concentration + narrowing + reproducibility
+  gaps: G-354, G-355
+  Varshney 2026 substantive tension framing (Rewiring diversity, physiology, and practice); Fu 2015 (cited 388) genetic-erosion primary source; Sun 2024 (cited 150) Modern Plant Breeding Techniques; Bohra 2022 (cited 433) crop-wild-relatives preservation; Kadoumi 2025 (cited 4) population structure; Crossa 2025 (cited 109) ML big data; Yoosefzadeh Najafabadi 2023 (cited 128) ML cross-validation; Sangjan 2025 (cited 25) AI data integration; biorxiv 2026 cross-validation overestimation observation; Genomes To Fields Initiative; Rivera-Poulsen 2025 (cited 4) rapid cycling GS in maize landraces; substantive cross-cutting tension observation: speed-of-cycle × diversity-preservation × reproducibility × concentration.
+- **scans/2026-07-ai-plant-breeding-global.md** — consolidating scan tying 8 new units together with the conceptual companion (`programmatic-breeding-ai.md`) and existing seed-AI units (`uog-bean-gpt-najafabadi.md`, `brazilian-seed-ai-academic-research-led.md`).
+
+**Substantive non-obvious observations from this cycle:**
+
+1. **Substantively 6 substantively distinct regional cluster shapes** substantively across AI plant breeding globally: (1) Chinese state-orchestrated (CAAS + Syngenta Group + BGI/MGI + smart-breeding national plan); (2) CGIAR public-platform for Global South (12 priority crops + 700K+ germplasm + ITPGRFA multilateral-system); (3) EU private-cluster (cooperative + family-controlled + public-academic); (4) Multinational-corporate-pipelined (Bayer + Syngenta Group + Corteva + BASF); (5) US land-grant (USDA-NIFA + USDA-ARS + land-grant + Heritable Ag); (6) Canadian provincial-commodity-pipelined (BeanGPT + Ontario Bean Growers + ARIO).
+
+2. **Substantively 8 substantively distinct AI-methodology-anchor cluster shapes:** RAG over literature (BeanGPT); knowledge-graph LLM (Xie 2026); digital-twin (AIIRA/Heritable Ag); generative-AI Q&A (Crop GraphRAG 2025); CRISPR-AI integration (Huang/Kamran 2026); genomic prediction in applied European wheat (Thomsen 2026); AI-driven predictive breeding at scale (CGIAR Breeding for Tomorrow); industry-vertical AI deployment (Bayer/Syngenta/Corteva).
+
+3. **Substantive cross-cluster bridging observation:** Syngenta Group bridges Chinese state-orchestrated + multinational-corporate; Heritable Agriculture bridges US land-grant + corporate-startup + multinational-corporate; CGIAR Multilateral System bridges multilateral-system + public-domain + farmer-led seed networks.
+
+4. **Substantive corporate-concentration observation substantively correlates with substantive genetic-base narrowing observation:** substantively 4 firms control 56% of global seed market (ETC/GRAIN 2025); substantively correlates with substantive crop-genetic-base narrowing when substantive trait-environment combinations are substantively optimized at corporate-pipeline scale (Varshney 2026 substantive tension).
+
+5. **Substantive 2024-2026 DSI multilateral-mechanism negotiation substantively determines the substantive governance frame for AI plant breeding:** substantive 2026-2030 deployment will determine whether AI plant-breeding pipelines substantively apply substantive multilateral-system governance, bilateral-ABS, sovereign-state, or open-access.
+
+6. **Substantive 2026 cross-cutting tension observation:** substantive speed-of-cycle × diversity-preservation × reproducibility × concentration × DSI governance × CARE Principles for Indigenous.
+
+## Canada academic-research substrate cycle (July 2026)
+
+Realized from `2026-07-canada-academic-research-substrate.md` and the subsequent BeanGPT / programmatic-breeding deepening:
+
+- **aida-atlantic-digital-agriculture.md** — deepened from `2026-07-canada-academic-research-substrate.md` §2
+  gaps: G-329, G-330 (cycle additions); G-322, G-328 (carry)
+  AIDA Atlantic digital agriculture unit: full 13 SAC members + Neethirajan = 14 named scholars (correcting prior "11 Chair-holders" undercount). Canadian Soil Data Portal (Heung CRC Tier II). NB Potato Industry Research Chair (Al-Mallahi). 5 research pillars. Co-located with AAL at Dalhousie Faculty of Agriculture.
+- **ai4food-guelph.md** — realized from `2026-07-canada-academic-research-substrate.md` §3; updated with BeanGPT deployment-tier product
+  gaps: G-329 (partially filled by BeanGPT)
+  AI4Food unit covering Rozita Dara (CCMPS Research Impact Leadership Chair Dec 2025), 4 focus areas (Application / Responsible AI / AI Tech / Data), 6 strategic objectives, OECD AI community expert. AI4Food + Food from Thought (CFREF $76.6M) are the two U Guelph institutional anchors.
+- **aal-dalhousie.md** — realized from `2026-07-canada-academic-research-substrate.md` §4
+  gaps: G-330
+  Agri-Food Analytics Lab unit covering Charlebois (Scientific Director), Canada's Food Price Report (annual), Top 10 Food Stories, Canadian Food Sentiment Index, "data-deficit" critical voice frame. Co-located with AIDA at Dalhousie Faculty of Agriculture. The third critical-academic voice (Neethirajan rural+Green AI; Dara greenhouse+cyber risk; Charlebois data-deficit).
+- **mila-quebec-agrifood.md** — realized from `2026-07-canada-academic-research-substrate.md` §5
+  gaps: G-331 (supersedes G-029)
+  Mila + IVADO Quebec agrifood unit. Substantive correction: DISA is Rwandan-deployment + Canadian-research-pipelined (not Canadian farm deployment per G-331). Innovasea + Mila partnership (Canadian aquaculture). R3AI positioning (no deployment tier). No Quebec analog of AIDA or AI4Food.
+- **canada-academic-research-funding-stack.md** — realized from `2026-07-canada-academic-research-substrate.md` §7
+  gaps: G-332
+  Seven-channel academic-research funding stack: NSERC + Mitacs + CFI + CFREF + SSHRC + FRQ + AAFC AgriScience. Cluster-vs-research funding-stack distinction: cluster (TRL 7+) and academic-research (TRL 3–6) are complementary, not duplicative. G-332: no dedicated federal academic-research agrifood AI channel.
+- **uog-bean-gpt-najafabadi.md** — deepening realising the inputs-cell across the academic-research substrate cycle (received via user follow-up)
+  gaps: G-329 (partially filled); G-335 (funding-stack specifics); G-336 (AgData Consortium)
+  BeanGPT unit. First named AI4Food deployment-tier product surfaced in the corpus. Generative-AI platform + 8 RAG search models + 314,000+ scientific articles + ~100M words + Ontario dry-bean performance data since 2006. 9 named partner organisations, 6 named AI projects spanning generative AI / computer vision / remote sensing / multi-omics ML / historical-data ML. Ontario-commodity-group × federal-tri-council × farmer-co-op × industry-vendor model partnership.
+- **programmatic-breeding-ai.md** — deepening realising the conceptual/methodological unit across the academic-research substrate cycle (received via user follow-up)
+  gaps: G-337 (multinational seed-corporate private IP)
+  Conceptual / methodological unit covering the umbrella: programmatic breeding (CABI 2026 / Bally 2026) + predictive breeding (Springer 2026 + Garcia-Oliveira 2026) + AI-assisted selection pipelines (Computers Electronics in Agriculture 2026 sugarcane review) + generative-AI breeding platforms (BeanGPT-class). Continental contrasts table — BeanGPT (academic-research-led + provincial-commodity-pipelined) vs. Brazilian-seed-AI cluster (academic-research-led + multinational-corporate-pipelined) vs. US land-grant (academic-research-led + private land-grant) vs. EU (academic-research-led + Wageningen/INRAE).
+
+**Substantive findings from this cycle:**
+- AIDA's 13 SAC + Neethirajan = 14 named scholars (correcting prior 11-count undercount).
+- Three critical-academic voices consolidated (Neethirajan / Dara / Charlebois).
+- Federal-AIDA / academic-AIDA acronym collision flagged.
+- DISA reframed: Canadian-research-pipelined Rwandan-deployment (G-029 → G-331).
+- No Quebec analog of AIDA or AI4Food; Quebec has national-scale ML at Mila + IVADO but no Quebec-specific AI-agrifood institute.
+
+**Inputs-cell deepening (received via user follow-up):**
+- **BeanGPT** surfaces as the first named AI4Food deployment-tier product — see `units/uog-bean-gpt-najafabadi.md`. Canadian plant-breeding AI is *academic-research-led + provincial-commodity-pipelined* (Ontario Bean Growers + Hensall Co-Op + Sprague Foods + ARIO + OMAFA + NSERC), structurally distinct from the Brazilian-seed-AI cluster-with-three-structures pattern (academic + multinational-corporate) per `units/brazilian-seed-ai-academic-research-led.md`.
+- **Programmatic breeding** is the conceptual / methodological unit — see `units/programmatic-breeding-ai.md`. CABI / Bally 2026 uses "programmatic breeding goals" formally; the 2026 literature uses "predictive breeding" (Springer 2026; Garcia-Oliveira 2026) and "AI-assisted selection pipelines" (Computers Electronics in Agriculture 2026 sugarcane review). BeanGPT is positioned as the generative-AI query-decision layer of a full programmatic-breeding pipeline.
 
 ## How to use this file
 
