@@ -314,3 +314,28 @@ patterns rather than fill data holes.
 
 If a unit never lands (because research doesn't surface enough substance),
 remove the lead rather than leaving a stale entry. Quality > completeness.
+
+## AI and Labour cycle (July 2026, open leads)
+
+Five leads surfaced by `scans/2026-07-ai-and-labour.md` + `scouts/2026-07-ai-and-labour-scout.md` that warrant future-cycle follow-up. The cycle closed the labour-side institutional voice + analytical critical-voice + discontinued-cluster consolidation + state-cluster labour-substitution + Canadian labour-side institutional voice gaps substantively (via the 7 new units + 4 new quotes). What remains open: regional follow-on cycles; LAC farmworker + AI; US labour-side federal regulatory substrate; H-2A + AI deployment data at regional level; back-of-house worker displacement quantification.
+
+- **canadian-regional-ai-and-labour-cycle.md** — surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead)
+  gaps: G-115 (closed substantively by `units/ufcw-nfu-clc-canada-labour-producers.md`); G-3XX (AIDA + CPPA DEAD 6 January 2025 — labour-side regulatory substrate absence); G-381 (UFCW / NFU / CLC formal position on AI for All)
+  Future Canadian regional cycle anchored by UFCW Canada (245,000+ food-processing members; Senate AGFO submission on technology and labour); NFU Canada (Big Data SSHRC synthesis August 2021); CLC (submission against AIDA 2023-2024); AIDA + CPPA DEAD 6 January 2025 + AI for All (June 2026) adoption-led not regulation-led + SAWP + TFWP. The cycle is *anchored* but not run in this cycle (per user direction: regional focus later). When the Canadian AI-and-labour cycle runs, it has the institutional anchor for substantive depth.
+- **latin-american-farmworker-ai-cycle.md** — surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead)
+  gaps: G-376 (LAC seasonal labour + AI deployment — substantive corpus-thin)
+  Future LAC regional cycle covering Brazilian + Chilean + Argentine + Mexican seasonal agricultural worker programmes + AI deployment interaction. The CSA cycle + MENA cycle + Brazil beef + Chile-Canada + Argentine beef + Brazilian seed cycles have surfaced LAC agritech deployments substantively; the *seasonal labour + AI* dimension is the substantive gap. COCONA equivalents in LAC are the named candidate.
+- **us-labour-side-federal-regulatory-substrate.md** — surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead)
+  gaps: G-380 (Packers and Stockyards Act + AI deployment); G-3XX (NLRB unfair labour practice + AI; Department of Labor + AI in agriculture)
+  US labour-side federal regulatory substrate — Packers and Stockyards Act (USDA 1921) + NLRB + Department of Labor + AI deployment. Substantive corpus-thin territory. Distinct from the *federal regulatory substrate* work in `scans/2026-07-eu-regulatory-substrate.md` (EU AI Act + EU Code of Practice + European AI Office); the US equivalent is structurally different (labour-relations regulatory substrate + sectoral regulators rather than horizontal AI Act).
+- **h2a-ai-deployment-regional-data.md** — surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead)
+  gaps: G-374 (H-2A + AI deployment data at regional level)
+  What does H-2A scale + automation deployment look like at regional level? Salinas Valley is the worked example via Sullivan ethnography + California overtime regulation; Florida berries (FWAF + Mixteco + Triqui indigenous-language demographics) / Washington apples (FUF + Sakuma Brothers 2017 strike) / Central Valley table grapes (UFW + CRLA) / Georgia Vidalia onions are not surfaced. Future cycle anchors the regional H-2A + AI deployment data.
+- **back-of-house-worker-displacement-quantification.md** — surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead)
+  gaps: G-382 (back-of-house worker displacement quantification in working consumer-AI deployments)
+  Wendy's FreshAI / Taco Bell × Omilia / Sweetgreen Infinite Kitchen have deployment scale; back-of-house worker count + role-shift data not surfaced. Wendy's 86%-completion-without-human-intervention is the most-specific public metric on a voice-AI deployment; back-of-house worker-impact quantification beyond the voice-AI layer is structurally absent. Future cycle anchors the quantification gap.
+
+## AI and Labour cycle — cluster-pattern / framework-level candidate
+
+- **labour-substitution-via-state-cluster** — surfaced in `scans/2026-07-ai-and-labour.md` §5 + `units/korean-state-cluster-labour-substitution.md`
+  Distinct from cluster-with-state-substrate (Argentine beef AI — SENASA + SIGSA) and cluster-with-state-strategy (UAE ADAFSA dual-mode). The Korean 30%-by-2027 smart-farming adoption target + Japanese industrial-automation heritage (Yamaha Fazer RMAX + WAGRI state-stewarded DPI) + Chinese WAICO multilateral posture form the state-led labour-substitution cluster pattern. The Korean state-cluster labour-substitution unit substantiates the candidate; the cluster-pattern-taxonomy.md may be updated to add the candidate observation if a future cycle confirms it as a substantive pattern.

@@ -66,6 +66,23 @@ Two regional cases observe the cluster-with-three-structures pattern:
 
 Argentine beef AI (SENASA + SIGSA + World Bank financing) is the corpus's first cluster-with-state-substrate example distinct from cluster-with-state-strategy (UAE ADAFSA dual-mode). Worth surfacing in any talk framing state-led agricultural AI — *state-driven* and *state-strategy* are *not* synonyms.
 
+### 3.4 Cluster-pattern-taxonomy candidate (surfaced by AI and Labour cycle, July 2026)
+
+**Candidate name.** *labour-substitution-via-state-cluster*
+
+**Definition.** State-led quantitative policy levers for agricultural AI adoption that target labour-substitution outcomes explicitly (e.g. Korea 30%-by-2027 smart-farming adoption; Japan industrial-automation heritage + WAGRI state-stewarded DPI; Chinese WAICO multilateral posture).
+
+**Substantive distinction.** Distinct from:
+- **cluster-with-state-substrate** (Argentine beef AI — SENASA + SIGSA + World Bank financing; the state provides the regulatory substrate but does not target labour-substitution).
+- **cluster-with-state-strategy** (UAE ADAFSA — federal agency operating both standards-setter mode and deployment-of-record mode; the state strategy is dual-mode but not labour-substitution-targeted).
+- **equipment-vendor industrial automation** (Deere / CNH / AGCO organic deployment; the state is not the substitution driver).
+
+**Load-bearing for the labour spine.** If the Korean 30%-by-2027 + Japanese industrial-automation-heritage + Chinese WAICO multilateral posture substantiates this candidate, then *labour-substitution-via-state-cluster* becomes a cluster-pattern-taxonomy entry that the labour-spine talk can use to distinguish state-led labour-substitution from organic vendor-led deployment.
+
+**Source.** `units/korean-state-cluster-labour-substitution.md`; `scans/2026-07-ai-and-labour.md` §5.
+
+**Status.** Candidate observation; not yet elevated to confirmed cluster pattern. A future cycle that substantiates it through additional cluster-pattern data may elevate it to a substantive entry.
+
 ## 4. Open questions for future cycles
 
 - Does cluster-with-three-structures repeat in Italian / Greek / Egyptian / Australian agritech contexts?

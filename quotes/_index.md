@@ -45,6 +45,10 @@ This is the filterable index of all entries in the `quotes/` directory. See `quo
 | Suresh Neethirajan | University Research Chair | Dalhousie | [ai-strategy-stops-at-city-limits](researchers-and-experts/neethirajan-suresh-ai-strategy-stops-at-city-limits.md), [green-ai-cybersecurity](researchers-and-experts/neethirajan-suresh-green-ai-cybersecurity.md) | paraphrased | current |
 | Raffi Krikorian | CTO | Mozilla Foundation | [open-source-turning-point](researchers-and-experts/mozilla-krikorian-open-source-turning-point.md) | verbatim | current |
 | Yuan Zhang | Head of Global Sales | DJI Agriculture | [essential-farm-equipment](industry-executives/zhang-yuan-dji-essential-farm-equipment.md) | paraphrased | current |
+| TBD (Salinas Valley farmworker focus group) | Farmworker (focus group participant) | (independent; Salinas Valley California) | [sullivan-farmworker-focus-group-romaine](farmworkers/sullivan-farmworker-focus-group-romaine.md) | verbatim | current |
+| TBD (Salinas Valley roboticist interview) | Roboticist (interview participant) | (independent; agricultural robotics research) | [sullivan-roboticist-romaine-head-lettuce](researchers-and-experts/sullivan-roboticist-romaine-head-lettuce.md) | verbatim | current |
+| Madeleine Fairbairn + Zenia Kish + Julie Guthman | UCSC Sociology faculty | UC Santa Cruz | [pitching-agrifood-tech](researchers-and-experts/guthman-fairbairn-pitching-agrifood-tech.md) | paraphrased | current |
+| Derek Neilson | President, Agriculture | CNH Industrial | [dwindling-labor-force](industry-executives/cnh-neilson-dwindling-labor-force.md) | verbatim | current |
 
 ---
 
@@ -64,6 +68,9 @@ This is the filterable index of all entries in the `quotes/` directory. See `quo
 - Brian Leake (Bayer)
 - Elizabeth Vaughan (CAFF)
 - Ag Data Transparent certification framework
+- Sullivan farmworker focus group (Salinas Valley, December 2025)
+- Sullivan roboticist (Salinas Valley, February 2025)
+- CNH Neilson (CNH Industrial, December 2022)
 
 ### EU-France
 - Hervé Pillaud (La Ferme Digitale) — three verbatim quotes
@@ -127,6 +134,9 @@ This is the filterable index of all entries in the `quotes/` directory. See `quo
 ### Worker conditions / succession
 - Peng Bin (XAG pesticide exposure)
 - Torrie (Lely succession)
+- Sullivan farmworker focus group (Salinas Valley)
+- Sullivan roboticist (Salinas Valley)
+- CNH Neilson (dwindling labour force)
 
 ### Vendor deployment specifics
 - Fratantuono (Naïo vineyard damage)
@@ -193,9 +203,14 @@ This is the filterable index of all entries in the `quotes/` directory. See `quo
 ### Aggregate observations
 
 - **Producers (5 entries):** Andrew Nelson, Djessie Donkers, Mathé van den Bosch, Jeff Torrie, Nicolas Fratantuono. Five concrete producer voices — worth noting that the field guide has *more* producer voices than I expected at the start. Could expand further.
+- **Farmworkers (1 entry, new category July 2026):** Sullivan Salinas Valley farmworker focus group. The new `quotes/farmworkers/` category is named in the Sullivan unit; this is the first verbatim farmworker voice in the corpus. The category can expand further (CIW + UFW + PCUN + FUF + FWAF voices; H-2A / SAWP / Bracero legacy demographics; California overtime regulation impact).
 - **Industry executives (6 entries):** Willmot, Zhu, Peng Bin, Zhang, Leake, Naïo/xFarm. Six industry voices, predominantly vendor framing. The Leake / Nelson pair is the most useful for talk constructions — vendor framing + producer reality side-by-side.
 - **Institutional leaders (7 entries):** Three Pillaud verbatim quotes + Vaughan (CAFF) + Virkkunen (EC), Maffulli (OSI), Krieger (Anthropic). Three new entries added July 2026 alongside the substrate scan, triangulating the public-institutional / definitional / vendor-infrastructure axes that complement Pillaud's cooperative / commons voice.
-- **Researchers / experts (3 entries):** Neethirajan's two complementary framings + Mozilla CTO Raffi Krikorian. Single researcher (Neethirajan) plus Mozilla institutional voice; could expand further.
+### Researchers / experts (4 entries)
+- Neethirajan's two complementary framings
+- Mozilla CTO Raffi Krikorian
+- Sullivan roboticist (Salinas Valley)
+- Fairbairn + Kish + Guthman (UCSC critical-food-systems cluster — *Pitching Agri-Food Tech*)
 - **Institutional mission statements (8 entries):** CARE Principles, IEEE 2890-2025, OADA, JoinData, IVADO, FCC, ADT, GIDA communique. These are not personal quotes but institutional positions — useful for talks about frameworks.
 
 ## How this index evolves
