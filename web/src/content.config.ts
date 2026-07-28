@@ -67,7 +67,7 @@ const quotes = defineCollection({
 // talk-assembly patterns that visitors reach via /talks/archetypes/X/.
 // The single 'Talks' nav entry covers both methodology docs and archetypes.
 const talks = defineCollection({
-  loader: glob({ pattern: '**/!(README|_index)*.md', base: `${repoRoot}talks` }),
+  loader: glob({ pattern: '**/!(README|index|_index)*.md', base: `${repoRoot}talks` }),
   schema: z.object({
     title: z.string().optional(),
     archetype: z.string().optional(),

@@ -9,8 +9,8 @@
 ## What this directory contains.
 - This README: operating principles, how to use the archetypes, when to deviate.
 - `talks/cluster-pattern-taxonomy.md` — the canonical cluster-pattern vocabulary surfaced across six regional deepening cycles; this is the working analytical-lens doc that archetype 06 draws on.
-| `talks/archetypes/` — seven named, complete run-of-shows. Each is a worked example, not a template. |
-- `talks/index.md` — quick-reference table of the seven archetypes by audience, duration, and analytical spine.
+- `talks/archetypes/` — eight named, complete run-of-shows. Each is a worked example, not a template.
+- `talks/index.md` — quick-reference table of the eight archetypes by audience, duration, and analytical spine.
 
 ## Operating principles
 
@@ -38,7 +38,7 @@ These are orthogonal. The same spine (vendor-sweep) can serve a 20-min student t
 
 The most important choice when building a talk from this library is *the spine*. The spine is the single analytical argument the talk is built around. Without a spine, you have a content dump.
 
-The seven spines currently documented in `talks/archetypes/`:
+The eight spines currently documented in `talks/archetypes/`:
 - **Vendor-sweep** — what's actually deployed, by whom, at what scale, with what claims
 - **Data-sovereignty** — who owns / controls / benefits from the data underlying AI deployment
 - **Adoption-diagnosis** — why is X region lagging in AI adoption, and what does the data say
@@ -46,6 +46,7 @@ The seven spines currently documented in `talks/archetypes/`:
 - **Critical-lens** — the structural critique of agrifood AI, centred on Indigenous data sovereignty and food sovereignty
 - **Regional-cluster-comparison (added July 2026)** — meta-pattern archetype; how countries operationalise agrifood AI differently through cluster patterns; nine regional contexts covered (NA / EU / China / India / Japan / Korea / LAC / MENA / EU Mediterranean-Spain); draws on the canonical cluster-pattern vocabulary in `talks/cluster-pattern-taxonomy.md`
 - **Open-source + smallholder + multilateral (added July 2026)** — Mozilla State of Open Source AI 2026 + CGIAR + AgriLLM + AGRA + Mozilla Common Voice African-languages + Ushahidi / Open Data Kit / FarmOS / OSSI as the Global-South operationalisation-of-record for Mozilla's empirical turning point
+- **AI and labour (added July 2026)** — task-level substitution, labour monitoring, worker safety, migrant labour, worker voice, discontinued deployments, and state-led labour-substitution clusters
 
 You can mix spines but you cannot dodge the choice. A talk that mixes data-sovereignty with vendor-sweep needs to commit to which one is the *frame* and which one is *evidence inside that frame*.
 
@@ -100,7 +101,7 @@ Document deviations. When you deviate substantively, add notes — a third-tier 
 
 ## Status and freshness
 
-The seven archetypes are first iteration (July 2026), with archetype 06 added during the Japan+Korea cycle (mid-July 2026) and the cooperative-cluster-pattern refinement (Mondragón / COVAP / cluster-with-three-structures cross-region pattern) integrated after the Spanish cooperatives cycle (July 19 2026), and archetype 07 added during the Sub-Saharan Africa multilateral + open-source + Mozilla State of Open Source AI 2026 + CGIAR + AgriLLM cycle wave (July 2026). **AI and Labour spine landed in the corpus during the July 2026 AI and Labour cycle wave (7 new units + 4 new quotes + 1 cluster-pattern-taxonomy candidate *labour-substitution-via-state-cluster*); archetype 08 deferred to a follow-on cycle per user direction.**
+The eight archetypes are first iteration (July 2026), with archetype 06 added during the Japan+Korea cycle (mid-July 2026), archetype 07 added during the Sub-Saharan Africa multilateral + open-source + Mozilla State of Open Source AI 2026 + CGIAR + AgriLLM cycle wave, and archetype 08 added after the global and Canadian AI-and-labour cycle waves. The AI-and-labour archetype carries the task-level substitution, labour-monitoring, worker-safety, migrant-labour, worker-voice, discontinued-deployment, and state-cluster findings into a reusable talk architecture.
 
 **Cluster-pattern vocabulary.** Across six regional deepening cycles (LAC deepening; Brazil beef + Chile-Canada; Argentine beef + Brazilian seed; MENA + Lebanon; Spain + North Africa; Spanish cooperatives) the cluster-pattern observation has become a load-bearing analytical lens. The canonical cluster-pattern vocabulary is in `talks/cluster-pattern-taxonomy.md` and archetype 06 draws on it. Three observations from the cluster-pattern taxonomy:
 - (a) **Cluster patterns are layered-mix, not single-pattern** — observed across LAC, MENA, and EU-cluster-pattern.
@@ -109,9 +110,9 @@ The seven archetypes are first iteration (July 2026), with archetype 06 added du
 
 **New cluster-pattern candidate observation (July 2026 AI and Labour cycle wave):** *labour-substitution-via-state-cluster* — Korean 30%-by-2027 smart-farming adoption target + Japanese industrial-automation heritage (Yamaha Fazer RMAX + WAGRI state-stewarded DPI) + Chinese WAICO multilateral posture. Surfaced by `units/korean-state-cluster-labour-substitution.md`. Distinct from cluster-with-state-substrate (Argentine beef AI — SENASA + SIGSA) and cluster-with-state-strategy (UAE ADAFSA dual-mode); state-led quantitative labour-substitution as a substantive cluster pattern. May be added to `cluster-pattern-taxonomy.md` if a future cycle confirms it as a substantive pattern.
 
-When the corpus grows materially (new regional cycles, new quote categories, new cooperatives), the methodology layer refreshes. The next iteration candidates: a *Indigenous-led deployment-of-record (Two-Eyed Seeing)* spine; an *AI maturity assessment / deployment evaluation* spine; an **AI and labour** spine (landed July 2026 cycle wave — archetype 08 deferred to a follow-on cycle); an *AI in food processing* spine; a *cooperative-statutory-vs-corporate-statutory context* spine; and a *cluster-pattern-as-archetype* archetype (currently the cluster-pattern observation is hosted as a cross-cutting analytical lens rather than its own archetype). Each candidate emerges when the corpus has units that load-bearingly demonstrate the pattern.
+When the corpus grows materially (new regional cycles, new quote categories, new cooperatives), the methodology layer refreshes. Archetype 08 is now the working AI-and-labour architecture. The next iteration candidates: a *Indigenous-led deployment-of-record (Two-Eyed Seeing)* spine; an *AI maturity assessment / deployment evaluation* spine; an *AI in food processing* spine; a *cooperative-statutory-vs-corporate-statutory context* spine; and a *cluster-pattern-as-archetype* archetype (currently the cluster-pattern observation is hosted as a cross-cutting analytical lens rather than its own archetype). Each candidate emerges when the corpus has units that load-bearingly demonstrate the pattern.
 
-**Spine candidate landed (July 2026 AI and Labour cycle wave):** *AI and labour* — 7 new units + 4 new quotes + cluster-pattern-taxonomy candidate *labour-substitution-via-state-cluster*. Anchor units: `lely-astronaut`, `naio-technologies`, `sullivan-guthman-fairbairn-mitchell-ucsc-cluster`, `carolan-colorado-state-ecosystem`, `labour-displacement-na-meat-processing`, `consumer-ai-discontinued-labour-displacement`, `korean-state-cluster-labour-substitution`, `us-specialty-crop-farmworker-context`, `ufcw-nfu-clc-canada-labour-producers`. Anchor quotes: `quotes/farmworkers/sullivan-farmworker-focus-group-romaine`, `quotes/researchers-and-experts/sullivan-roboticist-romaine-head-lettuce`, `quotes/researchers-and-experts/guthman-fairbairn-pitching-agrifood-tech`, `quotes/industry-executives/cnh-neilson-dwindling-labor-force`. Archetype 08 deferred to a follow-on cycle per user direction.
+**AI-and-labour archetype landed (late July 2026):** *AI and labour* — task-level substitution, labour monitoring, worker safety, migrant labour, worker voice, discontinued deployments, and state-led labour-substitution clusters. Anchor units: `lely-astronaut`, `naio-technologies`, `sullivan-guthman-fairbairn-mitchell-ucsc-cluster`, `carolan-colorado-state-ecosystem`, `labour-displacement-na-meat-processing`, `consumer-ai-discontinued-labour-displacement`, `korean-state-cluster-labour-substitution`, `us-specialty-crop-farmworker-context`, `ufcw-nfu-clc-canada-labour-producers`. Anchor quotes: `quotes/farmworkers/sullivan-farmworker-focus-group-romaine`, `quotes/researchers-and-experts/sullivan-roboticist-romaine-head-lettuce`, `quotes/researchers-and-experts/guthman-fairbairn-pitching-agrifood-tech`, `quotes/industry-executives/cnh-neilson-dwindling-labor-force`. See `talks/archetypes/08-ai-and-labour.md`.
 
 ## Files
 - `talks/README.md` (this file) — talk-assembly methodology
@@ -124,7 +125,7 @@ When the corpus grows materially (new regional cycles, new quote categories, new
 - `talks/archetypes/05-critical-lens-indigenous-sovereignty.md`
 - `talks/archetypes/06-regional-cluster-comparison.md`
 - `talks/archetypes/07-open-source-smallholder-multilateral.md`
-- `../METHODS.md` — corpus-build methodology (research methods register; 14 named methods)
-- `../GAPS.md` — corpus-wide gap registry (311 G-NNN IDs indexed)
-- `../LEADS.md` — corpus-wide lead registry (32 leads surfaced during cycle work)
+- `talks/index.md` — quick-reference table of the eight archetypes
+- `../GAPS.md` — corpus-wide gap registry, with the current G-NNN index maintained in the registry
+- `../LEADS.md` — corpus-wide lead registry, with current realized/open status maintained in the registry
 - `../taxonomy/v5.md` — current taxonomy

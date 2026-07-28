@@ -1,6 +1,11 @@
+---
+id: talks-index
+title: Talks — Index
+---
+
 # Talks — Index
 
-Quick-reference table for the six working archetypes in `talks/archetypes/`. Each archetype is a complete run-of-show designed for a specific combination of audience, duration, analytical spine, and region emphasis.
+Quick-reference table for the eight working archetypes in `talks/archetypes/`. Each archetype is a complete run-of-show designed for a specific combination of audience, duration, analytical spine, and region emphasis.
 
 ## Archetypes
 
@@ -12,7 +17,8 @@ Quick-reference table for the six working archetypes in `talks/archetypes/`. Eac
 | 04 | [The cooperative alternative](archetypes/04-cooperative-alternative.md) | cooperative-alternative | policy, cooperative, academic | 60 min | EU-NL + EU-FR + US, with **Japan + Korea state-stewarded substrates + LAC multilateral-institutional convening layer (IICA + IDB + CAF)** | specialist |
 | 05 | [Critical lens: Indigenous sovereignty and the structural critique](archetypes/05-critical-lens-indigenous-sovereignty.md) | critical-lens | academic, policy | 60 min | Global, with Peru / Canada / Aotearoa operational anchors (East-Asia state-DPI IDSov-limits layer integrated; **LAC Monsalve-Suárez / Seufert / FIAN "Big Tech Takeover" critical voice as the Latin American analog**) | specialist |
 | 06 | [How countries shape their agrifood AI cluster: a regional comparison](archetypes/06-regional-cluster-comparison.md) | **regional-cluster-comparison** *(new — added July 2026 alongside the Japan+Korea cycle; **LAC multilateral-institutional substrate layer added July 19 2026 alongside the LAC deepening cycle**)* | academic, policy, comparative-political-economy | 60 min | All seven regions — NA, EU, China, India, Japan, Korea, **LAC** — with explicit cross-regional comparison | specialist |
-| 07 | [Open-source + smallholder + multilateral: how the Global South is operationalising Mozilla's 2026 turning point](archetypes/07-open-source-smallholder-multilateral.md) | **open-source + smallholder + multilateral** *(new — added July 2026 alongside the Sub-Saharan Africa multilateral + open-source + Mozilla State of Open Source AI 2026 + CGIAR + AgriLLM cycle wave)* | multilateral institutions (CGIAR / FAO / AU / WB-AfDB-adjacent), civil-society / private-foundation funders, Sub-Saharan and smallholder-adjacent policy advisors | 60 min | Sub-Saharan Africa primary; Global South secondary; Mozilla 2026 quantitative spine | specialist |
+|| 07 | [Open-source + smallholder + multilateral: how the Global South is operationalising Mozilla's 2026 turning point](archetypes/07-open-source-smallholder-multilateral.md) | **open-source + smallholder + multilateral** *(new — added July 2026 alongside the Sub-Saharan Africa multilateral + open-source + Mozilla State of Open Source AI 2026 + CGIAR + AgriLLM cycle wave)* | multilateral institutions (CGIAR / FAO / AU / WB-AfDB-adjacent), civil-society / private-foundation funders, Sub-Saharan and smallholder-adjacent policy advisors | 60 min | Sub-Saharan Africa primary; Global South secondary; Mozilla 2026 quantitative spine | specialist |
+|| 08 | [AI and labour: who does automation replace, and who gets reorganised around it?](archetypes/08-ai-and-labour.md) | **AI and labour** *(new — added after the July 2026 global and Canadian AI-and-labour cycle waves)* | mixed public; farmer and worker organisations; students; policy / labour leadership; academic | 60 min | Global, with North American / Canadian anchors and East-Asian state-cluster comparison | working to specialist |
 
 ## How to choose
 
@@ -25,6 +31,7 @@ If you're not sure which to start from, work through this decision tree:
 5. **Is the audience academic / policy and the talk is about the structural critique?** → 05 (critical lens). **Major upgrade in July 2026 Canada deepening cycle — PolArctic Sanikiluaq + Salmon Vision + Nunavut Economic Developers Association + Inuvik Tech Society.**
 6. **Is the audience academic / comparative-political-economy and the talk is about cross-regional cluster patterns?** → 06 (regional-cluster-comparison). **Canada cluster pattern added in July 2026 Canada deepening cycle; SSA + SEA forward-looking candidates added cycle.** 
 7. **Is the audience multilateral-institution / civil-society-funder / Sub-Saharan-policy-advisor and the talk is about Mozilla's open-source turning point operationalised through the Global South?** → 07 (open-source + smallholder + multilateral). **New July 2026 alongside the SSA multilateral + open-source + Mozilla State of Open Source AI 2026 + CGIAR + AgriLLM cycle wave.**
+8. **Is the talk about task-level automation, worker monitoring, safety, migrant labour, worker voice, and the limits of displacement claims?** → 08 (AI and labour).
 
 ## What each archetype contains
 
@@ -38,7 +45,7 @@ Each archetype file includes:
 ## Status
 
 **Status.**
-Seven archetypes as of mid-July 2026 (five load-bearing + one meta-pattern archetype added with the Japan+Korea cycle + one open-source + smallholder + multilateral archetype added with the Sub-Saharan Africa + Mozilla State of Open Source AI 2026 + CGIAR + AgriLLM cycle wave). **AI and Labour spine landed in the corpus during the July 2026 AI and Labour cycle wave (7 new units + 4 new quotes); archetype 08 deferred to a follow-on cycle per user direction.** The cluster-pattern observation has matured across six regional deepening cycles into a canonical cluster-pattern vocabulary in `talks/cluster-pattern-taxonomy.md`; archetype 06 draws on it. The Mozilla-2026 turning-point observation anchors archetype 07.
+Eight archetypes as of late July 2026 (five original load-bearing archetypes + regional-cluster-comparison + open-source / smallholder / multilateral + AI and labour). **Archetype 08 landed after the global and Canadian AI-and-labour cycle waves produced sufficient task-level, processing, migrant-labour, worker-voice, discontinued-deployment, and state-cluster evidence.** The cluster-pattern observation has matured across six regional deepening cycles into a canonical cluster-pattern vocabulary in `talks/cluster-pattern-taxonomy.md`; archetype 06 draws on it. The Mozilla-2026 turning-point observation anchors archetype 07.
 
 **Cycle findings documents** — cycle-level consolidation of substantive findings for talk-building:
 - [`canada-deepening-cycle-2026-07.md`](canada-deepening-cycle-2026-07.md) — 18 new units across funder/convenor substrate + value-chain matrix + regional substrate. 10 talk-ready substantive findings; archetype-specific upgrade notes for 02 / 03 / 04 / 05 / 06. **Cycle completed July 2026.**
