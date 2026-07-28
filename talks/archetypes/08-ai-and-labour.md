@@ -68,6 +68,7 @@ The strongest specialty-crop evidence is not a general claim that robots replace
 **Anchor units:**
 
 - `units/sullivan-salinas-valley-specialty-crop-critical.md`
+- `units/nfu-canada-agricultural-labour-and-ai-position.md`
 - `units/sullivan-guthman-fairbairn-mitchell-ucsc-cluster.md`
 - `units/us-specialty-crop-farmworker-context.md`
 
