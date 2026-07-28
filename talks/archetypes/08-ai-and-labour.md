@@ -143,6 +143,7 @@ The Canadian context adds:
 **Anchor units:**
 
 - `units/sawp-tfwp-canadian-agricultural-labour.md`
+- `units/canadian-migrant-farmworkers-agtech-surveillance.md`
 - `units/ufcw-canada-ai-automation-position.md`
 - `units/clc-canada-ai-and-labour-regulatory-position.md`
 - `units/fcc-ecosystem-not-technology-applied-to-labour.md`
