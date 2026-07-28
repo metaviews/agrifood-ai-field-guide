@@ -9,7 +9,7 @@ A knowledge base and presentation framework for public education on artificial i
 - `VISION.md` — the project's framing and operating principles
 - `scans/` — environmental scan outputs (35 scan files through July 2026)
 - `taxonomy/v5.md` — current taxonomy (fifth iteration). `taxonomy/v1.md..v4.md` retained as change-history anchors. Adds `maturity-scale`, `maturity-verification`, `maturity-longevity`, and `maturity-translation` cross-cutting tags for four-dimension maturity assessment.
-- `units/` — content units (216 entries) — the substrate from which talks are built. Vendor deployments, NA/EU/LAC/Africa/MENA/Asia academic institutes, data cooperatives, IDSov frameworks, critical voices, ecosystem mappings, hyperscaler and EU regulatory substrate.
+- `units/` — content units (218 entries) — the substrate from which talks are built. Vendor deployments, NA/EU/LAC/Africa/MENA/Asia academic institutes, data cooperatives, IDSov frameworks, critical voices, ecosystem mappings, hyperscaler and EU regulatory substrate.
 - `quotes/` — speaker voices (42 entries across 6 categories)
 - `talks/` — talk-assembly methodology: eight working archetypes + cluster-pattern taxonomy. See `talks/README.md` for operating principles.
 - `METHODS.md` — corpus-build methodology: 15 named methods (environmental scan, region-deepening, follow-on, substrate, two-phase, ecosystem mapping, cluster-pattern analysis, comparative scan, vendor-report hygiene, critical-voice surfacing, quote fishing, contested-claim tracking, negative-finding tolerance, gap + lead surfacing, Pass-2 sanity check)
