@@ -14,6 +14,7 @@ Units are the substrate from which talks are built. Each unit documents a single
 - `hungryroot-ai-meal-recommendation.md`, `uber-eats-ai-cart-assistant.md`, `myfitnesspal-cal-ai-coach.md`, `zoe-us-ai-personalised-nutrition.md` — NA consumer-nutrition / delivery AI
 - `north-america-consumption-ai-pattern.md` — meta frame on NA consumption-layer AI landscape (mid-2026)
 - (other units in the directory cover on-farm production, EU/China industry, academic institute clusters, frameworks, critical voices — see directory listing)
+- `open-cea-automation-layer.md` — the open layer across the protected-cultivation cell: Mycodo (GPL control), WUR AGC open datasets, Common Greenhouse Ontology (unadopted standard), OpenAg (failed flagship), Priva interface-open reality
 
 ## Cycle status — food-side deepening (July 2026)
 
