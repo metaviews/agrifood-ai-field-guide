@@ -28,7 +28,7 @@ end of the range; add an intro bullet at the bottom of the surfacing
 scan using the `**G-NNN (new):** ...` format so this registry stays in
 sync (rebuild via `python scripts/build_gap_lead_registries.py`).
 
-Total gaps registered: 437
+Total gaps registered: 447
 
 ## Initial scope
 
@@ -65,7 +65,7 @@ Total gaps registered: 437
 - **G-029** (n=17, src=scans/2026-07-quebec-cycle.md:99) — Mila DISA partner farms and concrete deployed acreage. The project is real but operational scale not surfaced.
 - **G-030** (n=3, src=scans/2026-07-quebec-cycle.md:100) — Sollum / Zone Agtech actual deployed acreage and number of grower deployments. The 40% electricity reduction figure is per-deployment; aggregate deployment is the gap.
 - **G-031** (n=5, src=scans/2026-07-china-deepening.md:180) — Chinese agritech export to specific regions (Africa, Southeast Asia, Latin America, Pacific) by named actors. Worth surfacing.
-- **G-032** (n=5, src=scans/2026-07-china-deepening.md:181) — Chinese AI deployment at the *processing* level. JD Farm is the closest, but the broader processing-cell population in China is under-surfaced.
+- **G-032** (n=9, src=scans/2026-07-china-deepening.md:181) — Chinese AI deployment at the *processing* level. JD Farm is the closest, but the broader processing-cell population in China is under-surfaced.
 
 ## Process / retail / NA
 
@@ -492,13 +492,23 @@ Total gaps registered: 437
 - **G-444** (n=2, src=units/china-digital-village-plan-2026-2030.md:65) — in China — whether rural governance digitalisation and agricultural production digitalisation are separately measured or reported together
 - **G-445** (n=3, src=units/china-no1-central-document-2026-ai.md:70) — in China — state-farm enterprises as deployment operators
 - **G-446** (n=2, src=units/china-pig-farming-ecosystem-2018-2026.md:74) — Muyuan's self-reported figures
-- **G-447** (n=4, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — China — livestock AI outcomes
+- **G-447** (n=5, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — China — livestock AI outcomes
 - **G-448** (n=2, src=units/china-pig-farming-ecosystem-2018-2026.md:74) — China — the vendor layer after 2022: current products and any discontinuations
 - **G-449** (n=3, src=units/china-agricultural-drone-drift-liability.md:76) — China — standard issuance versus take-up, the same pattern in the livestock standards layer
 - **G-450** (n=2, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — in China — whether HERD is operational and contains shared livestock datasets, and under what access terms
-- **G-451** (n=1, src=units/xag-china-drone-leader.md:86) — in China — whether export growth continues at 59% gross margin or whether the domestic price war follows XAG abroad
+- **G-451** (n=2, src=units/xag-china-drone-leader.md:86) — in China — whether export growth continues at 59% gross margin or whether the domestic price war follows XAG abroad
 - **G-452** (n=1, src=units/china-agricultural-drone-drift-liability.md:76) — in China — a systematic drift-incidence series: whether any provincial or national register of agricultural drone drift cases exists
 - **G-453** (n=1, src=units/china-agricultural-drone-drift-liability.md:76) — in China — how drift compensation claims are decided, at what rates, and whether operator insurance exists in practice
 - **G-454** (n=1, src=units/china-agricultural-drone-drift-liability.md:76) — in China — adoption and enforcement of NY/T 2882.10-2025 and NY/T 5405.1-2026: inspection, penalties, compliance rate
 - **G-455** (n=1, src=units/dji-agriculture-global-export.md:86) — in China — per-drone utilisation: whether actual annual mu-times per unit approach the 15th-FYP implied 10,000
 - **G-456** (n=1, src=units/dji-agriculture-global-export.md:86) — in China — the composition of the operator population: how many manufacturer-issued certificate holders are actively flying
+- **G-457** (n=1, src=units/china-smart-fisheries-fanli-llm.md:72) — in China — whether the Fanli dataset and model are actually downloadable under stated terms, and whether any external team has evaluated or reproduced the model's performance
+- **G-458** (n=2, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — China — farm-level adoption of aquaculture AI
+- **G-459** (n=3, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — China — the 智慧渔场 construction standard
+- **G-460** (n=1, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — in China — the economics of deep-sea platforms: capital cost per tonne produced, payback period, and whether provincial investment is recovered
+- **G-461** (n=1, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — in China — independent measurement of the ecological claims: dissolved oxygen, feed dispersal and water-quality effects at deep-sea platforms
+- **G-462** (n=3, src=units/china-grain-storage-ai-jiyuan.md:71) — in China — re-verify Sinograin's WAIC 2026 figures: the sub-three-minute single-sample detection time and the 97.6% imperfect-kernel recognition accuracy, from a source that failed to load
+- **G-463** (n=1, src=units/china-grain-storage-ai-jiyuan.md:71) — in China — whether Jiyuan has generated measured reductions in storage loss or supervision cost
+- **G-464** (n=1, src=units/china-food-processing-smart-factories.md:73) — in China — what the MIIT smart-factory AI-scenario share actually measures, and whether any audit verifies the AI content of rated factories
+- **G-465** (n=1, src=units/china-food-processing-smart-factories.md:73) — in China — independent evaluation of Chinese processing AI outcomes: throughput, energy, defect rates at named plants
+- **G-466** (n=1, src=units/china-food-processing-smart-factories.md:73) — in China — the prepared-dish sector's data and traceability architecture, and whether processors or regulators hold the traceability data
