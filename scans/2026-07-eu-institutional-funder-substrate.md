@@ -448,7 +448,7 @@ Anchors the **EU institutional / funder substrate × agritech AI deployment cont
 - **cema-eu-agricultural-machinery-association.md** (G-204) — CEMA unit covering AI Project Team, named equipment-maker cluster (CLAAS, AGCO/PTx, Pöttinger, Ploeger, SDF, Kuhn, Kverneland, Lely, DeLaval), data-standard work (ADAPT, ISOBUS).
 - **eu-ai-continent-action-plan.md** (G-205) — EU AI Continent Action Plan unit covering 13 AI Factories, Apply AI Strategy, Two AI Gigafactories (€10B).
 - **eafrd-cap-strategic-plans-digital-agriculture.md** (G-206) — EAFRD unit covering €95B 2021-2027, per-member-state CAP Strategic Plan AI deployment scope.
-- **eu-regulatory-layer-ai-act-code-of-practice.md** (G-211, deferred scan) — EU AI Act + EU Code of Practice on AI + European AI Office + EU Carbon Removal Certification Framework unit (deferred scan).
+- **eu-regulatory-layer-ai-act-code-of-practice.md** (G-211, deferred scan) — EU AI Act + EU Code of Practice on AI + European AI Office + EU Carbon Removal Certification Framework unit (deferred scan). **Realized 2026-09 by split, not as a single unit:** the September 2026 EU architecture cycle wrote `units/eu-ai-act-agrifood-implications.md`, `units/general-purpose-ai-code-of-practice.md`, `units/european-ai-office-governance-architecture.md`, `units/eu-carbon-removal-certification-framework.md` and `units/eu-machinery-regulation-agricultural-ai.md` instead. This aggregate lead should not be re-opened.
 
 ### Cross-references to existing units
 

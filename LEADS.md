@@ -9,14 +9,14 @@ surfaced during research that warrants its own future write-up.
 
 Two surfaces in the corpus produce leads:
 
-  - explicit 'Future units surfaced by this scan' sections (the cleanest
+  - explicit 'Future units surfaced by this scan' sections (the cleanest)
   - cluster-pattern candidate observations in the regional deepening scans
   - bullet items in cycle tail sections (deferred-scope / next-cycle hooks)
 
 Status:
-  - 10 leads have been realized as standalone units (closed)
+  - 22 leads have been realized as standalone units (closed)
   - 17 leads remain open with named target filename
-  - 5 cluster-pattern / framework-level candidates
+  - 8 cluster-pattern / framework-level candidates
     not tied to a single unit
 
 Numbering follows surfacing order in the scans; oldest first.
@@ -50,6 +50,42 @@ subsequently committed as standalone unit files in `units/`.
 - **strathmore-university-ai-tools.md** — realized from `2026-07-africa-open-source-agrifood.md` L581
   gaps: G-277
   Strathmore University open-source AI tools for smallholder farmers.
+- **eit-food-eu-knowledge-innovation-community.md** — realized from `2026-07-eu-institutional-funder-substrate.md` L444
+  gaps: G-200
+  EIT Food unit covering FAN, six-country hub network, corporate sponsors (Bayer, Cargill, Danone, Mars, Mondelēz), 65-startup 2026 cohort.
+- **horizon-europe-cluster-6-food-bioeconomy-agriculture.md** — realized from `2026-07-eu-institutional-funder-substrate.md` L445
+  gaps: G-201
+  Horizon Europe Cluster 6 unit covering 2026-2027 work programme, AI-relevant calls, co-funded partnerships.
+- **eu-mission-soil-deal-for-europe-living-labs.md** — realized from `2026-07-eu-institutional-funder-substrate.md` L446
+  gaps: G-202
+  EU Mission Soil unit covering 100 Living Labs by 2030, 2025 €48M Living Lab calls, SOILL support project, multi-actor approach.
+- **copa-cogeca-eu-farmer-cooperative-federation.md** — realized from `2026-07-eu-institutional-funder-substrate.md` L447
+  gaps: G-203
+  Copa-Cogeca unit covering 22M farmers represented, named EU projects (QuantiFarm, EU-FARMBOOK, EU4Advice, PREPSOIL, etc.), European Space Agency partnership.
+- **cema-eu-agricultural-machinery-association.md** — realized from `2026-07-eu-institutional-funder-substrate.md` L448
+  gaps: G-204
+  CEMA unit covering AI Project Team, named equipment-maker cluster (CLAAS, AGCO/PTx, Pöttinger, Ploeger, SDF, Kuhn, Kverneland, Lely, DeLaval), data-standard work (ADAPT, ISOBUS).
+- **eu-ai-continent-action-plan.md** — realized from `2026-07-eu-institutional-funder-substrate.md` L449
+  gaps: G-205
+  EU AI Continent Action Plan unit covering 13 AI Factories, Apply AI Strategy, Two AI Gigafactories (€10B).
+- **eafrd-cap-strategic-plans-digital-agriculture.md** — realized from `2026-07-eu-institutional-funder-substrate.md` L450
+  gaps: G-206
+  EAFRD unit covering €95B 2021-2027, per-member-state CAP Strategic Plan AI deployment scope.
+- **eu-ai-act-agrifood-implications.md** — realized from `2026-07-eu-regulatory-substrate.md` L387
+  gaps: G-212, G-213, G-214
+  EU AI Act unit covering phased implementation, agriculture-specific implications, Machinery Regulation interplay, Article 57 sandboxes.
+- **general-purpose-ai-code-of-practice.md** — realized from `2026-07-eu-regulatory-substrate.md` L388
+  gaps: G-214
+  GPAI Code of Practice unit covering three chapters, signatories, voluntary compliance pathway.
+- **european-ai-office-governance-architecture.md** — realized from `2026-07-eu-regulatory-substrate.md` L389
+  gaps: G-219
+  European AI Office + AI Board + Scientific Panel + Advisory Forum governance unit.
+- **eu-carbon-removal-certification-framework.md** — realized from `2026-07-eu-regulatory-substrate.md` L390
+  gaps: G-215, G-216, G-217
+  CRCF unit covering three primary activities, quality criteria, Buyers' Club.
+- **eu-machinery-regulation-agricultural-ai.md** — realized from `2026-07-eu-regulatory-substrate.md` L391
+  gaps: -
+  Machinery Regulation 2023/1230 unit covering agricultural equipment-maker AI interplay.
 - **cgiar-agrillm-ai-global-south.md** — realized from `2026-07-sub-saharan-africa-multilateral.md` L577
   gaps: G-242, G-243, G-251, G-252
   CGIAR + AgriLLM unit covering April 2025 Nairobi event, June 2025 launch, COP30 chatbot prototype target, UAE partnership, FAO partnership.
@@ -63,45 +99,33 @@ These leads are explicitly named in scan 'Future units surfaced'
 sections but no unit with that filename currently exists in `units/`.
 Cycle work should target these next when capacity permits.
 
-- **eit-food-eu-knowledge-innovation-community.md** — surfaced in `2026-07-eu-institutional-funder-substrate.md` L444
-  gaps: G-200
-  EIT Food unit covering FAN, six-country hub network, corporate sponsors (Bayer, Cargill, Danone, Mars, Mondelēz), 65-startup 2026 cohort.
-- **horizon-europe-cluster-6-food-bioeconomy-agriculture.md** — surfaced in `2026-07-eu-institutional-funder-substrate.md` L445
-  gaps: G-201
-  Horizon Europe Cluster 6 unit covering 2026-2027 work programme, AI-relevant calls, co-funded partnerships.
-- **eu-mission-soil-deal-for-europe-living-labs.md** — surfaced in `2026-07-eu-institutional-funder-substrate.md` L446
-  gaps: G-202
-  EU Mission Soil unit covering 100 Living Labs by 2030, 2025 €48M Living Lab calls, SOILL support project, multi-actor approach.
-- **copa-cogeca-eu-farmer-cooperative-federation.md** — surfaced in `2026-07-eu-institutional-funder-substrate.md` L447
-  gaps: G-203
-  Copa-Cogeca unit covering 22M farmers represented, named EU projects (QuantiFarm, EU-FARMBOOK, EU4Advice, PREPSOIL, etc.), European Space Agency partnership.
-- **cema-eu-agricultural-machinery-association.md** — surfaced in `2026-07-eu-institutional-funder-substrate.md` L448
-  gaps: G-204
-  CEMA unit covering AI Project Team, named equipment-maker cluster (CLAAS, AGCO/PTx, Pöttinger, Ploeger, SDF, Kuhn, Kverneland, Lely, DeLaval), data-standard work (ADAPT, ISOBUS).
-- **eu-ai-continent-action-plan.md** — surfaced in `2026-07-eu-institutional-funder-substrate.md` L449
-  gaps: G-205
-  EU AI Continent Action Plan unit covering 13 AI Factories, Apply AI Strategy, Two AI Gigafactories (€10B).
-- **eafrd-cap-strategic-plans-digital-agriculture.md** — surfaced in `2026-07-eu-institutional-funder-substrate.md` L450
-  gaps: G-206
-  EAFRD unit covering €95B 2021-2027, per-member-state CAP Strategic Plan AI deployment scope.
+- **lacl-farmworker-ai-cycle.md** — surfaced in `2026-07-canada-ai-and-labour.md` L248
+  gaps: -
+  surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead) — substantively corpus-thin territory; future LAC regional cycle.
+- **ssa-smallholder-labour-ai-cycle.md** — surfaced in `2026-07-canada-ai-and-labour.md` L249
+  gaps: -
+  surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead) — substantively corpus-thin territory; future SSA regional cycle.
+- **back-of-house-worker-displacement-quantification.md** — surfaced in `2026-07-canada-ai-and-labour.md` L250
+  gaps: -
+  surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead).
+- **us-labour-side-federal-regulatory-substrate.md** — surfaced in `2026-07-canada-ai-and-labour.md` L251
+  gaps: -
+  surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead).
+- **h2a-ai-deployment-regional-data.md** — surfaced in `2026-07-canada-ai-and-labour.md` L252
+  gaps: -
+  surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead).
+- **canadian-ai-deployment-regulatory-absence-cycle.md** — surfaced in `2026-07-canada-ai-and-labour.md` L253
+  gaps: -
+  new lead surfaced by this cycle (Canadian regulatory absence cycle).
+- **fcc-ecosystem-not-technology-labour-framework-cycle.md** — surfaced in `2026-07-canada-ai-and-labour.md` L254
+  gaps: -
+  new lead surfaced by this cycle (FCC framework applied to labour cycle).
+- **neethirajan-canadian-labour-positioning-cycle.md** — surfaced in `2026-07-canada-ai-and-labour.md` L255
+  gaps: -
+  new lead surfaced by this cycle (Neethirajan labour-side positioning consolidation).
 - **eu-regulatory-layer-ai-act-code-of-practice.md** — surfaced in `2026-07-eu-institutional-funder-substrate.md` L451
   gaps: G-211
-  EU AI Act + EU Code of Practice on AI + European AI Office + EU Carbon Removal Certification Framework unit (deferred scan).
-- **eu-ai-act-agrifood-implications.md** — surfaced in `2026-07-eu-regulatory-substrate.md` L387
-  gaps: G-212, G-213, G-214
-  EU AI Act unit covering phased implementation, agriculture-specific implications, Machinery Regulation interplay, Article 57 sandboxes.
-- **general-purpose-ai-code-of-practice.md** — surfaced in `2026-07-eu-regulatory-substrate.md` L388
-  gaps: G-214
-  GPAI Code of Practice unit covering three chapters, signatories, voluntary compliance pathway.
-- **european-ai-office-governance-architecture.md** — surfaced in `2026-07-eu-regulatory-substrate.md` L389
-  gaps: G-219
-  European AI Office + AI Board + Scientific Panel + Advisory Forum governance unit.
-- **eu-carbon-removal-certification-framework.md** — surfaced in `2026-07-eu-regulatory-substrate.md` L390
-  gaps: G-215, G-216, G-217
-  CRCF unit covering three primary activities, quality criteria, Buyers' Club.
-- **eu-machinery-regulation-agricultural-ai.md** — surfaced in `2026-07-eu-regulatory-substrate.md` L391
-  gaps: -
-  Machinery Regulation 2023/1230 unit covering agricultural equipment-maker AI interplay.
+  EU AI Act + EU Code of Practice on AI + European AI Office + EU Carbon Removal Certification Framework unit (deferred scan). **Realized 2026-09 by split, not as a single unit:** the September 2026 EU architecture cycle wrote `units/eu-ai-act-agrifood-implications.md`, `units/gene
 - **au-continental-ai-strategy.md** — surfaced in `2026-07-sub-saharan-africa-multilateral.md` L579
   gaps: G-250
   AU Continental AI Strategy unit covering 5 focus areas, 15 policy recommendations, 15 named national AI strategies.
@@ -114,6 +138,18 @@ Cycle work should target these next when capacity permits.
 - **sikia-artemis-smallholder-design-pattern.md** — surfaced in `2026-07-sub-saharan-africa-multilateral.md` L582
   gaps: G-247
   SIKIA + Artemis unit covering voice-first + low-bandwidth + co-design pattern.
+- **eu-agrifood-ai-decision-calendar.md** — surfaced in `2026-09-eu-substrate-deepening.md` L207
+  gaps: G-436
+  a tracked decision calendar for EU agrifood AI, 2026-2028, maintained as a single corpus artefact.
+- **eu-funding-flow-comparison-us-china.md** — surfaced in `2026-09-eu-substrate-deepening.md` L208
+  gaps: -
+  a comparative funding-flow unit putting the EU's dispersed instruments against USDA-NIFA, NSF, the US hyperscaler substrate, and China's state-led programmes at the same figure-level.
+- **eu-member-state-ai-sandbox-implementation.md** — surfaced in `2026-09-eu-substrate-deepening.md` L209
+  gaps: G-439
+  member-state sandbox implementation, with an agriculture track as the tracked question.
+- **eu-funded-agrifood-ai-outcomes.md** — surfaced in `2026-09-eu-substrate-deepening.md` L210
+  gaps: G-438
+  outcome-level evidence for Cluster 6, agrifoodTEF and Mission Soil projects.
 
 ## Cluster-pattern + framework candidates
 
@@ -121,187 +157,14 @@ These are cluster-level or framework-level leads that aren't tied to
 a single unit. They're often surfaced in regional deepening scans as
 tentative patterns to test against future cycles.
 
+- `2026-09-eu-substrate-deepening.md` L139 — July's LAC cycle proposed a possible eighth cluster pattern ("multilateral-institutional convening + venture-funded SaaS + foundation-model collaboration"). The EU architecture cycle tests the EU's own pattern and produces a sharper formulation for Europe:
+- `2026-09-eu-substrate-deepening.md` L141 — **EU cluster-pattern candidate — "multi-layer institutional substrate with dispersed instruments and thin sectoral representation".** Components:
+- `2026-07-ai-and-labour.md` L182 — **Cluster-pattern-taxonomy candidate.** *labour-substitution-via-state-cluster* is a substantive cluster-pattern candidate distinct from the existing cluster-with-state-substrate (Argentine beef AI SENASA + SIGSA) and cluster-with-state-strategy (UAE ADAFSA dual-mode). The Korean
 - `2026-07-brazil-beef-seed-ai.md` L146 — The previous LAC deepening cycle proposed LAC as a *candidate eighth cluster pattern* — characterised by multilateral-institutional convening + venture-funded SaaS-platform + foundation-model-vendor collaboration + processed-food conglomerate multi-vector AI + commodity-region cl
 - `2026-07-brazil-beef-seed-ai.md` L171 — This is a NEW cluster pattern observation for the corpus — neither the existing seven-cluster taxonomy nor the LAC cluster-pattern candidate explicitly captures it:
 - `2026-07-brazil-beef-seed-ai.md` L175 — This may be a **ninth cluster pattern candidate** alongside the previous LAC deepening observation. To be tested against future cycles (e.g. Mexico-US-Canada cross-border clusters; India-Africa cross-border clusters).
 - `2026-07-lac-deepening.md` L56 — **LAC cluster-pattern candidate — "venture-funded SaaS-platform + multilateral-institutional convening + foundation-model-vendor collaboration + processed-food conglomerate + academic-and-commercial CV cluster"**
-| `2026-07-lac-deepening.md` L75 — **Tentative claim:** LAC may be a distinct *eighth cluster pattern* — characterised by *multilateral-institutional convening + venture-funded SaaS-platform + foundation-model-vendor collaboration* — though the pattern is not yet stable enough to be a closed typology. Future cycle
-
-## Canada funder/convenor substrate cycle (July 2026)
-
-Realized from `2026-07-canada-funder-convenor-substrate.md`:
-
-- **caain-portfolio-canada.md** — realized from `2026-07-canada-funder-convenor-substrate.md` L51
-  gaps: G-313, G-314, G-318
-  CAAIN portfolio unit covering 35+ CAAIN-funded projects ($19.1M+ CAAIN contribution against $52M+ total project value visible on public project pages), three pillars (automation/robotics, data-driven decision-making, validation/demonstration), three active 2026 funding calls (Clean Agtech $3.8M; Open Competition $9M rolling; Prairie Agtech Validation), founder/operator demographic, bank-financing-gap framing, smart farm validation infrastructure, processing-cell population across animal proteins.
-- **raii-canada-ai-adoption-programme.md** — realized from `2026-07-canada-funder-convenor-substrate.md` L207
-  gaps: G-313, G-317
-  RAII unit covering $200M Budget 2024 / $500M AI for All federal AI SME/adoption programme delivered by Canada's seven regional development agencies (ACOA, CED-Q, CanNor, FedNor, FedDev Ontario, PrairiesCan, PacifiCan), two streams (AI productization/commercialization + AI adoption), named agrifood recipients across all 7 RDA regions (Food and Beverage Atlantic Association Inc. Moncton NB; Cogent Real-Time Systems Markham ON $1.04M; CanNor's Prosper NWT / Inuvik Tech Society / Nunavut Economic Developers Association / DeltaVue), RAII/UBF tension as binding constraint dynamic.
-- **scale-ai-agriculture-canada.md** — realized from `2026-07-canada-funder-convenor-substrate.md` L260
-  gaps: G-313, G-318
-  Scale AI Agriculture & Mining portfolio unit covering 13 named projects (Agi3 insurance, Vivid Machines fruit, Terramera crop health, Verge Ag autonomous data, EarthDaily satellite, Local Line short supply chain, Nulogy packaging, Rubikloud pricing, Loblaw × Plotly, Transcontinental × Canadian Tire, Alfred × Fairmont hospitality F&B), cross-cluster pattern (5+ leads in both Scale AI and Digital), insurance vector (Agi3 × Enns Brothers × Rutherford Farms), Mars Canada packaging, Alfred × Fairmont consumption-side F&B AI.
-- **digital-supercluster-agriculture-canada.md** — realized from `2026-07-canada-funder-convenor-substrate.md` L321
-  gaps: G-313, G-318
-  Digital Technology Supercluster (DTC / DIGITAL) Natural Resources & Agriculture portfolio unit covering 20+ projects, AI for Aquaculture (Excel Career College + BCSFA + Vancouver Island First Nations) as the Indigenous-knowledge-integrated anchor, cross-cluster pattern with Scale AI, Talent & Connectivity pillar framing, Fresh Water Data Commons + Earth Data Store + Multi-lens Ecological Restoration Monitoring.
-- **protein-industries-canada-ai-programme.md** — realized from `2026-07-canada-funder-convenor-substrate.md` L382
-  gaps: G-313, G-318
-  PIC AI Programme unit covering $30M PCAIS-delivered programme that ended March 2026, three streams (Projects, Systems, Community), 7 projects total (DRIP, Pea Genomic Selection Platform, 5 unnamed active projects), Pea Genomic Selection Platform (PIC $1.4M / total $1.8M, GIFS Ag Tech Enterprise + DL Seeds + USask CDC + AAFC, January 14 2026 announcement) as substantive Prairie × seed × AI anchor, programme closure as substantive observation with no AI for All successor.
-
-## Open leads — Canada deepening cycle (pending units)
-
-Surfaced in `2026-07-canada-funder-convenor-substrate.md` L11 (unit candidate list) and `2026-07-canada-deepening-scout.md` §11.4 + §11A.7 (consolidated list), to be realized in subsequent scans:
-
-- **Canadian dairy AI unit** — CATTLEytics + SomaDetect + Milk Moovement + Lakeland Precision Ranching (cross-cutting dairy value chain unit).
-- **Canadian poultry AI unit** — Chick Pick + Farm Health Guardian + MatrixSpec Hyper-Eye + Targan WingScan-in-Quebec.
-- **Canadian meat-processing AI unit** — P&P Optica + mode40 + Circulus Agtech (with SoraLINK cross-reference for dairy).
-- **Canadian beekeeping AI unit** — Nectar BeeTrack.
-- **Canadian mushroom AI unit** — 4AG Robotics.
-- **Canadian orchard AI unit** — CropVue + Vivid Machines + SoilOptix.
-- **Canadian grain-grading AI unit** — Super GeoAI + VeriGrain + Grain Discovery.
-- **AIDA Atlantic Digital Agriculture unit** — AIDA as the Atlantic anchor.
-- **Prairie grain AI cluster unit** — Saskatoon/Regina/Winnipeg/Steinbach/Vermilion cluster.
-- **BC horticulture AI cluster unit** — Surrey/Salmon Arm/Vancouver Island cluster.
-- **Northern Canada CanNor AI 2026 unit** — CanNor Feb 2026 cycle.
-- **DFO Pacific salmon AI unit** — Chumputer + computer-vision migration counter + Factoid Finder.
-- **Canadian aquaculture AI unit** — Digital AI for Aquaculture + WellFish + Ocean Supercluster.
-- **Salmon Vision unit** — Salmon Vision deployment (BC Indigenous-led wild salmon AI). Strong peer-reviewed primary source.
-- **PolArctic unit** — PolArctic Sanikiluaq (Inuit-led mariculture AI, two-eyed seeing). Strong G-010 candidate.
-- **ReelData unit** — ReelData AI (Halifax RAS biomass CV). Atlantic aquaculture anchor.
-- **Vineland robotic greenhouse harvester unit** — Vineland robotic cucumber/bell-pepper harvester. Ontario horticulture.
-- **Pea Genomic Selection Platform unit** — Pea Genomic Selection Platform. Prairie inputs × seed × breeding.
-- **Canadian Pacific/Atlantic fisheries AI vendors unit** — OnDeck + Marine Thinking + Mowi Feed Centre + Oceans North EM pilot.
-- **Canada Health Canada drone pesticide policy unit** — surfaced in constraint/critical scout §10.
-- **Canada federal AI substrate unit** — federal AI safety/strategy/policy cluster (CAISI + AI for All + Directive on ADM).
-
-## Canada value-chain matrix cycle (July 2026)
-
-Realized from `2026-07-canada-value-chains.md`:
-
-- **canadian-dairy-ai.md** — realized from `2026-07-canada-value-chains.md` §2
-  gaps: G-319
-  Canadian dairy AI unit covering the full value chain (production + processing + logistics): CATTLEytics Hamilton ON ($800K / $2.44M); SomaDetect Tillsonburg ON ($145K / $428K); Milk Moovement Halifax NS ($302K / $1.16M); Lakeland College Vermilion AB ($143K / $1.30M); plus SoraLINK × Saputo/Olymel/Agropur (existing). Equipment-agnostic ingestion framing (CATTLEytics + SomaDetect). Milk Moovement $20M USD Series A + CAAIN funding stack. Lakeland Precision Ranching spanning AB + MB + BC. First Canadian value chain where CAAIN + existing units cover the full chain.
-- **canadian-meat-processing-ai.md** — realized from `2026-07-canada-value-chains.md` §3
-  gaps: G-321
-  Canadian meat processing AI unit: P&P Optica Waterloo ON ($2.97M / $9.21M, ~20 systems across North America, hyperspectral meat quality); mode40 Steinbach MB ($465K / $1.38M, carcass cooling AI, AAFC Lacombe development path + 10 commercial plant validation); Circulus Agtech Montréal QC ($500K / $1.30M, closed-loop nutrient recovery). Processing cell now multi-protein across animal proteins. Closed-loop circular-economy AI as first Canadian circular-economy pattern.
-- **canadian-poultry-ai.md** — realized from `2026-07-canada-value-chains.md` §4
-  gaps: G-321
-  Canadian poultry AI unit: Chick Pick Solutions Moncton NB ($275K / $728K, chick sexing AI at MB + ON hatcheries); Farm Health Guardian Guelph ON ($228K / $691K, HPAI/Newcastle/aMPV/ILT disease mapping + GPS biosecurity); MatrixSpec Hyper-Eye Baie-D'Urfé QC ($1.33M / $3.31M, pre-incubation egg fertility/gender hyperspectral AI, 7-billion-chick culling claim as most consequential animal-welfare AI claim); plus Targan WingScan at Quebec hatcheries (US vendor, 30M+ chicks/week worldwide).
-- **canadian-beekeeping-ai.md** — realized from `2026-07-canada-value-chains.md` §5
-  gaps: G-321
-  Canadian beekeeping AI unit: Nectar Technologies Montréal QC ($732K / $2.28M, BeeTrack prescriptive beekeeping platform, 4,000–9,000 hive partner scale, partners Intermiel QC + Busy Bee Farm AB). First documented Canadian AI beekeeping deployment. Migration logic (QC blueberry → strawberry; AB canola). "Agtech not tech-ag" producer-led framing.
-- **canadian-mushroom-ai.md** — realized from `2026-07-canada-value-chains.md` §6
-  gaps: G-321
-  Canadian mushroom AI unit: 4AG Robotics Salmon Arm BC ($1.55M / $4.66M, vision-guided mushroom harvesting robot 24/7 + processing + packing + disease detection + climate control + CO2 reduction). First documented Canadian AI mushroom farming deployment. BC-anchored.
-- **canadian-orchard-ai.md** — realized from `2026-07-canada-value-chains.md` §7
-  gaps: G-321
-  Canadian orchard AI unit: CropVue Technologies Surrey BC ($106K / $310K, codling moth smart trap AI for OKSIR program); Vivid Machines Toronto ON (tree-fruitlet CV per tree, Quinton Gibson Ontario apple farm). Vivid Machines is the cross-cluster funding anchor (CAAIN + Scale AI + Digital).
-- **canadian-grain-grading-ai.md** — realized from `2026-07-canada-value-chains.md` §8
-  gaps: G-321
-  Canadian grain-grading AI unit: Super GeoAI Technology Saskatoon SK (Phase 1 $372K / $1.20M + Phase 2 $712K / $2.17M, GeoAI wheat grading with Android + iOS apps + expansion to Canola + peas + VeriGrain integration); Grain Discovery Picton ON ($399K / $1.31M, B2B grain sustainability platform); A.U.G. Signals Toronto ON + AUAV Tech Calgary AB ($595K / $1.90M, broadacre drought severity index at 20m regional + 3.5m field-level). 100-year-old grain grading process is the legacy that GeoAI challenges.
-
-## Canada regional substrate cycle (July 2026)
-
-Realized from `2026-07-canada-regional-substrate.md`. Note: `aida-atlantic-digital-agriculture.md` was realized here and then **substantively deepened** in the academic-research-substrate cycle (below); see the academic-research entry for the canonical version.
-
-- **aida-atlantic-digital-agriculture.md** (initial realization; superseded by deepening in academic-research-substrate cycle)
-  gaps: G-322, G-328 (carry)
-  Initial Atlantic-region realization covering AIDA's 5 research pillars and 11 Chair-holders estimate; subsequent deepening in `units/aida-atlantic-digital-agriculture.md` (canonical) corrects to 13 SAC + Neethirajan = 14 named scholars with full committee detail.
-- **prairie-grain-ai-cluster.md** — realized from `2026-07-canada-regional-substrate.md` §3
-  gaps: G-321
-  Prairie grain AI cluster unit covering three sub-clusters: (1) Saskatoon grain AI (Super GeoAI + VeriGrain + Raven OMNiPOWER + Mojow + USask CDC, 100-year-old grain grading legacy challenged); (2) Winnipeg/Steinbach/Vermilion protein AI (MacDon $9.26M largest CAAIN, mode40 carcass cooling ISED→CAAIN→AAFC Lacombe→commercial plants path, Lakeland Precision Ranching); (3) Calgary/Lethbridge/Olds digital ag (Ox+Plow + SmartGro + PIP International + Metabolomics + AltaML + AUAV Tech + Olds College). MacDon $9.26M largest single CAAIN. CAAIN funding as the leveller. Cross-cluster funding pattern.
-- **bc-horticulture-ai-cluster.md** — realized from `2026-07-canada-regional-substrate.md` §4
-  gaps: G-321, G-325, G-327
-  BC horticulture AI cluster unit covering four sub-clusters: (1) Surrey orchard (CropVue + OKSIR codling moth smart trap); (2) Salmon Arm mushroom (4AG Robotics); (3) Vancouver Island aquaculture training (Excel Career College AI for Aquaculture + BCSFA + First Nations); (4) Vancouver biocontrol + salmon (Catalera Terramera spinout $8.8M Series A, Mowi Canada West Feed Centre, OnDeck Fisheries AI $1.5M PCAIS, Salmon Vision team SFU + Gitanyow + Skeena Fisheries). Indigenous-led AI deployment (Salmon Vision) operationally deployed, not framework-only. 2026 DFO transition plan for 79 BC salmon farms unresolved.
-- **northern-canada-can-ai-2026.md** — realized from `2026-07-canada-regional-substrate.md` §5
-  gaps: G-313, G-324
-  Northern Canada CanNor AI 2026 unit covering CanNor Feb 6 2026 announcement ($2.815M, 4 projects, YT/NWT/NU, IDEANorth + REGI-AI): Prosper NWT ($2.316M / 3 years AI entrepreneurship), Inuvik Tech Society ($200K / 2 years digital literacy + AI training, "only recently gained reliable high-speed connectivity"), Nunavut Economic Developers Association ($200K / 3 years Inuit-led AI tool), DeltaVue Yukon ($100K / 1 year Arctic sensor platform). Plus PolArctic Sanikiluaq Inuit-led mariculture AI (first AI to treat Indigenous Knowledge and Western science as equals, Inuktitut + English). First documented Indigenous-led AI deployment with federal funding (Nunavut Economic Developers Association). RAII / UBF tension as binding constraint.
-- **dfo-pacific-salmon-ai.md** — realized from `2026-07-canada-regional-substrate.md` §6.1
-  gaps: G-323
-  DFO Pacific salmon AI unit covering three active pilots in Pacific Salmon Strategy Initiative: (1) Chumputer (deep-learning CNNs, 80,000+ scales/year, first step to all-salmon-species scale-reading); (2) Computer-vision salmon migration counter (Sproat and Stamp River fish ladders); (3) Factoid Finder (NLP/LLM-style AI for watershed planning, Integrated Planning for Salmon Ecosystems). Plus DFO 2026-27 Departmental Plan explicit AI investment. Digital modernization counterweight to $54.47M (2026-27) / $101.91M (2027-28) / $193.82M (2028-29) spending reduction / 551 FTE decrease by 2028-29.
-- **canadian-aquaculture-ai.md** — realized from `2026-07-canada-regional-substrate.md` §6.3-§6.9
-  gaps: G-321, G-325, G-326
-  Canadian aquaculture AI unit covering the Pacific + Atlantic vendor ecosystem: ReelData AI Halifax NS (RAS biomass CV, Buoyant Ventures VC), OnDeck Fisheries AI Vancouver ($1.5M PCAIS-funded, electronic monitoring 10-12× cost reduction), WellFish Tech PEI BioAlliance (non-lethal blood assessment), Marine Thinking Newfoundland (catch monitoring + ghost gear), Mowi Canada West (centralized AI-assisted Feed Centre), Ocean Supercluster H2S-sensor + AI-camera fish welfare project (Grieg Seafood), Oceans North Nova Scotia (at-sea observer EM pilot). The funding-stack pattern (venture + PCAIS + corporate + cluster + NGO) produces different data-governance postures.
-
-## AI plant breeding global scan (July 2026 cycle)
-
-Realized from `2026-07-ai-plant-breeding-global.md`:
-
-- **plant-breeding-ai-methodology.md** — substantive 2026 academic methodology stack (phenomics + genomics + multi-omics + GS + AI/ML + generative AI + CRISPR-AI)
-  gaps: G-338, G-339
-  Substantive 2026-anchor references include Xie et al. 2026 Plant Communications knowledge-graph LLM; Huang et al. 2026 Springer CRISPR-AI; Kamran et al. 2026 (cited 3) CRISPR-AI reducing 8-10 year cycles to 2-3 years; Wu et al. 2025 (cited 2) Crop GraphRAG; Crossa et al. 2025 (cited 109) ML big data; Sangjan et al. 2025 (cited 25) AI data integration; Garcia-Oliveira et al. 2026 (cited 7) Breeding Smarter.
-- **longping-yuan-caas-china-seed-ai.md** — Chinese state-orchestrated cluster; CAAS + Syngenta Group + BGI/MGI + smart-breeding national plan
-  gaps: G-340, G-341
-  Substantive Yuan Longping legacy; Syngenta Group Chinese state-ownership (USD$43B 2017 acquisition; Sinochem/ChemChina merger); CAAS knowledge-graph LLM (Xie 2026); BGI/MGI genomics substrate; 2021 amended Seed Law; March 2025 Sanya Seed Congress smart-breeding national frame; substantive GRAIN 2023 critical-voice observation.
-- **cgiar-eib-global-south-plant-breeding.md** — CGIAR Breeding for Tomorrow + EiB; 12 priority crops + 700K+ germplasm + Gates/FFAR/USAID substrate
-  gaps: G-342, G-343, G-344
-  Substantive only actor combining (a) substantive AI-augmented breeding pipelines, (b) multilateral-system governance, and (c) 700K+ germplasm samples in ITPGRFA trust. ICRISAT × CIMMYT AI-driven predictive breeding initiative. 15-30% genetic-gain uplift commitment through 2025-2030 portfolio.
-- **limagrain-kws-ragt-eu-private-plant-breeding.md** — EU private-breeding cluster; cooperative + family-controlled + public-academic
-  gaps: G-345, G-346
-  Limagrain (FR cooperative via InVivo); KWS (DE, family-controlled, 1856); RAGT (FR); Enza Zaden (NL, family-controlled); Rijk Zwaan (NL, family-controlled); Wageningen + INRAE public-academic; NGT Regulation 2026 substantive EU policy frame; Euroseeds industry convening.
-- **bayer-syngenta-corteva-multinational-pipelines.md** — Bayer + Syngenta Group + Corteva + BASF + ETC/GRAIN 2025 concentration observation
-  gaps: G-347, G-348
-  Bayer Crop Science ~€6-11bn R&D pipeline 2024-2030+; 10 blockbusters in 10 years commitment; Seed Production Innovation Center at Iowa State (2024); DEKALB Disease Shield® + Soybean Native Resistance + Corn Disease Shield; Syngenta Group AI Trends 2025; Corteva Granular on-farm AI + AI-augmented crop protection; BASF xarvio + Nunhems; ETC Group/GRAIN 2025: "Four firms control 56% of global seed market."
-- **usda-ars-iowa-state-aiira-us-land-grant.md** — US land-grant cluster; USDA-NIFA AI Institutes + USDA-ARS + Heritable Agriculture (Google X)
-  gaps: G-349, G-350, G-351
-  AIIRA at Iowa State (one of 11 NSF AI Research Institutes, 2021 cycle, $220M NSF investment); USDA-NIFA AFRI FY2026 $140M pool; USDA-ARS Plant Genetic Resources Unit (Geneva NY) + Genomics and Bioinformatics Research Unit (Stoneville MS); Texas A&M wheat-breeding pipeline genomic prediction; Heritable Agriculture (Google X spinoff, 2024, digital twin); Biographica (US/UK, $9.5M + BASF partnership, 2026); substantive land-grant × USDA-ARS × extension × corporate-startup architecture.
-- **indigenous-seed-sovereignty-ai-breeding.md** — cross-cutting critical-voice; ITPGRFA + CARE + DSI + IPES-Food 2026
-  gaps: G-352, G-353
-  ITPGRFA Multilateral System + 64 most-important crops; CARE Principles for Indigenous Data Governance; DSI — Digital Sequence Information 2024-2026 multilateral-mechanism under negotiation; IPES-Food 2026 Head in the Cloud critical-voice primary source; UN Special Rapporteur on Right to Food Michael Fakhri 2024-2025 statements; GRAIN 2023 Capturing the seed; ETC Group/GRAIN 2025 Top 10 agribusiness giants; Coomes 2015 (cited 422) + Westengen 2023 (cited 133) + Nabuuma 2022 (cited 76) farmer-led seed network academic-tier observation; Lawson 2024 (cited 25) + Arita 2025 (cited 5) DSI governance academic framing; PolArctic Sanikiluaq substantive Canadian-context Indigenous-led AI exemplar.
-- **ai-breeding-genetic-diversity-counter-narrative.md** — cross-cutting counter-narrative; concentration + narrowing + reproducibility
-  gaps: G-354, G-355
-  Varshney 2026 substantive tension framing (Rewiring diversity, physiology, and practice); Fu 2015 (cited 388) genetic-erosion primary source; Sun 2024 (cited 150) Modern Plant Breeding Techniques; Bohra 2022 (cited 433) crop-wild-relatives preservation; Kadoumi 2025 (cited 4) population structure; Crossa 2025 (cited 109) ML big data; Yoosefzadeh Najafabadi 2023 (cited 128) ML cross-validation; Sangjan 2025 (cited 25) AI data integration; biorxiv 2026 cross-validation overestimation observation; Genomes To Fields Initiative; Rivera-Poulsen 2025 (cited 4) rapid cycling GS in maize landraces; substantive cross-cutting tension observation: speed-of-cycle × diversity-preservation × reproducibility × concentration.
-- **scans/2026-07-ai-plant-breeding-global.md** — consolidating scan tying 8 new units together with the conceptual companion (`programmatic-breeding-ai.md`) and existing seed-AI units (`uog-bean-gpt-najafabadi.md`, `brazilian-seed-ai-academic-research-led.md`).
-
-**Substantive non-obvious observations from this cycle:**
-
-1. **Substantively 6 substantively distinct regional cluster shapes** substantively across AI plant breeding globally: (1) Chinese state-orchestrated (CAAS + Syngenta Group + BGI/MGI + smart-breeding national plan); (2) CGIAR public-platform for Global South (12 priority crops + 700K+ germplasm + ITPGRFA multilateral-system); (3) EU private-cluster (cooperative + family-controlled + public-academic); (4) Multinational-corporate-pipelined (Bayer + Syngenta Group + Corteva + BASF); (5) US land-grant (USDA-NIFA + USDA-ARS + land-grant + Heritable Ag); (6) Canadian provincial-commodity-pipelined (BeanGPT + Ontario Bean Growers + ARIO).
-
-2. **Substantively 8 substantively distinct AI-methodology-anchor cluster shapes:** RAG over literature (BeanGPT); knowledge-graph LLM (Xie 2026); digital-twin (AIIRA/Heritable Ag); generative-AI Q&A (Crop GraphRAG 2025); CRISPR-AI integration (Huang/Kamran 2026); genomic prediction in applied European wheat (Thomsen 2026); AI-driven predictive breeding at scale (CGIAR Breeding for Tomorrow); industry-vertical AI deployment (Bayer/Syngenta/Corteva).
-
-3. **Substantive cross-cluster bridging observation:** Syngenta Group bridges Chinese state-orchestrated + multinational-corporate; Heritable Agriculture bridges US land-grant + corporate-startup + multinational-corporate; CGIAR Multilateral System bridges multilateral-system + public-domain + farmer-led seed networks.
-
-4. **Substantive corporate-concentration observation substantively correlates with substantive genetic-base narrowing observation:** substantively 4 firms control 56% of global seed market (ETC/GRAIN 2025); substantively correlates with substantive crop-genetic-base narrowing when substantive trait-environment combinations are substantively optimized at corporate-pipeline scale (Varshney 2026 substantive tension).
-
-5. **Substantive 2024-2026 DSI multilateral-mechanism negotiation substantively determines the substantive governance frame for AI plant breeding:** substantive 2026-2030 deployment will determine whether AI plant-breeding pipelines substantively apply substantive multilateral-system governance, bilateral-ABS, sovereign-state, or open-access.
-
-6. **Substantive 2026 cross-cutting tension observation:** substantive speed-of-cycle × diversity-preservation × reproducibility × concentration × DSI governance × CARE Principles for Indigenous.
-
-## Canada academic-research substrate cycle (July 2026)
-
-Realized from `2026-07-canada-academic-research-substrate.md` and the subsequent BeanGPT / programmatic-breeding deepening:
-
-- **aida-atlantic-digital-agriculture.md** — deepened from `2026-07-canada-academic-research-substrate.md` §2
-  gaps: G-329, G-330 (cycle additions); G-322, G-328 (carry)
-  AIDA Atlantic digital agriculture unit: full 13 SAC members + Neethirajan = 14 named scholars (correcting prior "11 Chair-holders" undercount). Canadian Soil Data Portal (Heung CRC Tier II). NB Potato Industry Research Chair (Al-Mallahi). 5 research pillars. Co-located with AAL at Dalhousie Faculty of Agriculture.
-- **ai4food-guelph.md** — realized from `2026-07-canada-academic-research-substrate.md` §3; updated with BeanGPT deployment-tier product
-  gaps: G-329 (partially filled by BeanGPT)
-  AI4Food unit covering Rozita Dara (CCMPS Research Impact Leadership Chair Dec 2025), 4 focus areas (Application / Responsible AI / AI Tech / Data), 6 strategic objectives, OECD AI community expert. AI4Food + Food from Thought (CFREF $76.6M) are the two U Guelph institutional anchors.
-- **aal-dalhousie.md** — realized from `2026-07-canada-academic-research-substrate.md` §4
-  gaps: G-330
-  Agri-Food Analytics Lab unit covering Charlebois (Scientific Director), Canada's Food Price Report (annual), Top 10 Food Stories, Canadian Food Sentiment Index, "data-deficit" critical voice frame. Co-located with AIDA at Dalhousie Faculty of Agriculture. The third critical-academic voice (Neethirajan rural+Green AI; Dara greenhouse+cyber risk; Charlebois data-deficit).
-- **mila-quebec-agrifood.md** — realized from `2026-07-canada-academic-research-substrate.md` §5
-  gaps: G-331 (supersedes G-029)
-  Mila + IVADO Quebec agrifood unit. Substantive correction: DISA is Rwandan-deployment + Canadian-research-pipelined (not Canadian farm deployment per G-331). Innovasea + Mila partnership (Canadian aquaculture). R3AI positioning (no deployment tier). No Quebec analog of AIDA or AI4Food.
-- **canada-academic-research-funding-stack.md** — realized from `2026-07-canada-academic-research-substrate.md` §7
-  gaps: G-332
-  Seven-channel academic-research funding stack: NSERC + Mitacs + CFI + CFREF + SSHRC + FRQ + AAFC AgriScience. Cluster-vs-research funding-stack distinction: cluster (TRL 7+) and academic-research (TRL 3–6) are complementary, not duplicative. G-332: no dedicated federal academic-research agrifood AI channel.
-- **uog-bean-gpt-najafabadi.md** — deepening realising the inputs-cell across the academic-research substrate cycle (received via user follow-up)
-  gaps: G-329 (partially filled); G-335 (funding-stack specifics); G-336 (AgData Consortium)
-  BeanGPT unit. First named AI4Food deployment-tier product surfaced in the corpus. Generative-AI platform + 8 RAG search models + 314,000+ scientific articles + ~100M words + Ontario dry-bean performance data since 2006. 9 named partner organisations, 6 named AI projects spanning generative AI / computer vision / remote sensing / multi-omics ML / historical-data ML. Ontario-commodity-group × federal-tri-council × farmer-co-op × industry-vendor model partnership.
-- **programmatic-breeding-ai.md** — deepening realising the conceptual/methodological unit across the academic-research substrate cycle (received via user follow-up)
-  gaps: G-337 (multinational seed-corporate private IP)
-  Conceptual / methodological unit covering the umbrella: programmatic breeding (CABI 2026 / Bally 2026) + predictive breeding (Springer 2026 + Garcia-Oliveira 2026) + AI-assisted selection pipelines (Computers Electronics in Agriculture 2026 sugarcane review) + generative-AI breeding platforms (BeanGPT-class). Continental contrasts table — BeanGPT (academic-research-led + provincial-commodity-pipelined) vs. Brazilian-seed-AI cluster (academic-research-led + multinational-corporate-pipelined) vs. US land-grant (academic-research-led + private land-grant) vs. EU (academic-research-led + Wageningen/INRAE).
-
-**Substantive findings from this cycle:**
-- AIDA's 13 SAC + Neethirajan = 14 named scholars (correcting prior 11-count undercount).
-- Three critical-academic voices consolidated (Neethirajan / Dara / Charlebois).
-- Federal-AIDA / academic-AIDA acronym collision flagged.
-- DISA reframed: Canadian-research-pipelined Rwandan-deployment (G-029 → G-331).
-- No Quebec analog of AIDA or AI4Food; Quebec has national-scale ML at Mila + IVADO but no Quebec-specific AI-agrifood institute.
-
-**Inputs-cell deepening (received via user follow-up):**
-- **BeanGPT** surfaces as the first named AI4Food deployment-tier product — see `units/uog-bean-gpt-najafabadi.md`. Canadian plant-breeding AI is *academic-research-led + provincial-commodity-pipelined* (Ontario Bean Growers + Hensall Co-Op + Sprague Foods + ARIO + OMAFA + NSERC), structurally distinct from the Brazilian-seed-AI cluster-with-three-structures pattern (academic + multinational-corporate) per `units/brazilian-seed-ai-academic-research-led.md`.
-- **Programmatic breeding** is the conceptual / methodological unit — see `units/programmatic-breeding-ai.md`. CABI / Bally 2026 uses "programmatic breeding goals" formally; the 2026 literature uses "predictive breeding" (Springer 2026; Garcia-Oliveira 2026) and "AI-assisted selection pipelines" (Computers Electronics in Agriculture 2026 sugarcane review). BeanGPT is positioned as the generative-AI query-decision layer of a full programmatic-breeding pipeline.
+- `2026-07-lac-deepening.md` L75 — **Tentative claim:** LAC may be a distinct *eighth cluster pattern* — characterised by *multilateral-institutional convening + venture-funded SaaS-platform + foundation-model-vendor collaboration* — though the pattern is not yet stable enough to be a closed typology. Future cycle
 
 ## How to use this file
 
@@ -314,47 +177,3 @@ patterns rather than fill data holes.
 
 If a unit never lands (because research doesn't surface enough substance),
 remove the lead rather than leaving a stale entry. Quality > completeness.
-
-## AI and Labour cycle (July 2026, open leads)
-
-Five leads surfaced by `scans/2026-07-ai-and-labour.md` + `scouts/2026-07-ai-and-labour-scout.md` that warrant future-cycle follow-up. The cycle closed the labour-side institutional voice + analytical critical-voice + discontinued-cluster consolidation + state-cluster labour-substitution + Canadian labour-side institutional voice gaps substantively (via the 7 new units + 4 new quotes). What remains open: regional follow-on cycles; LAC farmworker + AI; US labour-side federal regulatory substrate; H-2A + AI deployment data at regional level; back-of-house worker displacement quantification.
-
-- **canadian-regional-ai-and-labour-cycle.md** — surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead)
-  gaps: G-115 (closed substantively by `units/ufcw-nfu-clc-canada-labour-producers.md`); G-3XX (AIDA + CPPA DEAD 6 January 2025 — labour-side regulatory substrate absence); G-381 (UFCW / NFU / CLC formal position on AI for All)
-  Future Canadian regional cycle anchored by UFCW Canada (245,000+ food-processing members; Senate AGFO submission on technology and labour); NFU Canada (Big Data SSHRC synthesis August 2021); CLC (submission against AIDA 2023-2024); AIDA + CPPA DEAD 6 January 2025 + AI for All (June 2026) adoption-led not regulation-led + SAWP + TFWP. The cycle is *anchored* but not run in this cycle (per user direction: regional focus later). When the Canadian AI-and-labour cycle runs, it has the institutional anchor for substantive depth.
-- **latin-american-farmworker-ai-cycle.md** — surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead)
-  gaps: G-376 (LAC seasonal labour + AI deployment — substantive corpus-thin)
-  Future LAC regional cycle covering Brazilian + Chilean + Argentine + Mexican seasonal agricultural worker programmes + AI deployment interaction. The CSA cycle + MENA cycle + Brazil beef + Chile-Canada + Argentine beef + Brazilian seed cycles have surfaced LAC agritech deployments substantively; the *seasonal labour + AI* dimension is the substantive gap. COCONA equivalents in LAC are the named candidate.
-- **us-labour-side-federal-regulatory-substrate.md** — surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead)
-  gaps: G-380 (Packers and Stockyards Act + AI deployment); G-3XX (NLRB unfair labour practice + AI; Department of Labor + AI in agriculture)
-  US labour-side federal regulatory substrate — Packers and Stockyards Act (USDA 1921) + NLRB + Department of Labor + AI deployment. Substantive corpus-thin territory. Distinct from the *federal regulatory substrate* work in `scans/2026-07-eu-regulatory-substrate.md` (EU AI Act + EU Code of Practice + European AI Office); the US equivalent is structurally different (labour-relations regulatory substrate + sectoral regulators rather than horizontal AI Act).
-- **h2a-ai-deployment-regional-data.md** — surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead)
-  gaps: G-374 (H-2A + AI deployment data at regional level)
-  What does H-2A scale + automation deployment look like at regional level? Salinas Valley is the worked example via Sullivan ethnography + California overtime regulation; Florida berries (FWAF + Mixteco + Triqui indigenous-language demographics) / Washington apples (FUF + Sakuma Brothers 2017 strike) / Central Valley table grapes (UFW + CRLA) / Georgia Vidalia onions are not surfaced. Future cycle anchors the regional H-2A + AI deployment data.
-- **back-of-house-worker-displacement-quantification.md** — surfaced in `scans/2026-07-ai-and-labour.md` §12 (new lead)
-  gaps: G-382 (back-of-house worker displacement quantification in working consumer-AI deployments)
-  Wendy's FreshAI / Taco Bell × Omilia / Sweetgreen Infinite Kitchen have deployment scale; back-of-house worker count + role-shift data not surfaced. Wendy's 86%-completion-without-human-intervention is the most-specific public metric on a voice-AI deployment; back-of-house worker-impact quantification beyond the voice-AI layer is structurally absent. Future cycle anchors the quantification gap.
-
-## AI and Labour cycle — cluster-pattern / framework-level candidate
-
-- **labour-substitution-via-state-cluster** — surfaced in `scans/2026-07-ai-and-labour.md` §5 + `units/korean-state-cluster-labour-substitution.md`
-  Distinct from cluster-with-state-substrate (Argentine beef AI — SENASA + SIGSA) and cluster-with-state-strategy (UAE ADAFSA dual-mode). The Korean 30%-by-2027 smart-farming adoption target + Japanese industrial-automation heritage (Yamaha Fazer RMAX + WAGRI state-stewarded DPI) + Chinese WAICO multilateral posture form the state-led labour-substitution cluster pattern. The Korean state-cluster labour-substitution unit substantiates the candidate; the cluster-pattern-taxonomy.md may be updated to add the candidate observation if a future cycle confirms it as a substantive pattern.
-
-## Canadian Regional AI and Labour cycle (July 2026, open leads)
-
-Three leads surfaced by `scans/2026-07-canada-ai-and-labour.md` + `scouts/2026-07-canada-ai-and-labour-scout.md` that warrant future-cycle follow-up. The cycle consolidated the FCC framework applied to labour + Neethirajan labour-side positioning + Canadian NA processing labour-displacement + Canadian AI deployment regulatory absence + SAWP + TFWP + Canadian agricultural labour context. The NFU automation / agricultural-labour position is now primary-source verified by `units/nfu-canada-agricultural-labour-and-ai-position.md` and `quotes/producers/nfu-canada-automation-not-labour-strategy.md`. What remains open: UFCW deployment-specific collective-bargaining terms; CLC agriculture-specific AI for All implementation; formal MWAC / J4MW / MRN positions on AI deployment; named vendor-impact data for migrant workers; Dara (U of Guelph AI4Food) + Charlebois (Agri-Food Analytics Lab, Dalhousie) + Mertins-Kirkwood & Pettigrew (CCPA) substantive analytical work primary-source verification.
-
-- **canadian-ai-deployment-regulatory-absence-cycle.md** — surfaced in `scans/2026-07-canada-ai-and-labour.md` §9 (new lead)
-  gaps: G-385 (UFCW Canada formal position on AI deployment), G-387 (CLC formal position on AI for All agriculture priority sector), G-391 (worker-monitoring dual-use regulatory framework — Canadian federal counterpart), G-392 (algorithmic-management regulatory framework — Canadian federal)
-  Future cycle that anchors the Canadian AI deployment regulatory absence as a substantive structural finding — *every Canadian agrifood AI system currently operates without sector-specific AI risk regulation*; the Cargill CarVe labour-monitoring dual-use has no Canadian federal regulatory counterpart; the Wendy's FreshAI 86%-completion-without-human-intervention metric has no Canadian federal regulatory counterpart; the Maple Leaf Foods + Saputo + Olymel + Agropur UFCW-organised AI deployment operates without Canadian federal AI risk regulation. The cycle has the institutional anchor (AIDA + CPPA DEAD 6 January 2025 + AI for All adoption-led + PIPEDA does not cover most farm data + Quebec Law 25 provincial-only) but the primary-source verification of UFCW + NFU + CLC formal AI-deployment positions is the substantive gap to close.
-- **fcc-ecosystem-not-technology-labour-framework-cycle.md** — surfaced in `scans/2026-07-canada-ai-and-labour.md` §9 (new lead)
-  gaps: G-395 (FCC framework applied to labour — closed substantively by `units/fcc-ecosystem-not-technology-applied-to-labour.md`)
-  Future cycle that extends the FCC framework's labour-side re-reading to additional Canadian analytical layers (e.g. FCC Capital deployment + FCC Capital portfolio companies' labour-side analytical positioning; AIVA Network labour-side positioning; Root AI labour-side positioning; FCC Thought Leadership series labour-side expansion).
-- **neethirajan-canadian-labour-positioning-cycle.md** — surfaced in `scans/2026-07-canada-ai-and-labour.md` §9 (new lead)
-  gaps: (none directly — Neethirajan positioning consolidated by `units/neethirajan-dalhousie-labour-positioning.md`)
-  Future cycle that extends Neethirajan's labour-side positioning to additional Canadian academic-policy critical voices: Dara (U of Guelph AI4Food director; greenhouse AI risk); Charlebois (Agri-Food Analytics Lab, Dalhousie; *"the problem isn't AI, it's data"*); Mertins-Kirkwood & Pettigrew (CCPA) AI for All critique. The three additional Canadian academic-policy critical voices are named but not unitised; primary-source verification of their substantive analytical work is the gap to close.
-
-## Canadian Regional AI and Labour cycle — cluster-pattern / framework-level candidate
-
-- **federal-funder-convenor + Crown-corp + AI deployment (Canadian federal-funder-convenor pattern)** — surfaced in `scans/2026-07-canada-ai-and-labour.md` §4.2 (new candidate observation)
-  Distinct from equipment-vendor industrial automation (Deere / CNH / AGCO organic deployment), state-vendor hybrid (China), cooperative-governance (Netherlands JoinData), state-DPI substrate (India Stack), state-anchored cluster programme (RDA Smart Farm Innovation Valley), multilateral-institutional convening (LAC IICA + IDB + CAF), cooperative-federation-institutional-substrate + emerging-single-coop deployment (Mondragón + COVAP), and the *labour-substitution-via-state-cluster* candidate (Korean 30%-by-2027). The Canadian federal-funder-convenor + Crown-corp + AI deployment pattern is FCC + AAFC + ISED + AIDA (dead) + AI for All adoption-led + Canada AI Safety Institute (CAISI); the federal validation funding + the *adoption-led not regulation-led* posture is the substantive Canadian federal-funder-convenor pattern.
