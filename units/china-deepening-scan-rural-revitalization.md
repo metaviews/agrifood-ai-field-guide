@@ -31,10 +31,13 @@ China's agrifood AI deployment happens inside the **Rural Revitalization** polic
    - 32% by 2028
    - Specific targets for smart agriculture demonstration zones, agricultural AI applications, agricultural data infrastructure
 
-3. **Rural Revitalization 2027 Plan** — the next five-year phase (announced 2026). Three pillars:
+3. ~~**Rural Revitalization 2027 Plan** — the next five-year phase (announced 2026).~~ **Correction, September 2026: this anchor is superseded and should not be used.** The "2027 Plan" entered the corpus from a consultancy brief (china-briefing.com) rather than from a Chinese government document. The primary 15th-Five-Year-Plan-era instrument for digital rural development is the **《数字乡村高质量发展行动计划（2026—2030年）》** — the Digital Village High-Quality Development Action Plan, issued jointly by the Cyberspace Administration of China, MARA and the Ministry of Industry and Information Technology on **11 September 2026** (see `china-digital-village-plan-2026-2030.md`). The three-pillar formulation below is retained only as a record of what the corpus previously carried:
+
    - Modernization of agriculture (technology, productivity, quality)
    - Improvement of rural infrastructure (digital, transport, water)
    - Improvement of rural residents' livelihoods (income, services, talent retention)
+
+**Also corrected in September 2026:** the Smart Agriculture Action Plan (item 2) was read at article level in the September cycle, which found three items this unit did not carry — a **mandated open-source agricultural model community**, a **national land-use "one map"** with aquaculture pond land as a layer, and **state-farm enterprises (Beidahuang, Guangdong Land Reclamation) named as addressees**. See `china-smart-agriculture-action-plan-2024-2028.md` and the cycle scan `scans/2026-09-china-cycle.md`.
 
 **The structural significance.** AI deployment in Chinese agrifood happens *inside* this policy framework, not in a market-only context. This is the most state-directed framework in the field guide. Distinct from:
 - **United States** — market-led pattern; AI deployment by vendors (Deere, Bayer, AGCO, etc.) without strong federal strategic direction.

@@ -69,7 +69,7 @@ Total gaps registered: 447
 
 ## Process / retail / NA
 
-- **G-033** (n=10, src=scans/2026-07-china-deepening.md:182) — Independent verification of DJI's 222M tons water saved and 30.87M tons CO2 reduced figures. Worth tracking.
+- **G-033** (n=11, src=scans/2026-07-china-deepening.md:182) — Independent verification of DJI's 222M tons water saved and 30.87M tons CO2 reduced figures. Worth tracking.
 - **G-034** (n=2, src=scans/2026-07-china-deepening.md:183) — Pinduoduo Smart Agriculture Competition outcomes translated into commercial farm deployment. Worth tracking.
 - **G-035** (n=7, src=scans/2026-07-china-deepening.md:184) — Chinese rural revitalisation policy outcomes from the 2027 Plan once implemented. Forward-looking.
 - **G-036** (n=1, src=units/proprietary-farm-data.md:96) — Ag Data Transparent certified contracts vs anonymised data pool rights — gap
@@ -245,7 +245,7 @@ Total gaps registered: 447
 - **G-188** (n=2, src=units/chinese-hyperscaler-agritech-substrate.md:249) — (reconstructed from units/chinese-hyperscaler-agritech-substrate.md L249; see context)
 - **G-189** (n=2, src=units/chinese-hyperscaler-agritech-substrate.md:250) — (reconstructed from units/chinese-hyperscaler-agritech-substrate.md L250; see context)
 - **G-190** (n=2, src=units/chinese-hyperscaler-agritech-substrate.md:251) — (reconstructed from units/chinese-hyperscaler-agritech-substrate.md L251; see context)
-- **G-191** (n=8, src=units/chinese-agritech-belt-and-road-export.md:40) — see `~/ai-agrifood/recon-china-drones-export-2026-09-14.md`
+- **G-191** (n=9, src=units/chinese-agritech-belt-and-road-export.md:40) — see `~/ai-agrifood/recon-china-drones-export-2026-09-14.md`
 - **G-192** (n=2, src=units/chinese-hyperscaler-agritech-substrate.md:253) — (reconstructed from units/chinese-hyperscaler-agritech-substrate.md L253; see context)
 - **G-193** (n=2, src=units/chinese-agritech-belt-and-road-export.md:243) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L243; see context)
 - **G-194** (n=2, src=units/chinese-agritech-belt-and-road-export.md:244) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L244; see context)
@@ -486,29 +486,29 @@ Total gaps registered: 447
 - **G-438** (n=3, src=scans/2026-09-eu-substrate-deepening.md:158) — outcome-level evidence for EU-funded agrifood AI. The corpus now holds instrument-level data (calls, budgets, awards) but no outcome evidence — what the 117 Cluster 6 projects, the agrifoodTEF services and the Mission Soil Living Labs actually delivered.
 - **G-439** (n=3, src=scans/2026-09-eu-substrate-deepening.md:159) — whether any EU member state establishes an agrifood-specific AI regulatory sandbox track before the 2 August 2027 deadline.
 - **G-440** (n=1, src=scans/2026-09-eu-substrate-deepening.md:160) — cross-repo check between this field guide and `opensource-agrifood` on the EU layer — the July Cluster 6 scan named the agroecology partnership and the AgData/CEADS interfaces, and the open-source project's own EU-layer findings have not been reconciled with this cycle's instrument list.
-- **G-441** (n=3, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — China — the Action Plan's data-platform and model-community products
-- **G-442** (n=1, src=units/china-no1-central-document-2026-ai.md:70) — in China — whether the AI/drone/IoT/robot clause and the machinery provisions carry any quantified budget, target or named programme in ministry follow-through
-- **G-443** (n=1, src=units/china-digital-village-plan-2026-2030.md:65) — in China — the eight development indicators and twenty-four measures of the 2026–2030 plan: obtain the plan text
-- **G-444** (n=2, src=units/china-digital-village-plan-2026-2030.md:65) — in China — whether rural governance digitalisation and agricultural production digitalisation are separately measured or reported together
-- **G-445** (n=3, src=units/china-no1-central-document-2026-ai.md:70) — in China — state-farm enterprises as deployment operators
-- **G-446** (n=2, src=units/china-pig-farming-ecosystem-2018-2026.md:74) — Muyuan's self-reported figures
-- **G-447** (n=5, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — China — livestock AI outcomes
-- **G-448** (n=2, src=units/china-pig-farming-ecosystem-2018-2026.md:74) — China — the vendor layer after 2022: current products and any discontinuations
-- **G-449** (n=3, src=units/china-agricultural-drone-drift-liability.md:76) — China — standard issuance versus take-up, the same pattern in the livestock standards layer
-- **G-450** (n=2, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — in China — whether HERD is operational and contains shared livestock datasets, and under what access terms
+- **G-441** (n=5, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — China — the Action Plan's data-platform and model-community products
+- **G-442** (n=2, src=units/china-no1-central-document-2026-ai.md:70) — in China — whether the AI/drone/IoT/robot clause and the machinery provisions carry any quantified budget, target or named programme in ministry follow-through
+- **G-443** (n=2, src=units/china-digital-village-plan-2026-2030.md:65) — in China — the eight development indicators and twenty-four measures of the 2026–2030 plan: obtain the plan text
+- **G-444** (n=3, src=units/china-digital-village-plan-2026-2030.md:65) — in China — whether rural governance digitalisation and agricultural production digitalisation are separately measured or reported together
+- **G-445** (n=4, src=units/china-no1-central-document-2026-ai.md:70) — in China — state-farm enterprises as deployment operators
+- **G-446** (n=3, src=units/china-pig-farming-ecosystem-2018-2026.md:74) — Muyuan's self-reported figures
+- **G-447** (n=6, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — China — livestock AI outcomes
+- **G-448** (n=3, src=units/china-pig-farming-ecosystem-2018-2026.md:74) — China — the vendor layer after 2022: current products and any discontinuations
+- **G-449** (n=4, src=units/china-agricultural-drone-drift-liability.md:76) — China — standard issuance versus take-up, the same pattern in the livestock standards layer
+- **G-450** (n=3, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — in China — whether HERD is operational and contains shared livestock datasets, and under what access terms
 - **G-451** (n=2, src=units/xag-china-drone-leader.md:86) — in China — whether export growth continues at 59% gross margin or whether the domestic price war follows XAG abroad
-- **G-452** (n=1, src=units/china-agricultural-drone-drift-liability.md:76) — in China — a systematic drift-incidence series: whether any provincial or national register of agricultural drone drift cases exists
-- **G-453** (n=1, src=units/china-agricultural-drone-drift-liability.md:76) — in China — how drift compensation claims are decided, at what rates, and whether operator insurance exists in practice
-- **G-454** (n=1, src=units/china-agricultural-drone-drift-liability.md:76) — in China — adoption and enforcement of NY/T 2882.10-2025 and NY/T 5405.1-2026: inspection, penalties, compliance rate
-- **G-455** (n=1, src=units/dji-agriculture-global-export.md:86) — in China — per-drone utilisation: whether actual annual mu-times per unit approach the 15th-FYP implied 10,000
-- **G-456** (n=1, src=units/dji-agriculture-global-export.md:86) — in China — the composition of the operator population: how many manufacturer-issued certificate holders are actively flying
+- **G-452** (n=2, src=units/china-agricultural-drone-drift-liability.md:76) — in China — a systematic drift-incidence series: whether any provincial or national register of agricultural drone drift cases exists
+- **G-453** (n=2, src=units/china-agricultural-drone-drift-liability.md:76) — in China — how drift compensation claims are decided, at what rates, and whether operator insurance exists in practice
+- **G-454** (n=2, src=units/china-agricultural-drone-drift-liability.md:76) — in China — adoption and enforcement of NY/T 2882.10-2025 and NY/T 5405.1-2026: inspection, penalties, compliance rate
+- **G-455** (n=2, src=units/dji-agriculture-global-export.md:86) — in China — per-drone utilisation: whether actual annual mu-times per unit approach the 15th-FYP implied 10,000
+- **G-456** (n=2, src=units/dji-agriculture-global-export.md:86) — in China — the composition of the operator population: how many manufacturer-issued certificate holders are actively flying
 - **G-457** (n=1, src=units/china-smart-fisheries-fanli-llm.md:72) — in China — whether the Fanli dataset and model are actually downloadable under stated terms, and whether any external team has evaluated or reproduced the model's performance
-- **G-458** (n=2, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — China — farm-level adoption of aquaculture AI
-- **G-459** (n=3, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — China — the 智慧渔场 construction standard
-- **G-460** (n=1, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — in China — the economics of deep-sea platforms: capital cost per tonne produced, payback period, and whether provincial investment is recovered
-- **G-461** (n=1, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — in China — independent measurement of the ecological claims: dissolved oxygen, feed dispersal and water-quality effects at deep-sea platforms
-- **G-462** (n=3, src=units/china-grain-storage-ai-jiyuan.md:71) — in China — re-verify Sinograin's WAIC 2026 figures: the sub-three-minute single-sample detection time and the 97.6% imperfect-kernel recognition accuracy, from a source that failed to load
-- **G-463** (n=1, src=units/china-grain-storage-ai-jiyuan.md:71) — in China — whether Jiyuan has generated measured reductions in storage loss or supervision cost
-- **G-464** (n=1, src=units/china-food-processing-smart-factories.md:73) — in China — what the MIIT smart-factory AI-scenario share actually measures, and whether any audit verifies the AI content of rated factories
-- **G-465** (n=1, src=units/china-food-processing-smart-factories.md:73) — in China — independent evaluation of Chinese processing AI outcomes: throughput, energy, defect rates at named plants
-- **G-466** (n=1, src=units/china-food-processing-smart-factories.md:73) — in China — the prepared-dish sector's data and traceability architecture, and whether processors or regulators hold the traceability data
+- **G-458** (n=3, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — China — farm-level adoption of aquaculture AI
+- **G-459** (n=4, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — China — the 智慧渔场 construction standard
+- **G-460** (n=2, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — in China — the economics of deep-sea platforms: capital cost per tonne produced, payback period, and whether provincial investment is recovered
+- **G-461** (n=2, src=units/china-deep-sea-smart-aquaculture-platforms.md:72) — in China — independent measurement of the ecological claims: dissolved oxygen, feed dispersal and water-quality effects at deep-sea platforms
+- **G-462** (n=5, src=units/china-grain-storage-ai-jiyuan.md:71) — in China — re-verify Sinograin's WAIC 2026 figures: the sub-three-minute single-sample detection time and the 97.6% imperfect-kernel recognition accuracy, from a source that failed to load
+- **G-463** (n=2, src=units/china-grain-storage-ai-jiyuan.md:71) — in China — whether Jiyuan has generated measured reductions in storage loss or supervision cost
+- **G-464** (n=2, src=units/china-food-processing-smart-factories.md:73) — in China — what the MIIT smart-factory AI-scenario share actually measures, and whether any audit verifies the AI content of rated factories
+- **G-465** (n=2, src=units/china-food-processing-smart-factories.md:73) — in China — independent evaluation of Chinese processing AI outcomes: throughput, energy, defect rates at named plants
+- **G-466** (n=3, src=units/china-food-processing-smart-factories.md:73) — in China — the prepared-dish sector's data and traceability architecture, and whether processors or regulators hold the traceability data
