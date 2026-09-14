@@ -19,8 +19,8 @@ maturity-scale: S2-S3 (named ASEAN deployments at S2; African deployments at S3 
 maturity-verification: 'V0-V1 (Xinhua-documented named deployments at V0 with named spokespersons; CAIED peer-reviewed academic database at V1; independent third-party verification of deployment-scale claims is thin)'
 maturity-longevity: 'L2 (Alibaba Cloud × Regaltech Malaysia durian — 2019 partnership, deployed since 2020 — ~7 years; Alibaba Cloud × Tanahmu Indonesia — deployment ongoing; broader DSR since 2015 — ~11 years)'
 maturity-translation: T2 (state-led translation pathway via BRI and DSR; named deployments at ASEAN scale; African translation pathway through China-Africa internet forum April 2024 and bilateral cyberspace regulator cooperation)
-last-verified: 2026-07
-last-regionally-scanned: 2026-07
+last-verified: 2026-09
+last-regionally-scanned: 2026-09
 ---
 
 ## Content
@@ -32,6 +32,18 @@ The structural distinction: WAICO is the **multilateral institutional layer** (2
 **The substantive finding**: named Belt-and-Road agritech deployments are **concentrated in ASEAN** (Malaysia, Indonesia, with thin coverage of Thailand, Vietnam, Cambodia, Myanmar, Laos, Philippines) and **emerging in Africa** (52 African countries + AU have BRI agreements; concrete agritech deployments named in only a few cases). Latin America and MENA have institutional-level engagement (Cuba, Venezuela, Nicaragua, Pakistan, etc. via WAICO; BRI participation varies) but named agritech deployments are thin in the corpus.
 
 The structural pattern: **state-led digital infrastructure deployment + state-stewarded data governance + commercial vendor follow-on** (Alibaba Cloud, Huawei, Tencent). The state-policy substrate (BRI/DSR/National Smart Farming Plan/15th Five-Year Plan) is the deployment enabler; the hyperscaler is the commercial-execution layer.
+
+---
+
+## 0. Scope correction (September 2026 verification pass)
+
+A verification pass against G-031, G-033 and G-191 (see `~/ai-agrifood/recon-china-drones-export-2026-09-14.md`) produced three findings that reframe this unit, and they are recorded here rather than silently absorbed:
+
+1. **The dominant form of Chinese agritech export is hardware, not platform.** Named export actors are drone OEMs (DJI, XAG, EAVISION / 苏州极目机器人, 无锡汉和, 深圳天鹰兄弟, 珠海羽人, 安阳全丰) exporting through dealer channels and local partnerships — not hyperscalers exporting agricultural cloud/AI services. The verification pass found **no Alibaba Cloud or Tencent Cloud agricultural export deployment**.
+2. **No Belt-and-Road-labelled agritech programme exists in the actors' own materials.** The BRI/DSR framing is the corpus's, not theirs. G-191 as originally framed does not survive verification.
+3. **The two passes disagree on one point, and the disagreement is preserved rather than resolved**: this unit documents the Alibaba Cloud × Regaltech (Malaysia, durian) and Alibaba Cloud × Tanahmu (Indonesia) cases from Xinhua Silk Road and vendor customer stories; the verification pass, searching Chinese-language sources for the export thesis, found no hyperscaler agricultural export deployment. Both findings stand as recorded — the named Xinhua-sourced cases at V0, and the negative finding that they are marginal rather than characteristic.
+
+**What the export reality looks like instead** (2026): DJI at Agrishow in Brazil; XAG with a strategic partnership with **Charoen Pokphand (正大集团)** in Thailand and named work in Vietnam, Cambodia (Mondulkiri pepper) and Indonesia, with the **USA and Brazil its two largest single-country markets**; EAVISION exporting to Brazilian soy and sugarcane through dealer networks. Regulatory liberalisation is the enabling variable — Brazil's **RBAC 100** (June 2026) replaced RBAC-E 94 with a risk-based agricultural standard scenario, and Transport Canada simplified ag-drone rules. Meanwhile **US market access narrowed**: FCC "Covered List" restrictions blocked 25 DJI launches (roughly USD 1.5 bn at stake) and FAA waivers still gate spray operations, producing an explicit US–China bifurcation in global market access.
 
 ---
 
@@ -286,7 +298,7 @@ Anchors the **Chinese agritech Belt-and-Road / Digital Silk Road export × state
 
 ## Links
 
-- gaps: G-191 (this unit is the anchor — Belt-and-Road export of Chinese hyperscaler agritech deployments to ASEAN, Africa, Latin America, MENA member states), G-193 (Tencent Cloud Belt-and-Road agritech deployment evidence), G-194 (Huawei Cloud African agritech deployment evidence), G-195 (CAIED database 2018-2026 extension), G-196 (specific agritech AI export projects within CAIED), G-197 (recipient-state data governance frameworks in African Belt-and-Road partner states), G-198 (Latin America Belt-and-Road agritech deployment evidence), G-199 (MENA Belt-and-Road agritech deployment evidence)
+- gaps: G-191 (verification pass September 2026: the Belt-and-Road export of Chinese hyperscaler agritech deployments does **not** hold as framed — no hyperscaler agricultural export deployment found and no BRI-labelled agritech programme in the actors' own materials; the verified export form is hardware OEM export through dealer channels and one named corporate JV. See §0. The named Alibaba Cloud cases stand at V0 and should be read as marginal, not characteristic), G-193 (Tencent Cloud Belt-and-Road agritech deployment evidence), G-194 (Huawei Cloud African agritech deployment evidence), G-195 (CAIED database 2018-2026 extension), G-196 (specific agritech AI export projects within CAIED), G-197 (recipient-state data governance frameworks in African Belt-and-Road partner states), G-198 (Latin America Belt-and-Road agritech deployment evidence), G-199 (MENA Belt-and-Road agritech deployment evidence)
 - contested-claims: C-128 (Chinese DSR/BRI exporting agritech AI to Africa at scale — counter: thin named deployments), C-129 (Chinese DSR as structural alternative to US-led agritech — counter: comparable infrastructure availability; difference is state-led vs commercial-led), C-130 (Alibaba Cloud × Regaltech Malaysia durian case replicable across Belt-and-Road partner states — counter: local-capacity constraint), C-131 (China-Africa AI governance cooperation produces favourable conditions for African agritech — counter: emerging African AI sovereignty responses), C-132 (DSR engagement driven by Chinese AI export — counter: Hung 2026 finding — driven by recipient-state economic freedom), C-133 (named ASEAN deployments as substantive Belt-and-Road agritech model — counter: combined posture H2+V0; peer-reviewed verification thin)
 - related-units: waico-alliance-china-multilateral-ai.md (multilateral governance institution layer), chinese-hyperscaler-agritech-substrate.md (China-domestic hyperscaler substrate), alibaba-et-agricultural-brain.md (single-vendor unit for Alibaba Cloud), dji-agriculture-global-export.md (drone hardware vendor with global export), xag-china-drone-leader.md (drone hardware vendor), japan-korea-agrifood-ai-pattern.md (East Asia cluster scan), india-digital-agriculture-mission-agristack.md (India-side state DPI substrate — India's notable absence from WAICO), china-deepening-scan-rural-revitalization.md (China-side state-policy frame)
 - related-quotes: (none — Chinese hyperscaler leadership voices in Belt-and-Road context not yet in quotes/ folder; Jordy Cao (Alibaba Cloud Malaysia), Derick Choe (Alibaba Cloud), Alex Ch'ng (Regaltech), Yu Jia (Peking University) are potential quote candidates; surface opportunity)
@@ -295,9 +307,10 @@ Anchors the **Chinese agritech Belt-and-Road / Digital Silk Road export × state
 
 ## Freshness
 
-- last-verified: 2026-07
-- last-regionally-scanned: 2026-07
+- last-verified: 2026-09
+- last-regionally-scanned: 2026-09
 - sources:
+  - Verification pass (September 2026): `~/ai-agrifood/recon-china-drones-export-2026-09-14.md` — hardware-OEM export reality, named export markets, the negative finding on hyperscaler agricultural export, and the RBAC 100 / FCC market-access facts recorded in §0 of this unit. Originally sourced from: DJI and XAG export coverage, XAG prospectus, EAVISION regulatory explainer (2026-07-28) https://www.eavision.com/about/news/brazil-agricultural-drone-regulations-7-rules-to-know, 21世纪经济报道 interview with XAG co-founder (2026-06-29) https://m.21jingji.com/article/20260629/herald/1070f30d489faea018fbb8a8f24b9e32_zaker.html, DroneDJ (2026-05-04) https://dronedj.com/2026/05/04/dji-agriculture-drone-report-2026/
   - Xinhua Silk Road. *Feature: China-ASEAN cooperation seeding agritech revolution with smart durian farming*. November 23, 2021. https://en.imsilkroad.com/p/324971.html
   - Alibaba Cloud customer story. *Tanahmu: Cloud Platform Empowers Agro-Ecosystem*. https://www.alibabacloud.com/en/customers/tanahmu
   - Yahoo News / SCMP. *As Africa races towards its AI revolution, China is with it each step of the way*. August 2024. https://sg.news.yahoo.com/africa-races-towards-ai-revolution-093000841.html

@@ -28,7 +28,7 @@ end of the range; add an intro bullet at the bottom of the surfacing
 scan using the `**G-NNN (new):** ...` format so this registry stays in
 sync (rebuild via `python scripts/build_gap_lead_registries.py`).
 
-Total gaps registered: 426
+Total gaps registered: 437
 
 ## Initial scope
 
@@ -64,12 +64,12 @@ Total gaps registered: 426
 - **G-028** (n=7, src=scans/2026-07-quebec-cycle.md:98) — IVADO R3AI substantive deployment (vs. positioning). The June 8, 2026 statement is forward-looking; substantive deployment outcomes not yet visible.
 - **G-029** (n=17, src=scans/2026-07-quebec-cycle.md:99) — Mila DISA partner farms and concrete deployed acreage. The project is real but operational scale not surfaced.
 - **G-030** (n=3, src=scans/2026-07-quebec-cycle.md:100) — Sollum / Zone Agtech actual deployed acreage and number of grower deployments. The 40% electricity reduction figure is per-deployment; aggregate deployment is the gap.
-- **G-031** (n=4, src=scans/2026-07-china-deepening.md:180) — Chinese agritech export to specific regions (Africa, Southeast Asia, Latin America, Pacific) by named actors. Worth surfacing.
-- **G-032** (n=4, src=scans/2026-07-china-deepening.md:181) — Chinese AI deployment at the *processing* level. JD Farm is the closest, but the broader processing-cell population in China is under-surfaced.
+- **G-031** (n=5, src=scans/2026-07-china-deepening.md:180) — Chinese agritech export to specific regions (Africa, Southeast Asia, Latin America, Pacific) by named actors. Worth surfacing.
+- **G-032** (n=5, src=scans/2026-07-china-deepening.md:181) — Chinese AI deployment at the *processing* level. JD Farm is the closest, but the broader processing-cell population in China is under-surfaced.
 
 ## Process / retail / NA
 
-- **G-033** (n=7, src=scans/2026-07-china-deepening.md:182) — Independent verification of DJI's 222M tons water saved and 30.87M tons CO2 reduced figures. Worth tracking.
+- **G-033** (n=10, src=scans/2026-07-china-deepening.md:182) — Independent verification of DJI's 222M tons water saved and 30.87M tons CO2 reduced figures. Worth tracking.
 - **G-034** (n=2, src=scans/2026-07-china-deepening.md:183) — Pinduoduo Smart Agriculture Competition outcomes translated into commercial farm deployment. Worth tracking.
 - **G-035** (n=7, src=scans/2026-07-china-deepening.md:184) — Chinese rural revitalisation policy outcomes from the 2027 Plan once implemented. Forward-looking.
 - **G-036** (n=1, src=units/proprietary-farm-data.md:96) — Ag Data Transparent certified contracts vs anonymised data pool rights — gap
@@ -245,15 +245,15 @@ Total gaps registered: 426
 - **G-188** (n=2, src=units/chinese-hyperscaler-agritech-substrate.md:249) — (reconstructed from units/chinese-hyperscaler-agritech-substrate.md L249; see context)
 - **G-189** (n=2, src=units/chinese-hyperscaler-agritech-substrate.md:250) — (reconstructed from units/chinese-hyperscaler-agritech-substrate.md L250; see context)
 - **G-190** (n=2, src=units/chinese-hyperscaler-agritech-substrate.md:251) — (reconstructed from units/chinese-hyperscaler-agritech-substrate.md L251; see context)
-- **G-191** (n=6, src=units/chinese-agritech-belt-and-road-export.md:289) — this unit is the anchor — Belt-and-Road export of Chinese hyperscaler agritech deployments to ASEAN, Africa, Latin America, MENA member states
+- **G-191** (n=8, src=units/chinese-agritech-belt-and-road-export.md:40) — see `~/ai-agrifood/recon-china-drones-export-2026-09-14.md`
 - **G-192** (n=2, src=units/chinese-hyperscaler-agritech-substrate.md:253) — (reconstructed from units/chinese-hyperscaler-agritech-substrate.md L253; see context)
-- **G-193** (n=2, src=units/chinese-agritech-belt-and-road-export.md:231) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L231; see context)
-- **G-194** (n=2, src=units/chinese-agritech-belt-and-road-export.md:232) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L232; see context)
-- **G-195** (n=2, src=units/chinese-agritech-belt-and-road-export.md:233) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L233; see context)
-- **G-196** (n=2, src=units/chinese-agritech-belt-and-road-export.md:234) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L234; see context)
-- **G-197** (n=3, src=units/chinese-agritech-belt-and-road-export.md:235) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L235; see context)
-- **G-198** (n=2, src=units/chinese-agritech-belt-and-road-export.md:236) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L236; see context)
-- **G-199** (n=2, src=units/chinese-agritech-belt-and-road-export.md:237) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L237; see context)
+- **G-193** (n=2, src=units/chinese-agritech-belt-and-road-export.md:243) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L243; see context)
+- **G-194** (n=2, src=units/chinese-agritech-belt-and-road-export.md:244) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L244; see context)
+- **G-195** (n=2, src=units/chinese-agritech-belt-and-road-export.md:245) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L245; see context)
+- **G-196** (n=2, src=units/chinese-agritech-belt-and-road-export.md:246) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L246; see context)
+- **G-197** (n=3, src=units/chinese-agritech-belt-and-road-export.md:247) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L247; see context)
+- **G-198** (n=2, src=units/chinese-agritech-belt-and-road-export.md:248) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L248; see context)
+- **G-199** (n=2, src=units/chinese-agritech-belt-and-road-export.md:249) — (reconstructed from units/chinese-agritech-belt-and-road-export.md L249; see context)
 - **G-200** (n=5, src=scans/2026-07-eu-institutional-funder-substrate.md:374) — EIT Food 2025-2026 cohort named startup list with AI-focus mapping. The corpus knows "65 startups per year" but does not enumerate the named startups or their AI focus (precision agriculture, autonomous farming, biotech, circular food, low-carbon supply chain).
 
 ## EU regulatory
@@ -486,8 +486,19 @@ Total gaps registered: 426
 - **G-438** (n=3, src=scans/2026-09-eu-substrate-deepening.md:158) — outcome-level evidence for EU-funded agrifood AI. The corpus now holds instrument-level data (calls, budgets, awards) but no outcome evidence — what the 117 Cluster 6 projects, the agrifoodTEF services and the Mission Soil Living Labs actually delivered.
 - **G-439** (n=3, src=scans/2026-09-eu-substrate-deepening.md:159) — whether any EU member state establishes an agrifood-specific AI regulatory sandbox track before the 2 August 2027 deadline.
 - **G-440** (n=1, src=scans/2026-09-eu-substrate-deepening.md:160) — cross-repo check between this field guide and `opensource-agrifood` on the EU layer — the July Cluster 6 scan named the agroecology partnership and the AgData/CEADS interfaces, and the open-source project's own EU-layer findings have not been reconciled with this cycle's instrument list.
-- **G-441** (n=2, src=units/china-mara-agricultural-data-resources-2026.md:76) — in China — whether the Action Plan's base-model open platform and open-source model community exist operationally
+- **G-441** (n=3, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — China — the Action Plan's data-platform and model-community products
 - **G-442** (n=1, src=units/china-no1-central-document-2026-ai.md:70) — in China — whether the AI/drone/IoT/robot clause and the machinery provisions carry any quantified budget, target or named programme in ministry follow-through
 - **G-443** (n=1, src=units/china-digital-village-plan-2026-2030.md:65) — in China — the eight development indicators and twenty-four measures of the 2026–2030 plan: obtain the plan text
 - **G-444** (n=2, src=units/china-digital-village-plan-2026-2030.md:65) — in China — whether rural governance digitalisation and agricultural production digitalisation are separately measured or reported together
-- **G-445** (n=2, src=units/china-no1-central-document-2026-ai.md:70) — in China — state-farm enterprises as deployment operators
+- **G-445** (n=3, src=units/china-no1-central-document-2026-ai.md:70) — in China — state-farm enterprises as deployment operators
+- **G-446** (n=2, src=units/china-pig-farming-ecosystem-2018-2026.md:74) — Muyuan's self-reported figures
+- **G-447** (n=4, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — China — livestock AI outcomes
+- **G-448** (n=2, src=units/china-pig-farming-ecosystem-2018-2026.md:74) — China — the vendor layer after 2022: current products and any discontinuations
+- **G-449** (n=3, src=units/china-agricultural-drone-drift-liability.md:76) — China — standard issuance versus take-up, the same pattern in the livestock standards layer
+- **G-450** (n=2, src=units/china-livestock-ai-standards-and-research-infrastructure.md:70) — in China — whether HERD is operational and contains shared livestock datasets, and under what access terms
+- **G-451** (n=1, src=units/xag-china-drone-leader.md:86) — in China — whether export growth continues at 59% gross margin or whether the domestic price war follows XAG abroad
+- **G-452** (n=1, src=units/china-agricultural-drone-drift-liability.md:76) — in China — a systematic drift-incidence series: whether any provincial or national register of agricultural drone drift cases exists
+- **G-453** (n=1, src=units/china-agricultural-drone-drift-liability.md:76) — in China — how drift compensation claims are decided, at what rates, and whether operator insurance exists in practice
+- **G-454** (n=1, src=units/china-agricultural-drone-drift-liability.md:76) — in China — adoption and enforcement of NY/T 2882.10-2025 and NY/T 5405.1-2026: inspection, penalties, compliance rate
+- **G-455** (n=1, src=units/dji-agriculture-global-export.md:86) — in China — per-drone utilisation: whether actual annual mu-times per unit approach the 15th-FYP implied 10,000
+- **G-456** (n=1, src=units/dji-agriculture-global-export.md:86) — in China — the composition of the operator population: how many manufacturer-issued certificate holders are actively flying
