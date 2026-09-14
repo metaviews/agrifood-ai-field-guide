@@ -1,3 +1,28 @@
+---
+id: agroecology-open-source-correlation
+title: "Agroecology ↔ open source — correlation structure (cross-repo note from the opensource-agrifood G-OSA-24 cycle)"
+sector-position: (cross-cutting — seed commons at inputs; open machinery and open farm software at on-farm production)
+ai-technique-class: "(cross-cutting — the digital layer of the note is open farm software and open sensing: farmOS, SurveyStack, LiteFarm)"
+purpose: governance (commons, data sovereignty, anti-enclosure); research and discovery (correlation mapping)
+claim-type: claim (a mapping note; the correlation structure is the claim)
+activity-status: research (a correlation note, not a deployment)
+critical-voice: "food-sovereignty (IPES-Food's enclosure critique and La Via Campesina vocabulary); indigenous-data-sovereignty (the CARE / OCAP® knowledge-sovereignty axis)"
+capital-intensity: smallholder (peasant-agency framing); research
+language-literacy-profile: (not applicable)
+policy-instrument: (none — analytical note; names the AGROECOLOGY European Partnership as a Horizon Europe Cluster 6 co-funded partnership)
+region: Global (Argentina, France and US/UK cases inside an EU institutional frame)
+actor: "OSSI; OSSL; Bioleft (Argentina); L'Atelier Paysan (France, judicially liquidated April 2026); Farm Hack; Open Source Ecology; REGOSH Open Agroecology Lab (Argentina); LiteFarm; farmOS; IPES-Food; AGROECOLOGY European Partnership; FAO"
+actor-type: community-project; farmer-led; critical-civil-society; multilateral-body; academic
+data-governance: open; co-operative / commons; mixed
+data-rights-framework: farmer-owned; distributed; Indigenous-sovereign (with the note's explicit finding that open-source licensing vocabulary does not map onto knowledge-sovereignty frameworks)
+maturity-scale: (n/a — analytical)
+maturity-verification: V2 (correlation drawn from the independent opensource-agrifood G-OSA-24 scan pass)
+maturity-longevity: L1 (note created August 2026)
+maturity-translation: (n/a — analytical)
+last-verified: 2026-08
+last-regionally-scanned: 2026-08
+---
+
 # Agroecology ↔ open source: correlation structure (cross-repo note)
 
 Last reviewed: 2026-08-12
