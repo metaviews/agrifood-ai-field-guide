@@ -28,7 +28,7 @@ end of the range; add an intro bullet at the bottom of the surfacing
 scan using the `**G-NNN (new):** ...` format so this registry stays in
 sync (rebuild via `python scripts/build_gap_lead_registries.py`).
 
-Total gaps registered: 421
+Total gaps registered: 426
 
 ## Initial scope
 
@@ -38,8 +38,8 @@ Total gaps registered: 421
 - **G-004** (n=1, src=units/agrosmart-brazil.md:54) — Vendor-reported figures (60% water, 20% energy) come from Agrosmart's own framing; Borgen Project is a popular-press outlet, not a peer-reviewed source. Independent verification at sector scale not
 - **G-006** (n=24, src=scans/2026-07-regional.md:60) — `consumption × all × all` is a near-total gap in Canadian-specific sources. Strong candidate for a first content unit.
 - **G-007** (n=6, src=scans/2026-07-regional.md:61) — `inputs × all × all` for Canada specifically. Not surfaced anywhere in our Canadian sources — likely an evidence problem rather than an absence of activity.
-- **G-008** (n=14, src=scans/2026-07-regional.md:118) — Cross-border data governance interoperability. The Chinese regulatory environment shapes what Chinese agrifood AI looks like globally; this is a structural gap in any global framework that doesn't account for it.
-- **G-009** (n=9, src=scans/2026-07-regional.md:119) — `all × generative-AI-and-LLMs × extension-and-advisory` *for China specifically*. Chinese rural LLM deployment is reported in fragments but no consolidated source.
+- **G-008** (n=16, src=scans/2026-07-regional.md:118) — Cross-border data governance interoperability. The Chinese regulatory environment shapes what Chinese agrifood AI looks like globally; this is a structural gap in any global framework that doesn't account for it.
+- **G-009** (n=11, src=scans/2026-07-regional.md:119) — `all × generative-AI-and-LLMs × extension-and-advisory` *for China specifically*. Chinese rural LLM deployment is reported in fragments but no consolidated source.
 - **G-010** (n=5, src=scans/2026-07-regional.md:147) — Indigenous-led AI agrifood deployment. The CARE / IEEE 2890 framework exists; the operational deployments from Indigenous data sovereign institutions are sparse. The gap is real and worth tracking.
 - **G-011** (n=7, src=scans/2026-07-regional.md:148) — Generative AI / LLMs deployed with *local Indigenous languages* in agrifood advisory. Most current work uses major national languages; Indigenous-language LLM work is rare.
 - **G-012** (n=6, src=scans/2026-07-regional.md:149) — Climate-adaptation AI specifically for smallholder and pastoralist contexts. CGIAR's TAPAS platform (satellite-based tracking) is one entry point; broader coverage is thin.
@@ -64,14 +64,14 @@ Total gaps registered: 421
 - **G-028** (n=7, src=scans/2026-07-quebec-cycle.md:98) — IVADO R3AI substantive deployment (vs. positioning). The June 8, 2026 statement is forward-looking; substantive deployment outcomes not yet visible.
 - **G-029** (n=17, src=scans/2026-07-quebec-cycle.md:99) — Mila DISA partner farms and concrete deployed acreage. The project is real but operational scale not surfaced.
 - **G-030** (n=3, src=scans/2026-07-quebec-cycle.md:100) — Sollum / Zone Agtech actual deployed acreage and number of grower deployments. The 40% electricity reduction figure is per-deployment; aggregate deployment is the gap.
-- **G-031** (n=3, src=scans/2026-07-china-deepening.md:180) — Chinese agritech export to specific regions (Africa, Southeast Asia, Latin America, Pacific) by named actors. Worth surfacing.
-- **G-032** (n=2, src=scans/2026-07-china-deepening.md:181) — Chinese AI deployment at the *processing* level. JD Farm is the closest, but the broader processing-cell population in China is under-surfaced.
+- **G-031** (n=4, src=scans/2026-07-china-deepening.md:180) — Chinese agritech export to specific regions (Africa, Southeast Asia, Latin America, Pacific) by named actors. Worth surfacing.
+- **G-032** (n=4, src=scans/2026-07-china-deepening.md:181) — Chinese AI deployment at the *processing* level. JD Farm is the closest, but the broader processing-cell population in China is under-surfaced.
 
 ## Process / retail / NA
 
 - **G-033** (n=7, src=scans/2026-07-china-deepening.md:182) — Independent verification of DJI's 222M tons water saved and 30.87M tons CO2 reduced figures. Worth tracking.
 - **G-034** (n=2, src=scans/2026-07-china-deepening.md:183) — Pinduoduo Smart Agriculture Competition outcomes translated into commercial farm deployment. Worth tracking.
-- **G-035** (n=4, src=scans/2026-07-china-deepening.md:184) — Chinese rural revitalisation policy outcomes from the 2027 Plan once implemented. Forward-looking.
+- **G-035** (n=7, src=scans/2026-07-china-deepening.md:184) — Chinese rural revitalisation policy outcomes from the 2027 Plan once implemented. Forward-looking.
 - **G-036** (n=1, src=units/proprietary-farm-data.md:96) — Ag Data Transparent certified contracts vs anonymised data pool rights — gap
 - **G-037** (n=1, src=units/dark-data-agrifood.md:93) — data cooperatives / data altruism in agrifood — under-deployed in our scan
 - **G-038** (n=1, src=units/farm-data-ownership-critical.md:99) — data cooperatives / data altruism — practitioner-anchored alternative
@@ -486,3 +486,8 @@ Total gaps registered: 421
 - **G-438** (n=3, src=scans/2026-09-eu-substrate-deepening.md:158) — outcome-level evidence for EU-funded agrifood AI. The corpus now holds instrument-level data (calls, budgets, awards) but no outcome evidence — what the 117 Cluster 6 projects, the agrifoodTEF services and the Mission Soil Living Labs actually delivered.
 - **G-439** (n=3, src=scans/2026-09-eu-substrate-deepening.md:159) — whether any EU member state establishes an agrifood-specific AI regulatory sandbox track before the 2 August 2027 deadline.
 - **G-440** (n=1, src=scans/2026-09-eu-substrate-deepening.md:160) — cross-repo check between this field guide and `opensource-agrifood` on the EU layer — the July Cluster 6 scan named the agroecology partnership and the AgData/CEADS interfaces, and the open-source project's own EU-layer findings have not been reconciled with this cycle's instrument list.
+- **G-441** (n=2, src=units/china-mara-agricultural-data-resources-2026.md:76) — in China — whether the Action Plan's base-model open platform and open-source model community exist operationally
+- **G-442** (n=1, src=units/china-no1-central-document-2026-ai.md:70) — in China — whether the AI/drone/IoT/robot clause and the machinery provisions carry any quantified budget, target or named programme in ministry follow-through
+- **G-443** (n=1, src=units/china-digital-village-plan-2026-2030.md:65) — in China — the eight development indicators and twenty-four measures of the 2026–2030 plan: obtain the plan text
+- **G-444** (n=2, src=units/china-digital-village-plan-2026-2030.md:65) — in China — whether rural governance digitalisation and agricultural production digitalisation are separately measured or reported together
+- **G-445** (n=2, src=units/china-no1-central-document-2026-ai.md:70) — in China — state-farm enterprises as deployment operators
