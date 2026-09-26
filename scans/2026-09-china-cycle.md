@@ -102,7 +102,7 @@ Filled cells indicate at least one substantive unit; the July matrix's empty cel
 | Sector | Technique | Coverage after this cycle |
 |---|---|---|
 | On-farm — open field | aerial robotics | **Strong** — DJI, XAG (corrected), drift liability |
-| On-farm — open field | ground robotics | **Thin** — MARA's >300k drones and 1,000+ unmanned farms are known; the machinery units are unwritten |
+| On-farm — open field | ground robotics | **Strong** — `units/china-ground-robotics-unmanned-farms.md` (written Sept 2026 after this scan: MARA's promoted-technology catalogue with its precondition clauses, Jiangsu's 283 documented farms, Beidahuang future farms, XAG Super Cotton Field, Heilongjiang laser weeding; binding constraint is land structure, not AI) |
 | On-farm — open field | predictive ML / CV | Thin — Pinduoduo competition, Alibaba ET brain |
 | Animal production | CV / IoT | **Strong** — Muyuan, ecosystem, standards, Wens |
 | Animal production | generative AI | New — Wens AI4S (announced); HABLer (research) |
@@ -219,7 +219,7 @@ It also establishes the corpus's **reserve-and-platform-first** reading of Chine
 
 ### Future units surfaced by this scan
 
-- **Ground robotics and unmanned farms in China** — MARA's >1,000 unmanned farms across 23 provinces; the 2025 ten promoted smart-agriculture technologies; Heilongjiang's laser-weeding and driverless-transplanter "future farms"; Ningxia state-farm group's 30,000-mu programme; YTO, Lovol, Zoomlion, Weichai (material harvested and ready).
+- ~~**Ground robotics and unmanned farms in China**~~ — **written** as `units/china-ground-robotics-unmanned-farms.md` (Sept 2026). MARA's >1,000 unmanned farms across 23 provinces; the 2025 ten promoted smart-agriculture technologies; Heilongjiang's laser-weeding and driverless-transplanter "future farms"; XAG's Super Cotton Field. **Not written:** the Ningxia state-farm group's 30,000-mu programme (company/provincial claim only, unverified) and the YTO / Lovol / Weichai machinery-maker entries (no primary source surfaced). The unit's substantive correction: the binding constraint is land consolidation and infrastructure, documented in the catalogue's own precondition clauses, not AI capability.
 - **Chinese agricultural LLMs beyond fisheries** — Shennong (CAU) 4.0, Sinong (NAU) open weights, Xiongxiaonong, Gengyun, Tiangong Kaiwu, the SOE models, and the 240 m-token deployment question.
 - **State farms and provincial deployment vehicles** — Beidahuang's data-management case, the XPCC, Heilongjiang's provincial programme.
 - **China's cold chain and prepared-dish data architecture** — the distribution cell remains empty.

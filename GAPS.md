@@ -30,7 +30,7 @@ end of the range; add an intro bullet at the bottom of the surfacing
 scan using the `**G-NNN (new):** ...` format so this registry stays in
 sync (rebuild via `python scripts/build_gap_lead_registries.py`).
 
-Total gaps registered: 447
+Total gaps registered: 453
 
 ## Initial scope
 
@@ -514,3 +514,9 @@ Total gaps registered: 447
 - **G-464** (n=2, src=units/china-food-processing-smart-factories.md:73) — in China — what the MIIT smart-factory AI-scenario share actually measures, and whether any audit verifies the AI content of rated factories
 - **G-465** (n=2, src=units/china-food-processing-smart-factories.md:73) — in China — independent evaluation of Chinese processing AI outcomes: throughput, energy, defect rates at named plants
 - **G-466** (n=3, src=units/china-food-processing-smart-factories.md:73) — in China — the prepared-dish sector's data and traceability architecture, and whether processors or regulators hold the traceability data
+- **G-467** (n=2, src=units/china-ground-robotics-unmanned-farms.md:88) — The MARA primary document behind the "more than 1,000 unmanned farms across 23 provinces" February 2025 figure was not located. The figure is widely reported through secondary Chinese outlets; Jiangsu's itemised 283-farm breakdown is the corpus's best-documented anchor. Worth locating the ministry original before citing the national number as more than ministry-reported-through-secondary.
+- **G-468** (n=2, src=units/china-ground-robotics-unmanned-farms.md:89) — No independent peer-reviewed evaluation of any Chinese autonomous-machinery yield, labour-saving or input-reduction figure. The MARA promoted-technology catalogue publishes its own numbers; the ministry's new quality inspection and testing centre has not yet been used to test them. The subsidy-integrity precedent (BeiDou terminal data used in audit cases) shows the data to check this exists.
+- **G-469** (n=1, src=units/china-ground-robotics-unmanned-farms.md:90) — The rice-transplanting automation exception is unexplained. China reports automated operation for every other rice and wheat stage and excludes transplanting, which the Heilongjiang 15th Five-Year Plan simultaneously names as a flagship ("driverless rice transplanters"). Whether this is a technical difficulty, a paddy-terrain problem, or a commercial-availability gap is not resolved by any source surfaced here.
+- **G-470** (n=2, src=units/china-ground-robotics-unmanned-farms.md:91) — The two laser-weeding robot figures in circulation (HIT >95% weed recognition; HGTECH >99% recognition and >95% removal) are not comparable and neither is audited. Whether one is an iteration of the other, a different task definition, or a different evaluation protocol is unresolved.
+- **G-471** (n=1, src=units/china-ground-robotics-unmanned-farms.md:92) — XAG's Super Cotton Field management model is reported promoted to more than 2 million mu in Xinjiang, but the corpus has no independent per-mu yield or cost data for the promoted area as distinct from the original 3,000 mu demonstration block. Whether promotion reproduces demonstration yields is the substantive question.
+- **G-472** (n=1, src=units/china-ground-robotics-unmanned-farms.md:93) — Beidahuang's 30 smart-agriculture demonstration projects across 21 farms (since 2025) have no published operational outcomes — area under autonomous management, per-stage operation counts, or input figures. The state-farm carrier is named in MARA's action plan but not reported in its results.
