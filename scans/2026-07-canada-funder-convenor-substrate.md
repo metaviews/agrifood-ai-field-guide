@@ -122,7 +122,7 @@ Three structural patterns worth naming:
 
 ### 2.4 What the corpus gets from a CAAIN unit
 
-A dedicated `units/caain-portfolio.md` would let every other Canadian cycle cite CAAIN as the federal automation + AI funding stream. The unit would compress the 35+ projects into a single navigable corpus cell. It would also surface the founder-pattern and the bank-financing-gap as field-guide material — both are distinctively Canadian structural observations worth carrying into talks.
+A dedicated CAAIN unit would let every other Canadian cycle cite CAAIN as the federal automation + AI funding stream. The unit would compress the 35+ projects into a single navigable corpus cell. It would also surface the founder-pattern and the bank-financing-gap as field-guide material — both are distinctively Canadian structural observations worth carrying into talks.
 
 ---
 

@@ -68,7 +68,7 @@ The seven-co-convener pattern (multilateral institution + two regional banks + c
 ## What this unit is doing in the taxonomy
 
 Anchors the **institutional-convening multilateral layer** of the LAC cluster pattern. Distinct from:
-- USDA-NIFA / NSF AI Institutes cluster (`us-academic-research.md`, `cornell-atkinson-idsov-cluster.md`) — *NA institutional substrate*
+- USDA-NIFA / NSF AI Institutes cluster (`scans/2026-07-us-academic-research.md`, `cornell-atkinson-idsov-cluster.md`) — *NA institutional substrate*
 - WAGRI (`wagri-japan-agricultural-data-platform.md`) — *Japanese state-DPI substrate*
 - AgriStack / DAM (`india-digital-agriculture-mission-agristack.md`) — *Indian state-DPI substrate*
 - Korea Smart Farm Innovation Valley (`korea-smart-farm-innovation-valley-rda.md`) — *Korean state-anchored cluster programme*

@@ -111,7 +111,7 @@ Programmatic-breeding-AI is **the conceptual umbrella unit that sits upstream of
 - `units/brazilian-seed-ai-academic-research-led.md` (Brazilian cluster-with-three-structures pattern)
 - `units/prairie-grain-ai-cluster.md` (Saskatoon cluster, including Raven OMNiPOWER — US-multinational deployment at Canadian seed input)
 - `units/canada-academic-research-funding-stack.md` (funding stack that supports plant-breeding AI research)
-- `units/big-dutchman-poultry-precision-farming.md` or `units/ai-climate-minnesota-institute.md` (cross-region academic-research institutes that deploy similar AI-ML pipelines in adjacent sectors)
+- `ai-climate-minnesota-institute.md` (cross-region academic-research institute that deploys similar AI-ML pipelines in an adjacent sector); a Big Dutchman poultry-precision-farming equivalent has no unit yet
 - `units/plant-breeding-ai-methodology.md` (technical methodology stack — substantive 2026 academic anchor references)
 - `scans/2026-07-ai-plant-breeding-global.md` (consolidating global scan; 6 substantive regional cluster shapes; 8 substantive AI-methodology-anchor cluster shapes)
 - `units/longping-yuan-caas-china-seed-ai.md` (Chinese state-orchestrated cluster)

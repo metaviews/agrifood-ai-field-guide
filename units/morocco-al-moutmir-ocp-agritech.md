@@ -105,7 +105,7 @@ First Moroccan + Maghreb agritech AI deployment unit in the corpus. Pairs with:
 - `lebanon-agrytech-accelerator-agrismart.md` (parallel Lebanese startup-ecosystem partial-focus framework)
 - `taranis-israel-crop-intelligence.md` (Israeli venture-funded-mature companion)
 - `uae-adafsa-ai-management-certification.md` (UAE state-federal + international-standards framework comparator)
-- `scan-spain-north-africa-pillars.md` (cycle scan)
+- `scans/2026-07-spain-north-africa-pillars.md` (cycle scan)
 
 Functionally-distinct from:
 - Lebanese AgriSmart (smaller scale; accelerator-driven)

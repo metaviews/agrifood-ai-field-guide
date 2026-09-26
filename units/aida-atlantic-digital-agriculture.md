@@ -129,7 +129,7 @@ This unit is the corpus's first **academic-institute** unit for agrifood AI in A
 
 ## Links
 
-- related-units: `aiva-network.md` (AIDA is referenced as an AIVA hub), `neethirajan-dalhousie-ecosystem.md` (Neethirajan is on AIDA ecosystem), `nethirajan-dalhousie-ecosystem.md` (alias), `emili-innovation-farms.md` (companion hub), `olds-college-smart-farm.md` (companion hub), `canadian-aquaculture-ai.md` (Colombo/AIDA), `ai4food-guelph.md` (Ontario academic counterpart), `aal-dalhousie.md` (Dalhousie Faculty of Agriculture lab)
+- related-units: `aiva-network.md` (AIDA is referenced as an AIVA hub), `neethirajan-dalhousie-ecosystem.md` (Neethirajan is on AIDA ecosystem), `emili-innovation-farms.md` (companion hub), `olds-college-smart-farm.md` (companion hub), `canadian-aquaculture-ai.md` (Colombo/AIDA), `ai4food-guelph.md` (Ontario academic counterpart), `aal-dalhousie.md` (Dalhousie Faculty of Agriculture lab)
 - contested-claims: C-279 (federal AI strategy is sufficient substrate — AIDA is the Atlantic academic anchor; even with federal AIDA dead, Dalhousie-side academic substrate continues); C-287 (Atlantic Canada has no academic anchor for digital agriculture — countered by AIDA + 13 SAC members)
 - gaps: G-322 (AIDA's specific industry partnerships and deployment outcomes not publicly detailed)
 - sovereignty-flags: subtle — AIDA's acronym-collision with the federal AIDA (Bill C-27, dead); Indigenous-data-sovereignty engagement not surfaced in AIDA's primary sources

@@ -88,10 +88,10 @@ First Spain-origin agritech AI deployment unit in the corpus. Pairs with:
 - `auravant-argentina-precision-agriculture.md` (pre-existing Spanish-origin SaaS agronomy unit — *note: Argentina-origin despite Spanish-mission in name; do not confuse with Spain)*
 - `lebanon-agrytech-accelerator-agrismart.md` (parallel startup-ecosystem framework)
 - `joindata-netherlands.md` (EU cooperative-governance reference; Spain operates in EU-cluster-pattern-context but with corporate-vendor-deployment rather than cooperative-governance)
-- `kilo-argentina-irrigation.md` (Argentine irrigation AI comparison; 13% reduction is materially smaller than Ekonoke's 95%)
+- `kilimo-argentina-irrigation.md` (Argentine irrigation AI comparison; 13% reduction is materially smaller than Ekonoke's 95%)
 
 Functionally-distinct from:
-- NA-equipment-vendor units (`bayer-climate-fieldfieldview.md`, `john-deere-see-and-spray.md`): structurally similar vendor-led pattern but vertical-farming/indoor-climate-control is the structural distinction
+- NA-equipment-vendor units (`bayer-climate-fieldview.md`, `john-deere-see-and-spray.md`): structurally similar vendor-led pattern but vertical-farming/indoor-climate-control is the structural distinction
 - Israeli venture-funded agritech-startup units (`taranis-israel-crop-intelligence.md`): Israel operates at substantially larger ecosystem scale (750+ companies; 33 funding rounds >$1M 2024) than Spain (416 startups; €123M investment 2025)
 - Other corpus-controlled-environment units (`spread-techno-farm-vertical-lettuce-japan.md`, `nebotha-vertical-farming-spain-from-fanext.md` — if drafted as separate unit, vertical-farming cluster): Ekonoke hops-specific with climate-supply-chain framing
 

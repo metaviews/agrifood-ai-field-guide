@@ -53,9 +53,9 @@ The correlation between agroecology and open source is **sub-domain-dependent, n
 - `units/open-source-ai-agrifood-quantitative-panel.md` — agroecology is the AI-deployment contrast case in the quantitative panel; the panel's farmer-agency / smallholder frame is the closest field-guide anchor to agroecology's social-movement current.
 - `units/canadian-indigenous-data-sovereignty-agrifood.md` — Ruder-Wittman critical voice (data justice with agri-food movements, *Big Data & Society* 2025; *Journal of Peasant Studies* 2025; *Journal of Rural Studies* 2026 with Duncan et al.); Wittman's *Land governance for agroecology* (Elementa 2022) and *Food sovereignty* model (One Earth 2023). This is the field guide's strongest agroecology-adjacent analytical voice, but it is framed as Indigenous data sovereignty, not as an agroecology↔open-source correlation.
 - `units/open-source-in-agrifood-framework.md` — the A Growing Culture "Open Source Ethos" framing (Jan 2023) explicitly bridges software open source, scholarly open access, biological open-pollination, and traditional agricultural seed-saving — this is the field guide's existing conceptual bridge between open source and agricultural heritage, but it is framed as heritage/ethos, not as a sub-domain-correlation map.
-- `units/potato-park.md` — customary biocultural commons; the distinct-commons-shape anchor for the knowledge-sovereignty axis.
-- `units/bioleft.md` — the Argentine participatory seed commons + open data case; the strongest located bridge between a Latin American agroecological current and an open-source idiom.
-- `units/latelier-paysan.md` — the farmer-governed open-hardware case; the structural-but-fragile bridge.
+- `units/potato-park.md` — customary biocultural commons; the distinct-commons-shape anchor for the knowledge-sovereignty axis. *(Record lives in the sibling repo `opensource-agrifood/examples/records/potato-park.md`.)*
+- `units/bioleft.md` — the Argentine participatory seed commons + open data case; the strongest located bridge between a Latin American agroecological current and an open-source idiom. *(Record lives in the sibling repo `opensource-agrifood/examples/records/bioleft.md`, not in this corpus.)*
+- `units/latelier-paysan.md` — the farmer-governed open-hardware case; the structural-but-fragile bridge. *(Record lives in the sibling repo `opensource-agrifood/examples/records/latelier-paysan.md`.)*
 - EU institutional/funder scan (`scans/2026-07-eu-institutional-funder-substrate.md`) — names the agroecology partnership as a Horizon Europe Cluster 6 co-funded partnership.
 
 ## What the field guide does NOT yet have
@@ -82,6 +82,6 @@ The correlation between agroecology and open source is **sub-domain-dependent, n
 - Sievers-Glotzbach S, Tschersich J, Gmeiner N, Kliem L, Ficiciyan A (2020), "Diverse Seeds – Shared Practices: Conceptualizing Seed Commons," International Journal of the Commons 14(1):418-438, CC BY 4.0: https://thecommonsjournal.org/articles/10.5334/ijc.1043 — four Seed Commons criteria.
 - Prager I (2021), "'open source' agriculture," Agriculture and Human Values 38:947-962: https://link.springer.com/article/10.1007/s10460-021-10198-9 — general-frame mapping.
 - FAO (2020), "Scaling up agroecology to achieve the sustainable development goals": https://openknowledge.fao.org/3/ca3666en/ca3666en.pdf — names "open source data and technology" as one element.
-- This project's G-OSA-24 scan: `research/2026-08-agroecology-open-source-correlation-scan.md` in `opensource-agrifood/`.
+- This project's G-OSA-24 scan: `research/2026-08-agroecology-open-source-correlation-scan.md` in the sibling repo `opensource-agrifood/`.
 
 Not legal advice.

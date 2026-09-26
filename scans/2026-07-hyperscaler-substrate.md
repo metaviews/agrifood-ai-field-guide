@@ -486,10 +486,10 @@ Cross-references to existing units preserved as change history. Existing units t
 - `units/indigo-ag.md`
 - `scans/2026-07-us-industry-ai.md` (the originating scan that surfaced G-167)
 
-Future units surfaced by this scan (not yet written):
-- `units/alphabet-mineral-agritech-data-assets.md` (new — Alphabet X moonshot subsidiary; 10% farmland data; structurally distinct from cloud hyperscalers)
-- `units/cropin-orbitai-google-cloud-agentic-ai.md` (new — Cropin × Google Cloud agentic AI platform launched July 15, 2026)
-- `units/aws-agritech-customer-base.md` (new — consolidated AWS agritech customer footprint)
-- `units/hyperscaler-data-sovereignty-agritech-2025-2026.md` (new — Gartner/ComputerWeekly 2025-2026 critical voice)
-- `units/chinese-hyperscaler-agritech-substrate.md` (new — Alibaba Cloud, Tencent Cloud, Huawei Cloud agritech deployments; structural counterpoint to US concentration)
-- `units/foundation-model-via-hyperscaler-agritech-architecture.md` (new — Azure OpenAI / AWS Bedrock / Google Vertex AI for agritech; agentic-AI-for-food pattern)
+Future units surfaced by this scan (2 of 6 subsequently written, 4 still open):
+- `units/hyperscaler-data-sovereignty-agritech-2025-2026.md` — **written** (Gartner/ComputerWeekly 2025-2026 critical voice; the reference unit for the H/V/S-tier framework)
+- `units/chinese-hyperscaler-agritech-substrate.md` — **written** (Alibaba Cloud, Tencent Cloud, Huawei Cloud agritech deployments; structural counterpoint to US concentration)
+- `units/alphabet-mineral-agritech-data-assets.md` (open — Alphabet X moonshot subsidiary; 10% farmland data; structurally distinct from cloud hyperscalers)
+- `units/cropin-orbitai-google-cloud-agentic-ai.md` (open — Cropin × Google Cloud agentic AI platform launched July 15, 2026)
+- `units/aws-agritech-customer-base.md` (open — consolidated AWS agritech customer footprint)
+- `units/foundation-model-via-hyperscaler-agritech-architecture.md` (open — Azure OpenAI / AWS Bedrock / Google Vertex AI for agritech; agentic-AI-for-food pattern)

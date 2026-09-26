@@ -91,7 +91,7 @@ First Spain-multi-stakeholder institutional substrate unit in the corpus. Pairs 
 
 Functionally-distinct from:
 - `joindata-netherlands.md` (cooperative-governance; this unit is corporate-vendor-deployment)
-- `iraad-argentina-irrigation-ai.md` (Argentine national AI; Spain operates EU-context)
+- Argentine units: `auravant-argentina-precision-agriculture.md` (Argentine-origin SaaS agronomy), `kilimo-argentina-irrigation.md` (Argentine irrigation AI) — Argentina's *national* research-institute layer (INTA / INARIA state AI) is a distinct sub-pattern with no unit yet; Spain operates EU-context
 - `argentine-beef-electronic-traceability-senasa.md` (Argentine state-mandate; Spanish operates state-trade-promotion + accelerator + AI-strategy sub-pattern)
 
 ## Why it matters for talks

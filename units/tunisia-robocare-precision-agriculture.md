@@ -93,7 +93,7 @@ First Tunisian agritech AI deployment unit in the corpus. Pairs with:
 - `taranis-israel-crop-intelligence.md` (Israeli venture-funded-mature companion)
 - `uae-adafsa-ai-management-certification.md` (UAE state-driven companion)
 - `ekonoke-spanish-indoor-hop-hydroponics-ai.md` (Spanish-origin startup operating within EU-cluster-pattern)
-- `scan-spain-north-africa-pillars.md` (cycle scan)
+- `scans/2026-07-spain-north-africa-pillars.md` (cycle scan)
 
 Functionally-distinct from:
 - Lebanese AgriSmart (smaller scale; accelerator-driven; Arabic-language WhatsApp specific)

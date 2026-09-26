@@ -90,7 +90,7 @@ AAL is the **Dalhousie critical-voice lab unit**. Complements:
 
 ## Links
 
-- related-units: `aida-atlantic-digital-agriculture.md` (Dalhousie co-location), `ai4food-guelph.md` (Ontario counterpart), `neethirajan-dalhousie-ecosystem.md` (Dalhousie colleague), `cansia-canada-ai-governance.md` (regulatory substrate context)
+- related-units: `aida-atlantic-digital-agriculture.md` (Dalhousie co-location), `ai4food-guelph.md` (Ontario counterpart), `neethirajan-dalhousie-ecosystem.md` (Dalhousie colleague), `canadian-ai-deployment-regulatory-absence.md` (regulatory substrate context)
 - contested-claims: C-279 (federal AI strategy sufficient — countered by Charlebois data-deficit framing); C-281 (RAII uniformly available — consumer-facing AAL outputs are an adoption-side counterpart)
 - gaps: G-324 (new): AAL's specific AI-technique deployment projects are not surfaced in primary sources; AAL's substantive contribution is the data-deficit critical voice, not AI technique deployment
 - sovereignty-flags: implicit — Dalhousie is a Canadian institution; AAL is the Canadian agri-food-policy media voice
