@@ -1,6 +1,6 @@
 ---
 id: open-source-ai-agrifood-quantitative-panel
-title: "Agrifood AI quantitative panel — Mozilla State of Open Source AI 2026 + Pennells 2025 + EPRS 2023 + Stanford AI Index 2025 + McFadden 2024 + IFPRI GAIA; closing G-356 substantively with what exists, preserving G-366..G-371 where the literature does not carry"
+title: "Agrifood AI quantitative panel — Mozilla State of Open Source AI 2026 + Pennells 2025 + EPRS 2023 + Stanford AI Index 2025 + 2026 + McFadden 2024 + IFPRI GAIA; closing G-356 substantively with what exists, preserving G-366..G-371 where the literature does not carry"
 sector-position: (cross-cutting — methodology / quantitative anchor / state-of-art panel)
 ai-technique-class: (cross-cutting)
 purpose: governance (cross-cutting empirical anchor for any talk about open-source / vendor / multilateral / public-investment activity); research and discovery (bibliometric + adoption-rate + public-investment + market-size aggregation)
@@ -16,9 +16,9 @@ data-governance: (not applicable — methodology)
 data-rights-framework: (not applicable — methodology)
 maturity-scale: (not applicable — framework)
 maturity-verification: V2 (Pennells + EPRS + Stanford + McFadden + GAO + Mozilla + IFPRI primary-source anchored; vendor-aggregator figures flagged as C-321)
-maturity-longevity: L1 (first iteration, July 2026; substantive refresh trigger when Pennells v2 / Stanford AI Index 2026 / Mozilla State of Open Source AI 2027 land)
+maturity-longevity: L1 (July 2026; first refresh pass 2026-10 — Stanford AI Index 2026 landed 13 Apr 2026 and was pulled into this unit (adoption row, sectoral-disaggregation finding and public-investment chapter updated in place); remaining triggers Pennells v2 and Mozilla State of Open Source AI 2027)
 maturity-translation: T2 (applied to archetype 07 + Mozilla 2026 unit + corpus status / VISION.md)
-last-verified: 2026-07
+last-verified: 2026-10
 last-regionally-scanned: 2026-07
 builds_on: scans/2026-07-open-source-ai-agrifood-quantitative-panel.md
 ---
@@ -53,12 +53,15 @@ The literature uses six distinct empirical currents to measure activity in AI + 
 
 **Limit.** Bibliometric is not deployment. The post-2019 surge is a *rising-temperature* indicator; it does not measure farms, processors, or retailers actually using AI.
 
-### Current B — Adoption-rate / deployment-survey (Stanford AI Index 2025 + Atlanta Fed 2026 + McFadden 2024 / GAO 2024 + EPRS 2023 / Tracxn 2022)
+### Current B — Adoption-rate / deployment-survey (Stanford AI Index 2025 → 2026 + Atlanta Fed 2026 + McFadden 2024 / GAO 2024 + EPRS 2023 / Tracxn 2022)
 
-**Anchor:** Stanford AI Index 2025; Allen / Atlanta Fed 2026; McFadden 2024 / USDA Economic Research Service; GAO-24-105962; EPRS 2023 / Tracxn 2022.
+**Anchor:** Stanford AI Index 2025 (adoption figure superseded by the 2026 edition, pulled 2026-10); Allen / Atlanta Fed 2026; McFadden 2024 / USDA Economic Research Service; GAO-24-105962; EPRS 2023 / Tracxn 2022.
 
 **Substantive figures (multi-source, retrieved as primary source):**
-- **Stanford AI Index 2025:** AI-firm adoption 78% of organisations; sectoral disaggregation shows *agriculture among lowest-AI-adoption sectors* (per Federal Reserve / Allen 2026). Public AI investment by country (2024): Canada $2.4B / China $47.5B (semis) / France €109B / India $1.25B / Saudi $100B.
+- **Stanford AI Index, 2025 → 2026 edition (9th, published 13 April 2026; pulled 2026-10).**
+  - *Organisational AI adoption (McKinsey survey, AI in at least one business function):* **78% in 2024 → 88% in 2025** (2026 ed. Fig 4.3.1). Generative AI in at least one business function: **79%** in the chapter body text against **70%** in the same chapter's highlight — the report disagrees with itself; cite the body figure and flag it if the number is load-bearing.
+  - *Sectoral disaggregation — still no agrifood.* Figure 4.3.3 reports adoption by McKinsey industry category; **agriculture appears nowhere as a category.** It sits inside the "Energy and materials" bucket together with chemicals, electric power and natural gas, metals and mining, oil and gas, paper/forest products and packaging. So condition (c) in the Freshness section below — "Stanford AI Index 2026 lands with sectoral agrifood disaggregation" — was **checked on 2026-10 and is not met.** G-366..G-371 stay open on this trigger.
+  - *Public investment.* The 2025 edition's country series (2024 data: Canada $2.4B / China $47.5B semis / France €109B / India $1.25B / Saudi $100B) is not restated; the 2026 edition reports cumulative **government contracts and grants** instead: US ~$20.4B and Europe ~$3.7B over 2013–24 (UK $1.6B, Germany $505M, France $320M), plus **USDA holding 3.4% of US federal AI-related grant funding in 2024** (Fig 8.5.7, having peaked at 9.7% in 2020) — the closest the report comes to an agriculture figure. It is a share of federal grant funding, not an agrifood AI investment total.
 - **McFadden 2024 / USDA ERS:** **27% of US farms** adopted precision-agriculture (broader than AI) as of 2023; adoption substantially higher on large farms, substantially lower on small farms.
 - **GAO-24-105962:** confirms the 27% US precision-ag adoption at the USDA-anchored stratum.
 - **EPRS 2023 / Tracxn 2022:** AI-in-agriculture startups by country — USA 175 / UK 39 / Israel 36 / NL 27 / Brazil 23 / France 19.
@@ -208,8 +211,8 @@ The field guide's Africa + China + LAC + Canada + EU cycles have *deployment-sid
 | Publication output (review count) | 213 reviews (Pennells 2025) | Disaggregated by AI technique | Pennells partial |
 | Country distribution of food-AI research | 35+18+6+5+5+5 (Pennells) | Country × technique, country × purpose | Pennells partial |
 | US farm-level precision-ag adoption | 27% (GAO 2024) | AI-specific subset | Stratified by farm size (McFadden) |
-| General-AI adoption (firms) | 78% (Stanford 2025) | Agrifood-specific carve-out | Federal Reserve: agriculture among lowest |
-| Public AI investment by country | Canada / China / France / India / Saudi | Agrifood carve-out | Stanford AI Index; partial via substrate scan |
+| General-AI adoption (firms) | 78% in 2024 (2025 ed.) → **88% in 2025 (2026 ed. Fig 4.3.1)** | Agrifood-specific carve-out — still absent; agriculture folded into "Energy and materials" (Fig 4.3.3) | Federal Reserve: agriculture among lowest |
+| Public AI investment by country | Canada / China / France / India / Saudi (2024, 2025 ed.); cumulative US $20.4B + Europe $3.7B government contracts 2013–24, USDA 3.4% of federal AI grants 2024 (2026 ed. ch. 8.5) | Agrifood carve-out — USDA share is a share of federal grants, not an agrifood AI total | Stanford AI Index 2025 + 2026; partial via substrate scan |
 | Market-size aggregator | $2.43B–$4.7B baseline; $8.5B–$77B forecast; 9× spread | Open methodology; panellable figure | Vendor-aggregator only (flagged C-321) |
 | Open-source AI adoption | 89% East Asia (Mozilla) | Agrifood-specific deployment rate | G-356 + G-367 |
 | Vendor-tier breakdown | Tracxn 175 US startups | Deployment scale + revenue capture by tier | G-368 |
@@ -227,7 +230,7 @@ These are the named cells where the panel framework *wants* a figure but the lit
 - **G-367** — *agrifood-AI adoption rate by sector-position × farm size.* McFadden 2024 gives US precision-ag (27%) stratified by farm size; no equivalent for *AI specifically* or for processing / distribution / retail / consumption.
 - **G-368** — *agrifood-AI revenue capture by vendor tier (open vs proprietary).* Mozilla 2026 has 4% revenue capture for open AI; the agrifood-specific vendor-tier breakdown (OpenAI / Anthropic / Cohere / Mistral agrifood revenue vs agrifood vendor revenue from open-source like Microsoft FarmVibes.AI + OMB) is not surveyed.
 - **G-369** — *Published agrifood-AI deployment-scale metrics by farm size × region.* McFadden 2024 gives US precision-ag; the cross-country panel (US / China / Brazil / EU / Africa / India / Canada farm-level adoption rates by farm-size quintile) does not exist as a single published survey.
-- **G-370** — *Public-investment in open-source AI in agrifood specifically.* Stanford AI Index 2025 gives Canada $2.4B / China $47.5B semis / France €109B / India $1.25B / Saudi $100B as aggregate national AI investments; the *agrifood carveout* is not available at the same granularity for any of these.
+- **G-370** — *Public-investment in open-source AI in agrifood specifically.* Stanford AI Index 2025 gives Canada $2.4B / China $47.5B semis / France €109B / India $1.25B / Saudi $100B as aggregate national AI investments; the *agrifood carveout* is not available at the same granularity for any of these. **2026-10 partial advance:** AI Index 2026 ch. 8.5 puts **USDA at 3.4% of US federal AI-related grant funding in 2024** (9.7% in 2020, 3.9% in 2023) — a department-level share, not an agrifood AI spend, and not comparable to the country totals above; it narrows the question rather than closing it.
 - **G-371** — *IFPRI Jones-Garcia 2026 framework for responsible GAI in agricultural extension — quantitative assessment.* Jones-Garcia 2026 paper presents the C-H-A-T framework and argues for participatory design; a quantitative panel (number of agricultural extension programmes using GAI by region × by 2027) is not yet specified.
 
 ## Substantive synthesis (closing G-356 substantively with what exists; preserving G-366..G-371 as gaps)
@@ -238,7 +241,7 @@ The substantive state of the panel is *partially populated, structurally honest,
 
 ### Three substantive findings
 
-1. **The six aggregation currents are not interchangeable.** Mixing Stanford's 78% AI-firm adoption with Pennells's 213-review count with McFadden's 27% US precision-ag with Mozilla's 89% East Asia adoption would produce a *non-comparable composite* — not a panel. Each current measures a different thing at a different level. The panel keeps them separate.
+1. **The six aggregation currents are not interchangeable.** Mixing Stanford's 88% AI-firm adoption (2025 data) with Pennells's 213-review count with McFadden's 27% US precision-ag with Mozilla's 89% East Asia adoption would produce a *non-comparable composite* — not a panel. Each current measures a different thing at a different level. The panel keeps them separate.
 
 2. **The market-size aggregator (Current C) is not load-bearing evidence.** It is *funding-side* evidence; it tracks consultants' revenue model, not deployment. The 9× forecast spread is a structural signal that the market-size aggregators cannot agree on basics. Worth surfacing this to any audience that arrives expecting "$77B by 2036" headlines as evidence.
 
@@ -269,14 +272,14 @@ The substantive state of the panel is *partially populated, structurally honest,
 
 - **Pennells et al. 2025:** substantive empirical scan; substantively stable but a 2026+ update would refresh the bibliometric count. Re-verify biennially.
 - **EPRS 2023:** substantive policy / market scan. Re-verify when EU publishes the next study.
-- **Stanford AI Index 2025:** annual release; AI Index 2026 due Q1 2026 — substantive refresh trigger. Re-verify annually.
+- **Stanford AI Index:** 2026 edition (9th) published 13 April 2026 and **pulled on 2026-10** — adoption row (78% → 88%), the sectoral-disaggregation finding, and the public-investment figures above are updated in place. Next trigger: AI Index 2027 (expected Q1 2027). Re-verify annually.
 - **Mozilla State of Open Source AI 2026:** annual release; the inaugural report. Re-verify at next annual cycle.
 - **McFadden 2024 / GAO 2024:** US-precision-ag anchor; USDA ERS publishes periodic farm-management-practice surveys. Re-verify every 2 years.
 - **IFPRI GAIA:** ongoing; new publications quarterly. Re-verify annually.
-- **G-366..G-371:** carried-forward gaps. *Re-verify* when (a) a Mozilla State of Open Source AI 2027 lands with agrifood-specific carveout, *or* (b) Pennells 2026+ lands with disaggregation by AI technique, *or* (c) Stanford AI Index 2026 lands with sectoral agrifood disaggregation, *or* (d) IFPRI GAIA publishes a quantitative deployment panel.
+- **G-366..G-371:** carried-forward gaps. *Re-verify* when (a) a Mozilla State of Open Source AI 2027 lands with agrifood-specific carveout, *or* (b) Pennells 2026+ lands with disaggregation by AI technique, *or* (c) Stanford AI Index 2026 lands with sectoral agrifood disaggregation — **checked 2026-10, not met**: Fig 4.3.3 has no agriculture category (agriculture sits inside "Energy and materials" alongside chemicals and mining), so (c) rolls to AI Index 2027, *or* (d) IFPRI GAIA publishes a quantitative deployment panel.
 
 ## Why this matters for the methodology
 
 This unit is the **methodology-layer empirical anchor** the substrate scan's G-356 called for. It is *not* a survey of agrifood AI activity (that would be a vendor-catalog or market-aggregator framing); it is *the cross-cutting empirical panel that the corpus's anchor units cite back to.* Every other unit that names a "33%" or "89%" or "27%" figure now cites back to this unit for the panel context.
 
-The substantive state of the panel — partially populated, structurally honest, named where it is not — is the load-bearing methodological discipline. Mozilla 2026's 33% / 4% / 89% figures are AI-ecosystem-wide, not agrifood-specific. McFadden 2024's 27% is US precision-ag, not AI specifically. Stanford's 78% is firm-level, not agrifood-specific. Pennells's 213 is reviews, not deployment. EPRS's 175 US startups is company-count, not deployment-scale. Each current measures a different thing at a different level. The panel keeps them separate.
+The substantive state of the panel — partially populated, structurally honest, named where it is not — is the load-bearing methodological discipline. Mozilla 2026's 33% / 4% / 89% figures are AI-ecosystem-wide, not agrifood-specific. McFadden 2024's 27% is US precision-ag, not AI specifically. Stanford's 88% (2025 data) is firm-level, not agrifood-specific — and AI Index 2026 still publishes no agriculture category at all. Pennells's 213 is reviews, not deployment. EPRS's 175 US startups is company-count, not deployment-scale. Each current measures a different thing at a different level. The panel keeps them separate.

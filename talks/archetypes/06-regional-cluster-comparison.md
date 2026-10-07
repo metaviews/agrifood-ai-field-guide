@@ -79,7 +79,7 @@ This is the Japan+Korea cycle's distinguishing observation. Both countries face 
 - Anchor unit: `units/japan-korea-agrifood-ai-pattern.md`.
 
 **Korea pattern (state-anchored cluster programme):**
-- Drivers: Smart Farm Innovation Valley (4 sites Sangju/Gimje/Milyang/Goheung); *Act on Fostering and Supporting Smart Farming* with 30%-by-2027 target; ioCrops (Korea-origin exporting globally); Daedong AI Lab (H1 2026 L4 tractor release).
+- Drivers: Smart Farm Innovation Valley (4 sites Sangju/Gimje/Milyang/Goheung); *Act on Fostering and Supporting Smart Farming* with 30%-by-2027 target; ioCrops (Korea-origin exporting globally); Daedong AI Lab (HX1400-AI / HX1200 AI released April 2026; RDA new-technology designation Sept 2026).
 - State role: RDA + MAFRA anchor the cluster programme; FAO Digital Villages Initiative recognises Sangju; Smart Farmland Distribution Centers scaling 14 → 26 → planned 100.
 - Vendor participation: ioCrops, Daedong AI Lab — but state leads, vendors participate.
 - Anchor unit: `units/japan-korea-agrifood-ai-pattern.md`.
@@ -202,11 +202,11 @@ These are the working questions of the cluster-pattern spine. They are how the t
 
 ## Freshness check
 
-- Japan+Korea cycle: 2026-07 verification trigger dates include H1 2026 Daedong L4 tractor release + Q4 2026 MAFRA 30% measurement + Spread Techno Farm Narita operational status.
+- Japan+Korea cycle: 2026-07 verification trigger dates: H1 2026 Daedong L4 tractor release — **confirmed** (released April 2026, RDA-designated 1 Sept 2026, verified 2026-10); Q4 2026 MAFRA 30% measurement — still open; Spread Techno Farm Narita operational status — still open.
 - India cycle: Cropin OrbitAI agentic AI on Google Cloud + MCP server launch (2026-07-14) is the freshest corpus signal; re-check at next quarterly.
 - China deepening: scan context established 2026-07; verify at next yearly cadence.
 - NA consumption cycle: archetypes 01-05 cross-references current; verify at next talk-assembly.
-- Quantitative-panel (`units/open-source-ai-agrifood-quantitative-panel.md`): first-iteration methodology; refresh trigger when Stanford AI Index 2026 / Mozilla State of Open Source AI 2027 / McFadden 2026 / Pennells v2 land. Six panel rows (G-366..G-371) carry forward as named corpus gaps.
+- Quantitative-panel (`units/open-source-ai-agrifood-quantitative-panel.md`): first-iteration methodology; refresh pass 2026-10 pulled Stanford AI Index 2026 (adoption 78% → 88%; no agriculture category published, so the agrifood carve-out gap stays open). Remaining triggers: Mozilla State of Open Source AI 2027 / McFadden 2026 / Pennells v2. Six panel rows (G-366..G-371) carry forward as named corpus gaps.
 
 ## Substitutions
 

@@ -144,7 +144,7 @@ Before delivering this talk, re-verify the freshness of these anchor units (each
 - `units/loblaw-pcxpress-chatgpt.md` — confirm ChatGPT integration still live.
 - `units/dji-agriculture-global-export.md` — confirm deployment figures.
 - `units/lely-astronaut.md` — confirm unit count (was 50,000 across 50 countries).
-- `units/open-source-ai-agrifood-quantitative-panel.md` — first-iteration methodology; substantive refresh trigger when Pennells v2 / Stanford AI Index 2026 / Mozilla State of Open Source AI 2027 / McFadden 2026 land. Re-verify at next annual cycle. Six panel rows (G-366..G-371) carry forward as named corpus gaps.
+- `units/open-source-ai-agrifood-quantitative-panel.md` — first-iteration methodology; refresh pass 2026-10 pulled Stanford AI Index 2026 (landed 13 Apr 2026 — organisational adoption 78% → 88%, and still no agriculture category published, so the agrifood carve-out gap stays open). Remaining triggers: Pennells v2 / Mozilla State of Open Source AI 2027 / McFadden 2026. Re-verify at next annual cycle. Six panel rows (G-366..G-371) carry forward as named corpus gaps.
 
 ## Substitutions
 

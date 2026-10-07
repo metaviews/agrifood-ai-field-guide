@@ -123,8 +123,8 @@ Total gaps registered: 453
 - **G-076** (n=2, src=units/japan-korea-agrifood-ai-pattern.md:146) — G-074 — Spread Co. Techno Farm Narita operational date
 - **G-077** (n=6, src=units/japan-korea-agrifood-ai-pattern.md:104) — The Korean post-harvest / processing AI layer is unverified.** G-077 captures this. The Korean cluster's CEA focus is real; the absence of Cargill-CarVe-equivalent processing AI in Korean meat pro
 - **G-078** (n=4, src=units/japan-korea-agrifood-ai-pattern.md:106) — The Korean post-harvest / processing AI layer is unverified.** G-077 captures this. The Korean cluster's CEA focus is real; the absence of Cargill-CarVe-equivalent processing AI in Korean meat pro
-- **G-079** (n=7, src=units/daedong-ai-lab-korean-agriculture.md:118) — (Kubota Agri Concept 2.0 / Yanmar SMARTPILOT — future supporting units not drafted in this cycle; cross-refs to be completed at kubota + yanmar unit drafting.)*
-- **G-080** (n=2, src=units/daedong-ai-lab-korean-agriculture.md:117) — (Kubota Agri Concept 2.0 / Yanmar SMARTPILOT — future supporting units not drafted in this cycle; cross-refs to be completed at kubota + yanmar unit drafting.)*
+- **G-079** (n=7, src=units/daedong-ai-lab-korean-agriculture.md:130) — Korean NACF / NongHyup agrifood-data platform product — whether Daedong's vendor data strategy has a cooperative counterpart in the Korean market.
+- **G-080** (n=3, src=units/daedong-ai-lab-korean-agriculture.md:129) — release verification is done — April 2026 launch plus the 1 Sept 2026 RDA designation. The open half is deployment volume and named customers, still absent from primary sources.
 - **G-081** (n=2, src=scans/2026-07-china-deepening.md:186) — Independent identification of WAICO operational secretariat structure, named agriculture-vertical lead, and member-state implementation plans. At signing date (16-17 July 2026), no agriculture-vertical secretary, named secretariat, or member-state implementation plan is publicly disclosed.
 - **G-082** (n=2, src=scans/2026-07-china-deepening.md:187) — Independent verification of Xi's "5,000 AI research projects" capacity-building announcement; vertical distribution (agriculture's share) and delivery timeline unverified.
 - **G-083** (n=3, src=scans/2026-07-china-deepening.md:188) — Independent verification of member-state WAICO implementation, particularly for the agriculture sector in the founding 29 states.
@@ -423,13 +423,13 @@ Total gaps registered: 453
 - **G-355** (n=2, src=scans/2026-07-ai-plant-breeding-global.md:238) — Substantive farmer-led + Indigenous-led seed-network governance integration into AI plant-breeding pipelines substantively sparse.
 - **G-356** (n=34, src=units/open-source-ai-agrifood-quantitative-panel.md:28) — the substrate-scan's call for an agrifood-specific quantitative panel
 - **G-357** (n=1, src=scans/2026-07-open-source-ai-agrifood-quantitative-panel.md:546) — 3. **Productivity impact at scale for AI vs non-AI farms.** McFadden 2024 gives precision-ag adoption; the *productivity impact conditional on adoption* (yield, input reduction, labour hours) requires
-- **G-360** (n=2, src=units/open-source-ai-agrifood-quantitative-panel.md:183) — | Revenue capture open vs closed | 4% | **Not surveyed** | G-368 — gap |
-- **G-366** (n=14, src=units/open-source-ai-agrifood-quantitative-panel.md:3) — id: open-source-ai-agrifood-quantitative-panel
-- **G-367** (n=10, src=units/open-source-ai-agrifood-quantitative-panel.md:151) — | On-farm × precision-ag adoption US (2023) | **27% of US farms** | GAO-24-105962 | USDA-anchored direct |
-- **G-368** (n=6, src=units/open-source-ai-agrifood-quantitative-panel.md:180) — | Capability gap open vs closed (frontier) | 3.3% (Mar 2026) | **Not surveyed** | G-366 — gap |
-- **G-369** (n=4, src=units/open-source-ai-agrifood-quantitative-panel.md:229) — Published agrifood-AI deployment-scale metrics by farm size × region.* McFadden 2024 gives US precision-ag; the cross-country panel (US / China / Brazil / EU / Africa / India / Canada farm-level adoption rates by farm-size quintile) does not exist as a single published survey.
-- **G-370** (n=7, src=units/open-source-ai-agrifood-quantitative-panel.md:99) — Stance.** Public-investment / capacity-build measures activity by *public investment in AI as strategic infrastructure*. It is a *funding-side* reading with institutional-capacity implications.
-- **G-371** (n=13, src=units/open-source-ai-agrifood-quantitative-panel.md:3) — id: open-source-ai-agrifood-quantitative-panel
+- **G-360** (n=2, src=units/open-source-ai-agrifood-quantitative-panel.md:186) — | Revenue capture open vs closed | 4% | **Not surveyed** | G-368 — gap |
+- **G-366** (n=15, src=units/open-source-ai-agrifood-quantitative-panel.md:3) — id: open-source-ai-agrifood-quantitative-panel
+- **G-367** (n=10, src=units/open-source-ai-agrifood-quantitative-panel.md:154) — | On-farm × precision-ag adoption US (2023) | **27% of US farms** | GAO-24-105962 | USDA-anchored direct |
+- **G-368** (n=6, src=units/open-source-ai-agrifood-quantitative-panel.md:183) — | Capability gap open vs closed (frontier) | 3.3% (Mar 2026) | **Not surveyed** | G-366 — gap |
+- **G-369** (n=4, src=units/open-source-ai-agrifood-quantitative-panel.md:232) — Published agrifood-AI deployment-scale metrics by farm size × region.* McFadden 2024 gives US precision-ag; the cross-country panel (US / China / Brazil / EU / Africa / India / Canada farm-level adoption rates by farm-size quintile) does not exist as a single published survey.
+- **G-370** (n=7, src=units/open-source-ai-agrifood-quantitative-panel.md:102) — Stance.** Public-investment / capacity-build measures activity by *public investment in AI as strategic infrastructure*. It is a *funding-side* reading with institutional-capacity implications.
+- **G-371** (n=14, src=units/open-source-ai-agrifood-quantitative-panel.md:3) — id: open-source-ai-agrifood-quantitative-panel
 - **G-375** (n=12, src=units/canadian-migrant-farmworkers-agtech-surveillance.md:92) — SAWP + AI deployment data
 - **G-379** (n=1, src=units/canadian-ai-deployment-regulatory-absence.md:112) — Per global cycle's `scans/2026-07-ai-and-labour.md` §6.3:
 - **G-385** (n=7, src=units/canadian-ai-deployment-regulatory-absence.md:147) — UFCW Canada formal position on AI deployment

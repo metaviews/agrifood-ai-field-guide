@@ -1,11 +1,11 @@
 ---
 id: daedong-ai-lab-korean-agriculture
-title: Daedong AI Lab — Three-Core-AI-Domains strategy for Korean agriculture (Mobility / Operations / Cultivation) + L4 autonomous tractor H1 2026
+title: Daedong AI Lab — Three-Core-AI-Domains strategy for Korean agriculture (Mobility / Operations / Cultivation) + L4 autonomous tractor released April 2026
 sector-position: on-farm-production-open-field, on-farm-production-protected, animal-production
 ai-technique-class: computer-vision, predictive-ml, generative-ai-llms, robotics-autonomy-ground
 purpose: yield-optimisation, worker-conditions, input-reduction, market-access
-claim-type: example (announced deployment) + framework (three-AI-domains strategy)
-activity-status: piloting (L4 tractor release scheduled H1 2026; RT-100 transport robot launched Feb 2025)
+claim-type: example (released deployment) + framework (three-AI-domains strategy)
+activity-status: deployed (HX1400-AI + HX1200 AI released in Korea April 2026 and reported in field use from launch; RDA new-technology designation Sept 1 2026; RT-100 transport robot launched Feb 2025)
 critical-voice: (none directly — vendor framing dominates; "AI transformation in Korean agriculture" is Daedong's stated frame, not a critical-voice subtype)
 capital-intensity: industrial (Korean agricultural-machinery major; AI software subsidiary founded 2024)
 language-literacy-profile: standard-smartphone (AI Daedongi chatbot)
@@ -15,11 +15,11 @@ actor: 'Daedong Group (Co-CEOs Kim Jun-sik and Won Yu-hyun) — operating throug
 actor-type: vendor
 data-governance: proprietary (Daedong's training data — 500K images, 3M driving-video samples)
 data-rights-framework: vendor-owned
-maturity-scale: S1 (announced/piloting; flagship L4 tractor H1 2026 not yet released at retrieval date July 2026; RT-100 transport robot Feb 2025 already deployed but deployment volume not publicly named)
-maturity-verification: 'V0 (vendor self-statement: 500K image / 3M video dataset described as "the largest agricultural dataset in Korea"; product launches confirmed; deployment numbers not in primary sources)'
-maturity-longevity: L1 (first-generation AI Lab (founded 2024); multi-product AI portfolio being developed; H1 2026 L4 release is the key verification trigger)
+maturity-scale: S1 (commercial release April 2026 with reported field use by professional farmers and agricultural corporations; unit volume not publicly named, so the grade is held at S1 rather than promoted to S2; RT-100 transport robot Feb 2025 deployed, volume also unnamed)
+maturity-verification: 'V0 (vendor self-statement: 500K image / 3M video dataset described as "the largest agricultural dataset in Korea"; launch and RDA designation confirmed by the primary company release of 1 Sept 2026; no named customers and no third-party deployment numbers in any source)'
+maturity-longevity: L1 (first-generation AI Lab (founded 2024); L4 tractor released April 2026, first OTA update Aug 2026, RDA designation Sept 2026; multi-product AI portfolio still first-generation)
 maturity-translation: 'T2 (institutional pathway: Korea Institute of Agricultural Technology Promotion, MAFRA, Saemangeum Agro-Bio Complex demonstration project; Doosan Robotics partnership Oct 2025)'
-last-verified: 2026-07
+last-verified: 2026-10
 last-regionally-scanned: 2026-07
 
 
@@ -33,9 +33,9 @@ last-regionally-scanned: 2026-07
 
 On **July 17, 2025**, Daedong AI Lab held a media briefing at the Daedong Seoul Office to present the company's development strategy for **three core agricultural AI domains**:
 
-| Domain | What it does | Status (July 2026) |
+| Domain | What it does | Status (Oct 2026) |
 |---|---|---|
-| **Mobility AI** | Vision-based autonomous driving for agricultural machinery; replaces GPS-bound with vision-bound autonomy ("GPS-based autonomy has clear limitations when it comes to recognising field boundaries or responding to obstacles") | Trained on ~500,000 orchard/field images + ~3M driving-video samples; "the largest agricultural dataset in Korea" (Daedong self-statement). L4 tractor scheduled H1 2026. |
+| **Mobility AI** | Vision-based autonomous driving for agricultural machinery; replaces GPS-bound with vision-bound autonomy ("GPS-based autonomy has clear limitations when it comes to recognising field boundaries or responding to obstacles") | Dataset stated as ~500,000 orchard/field images + ~3M driving-video samples at the July 2025 briefing, and as "5 million-plus images" in the Sept 2026 release — both Daedong self-statements, not reconciled in primary sources. HX1400-AI (142 hp) and HX1200 AI (127 hp) released in Korea April 2026; RDA new-technology designation Sept 1 2026. |
 | **Operations AI** | LLM-based chatbot "AI Daedongi" expanding to Agentic AI capabilities | In development / public demo available; commercial deployment timeline not in primary sources |
 | **Cultivation AI** | Crop-specific AI cultivation tech for predicting crop growth and recommending optimal strategies | In development |
 
@@ -44,12 +44,22 @@ The stated goal is to lead Korea's agricultural sector through a full-scale "AI 
 **Key products and dates:**
 
 - **RT-100 transport robot** — launched **February 2025** — "Korea's first government-certified autonomous transport robot for agricultural applications." Fully electric, zero-emission. (Korean government certification per the Korea Institute of Agricultural Technology Promotion and MAFRA.)
-- **Flagship tractor with Level 4 autonomy** — scheduled for release in the **first half of 2026** ("the company's goal is to become a leading agricultural AI specialist by realising what it calls 'AI-powered future farming'").
+- **Flagship tractor with Level 4 autonomy — released April 2026.** HX1400-AI (142 hp) and HX1200 AI (127 hp); six-camera vision AI plus precision positioning; "A-Motion Easy Mode" route setup from A-B straight lines, curved paths or azimuth bearings. Designated a **new-technology agricultural machine by the Rural Development Administration on 1 September 2026** for its vision-AI-based Level 4 autonomous tractor platform (vision-AI recognition model + app-based remote control of autonomous work). The designation carries priority purchase by local governments and public agencies, subsidy and loan support, and preferential public procurement. Daedong frames it as Korea's first commercial L4 autonomous-work tractor.
 - **RT-100 AI-Powered Voice Edition** — announced subsequent (Korean-language AI interface).
 
 **Doosan Robotics + Daedong partnership (Oct 2025).** Daedong and Doosan Robotics partnered to design and manufacture an autonomous mobile platform that uses agricultural field data and integrates field operations — combining Doosan's robotic-arm engineering with Daedong's agricultural-machinery heritage.
 
 **Saemangeum Agro-Bio Complex demonstration H2 2025.** Daedong AI Lab planned precision-farming demonstrations at Saemangeum (Seoul-Jeollabuk-do reclaimed land designated for high-tech agriculture) — satellite data collection, drone swarm flights, smart attachments. Government support via the "Agricultural Robot Demonstration Support Project" led by the Korea Institute of Agricultural Technology Promotion and MAFRA's precision-farming policy at Saemangeum.
+
+
+**Release confirmation and market follow-through (April-October 2026).** The July 2026 retrieval had the release as imminent; it has since happened and been followed by three datable events:
+
+- **April 2026 — domestic launch.** Since release the machine has been used by professional farmers and agricultural corporations for paddy and dry-field plowing, rotary tilling and ridge making. Daedong's stated effect is reduced operator fatigue and reduced dependence on skilled workers — the labour-substitution reading is the vendor's own, not an independent finding.
+- **August 2026 — first OTA update**, adding autonomous-work convenience features. Daedong frames the product line as a **Software Defined Tractor (SDT)** running an MLOps loop: field data captured after launch feeds training and validation, improved models ship over the air, no hardware replacement.
+- **1 September 2026 — RDA new-technology agricultural machine designation** (see Key products above). Daedong's development-division head framed the intent as moving Korean farm operations from one that depended on the experience and concentration of skilled workers to an AI-centred one — a direct statement of the substitution claim, from the vendor side.
+- **6 October 2026 — free customer test-ride programme at 29 dealerships**, running to year-end, for both HX models. Daedong's domestic business head Choi Hyung-woo said customer criteria are shifting from mechanical performance to real-world work efficiency and how well the technology can be put to use. The programme exists because purchase decisions on autonomous equipment are not settled by spec sheets — evidence of an early, contested market rather than a settled one.
+
+None of this is accompanied by unit sales, fleet counts or named customers. Six months after launch the volume question is still unanswered.
 
 ## What this unit is doing in the taxonomy
 
@@ -73,7 +83,7 @@ The stated goal is to lead Korea's agricultural sector through a full-scale "AI 
 
 **Data governance / rights.** `proprietary` / `vendor-owned` — Daedong's training data is the company's competitive infrastructure.
 
-**Maturity grade.** Announced / piloting. The H1 2026 L4 tractor release is the verification trigger — at retrieval date (July 2026), the release is imminent or recent, but confirmation should be sought. The unit's maturity scale should be **re-tagged** based on the H1 2026 release outcome.
+**Maturity grade.** `activity-status: deployed` (commercial release, in field use); `maturity-scale: S1` and `maturity-verification: V0` held. The July 2026 scan wrote the promotion rule as "confirm at release, then promote S1 to S2 with V1 vendor-customer naming." The release half is now satisfied; the naming half is not — Daedong publishes no unit volumes and names no customers, so S2 (hundreds to low thousands) and V1 (named customers) are not earned by the evidence. Re-tag when sales or customer names appear in a primary source.
 
 ## Why it matters for talks
 
@@ -96,7 +106,9 @@ Three secondary presentations:
 
 ## Critical context
 
-- **H1 2026 L4 tractor release is the verification trigger.** At retrieval date (July 2026), the release is *imminent* but not directly confirmed via a Daedong press release visible in this recon. **The unit should be refreshed at the H1 2026 release confirmation date.**
+- **H1 2026 L4 tractor release — confirmed, trigger closed (2026-10).** Released in Korea April 2026; confirmed in Daedong's own 1 September 2026 company release and in English-language trade coverage. The refresh obligation written into this unit in July has been met.
+- **Training-data figures are vendor-stated and inconsistent.** ~500K images + 3M driving-video samples (July 2025 briefing) against "5 million-plus images" secured during development (Sept 2026 release). The two are not reconciled anywhere in the primary sources; treat both as self-statement and do not cite either as a verified count.
+- **Deployment volume and customer identity remain the open question (G-080).** Six months post-launch, no sales figure, fleet count or named customer appears in any source — only the category descriptions "professional farmers and agricultural corporations".
 - **"Korea's largest agricultural dataset" is Daedong self-statement.** V0 vendor-reported; no third-party comparison.
 - **RT-100 deployment volume is V0.** February 2025 launch confirmed; deployment numbers not in primary sources.
 - **The three-AI-domains framework is corporate strategy, not verified deployment.** Each "domain" is in a different stage of operational readiness; the framework is real (it's how Daedong is structured), but the deployment-readiness of each component varies.
@@ -114,12 +126,13 @@ Three secondary presentations:
 
 *(Kubota Agri Concept 2.0 / Yanmar SMARTPILOT — future supporting units not drafted in this cycle; cross-refs to be completed at kubota + yanmar unit drafting.)*
 
-- **G-NN (next available, e.g. G-080):** Daedong AI Lab H1 2026 L4 tractor release deployment verification.
-- G-079 — Korean NACF / NongHyup agrifood-data platform product (relevant to whether Daedong's data strategy has a cooperative counterpart)
+- **G-080 (half closed by this refresh, 2026-10):** release verification is done — April 2026 launch plus the 1 Sept 2026 RDA designation. The open half is deployment volume and named customers, still absent from primary sources.
+- **G-079:** Korean NACF / NongHyup agrifood-data platform product — whether Daedong's vendor data strategy has a cooperative counterpart in the Korean market.
 
 **Contested claims (C-NNN):** None directly anchored to this unit.
 
 ## Freshness
 
 - Primary sources cited: <https://daedong-kioti.com/news/daedongnews/1313> (Daedong AI Lab three-core-AI-domains strategy release, July 17 2025), <https://daedong-kioti.com/news/daedongnews/1315> (RT-100 transport robot launch, Feb 2025), <https://daedong-kioti.com/news/daedongnews/1318> (RT-100 AI-Powered Voice Edition announcement), <https://www.koreatimes.co.kr/business/companies/20251020/doosan-robotics-daedong-team-up-for-agricultural-robots> (Doosan + Daedong Oct 2025 partnership)
-- Last verified: 2026-07; verification-trigger date: H1 2026 L4 tractor release confirmation
+- Primary sources added 2026-10: <https://ko.daedong.co.kr/news/daedongnews/2356> (Daedong company release, 1 Sept 2026 — RDA new-technology designation, SDT/OTA framing, field-use statement), <https://www.asiae.co.kr/en/article/2026090111271174827> (Asia Business Daily, 1 Sept 2026), <https://biz.heraldcorp.com/article/10894322> (Herald Business, 6 Oct 2026 — HX1400 AI 142 hp / HX1200 AI 127 hp, 29-dealer test-ride programme, Choi Hyung-woo quote), <https://biz.chosun.com/en/en-industry/2026/10/06/P4CZSCLBWJGLNP533CSS2R4O5Q/> (Chosun Biz, 6 Oct 2026)
+- Last verified: 2026-10. Verification-trigger date: H1 2026 L4 tractor release confirmation — **resolved** (April 2026 launch, confirmed 1 Sept 2026). Next trigger: publication of unit sales volume or named customers.
