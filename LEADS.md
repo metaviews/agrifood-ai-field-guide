@@ -14,8 +14,8 @@ Two surfaces in the corpus produce leads:
   - bullet items in cycle tail sections (deferred-scope / next-cycle hooks)
 
 Status:
-  - 22 leads have been realized as standalone units (closed)
-  - 17 leads remain open with named target filename
+  - 23 leads have been realized as standalone units (closed)
+  - 16 leads remain open with named target filename
   - 8 cluster-pattern / framework-level candidates
     not tied to a single unit
 
@@ -24,7 +24,9 @@ Numbering follows surfacing order in the scans; oldest first.
 ## Realized leads (closed)
 
 These leads were named in a scan's 'Future units surfaced' section and
-subsequently committed as standalone unit files in `units/`.
+subsequently committed as standalone unit files in `units/` — or, where
+a later cycle wrote several narrower units instead, marked in the scan as
+realized by split (every named unit is verified to exist before it moves).
 
 - **ushahidi-civic-tech-agrifood-ai.md** — realized from `2026-07-africa-open-source-agrifood.md` L574
   gaps: G-270
@@ -71,6 +73,9 @@ subsequently committed as standalone unit files in `units/`.
 - **eafrd-cap-strategic-plans-digital-agriculture.md** — realized from `2026-07-eu-institutional-funder-substrate.md` L450
   gaps: G-206
   EAFRD unit covering €95B 2021-2027, per-member-state CAP Strategic Plan AI deployment scope.
+- **eu-regulatory-layer-ai-act-code-of-practice.md** — realized 2026-09 by split into 5 units, from `2026-07-eu-institutional-funder-substrate.md` L451
+  gaps: G-211
+  EU AI Act + EU Code of Practice on AI + European AI Office + EU Carbon Removal Certification Framework unit (deferred scan). **Realized 2026-09 by split, not as a single unit:** the September 2026 EU architecture cycle wrote `units/eu-ai-act-agrifood-implications.md`, `units/general-purpose-ai-code-of-practice.md`, `units/european-ai-office-governance-architecture.md`, `units/eu-carbon-removal-certification-framework.md` and `units/eu-machinery-regulation-agricultural-ai.md` instead. This aggregate lead should not be re-opened.
 - **eu-ai-act-agrifood-implications.md** — realized from `2026-07-eu-regulatory-substrate.md` L387
   gaps: G-212, G-213, G-214
   EU AI Act unit covering phased implementation, agriculture-specific implications, Machinery Regulation interplay, Article 57 sandboxes.
@@ -123,9 +128,6 @@ Cycle work should target these next when capacity permits.
 - **neethirajan-canadian-labour-positioning-cycle.md** — surfaced in `2026-07-canada-ai-and-labour.md` L255
   gaps: -
   new lead surfaced by this cycle (Neethirajan labour-side positioning consolidation).
-- **eu-regulatory-layer-ai-act-code-of-practice.md** — surfaced in `2026-07-eu-institutional-funder-substrate.md` L451
-  gaps: G-211
-  EU AI Act + EU Code of Practice on AI + European AI Office + EU Carbon Removal Certification Framework unit (deferred scan). **Realized 2026-09 by split, not as a single unit:** the September 2026 EU architecture cycle wrote `units/eu-ai-act-agrifood-implications.md`, `units/gene
 - **au-continental-ai-strategy.md** — surfaced in `2026-07-sub-saharan-africa-multilateral.md` L579
   gaps: G-250
   AU Continental AI Strategy unit covering 5 focus areas, 15 policy recommendations, 15 named national AI strategies.
@@ -159,12 +161,12 @@ tentative patterns to test against future cycles.
 
 - `2026-09-eu-substrate-deepening.md` L139 — July's LAC cycle proposed a possible eighth cluster pattern ("multilateral-institutional convening + venture-funded SaaS + foundation-model collaboration"). The EU architecture cycle tests the EU's own pattern and produces a sharper formulation for Europe:
 - `2026-09-eu-substrate-deepening.md` L141 — **EU cluster-pattern candidate — "multi-layer institutional substrate with dispersed instruments and thin sectoral representation".** Components:
-- `2026-07-ai-and-labour.md` L182 — **Cluster-pattern-taxonomy candidate.** *labour-substitution-via-state-cluster* is a substantive cluster-pattern candidate distinct from the existing cluster-with-state-substrate (Argentine beef AI SENASA + SIGSA) and cluster-with-state-strategy (UAE ADAFSA dual-mode). The Korean
-- `2026-07-brazil-beef-seed-ai.md` L146 — The previous LAC deepening cycle proposed LAC as a *candidate eighth cluster pattern* — characterised by multilateral-institutional convening + venture-funded SaaS-platform + foundation-model-vendor collaboration + processed-food conglomerate multi-vector AI + commodity-region cl
+- `2026-07-ai-and-labour.md` L182 — **Cluster-pattern-taxonomy candidate.** *labour-substitution-via-state-cluster* is a substantive cluster-pattern candidate distinct from the existing cluster-with-state-substrate (Argentine beef AI SENASA + SIGSA) and cluster-with-state-strategy (UAE ADAFSA dual-mode). The Korean 30%-by-2027 + Japanese industrial-automation-heritage + Chinese WAICO multilateral posture could form a state-led …[truncated — full line in the surfacing scan]
+- `2026-07-brazil-beef-seed-ai.md` L146 — The previous LAC deepening cycle proposed LAC as a *candidate eighth cluster pattern* — characterised by multilateral-institutional convening + venture-funded SaaS-platform + foundation-model-vendor collaboration + processed-food conglomerate multi-vector AI + commodity-region cluster + cattle-soil-carbon AI.
 - `2026-07-brazil-beef-seed-ai.md` L171 — This is a NEW cluster pattern observation for the corpus — neither the existing seven-cluster taxonomy nor the LAC cluster-pattern candidate explicitly captures it:
 - `2026-07-brazil-beef-seed-ai.md` L175 — This may be a **ninth cluster pattern candidate** alongside the previous LAC deepening observation. To be tested against future cycles (e.g. Mexico-US-Canada cross-border clusters; India-Africa cross-border clusters).
 - `2026-07-lac-deepening.md` L56 — **LAC cluster-pattern candidate — "venture-funded SaaS-platform + multilateral-institutional convening + foundation-model-vendor collaboration + processed-food conglomerate + academic-and-commercial CV cluster"**
-- `2026-07-lac-deepening.md` L75 — **Tentative claim:** LAC may be a distinct *eighth cluster pattern* — characterised by *multilateral-institutional convening + venture-funded SaaS-platform + foundation-model-vendor collaboration* — though the pattern is not yet stable enough to be a closed typology. Future cycle
+- `2026-07-lac-deepening.md` L75 — **Tentative claim:** LAC may be a distinct *eighth cluster pattern* — characterised by *multilateral-institutional convening + venture-funded SaaS-platform + foundation-model-vendor collaboration* — though the pattern is not yet stable enough to be a closed typology. Future cycles (Caribbean; SSA; Oceania; SEA) should test it.
 
 ## How to use this file
 
