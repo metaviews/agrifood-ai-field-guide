@@ -19,7 +19,7 @@ maturity-scale: (n/a — regulatory instrument)
 maturity-verification: V1 (EUR-Lex, Commission single-market page, CEMA position papers, EU-OSHA)
 maturity-longevity: L1-L2 (in force since 2023; application begins 2027)
 maturity-translation: T1 (guidance and harmonised standards still pending; the delegated act is not adopted)
-last-verified: 2026-09
+last-verified: 2026-11
 last-regionally-scanned: 2026-09
 ---
 
@@ -76,6 +76,7 @@ Anchors the **sectoral-compliance route** for AI in agricultural machinery — t
 
 - The AI-specific delegated act for the Machinery Regulation is **not adopted**; Article 20 presumption of conformity via AI Act harmonised standards or common specifications is the interim route (G-425).
 - No AI harmonised standards were cited in the Official Journal for the machinery context as of mid-2026; first AI harmonised standards were targeted for Q4 2026 with an amended request to 28 February 2027 (G-426).
+- **Refresh 2026-11 — the standards pipeline has started, not with machinery standards.** Commission Implementing Decision (EU) 2026/2274 (adopted 12 October 2026, OJ 14 October 2026) publishes **EN 18286:2026** (AI quality management system, Article 17) — the first AI Act harmonised standard in the OJ, within the Q4 2026 window this unit tracked. It is not machinery-specific; no machinery-specific harmonised standard has been published and the Machinery Regulation delegated act remains unadopted. G-426 moves from "none cited" to "first standard cited, wrong domain for machinery" — the pipeline exists, the machinery layer does not.
 - The industry cost figures (€1m per platform architecture, €5m duplication, 70% generic) are CEMA-commissioned estimates, not audited.
 - The AI Act's Article 6 classification guidelines remain draft, so "is this machine's AI a safety component?" is still unsettled at the margins.
 - Compliance via the Machinery Regulation reduces the AI Act burden but does not remove the Article 6(1) high-risk classification — the legal label persists.
@@ -90,8 +91,10 @@ Anchors the **sectoral-compliance route** for AI in agricultural machinery — t
 
 ## Freshness
 
-- last-verified: 2026-09
+- last-verified: 2026-11
 - last-regionally-scanned: 2026-09
+- refresh 2026-11 source (checked 2026-11-08):
+  - Commission Implementing Decision (EU) 2026/2274 of 12 October 2026 (EN 18286:2026 published in the OJ — first AI Act harmonised standard; not machinery-specific). https://eur-lex.europa.eu/eli/dec_impl/2026/2274/oj
 - sources (primary, checked 2026-09-14):
   - Regulation (EU) 2023/1230 (Machinery). https://eur-lex.europa.eu/eli/reg/2023/1230/oj
   - Regulation (EU) 2026/1744 (Digital Omnibus on AI). https://eur-lex.europa.eu/legal-content/en/TXT/HTML/?uri=OJ:L_202601744

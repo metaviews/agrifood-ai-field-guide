@@ -19,7 +19,7 @@ maturity-scale: S2-S3 (named ASEAN deployments at S2; African deployments at S3 
 maturity-verification: 'V0-V1 (Xinhua-documented named deployments at V0 with named spokespersons; CAIED peer-reviewed academic database at V1; independent third-party verification of deployment-scale claims is thin)'
 maturity-longevity: 'L2 (Alibaba Cloud × Regaltech Malaysia durian — 2019 partnership, deployed since 2020 — ~7 years; Alibaba Cloud × Tanahmu Indonesia — deployment ongoing; broader DSR since 2015 — ~11 years)'
 maturity-translation: T2 (state-led translation pathway via BRI and DSR; named deployments at ASEAN scale; African translation pathway through China-Africa internet forum April 2024 and bilateral cyberspace regulator cooperation)
-last-verified: 2026-09
+last-verified: 2026-11
 last-regionally-scanned: 2026-09
 ---
 
@@ -307,7 +307,10 @@ Anchors the **Chinese agritech Belt-and-Road / Digital Silk Road export × state
 
 ## Freshness
 
-- last-verified: 2026-09
+- last-verified: 2026-11
+- refresh 2026-11 — the Global South capacity-building vector is now documented, not just implied. MARA's Foreign Economic Cooperation Center (FECC) held a **"Seminar on the Application and Development of AI in Agriculture for the Global South"** in Beijing on **15 October 2026** (MARA English-site coverage 16 October). It frames AI-in-agriculture capacity building as implementation of the State Council's August 2025 "AI Plus" Opinions **global-cooperation action**: 2026 cumulative totals of **five** FECC AI-in-agriculture capacity-building programmes, ~**135 participant-times** from **18 Global South countries**. This adds a state-run training/diplomacy layer to the unit's soft-infrastructure thread alongside the DroneSol and WAICO frames: China is exporting agrifood-AI *practices* to the Global South through ministry-run seminars, not only exporting drones through commerce.
+- refresh 2026-11 sources (checked 2026-11-08):
+  - MARA English news. *Seminar on the Application and Development of AI in Agriculture for the Global South*. 16 October 2026 (seminar held 15 October, Beijing; FECC).
 - last-regionally-scanned: 2026-09
 - sources:
   - Verification pass (September 2026): `~/ai-agrifood/recon-china-drones-export-2026-09-14.md` — hardware-OEM export reality, named export markets, the negative finding on hyperscaler agricultural export, and the RBAC 100 / FCC market-access facts recorded in §0 of this unit. Originally sourced from: DJI and XAG export coverage, XAG prospectus, EAVISION regulatory explainer (2026-07-28) https://www.eavision.com/about/news/brazil-agricultural-drone-regulations-7-rules-to-know, 21世纪经济报道 interview with XAG co-founder (2026-06-29) https://m.21jingji.com/article/20260629/herald/1070f30d489faea018fbb8a8f24b9e32_zaker.html, DroneDJ (2026-05-04) https://dronedj.com/2026/05/04/dji-agriculture-drone-report-2026/

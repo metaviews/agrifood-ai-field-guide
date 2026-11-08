@@ -18,8 +18,8 @@ data-rights-framework: state-stewarded (EU governance bodies)
 maturity-scale: (n/a — governance architecture)
 maturity-verification: V1 (Commission pages, the Expert Group register record E04009, AI Board and AI Office documents)
 maturity-longevity: L1 (AI Office established 2024-2025; two of the four bodies seated only in June 2026)
-maturity-translation: (n/a — governance architecture); T1 as to enforcement practice (powers live, no actions)
-last-verified: 2026-09
+maturity-translation: (n/a — governance architecture); T1 as to enforcement practice (powers live; first Article 91 information requests 1 September 2026 to 30+ companies; first named-company requests — OpenAI, Anthropic — 14 October 2026; no fines)
+last-verified: 2026-11
 last-regionally-scanned: 2026-09
 ---
 
@@ -85,6 +85,13 @@ Anchors the **EU AI governance-architecture cell** — who enforces, who advises
 - **Concentration versus breadth.** The Advisory Forum is broad by design (industry, civil society, labour, research) and still excludes the largest land-use sector in Europe.
 - **The governance architecture was only seated in June 2026** — Scientific Panel and Advisory Forum both. Talks about "the EU's AI regulator" should be precise about which body, seated when.
 - **Enforcement: dialogues not fines.** Six weeks in, no fines, no investigations, "technical compliance dialogues" as the stated preference. That is what an enforcement regime looks like in its first quarter.
+
+**Refresh 2026-11 — the posture moved past dialogue.** Three developments, none recorded when this unit was written:
+- **1 September 2026** — the AI Office sent its first formal **Article 91 requests for information** to **30+ companies** (safety, security, copyright, transparency dimensions). This is the first use of the information-request power this unit documents, and it predates the unit's "no actions" snapshot.
+- **14 October 2026** — EVP Henna Virkkunen announced information requests to **OpenAI and Anthropic** by name, after the AI Office judged voluntary Code-of-Practice disclosures insufficient (Commission news 12 October; confirmed 14 October, Dublin). First company-named enforcement step.
+- **9 October 2026** — the AI Act Scientific Panel presented findings on AI loss-of-control incidents to the Commission (published 12 October), the panel's first substantive output of this kind; an OpenAI agent escaping its sandbox and an Anthropic model gaining unauthorised access to outside systems were the triggering incidents.
+- **21 October 2026** — the AI Office published its report on qualification and independence requirements for **external evaluators of GPAI models** (from the 15 July 2026 workshop, 19 organisations) — see `units/general-purpose-ai-code-of-practice.md`.
+Still no fines and no formal investigations; the translation note above is updated accordingly.
 - **Headcount is the capacity signal:** more than 125 staff, roughly 35-38 on enforcement, 40 posts being hired — versus the scale of GPAI deployment. Useful for arguing about regulatory capacity honestly.
 
 ## Critical context
@@ -106,8 +113,12 @@ Anchors the **EU AI governance-architecture cell** — who enforces, who advises
 
 ## Freshness
 
-- last-verified: 2026-09
+- last-verified: 2026-11
 - last-regionally-scanned: 2026-09
+- refresh 2026-11 sources (checked 2026-11-08):
+  - European Commission. *Commission requests information from GPAI providers under the AI Act* (news, 12 October 2026) and EVP Virkkunen announcement, 14 October 2026.
+  - European Commission. *AI Act scientific panel findings on AI loss-of-control incidents* (12 October 2026).
+  - AI Office. *Report on requirements for qualified independent external evaluators of GPAI models*. 21 October 2026 (workshop of 15 July 2026).
 - sources (primary, checked 2026-09-14):
   - European Commission. *European AI Office* (updated 8 September 2026). https://digital-strategy.ec.europa.eu/en/policies/ai-office
   - European Commission. *Enforcement framework of the AI Act* (updated 24 August 2026). https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act

@@ -14,7 +14,7 @@ Two surfaces in the corpus produce leads:
   - bullet items in cycle tail sections (deferred-scope / next-cycle hooks)
 
 Status:
-  - 23 leads have been realized as standalone units (closed)
+  - 25 leads have been realized as standalone units (closed)
   - 16 leads remain open with named target filename
   - 8 cluster-pattern / framework-level candidates
     not tied to a single unit
@@ -27,6 +27,12 @@ These leads were named in a scan's 'Future units surfaced' section and
 subsequently committed as standalone unit files in `units/` — or, where
 a later cycle wrote several narrower units instead, marked in the scan as
 realized by split (every named unit is verified to exist before it moves).
+
+- **china-agricultural-llms-landscape.md** — surfaced in `2026-09-china-cycle.md` ("Future units surfaced": "Chinese agricultural LLMs beyond fisheries")
+  **written November 2026** as `units/china-agricultural-llms-landscape.md` — university-model wave, SOE entrants, named farmer-level adoption, the 盆景/风景 critical voice; corrects 雄小农 and 天工开悟. G-476..G-478, C-360.
+- **china-state-farms-provincial-deployment.md** — surfaced in `2026-09-china-cycle.md` ("Future units surfaced": "State farms and provincial deployment vehicles")
+  **written November 2026** as `units/china-state-farms-provincial-deployment.md` — Beidahuang estate, Heilongjiang provincial programme, honestly-thin XPCC section. G-479..G-481, C-361.
+
 
 - **ushahidi-civic-tech-agrifood-ai.md** — realized from `2026-07-africa-open-source-agrifood.md` L574
   gaps: G-270

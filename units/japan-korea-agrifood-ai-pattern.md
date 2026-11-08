@@ -15,11 +15,11 @@ actor: (composite — Spread Co. + Yamaha Motor + Kubota + Yanmar + WAGRI + ioCr
 actor-type: (composite — vendor + state-agency; the structural distinction is *who leads* in each country — Japan vendors lead, Korea state leads)
 data-governance: mixed (vendor-proprietary for industrial automation; state-stewarded for DPI substrates and smart-farming clusters)
 data-rights-framework: mixed (vendor-owned for industrial automation; state-stewarded for DPI substrates; cooperative-translation potential for Korean NACF/NongHyup is unexplored — G-079)
-maturity-scale: 'S2-S3 (composite: 30,000 heads/day Spread Co. Keihanna; 2.4M acres Yamaha aerial-spraying; seven Smart Farm Innovation Valley sites with 208 enrolled / 168 active trainees; ioCrops multi-country operational; Daedong AI Lab H1 2026 release pending)'
-maturity-verification: V0-V2 (Spread operating-rate V1; WAGRI architecture V1; Yamaha acres-and-coverage V0; Korea Smart Farm Innovation Valley V1 via FAO; ioCrops V2 via Ceccarelli 2022; Daedong V0 self-statement)
+maturity-scale: 'S2-S3 (composite: 30,000 heads/day Spread Co. Keihanna; 2.4M acres Yamaha aerial-spraying; seven Smart Farm Innovation Valley sites with 208 enrolled / 168 active trainees; ioCrops multi-country operational; Daedong HX1400-AI / HX1200 AI released Korea April 2026, RDA-designated 1 Sept 2026)'
+maturity-verification: V0-V2 (Spread operating-rate V1; WAGRI architecture V1; Yamaha acres-and-coverage V0; Korea Smart Farm Innovation Valley V1 via FAO; ioCrops V2 via Ceccarelli 2022; Daedong V1 — company release + trade coverage, refreshed 2026-10; volumes and named customers still absent)
 maturity-longevity: L1-L4 (Yamaha FAZER/RMAX L4 35-year product line; WAGRI L3 since April 2019; Spread L2 multi-site; Smart Farm Innovation Valley L1 first-gen since 2018; Daedong L1 first-gen since 2024)
 maturity-translation: T2-T3 (Japan-side vendor T3 with FAA exemption path / corporate R&D; Korea-side state T3 with MAFRA + RDA institutional pathway; corporate T2 via Doosan Robotics + Daedong partnership)
-last-verified: 2026-07
+last-verified: 2026-11
 last-regionally-scanned: 2026-07
 
 
@@ -147,7 +147,7 @@ Three presentations:
 - G-077 — Korean meat-processing / post-harvest line-level AI
 - G-078 — NAVER agrifood AI deployment
 - G-079 — Korean NACF / NongHyup agrifood-data platform product
-- G-080 — Daedong AI Lab H1 2026 L4 tractor release verification
+- G-080 — Daedong AI Lab L4 tractor release verification — **half closed 2026-10** (release confirmed; deployment volume and named customers still open)
 
 **Contested claims (C-NNN) referenced:**
 
@@ -156,9 +156,10 @@ Three presentations:
 
 ## Freshness
 
-- Last verified: 2026-07
+- Last verified: 2026-11
 - Verification-trigger dates:
-  - H1 2026 Daedong L4 tractor release (re-tag `units/daedong-ai-lab-korean-agriculture.md` to S2 with V1 vendor-customer naming if confirmed at release)
+  - H1 2026 Daedong L4 tractor release — **resolved 2026-10** (April 2026 launch, confirmed via Daedong 1 Sept 2026 release; `units/daedong-ai-lab-korean-agriculture.md` refreshed in place). Next trigger: unit sales volume or named customers.
+  - Korea-side machinery infrastructure landed October-November 2026 (Saemangeum intelligent-machinery testing complex groundbreaking 29 Sept; 2027 AI machinery-sharing centres programme; K-Animal Quarantine AI/AX measures 3 Nov) — recorded in `units/korea-act-fostering-smart-farming.md` refresh 2026-11, not restated here.
   - Q4 2026 / year-end MAFRA interim measurement of 30%-by-2027 target
   - Spread Co. Techno Farm Narita operational status (Narita confirmation closes G-074)
   - WAGRI API customer-base documentation via the operator site (closes G-073)

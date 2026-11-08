@@ -19,7 +19,7 @@ maturity-scale: (n/a — framework)
 maturity-verification: V0 (government primary document; targets are the ministry's own and no implementation audit has been published)
 maturity-longevity: L1 (first full plan cycle; issued October 2024)
 maturity-translation: T3 (state administrative machinery is the translation pathway — 专班, annual task lists, provincial implementation measures)
-last-verified: 2026-09
+last-verified: 2026-11
 last-regionally-scanned: 2026-09
 ---
 
@@ -83,7 +83,10 @@ Distinct from:
 
 ## Freshness
 
-- last-verified: 2026-09
+- last-verified: 2026-11
+- refresh 2026-11 — successor-framework continuity confirmed, no amendment to this plan. The 15th FYP "Accelerating Agricultural and Rural Modernization" plan (MARA/NDRC press Q&A, 26 October 2026) carries the smart-agriculture action forward as one of six named implementation actions into the next plan period and adds the "AI+agriculture" named action plus an agricultural emerging/future-industries clause (intelligent design breeding, agricultural low-altitude economy, new-type foods). No amendment, mid-term audit, or new task list for this 2024-2028 plan itself was found in the 8 October - 8 November window; its targets and 专班 machinery stand. Detail: `units/china-no1-central-document-2026-ai.md` (refresh 2026-11).
+- refresh 2026-11 sources (checked 2026-11-08):
+  - MARA/NDRC press Q&A on the 15th FYP agriculture-and-rural-modernization plan, 26 October 2026.
 - last-regionally-scanned: 2026-09
 - sources:
   - MARA. 农业农村部关于印发《全国智慧农业行动计划（2024—2028年）》的通知 (农市发〔2024〕4号, issued 2024-10-23). Full text via the national investment-project approval and supervision platform. https://new.tzxm.gov.cn/zckd/fzgh/202410/t20241031_1394151.shtml

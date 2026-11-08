@@ -19,7 +19,7 @@ maturity-scale: S3 (national platform with province-level reach; 4,673 open data
 maturity-verification: V0 (ministry self-reported, with the definition of its own terms unpublished)
 maturity-longevity: L2 (data-management rules from 2024, platform programme from 2024 under the Smart Agriculture Action Plan)
 maturity-translation: T3 (the national platform and the 数据要素× competition are the translation instruments)
-last-verified: 2026-09
+last-verified: 2026-11
 last-regionally-scanned: 2026-09
 ---
 
@@ -80,8 +80,9 @@ Distinct from:
 
 ## Freshness
 
-- last-verified: 2026-09
+- last-verified: 2026-11
 - last-regionally-scanned: 2026-09
+- refresh 2026-11 check (2026-11-08): nothing found in the window specific to the national agricultural data platform, open-dataset counts, or the 数据要素× agriculture competition. The October China policy news flow was dominated by the 15th FYP agriculture plan (see `units/china-no1-central-document-2026-ai.md`) and the digital-village implementation meeting (see `units/china-digital-village-plan-2026-2030.md`); no new platform figures or data-resource releases surfaced.
 - sources:
   - 国家数据局. 文字实录 | 国家数据局举办2026年"数据要素×"新闻发布会（第二场）, 6 July 2026 — MARA remarks by 宋丹阳, 市场与信息化司副司长、一级巡视员. https://www.nda.gov.cn/sjj/swdt/xwfb/0706/20260706172337226401795_pc.html
   - MARA 市场与信息化司. 智慧农业动能强劲启新程 (December 2025). https://scs.moa.gov.cn/xxhtj/202512/t20251219_6480010.htm

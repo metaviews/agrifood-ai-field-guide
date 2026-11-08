@@ -19,7 +19,7 @@ maturity-scale: S2 (four Smart Farm Innovation Valley sites operational; four zo
 maturity-verification: V1 (OECD 2025 *Korea Agricultural Policy Monitoring and Evaluation* cites the Act + 30%-by-2027 target as MAFRA priority; FFTC policy briefs name operational details; FAO Digital Villages Initiative independently profiles Sangju)
 maturity-longevity: L2 (statute enacted; multi-year operational layer; trainee pipeline operational across 2018 SIC launch → 2019 → 2022)
 maturity-translation: 'T3 (institutional pathway: MAFRA + RDA + provincial governments + Startup Incubation Centres + FAO international anchor)'
-last-verified: 2026-07
+last-verified: 2026-11
 last-regionally-scanned: 2026-07
 
 ---
@@ -117,4 +117,13 @@ Three secondary presentations:
 
 - Primary sources cited: <https://www.korea.net/NewsFocus/policies/view?articleId=255753> (Korea.net official portal on 30%-by-2027 target), <https://www.korea.net/Government/Briefing-Room/Press-Releases/view?articleId=573412> (2025 MAFRA zonal designations), <https://ap.fftc.org.tw/article/3579> (FFTC 2024 Smart Farmland Distribution Centers expansion)
 - Cross-reference: <https://www.oecd.org/en/publications/2025/10/agricultural-policy-monitoring-and-evaluation-2025_354e7040/full-report/japan_d94ab3f7.html> (OECD 2025 Korea chapter), <https://www.fao.org/digital-villages-initiative/asia-pacific/digital-villages-list/digital-villages/sangju-village-(republic-of-korea)/en> (FAO Digital Villages Sangju profile)
-- Last verified: 2026-07; verification-trigger date: year-end 2026 MAFRA interim measurement of 30% target
+- Last verified: 2026-11; verification-trigger date: year-end 2026 MAFRA interim measurement of 30% target
+- refresh 2026-11 — three MAFRA developments in/adjacent to the 8 October - 8 November window:
+  - **Saemangeum intelligent agricultural-machinery testing complex** — groundbreaking **29 September 2026** at the Saemangeum Agricultural and Life Sciences Site (Gimje), disclosed in MAFRA's 7 October 2026 English release: **KRW 106.6 billion**, 2023-2028, **100 hectares**, trial fields and driving test tracks. Saemangeum is already named in Daedong's institutional pathway (`units/daedong-ai-lab-korean-agriculture.md`); this is the shared state-side machinery-validation infrastructure beneath that pathway.
+  - **2027 programme: 15 AI agricultural-machinery-sharing centres** linked to rental services (access to autonomous tractors), expanding to **100 locations by 2030** — the machinery-side analogue of the Smart Farmland Distribution Center scaling this unit tracks (14 → 26 → planned 100).
+  - **Korea-Singapore smart-farm cooperation MOU**, signed by the MAFRA Vice Minister at the 26th ASEAN+3 agriculture ministers meeting, 30 October 2026 (joint committee, technology exchange, firm-to-firm cooperation) — single Korean media report; announced-class.
+  - **K-Animal Quarantine Improvement Measures** reported to Cabinet **3 November 2026**: AI/AX (AI-transformation) technologies for livestock disease prevention from 2027 and a KAHIS upgrade for real-time risk response; disease-management farm certification from 2027 — the first Korea-side livestock-disease AI instrument this corpus holds, currently a policy signal without deployment figures.
+- refresh 2026-11 sources (checked 2026-11-08):
+  - MAFRA English release, 7 October 2026 (Saemangeum groundbreaking; machinery-sharing centres programme).
+  - Korean media report of the ASEAN+3 MOU, 30 October 2026 (single source).
+  - MAFRA report of the K-Animal Quarantine Improvement Measures Cabinet filing, 3 November 2026.

@@ -19,7 +19,7 @@ maturity-scale: (n/a — framework)
 maturity-verification: V0 (government primary document; no implementation audit)
 maturity-longevity: L1 (2026 edition, the opening year of the 15th Five-Year Plan)
 maturity-translation: "T3 (the document is itself the translation mechanism — it sets the tasks that ministries and provinces must implement)"
-last-verified: 2026-09
+last-verified: 2026-11
 last-regionally-scanned: 2026-09
 ---
 
@@ -74,7 +74,10 @@ Distinct from:
 
 ## Freshness
 
-- last-verified: 2026-09
+- last-verified: 2026-11
+- refresh 2026-11 — the successor framework layer landed. On **26 October 2026** MARA and NDRC officials gave a press Q&A on the **"Accelerating Agricultural and Rural Modernization" 15th Five-Year Plan** (加快农业农村现代化"十五五"规划), the plan-level successor to this document's annual mandate. It tasks **"人工智能+农业" (AI + agriculture)** as a named action alongside smart-agriculture development, and — flagged in the Q&A as a first — proposes cultivating **emerging and future industries in agriculture**: intelligent design breeding, new-energy farm machinery, the agricultural low-altitude economy, agricultural biomanufacturing, and new-type foods, with tax-incentive and first-(batch-)application procurement policies. The No. 1 Document's 农业新质生产力 clause is thus carried into the first plan-period instrument that operationalises it. CAUTION: a separate October 2026 CPC/State Council Opinion on new quality productive forces (19 articles, said to include a smart-agriculture action list and "AI+" full implementation) is known here only through aggregator reposts of local-government sites — primary text not verified, treat as announced. The 15th FYP plan's own full text was also not directly read this pass (G-473).
+- refresh 2026-11 sources (checked 2026-11-08):
+  - MARA/NDRC press Q&A on the 15th FYP agriculture-and-rural-modernization plan, 26 October 2026 (ministry release; provincial government sites republishing).
 - last-regionally-scanned: 2026-09
 - sources:
   - 中共中央 国务院. 关于锚定农业农村现代化扎实推进乡村全面振兴的意见 (2026年1月3日), full text as published by Xinhua and republished by provincial government portals. https://zrzyt.fujian.gov.cn/zwgk/xwdt/zrzyyw/202602/t20260204_7088887.htm

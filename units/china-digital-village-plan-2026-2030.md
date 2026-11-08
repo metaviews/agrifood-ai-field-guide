@@ -19,7 +19,7 @@ maturity-scale: (n/a — framework)
 maturity-verification: V0 (joint government release; the development indicators are referenced but not published in the release text)
 maturity-longevity: L1 (issued 11 September 2026)
 maturity-translation: T3 (ministry-and-province implementation is the pathway; the release specifies policy coordination and resource pooling requirements)
-last-verified: 2026-09
+last-verified: 2026-11
 last-regionally-scanned: 2026-09
 ---
 
@@ -69,7 +69,10 @@ Distinct from:
 
 ## Freshness
 
-- last-verified: 2026-09
+- last-verified: 2026-11
+- refresh 2026-11 — first implementation milestone under this plan. The **2026 national digital-village on-site work promotion meeting** was held **13 October 2026 in Wuqi county, Yan'an, Shaanxi**, convened by the Cyberspace Administration (deputy head Wang Jingtao speaking), ~150 participants including second-batch national pilot areas and major internet firms — the first on-site implementation meeting under the 11 September 2026 action plan, committing to its five workstreams, with a "Digital Village 2026" media project launch and corporate support projects for revolutionary-base-area provinces (Shaanxi, Jiangxi). Follow-on commentary (Guangming Daily, 9 and 29 October) reiterates the plan's targets: agricultural S&T progress contribution rate **64% (2025) → 67% (2030)**; rural adult basic-digital-literacy share to **55%**; smart comprehensive-management administrative-village coverage **69.3% → 75%**. Context statistics recirculated by CAC/state media: 2025 agricultural production informatisation rate above 30%; more than 3.5M BeiDou-equipped farm machines; over 460M mu of annual drone operation area (claimed global first). Agriculture clauses sit under item 6 (upgrading traditional industries): grain capacity, seed industry, smart-agriculture action, machinery, protected agriculture, agricultural factories.
+- refresh 2026-11 sources (checked 2026-11-08):
+  - CAC/state-media reporting of the Wuqi national digital-village work promotion meeting, 13 October 2026; Guangming Daily commentary, 9 and 29 October 2026.
 - last-regionally-scanned: 2026-09
 - sources:
   - 中央网信办、农业农村部、工业和信息化部. 关于印发《数字乡村高质量发展行动计划（2026—2030年）》的通知 (announced 2026-09-11). https://www.cac.gov.cn/2026-09/11/c_1790876575314396.htm

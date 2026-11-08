@@ -11,7 +11,7 @@ capital-intensity: industrial (€200bn mobilisation; €10bn EuroHPC envelope);
 language-literacy-profile: (not applicable)
 policy-instrument: strategy (COM(2025) 165; COM(2025) 723; COM(2025) 835 Data Union Strategy); fiscal (EuroHPC JU, Digital Europe Programme); regulatory (AI Act simplification pillar)
 region: Europe (EU-27 + associated countries; AI Factory hosts across 19 countries)
-actor: "European Commission (DG CNECT, DG AGRI); EuroHPC Joint Undertaking; named AI Factory hosts (LUMI AIF Finland, AI2F France, JAIF and HammerHAI Germany, BSC AIF Spain, IT4LIA Italy, others); agrifoodTEF (Fondazione Bruno Kessler); AgData partnership; CEADS"
+actor: "European Commission (DG CNECT, DG AGRI); EuroHPC Joint Undertaking; named AI Factory hosts (LUMI AIF Finland, AI2F France, JAIF and HammerHAI Germany, BSC AIF Spain, IT4LIA Italy, others); agrifoodTEF (Fondazione Bruno Kessler); AgData partnership; CEADS; EDIC for Agri-Food (Paris, established 8 September 2026)"
 actor-type: eu-institution; state-agency (EuroHPC JU); academic (AI Factory host consortia); industry-association (Apply AI Alliance)
 data-governance: state-stewarded (EU data spaces, Data Union Strategy); mixed for project data
 data-rights-framework: state-stewarded (EU compute and data infrastructure)
@@ -19,7 +19,7 @@ maturity-scale: S2-S3 (19 AI Factories and 13 antennas being set up across 19 co
 maturity-verification: V1 (Commission communications, EuroHPC JU pages, EUR-Lex)
 maturity-longevity: L1-L2 (action plan from April 2025; AI Factories under construction; gigafactories not selected)
 maturity-translation: T1 (named pathways — TEFs, EDIHs, data spaces — with no documented agritech disbursement yet)
-last-verified: 2026-09
+last-verified: 2026-11
 last-regionally-scanned: 2026-09
 ---
 
@@ -46,6 +46,8 @@ Compute: "at least **9 new AI optimised supercomputers** will be procured and de
 ### AI Gigafactories — a call, not a programme
 
 The live instrument is a **call for up to seven** AI gigafactories, launched **30 July 2026** by EuroHPC JU: "supported by up to **€10 billion** in EU and national funding, the initiative is expected to unlock at least **€20 billion** in private investment." Two lots: Lot 1 — up to 4 projects, "up to €100m in EU funding during phase one, followed by up to €400m in phase two"; Lot 2 — up to 3 larger projects, "up to €200m in phase one and a further €800m in phase two". **Deadline 12 November 2026; selection "in early 2027"; operations within 18 months; "the bulk of the funds will come from the next [MFF] (2028-2035)"**. The EuroHPC mandate was expanded by Council Regulation (EU) 2026/150.
+
+**Refresh 2026-11 — the deadline has moved twice.** TED change notice 674672-2026 (published 1 October 2026) extended receipt of tenders from 12 November to **3 December 2026**, "extended by 3 weeks following request from the European Commission". A further EuroHPC announcement (updated **5 November 2026**) extended **Lot 1 only, to 4 February 2027**, "to give all Member States the necessary time to complete their national budgetary procedures and submit financial commitments"; Lot 2 remains 3 December 2026. The same notice states that **all draft and submitted tenders already in the system will not be considered** — every bidder must recreate and resubmit under new submission links still to be announced. MLCommons announced 13 October 2026 that **MLPerf Training/Inference v5.1** is the named performance benchmark in the tender specifications. No candidate locations have been published. The slip pattern — twice-extended deadlines, discarded submissions, member-state budget procedures unfinished five months into an open call — is itself evidence against the call-as-programme reading this unit argues for.
 
 **Correction to the July scan:** "two AI gigafactories announced with €10bn" is unsupported — the call is for up to seven, and the €10bn is the programme envelope (individual facilities receive €100m-€800m of public money). **No gigafactory has been selected, funded or built.**
 
@@ -80,7 +82,11 @@ Action table: the platform is a **Q1 2027** flagship; "devote funding for capaci
 
 ### What changed since July 2026
 
-The gigafactory call (30 July 2026); the first structured sectoral dialogue on agriculture (report 3 July 2026); the LUMI-AI contract (31 August 2026); the AI Factories page refresh to 19 factories and 13 antennas (12 August 2026). Upcoming: EU AgRI 2040 Conference (24-25 September 2026), EU Agri-Hackathon (16-18 October 2026) and the Apply AI Summit (17 November 2026). No delays, cancellations or funding withdrawals confirmed.
+The gigafactory call (30 July 2026); the first structured sectoral dialogue on agriculture (report 3 July 2026); the LUMI-AI contract (31 August 2026); the AI Factories page refresh to 19 factories and 13 antennas (12 August 2026); the gigafactory deadline extensions (1 October and 5 November 2026, above). Held since: EU AgRI 2040 Conference (24-25 September 2026); EU Agri-Hackathon (16-18 October 2026 — 30 teams, three challenges, winners to present at EU Agri-Food Days 8-9 December 2026); **EDIC for Agri-Food established** (Decision (EU) 2026/1978, 8 September 2026 — see next section and `units/edic-agri-food.md`). Upcoming: the Apply AI Summit (17 November 2026, Brussels), with an "AI in the agrifood sector" parallel session on the draft agenda, closing the first European AI Innovation Month (14 October - 17 November 2026, with the Irish Presidency). No delays, cancellations or funding withdrawals confirmed — though the gigafactory tender timeline has slipped twice.
+
+### EDIC for Agri-Food — the sector's first EU digital-infrastructure consortium
+
+**Commission Implementing Decision (EU) 2026/1978 of 8 September 2026** sets up the **European Digital Infrastructure Consortium for Agri-Food (EDIC for Agri-Food)**, statutory seat Paris, with a launch event convened by French Minister of Agriculture Annie Genevard (reported 1 October 2026). Members: Austria, Croatia, Finland, France, Italy, the Netherlands, Poland, Romania, Slovenia and the region of Flanders (the 13 February 2026 application under Decision (EU) 2022/2481, joined by Poland 8 June); observers: Germany, Ireland, Latvia, Spain. First named mission: a **common Digital Farm ID** — a federated, interoperable farm identifier interconnecting with existing national systems and aligned with the European Digital Identity Ecosystem, aimed at reducing reporting burden and enabling "secure access to high-quality data for AI-based services". The EDIC also commits to "explore how AI can support agriculture in line with the Apply AI strategy" — AI-based risk management, product traceability and carbon certification named as candidate multi-country deployment actions, building on CEADS. This is the first EDIC in any sector touching agriculture and the first EU-level actor whose founding instrument literally names the Apply AI agrifood agenda; written up as its own unit at `units/edic-agri-food.md`.
 
 ## What this unit is doing in the taxonomy
 
@@ -118,8 +124,14 @@ Anchors the **EU AI compute and adoption-strategy layer** — the fourth infrast
 
 ## Freshness
 
-- last-verified: 2026-09
+- last-verified: 2026-11
 - last-regionally-scanned: 2026-09
+- refresh 2026-11 sources (checked 2026-11-08):
+  - EuroHPC JU. *Call for tenders — selection of AI Gigafactory Consortia* (important announcement updated 5 November 2026: Lot 1 deadline 4 February 2027; Lot 2 3 December 2026; all existing draft/submitted tenders discarded pending new submission links). https://www.eurohpc-ju.europa.eu/call-tenders-selection-artificial-intelligence-gigafactory-consortia-and-establishment-ai_en
+  - TED change notice 674672-2026 (published 1 October 2026; "deadline extended by 3 weeks following request from the European Commission"). https://www.hellotender.eu/en/tenders/call-for-tenders-for-the-selection-of-artificial-i-674672-2026
+  - MLCommons. *MLPerf Training/Inference v5.1 named in AI gigafactory tender specs*. 13 October 2026.
+  - European Commission. *EDIC for Agri-Food launched*. https://digital-strategy.ec.europa.eu/en/news/edic-agri-food-launched-support-digital-innovation-across-europes-food-and-agriculture-sector
+  - European Commission. *EDIC* policy page. https://digital-strategy.ec.europa.eu/en/policies/edic
 - sources (primary, checked 2026-09-14):
   - European Commission. *AI Continent*. COM(2025) 165, 9 April 2025. https://commission.europa.eu/topics/competitiveness/ai-continent_en
   - European Commission. *AI Factories* (last updated 12 August 2026). https://digital-strategy.ec.europa.eu/en/policies/ai-factories

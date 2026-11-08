@@ -19,7 +19,7 @@ maturity-scale: S1-S2 (two methodologies packages adopted; schemes applying; no 
 maturity-verification: V1 (EUR-Lex, Commission climate pages, JRC publication, EPRS briefing)
 maturity-longevity: L0-L1 (regulation in force since 6 December 2024; the operability phase has not begun)
 maturity-translation: T1 (MRV research-to-scheme translation is underway through EU-funded consortia and the EU Carbon Farming Database; no certified deployment yet)
-last-verified: 2026-09
+last-verified: 2026-11
 last-regionally-scanned: 2026-09
 ---
 
@@ -108,8 +108,9 @@ Anchors the **market-creation instrument** layer of the EU regulatory substrate 
 
 ## Freshness
 
-- last-verified: 2026-09
+- last-verified: 2026-11
 - last-regionally-scanned: 2026-09
+- refresh 2026-11 check (2026-11-08): nothing found in the window — no new delegated act, scheme recognition decision, registry milestone, or first certified units. The bio-based-construction methodology remains "in preparation, expected Q4 2026"; recognition decisions remain the eight "in progress" applications of 14 September 2026; first certified projects still expected 2027, registry 2028.
 - sources (primary, checked 2026-09-14):
   - Regulation (EU) 2024/3012 (CRCF). https://eur-lex.europa.eu/eli/reg/2024/3012/oj/eng
   - Implementing Regulation (EU) 2025/2358. https://eur-lex.europa.eu/eli/reg_impl/2025/2358/oj/eng

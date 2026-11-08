@@ -18,8 +18,8 @@ data-rights-framework: state-stewarded (regulatory framework)
 maturity-scale: (n/a — regulatory framework)
 maturity-verification: V1 (EUR-Lex texts, the Commission's implementation timeline and enforcement page, peer-reviewed EJRR analysis)
 maturity-longevity: L1 (in force since August 2024; the Omnibus amendment is six weeks old at this verification date)
-maturity-translation: (n/a — regulatory framework); T1 as to enforcement practice (powers live since 2 August 2026; no enforcement actions yet)
-last-verified: 2026-09
+maturity-translation: (n/a — regulatory framework); T1 as to enforcement practice (powers live since 2 August 2026; first company-named information requests to GPAI providers OpenAI and Anthropic, 14 October 2026; no fines yet)
+last-verified: 2026-11
 last-regionally-scanned: 2026-09
 ---
 
@@ -109,6 +109,8 @@ Anchors the **EU regulatory-substrate cell** of the corpus — the constraint si
 - The Article 6 high-risk classification guidelines remain **draft** (published 19 May 2026), so classification questions are still unsettled (G-423).
 - The claim that an EU high-risk AI database applies from 2 August 2026 is unconfirmed by the Commission's own timeline (G-422).
 - No fines and no formal investigations found — an absence of evidence; enforcement only began on 2 August 2026.
+- **Refresh 2026-11 — enforcement posture moved from dialogue to named-company action.** On 14 October 2026 EVP Henna Virkkunen announced formal information requests to **OpenAI and Anthropic** — the first AI Office action at named-company level — after the AI Office judged voluntary Code-of-Practice disclosures insufficient (Commission news 12 October; Virkkunen confirmation 14 October, Dublin). On 1 September 2026 the AI Office had already sent its first formal **Article 91** information requests to **30+ companies** across safety, security, copyright and transparency — see `units/european-ai-office-governance-architecture.md`. Still no fines, no formal investigations; the G-213 negative finding is updated but stands as of 2026-11-08.
+- **Refresh 2026-11 — first harmonised standard published.** Commission Implementing Decision (EU) 2026/2274 (adopted 12 October 2026, OJ L 14 October 2026, Commission announcement 19 October) publishes the reference of **EN 18286:2026** — *Artificial intelligence — Quality management system for EU AI Act regulatory purposes* (CEN/CENELEC) — giving providers of high-risk AI systems a **presumption of conformity with Article 17 QMS requirements**. This is the first harmonised standard supporting the AI Act; it starts the standards pipeline that determines how high-risk obligations (machinery safety components, Article 6(1)) become operable for agrifood equipment. The standards-pipeline trigger this unit left open has begun to move.
 - The sandbox state-of-play figure is April 2026 vintage, not current (G-424).
 - The 2 August 2029 review and the pending delegated acts (Art. 2(13) equivalence by 2 Aug 2027; machinery AI requirements by 2 Aug 2028) are the next decision points to track.
 
@@ -122,8 +124,12 @@ Anchors the **EU regulatory-substrate cell** of the corpus — the constraint si
 
 ## Freshness
 
-- last-verified: 2026-09
+- last-verified: 2026-11
 - last-regionally-scanned: 2026-09
+- refresh 2026-11 sources (checked 2026-11-08):
+  - European Commission. *First harmonised standard supporting the AI Act published in the Official Journal*. 19 October 2026. https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal
+  - Commission Implementing Decision (EU) 2026/2274 of 12 October 2026 (EN 18286:2026; OJ L 14.10.2026). https://eur-lex.europa.eu/eli/dec_impl/2026/2274/oj
+  - European Commission news (12 October 2026) + EVP Virkkunen announcement (14 October 2026, Dublin): information requests to OpenAI and Anthropic.
 - sources (primary, checked 2026-09-14):
   - Regulation (EU) 2024/1689 (AI Act). https://eur-lex.europa.eu/eli/reg/2024/1689/oj
   - Regulation (EU) 2026/1744 (Digital Omnibus on AI), OJ L, 24 July 2026. https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202601744 ; ELI http://data.europa.eu/eli/reg/2026/1744/oj

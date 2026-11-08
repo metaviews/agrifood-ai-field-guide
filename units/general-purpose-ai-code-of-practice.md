@@ -19,7 +19,7 @@ maturity-scale: (n/a — voluntary code)
 maturity-verification: V1 (Commission code pages, adequacy decision, Taskforce meeting records)
 maturity-longevity: L1 (published July 2025; Taskforce operating since January 2026)
 maturity-translation: T1 (compliance practice documented at the provider level; no agritech translation)
-last-verified: 2026-09
+last-verified: 2026-11
 last-regionally-scanned: 2026-09
 ---
 
@@ -46,6 +46,8 @@ The Commission page (last updated 31 July 2026) names 21 signatories: **AI Studi
 The **Signatory Taskforce**, chaired by the AI Office, exists to "facilitate a coherent application of the Code", with a published Vademecum. Four meetings: **30 January 2026** (first), **13 March 2026** (copyright chapter), **27 March 2026** (safety and security chapter), **17 July 2026** (post-market usage analysis under Measure 3.5; treatment of "marginal-risk" clauses — the AI Office "highlighted that such clauses could only be invoked in exceptional circumstances and under appropriate evidentiary and procedural safeguards"; and Measure 1.3(4) on notifying rightsholders about web crawlers and robots.txt).
 
 **Enforcement started 2 August 2026.** GPAI penalties run to **€15m or 3% of worldwide annual turnover**; prohibited-practice penalties to €35m or 7%. As of 14 September 2026 there were **no formal investigations and no fines**, and the AI Office's own FAQ describes "**technical compliance dialogues**" as its preferred initial instrument, with formal powers held for unresolved concerns.
+
+**Refresh 2026-11 — the Code's first live enforcement test.** On 14 October 2026 the AI Office issued formal information requests to **OpenAI and Anthropic** after judging signatories' voluntary Code disclosures insufficient — the first test of whether Code signatory status actually mitigates enforcement scrutiny (the assumption the adequacy decision was built on). On 21 October 2026 the AI Office published its report on qualification and independence requirements for **external evaluators of GPAI models** (19 organisations, from the 15 July 2026 workshop) — an element the Code's Safety and Security chapter specifies, now moving from text to operational definition. The Code page was last updated 7 October 2026; adequacy status unchanged; still no agritech translation of the Code (T1 holds).
 
 ### The standards point the July scan got wrong
 
@@ -95,8 +97,11 @@ Anchors the **provider-side compliance pathway** of the EU regulatory layer — 
 
 ## Freshness
 
-- last-verified: 2026-09
+- last-verified: 2026-11
 - last-regionally-scanned: 2026-09
+- refresh 2026-11 sources (checked 2026-11-08):
+  - AI Office. *Report on requirements for qualified independent external evaluators of GPAI models*. 21 October 2026.
+  - European Commission news (12 October 2026) + EVP Virkkunen announcement (14 October 2026): information requests to OpenAI and Anthropic — first live test of signatory-status mitigation.
 - sources (primary, checked 2026-09-14):
   - European Commission. *General-Purpose AI Code of Practice* (page last updated 31 July 2026). https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai
   - European Commission. *AI Code of Practice — drafting timeline* (updated 25 June 2026). https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice

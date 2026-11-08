@@ -15,7 +15,7 @@ actor: (concept / methodology actor; no single proprietor)
 actor-type: (cross-cutting — academic-research community + multinational seed-vendor R&D)
 data-governance: (cross-cutting — private-corporate pipeline at Bayer/Syngenta/Corteva/BASF; academic-public at GIFS / BeanGPT / Brazilian Academia / Montpellier / Wageningen)
 data-rights-framework: (cross-cutting — private corporate IP; public academic data)
-last-verified: 2026-07
+last-verified: 2026-11
 last-regionally-scanned: 2026-07
 ---
 
@@ -142,8 +142,10 @@ Without this conceptual unit, the plant-breeding / seed-cell coverage in the cor
 
 ## Freshness
 
-- last-verified: 2026-07
-- last-regionally-scanned: 2026-07
+- last-verified: 2026-11
+- refresh 2026-11 — ministerial-level policy push in China added. On **20 October 2026** MARA convened a national meeting in **Guangzhou** to deepen implementation of the seed-industry revitalization action; the readout (state-adjacent financial press) gives **"AI-empowered breeding innovation" (人工智能赋能育种创新)** a named role in accelerating breakthrough varieties and building internationally competitive seed-industry S&T champion enterprises, alongside germplasm-resource protection and "one-variety-one-policy" organised research. This is a ministerial policy signal, not a deployment datum — no figures attached — but it is new evidence that AI-for-breeding is being pushed at ministry level as the 15th FYP period opens, which strengthens the unit's China-row framing (see `units/china-no1-central-document-2026-ai.md`, refresh 2026-11, for the 15th FYP "AI + agriculture" action and the intelligent-design-breeding emerging-industry clause).
+- refresh 2026-11 sources (checked 2026-11-08):
+  - MARA seed-industry revitalization implementation meeting, Guangzhou, 20 October 2026 — readout via state-adjacent financial press (announced-class; no deployment figures).
 - sources:
   - Garcia-Oliveira, A. L. et al. (2026). *Breeding Smarter: Artificial Intelligence and Machine Learning* (MDPI Agronomy, cited 7). https://www.mdpi.com/2073-4395/16/1/137
   - Springer Nature Discover (2026). *A review of AI-driven phenomics, genomics, and predictive breeding*. https://link.springer.com/article/10.1007/s44372-026-00696-9
