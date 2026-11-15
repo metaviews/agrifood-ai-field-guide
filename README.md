@@ -2,25 +2,32 @@
 
 A knowledge base and presentation framework for public education on artificial intelligence across the agrifood sector.
 
-**Start here:** [VISION.md](VISION.md) — the framing, audience, stance, taxonomy, freshness rules, and positioning relative to existing work.
+**Start here:** [VISION.md](VISION.md) — the framing, audience, stance, taxonomy, freshness rules, and positioning relative to existing work. [ROADMAP.md](ROADMAP.md) — workstream state, milestones, and open decisions.
 
 ## Layout
 
 - `VISION.md` — the project's framing and operating principles
-- `scans/` — environmental scan outputs (36 scan files through September 2026)
+- `ROADMAP.md` — workstream state table, milestones (Done / Now / Next / Later), open decisions
+- `scans/` — environmental scan outputs (37 scan files through September 2026)
+- `scouts/` — coverage audits and pre-scan reconnaissance (7 scouts; latest: the October 2026 ducksize field-robotics whole-site audit)
 - `taxonomy/v5.md` — current taxonomy (fifth iteration). `taxonomy/v1.md..v4.md` retained as change-history anchors. Adds `maturity-scale`, `maturity-verification`, `maturity-longevity`, and `maturity-translation` cross-cutting tags for four-dimension maturity assessment.
-- `units/` — content units (231 entries) — the substrate from which talks are built. Vendor deployments, NA/EU/LAC/Africa/MENA/Asia academic institutes, data cooperatives, IDSov frameworks, critical voices, ecosystem mappings, hyperscaler and EU institutional/regulatory substrate.
+- `units/` — content units (248 entries) — the substrate from which talks are built. Vendor deployments, NA/EU/LAC/Africa/MENA/Asia academic institutes, data cooperatives, IDSov frameworks, critical voices, ecosystem mappings, hyperscaler and EU institutional/regulatory substrate.
 - `quotes/` — speaker voices (45 entries across 7 categories)
 - `talks/` — talk-assembly methodology: eight working archetypes + cluster-pattern taxonomy. See `talks/README.md` for operating principles.
+- `web/` — Astro static site (Layer 3), live at `agrifood.metaviews.ca`. Content collections share the same `.md` sources as the repo; scans and READMEs are corpus-internal and not routed.
 - `METHODS.md` — corpus-build methodology: 15 named methods (environmental scan, region-deepening, follow-on, substrate, two-phase, ecosystem mapping, cluster-pattern analysis, comparative scan, vendor-report hygiene, critical-voice surfacing, quote fishing, contested-claim tracking, negative-finding tolerance, gap + lead surfacing, Pass-2 sanity check)
-- `GAPS.md` — corpus-wide gap registry (current G-NNN index maintained in the registry)
-- `LEADS.md` — corpus-wide lead registry (current realized/open lead status maintained in the registry)
+- `GAPS.md` — corpus-wide gap registry (462 G-NNN IDs; regenerated from the corpus, not hand-edited)
+- `LEADS.md` — corpus-wide lead registry (49 leads: 25 realized, 16 open, 8 cluster-pattern candidates; regenerated from the corpus, not hand-edited)
 - `LICENSE` — CC BY 4.0 for content
 - `NOTICE` — MIT for code
 
 ## Status
 
-Substantively mature. Layer 1 (content library: units + scans + scouts + quotes) and Layer 2 (methodology + templates + eight archetypes) are well populated; Layer 3 (web generation) is live; Layer 4 (deck-generation tooling per VISION.md architecture) is documented but not built. The September 2026 cycle unitised the thirteen EU institutional and regulatory leads left open since July (12 new units plus `scans/2026-09-eu-substrate-deepening.md`), corrected the EU AI Act timeline the July regulatory scan recorded, regenerated `GAPS.md` and `LEADS.md`, and repaired a broken unit frontmatter that had silently stalled website deployment since 12 August 2026. The current consolidation priority remains translating the completed AI-and-labour corpus into reusable presentation form, now joined by the EU architecture material as a second presentation-ready block.
+Substantively mature. Layer 1 (content library: units + scans + scouts + quotes) and Layer 2 (methodology + templates + eight archetypes) are well populated; Layer 3 (web generation) is live at `agrifood.metaviews.ca` and current through the November 2026 pass; Layer 4 (deck-generation tooling per VISION.md architecture) is documented but not built.
+
+Recent movement: the September 2026 EU architecture and China cycles added 26 units; the October 2026 refresh pass closed two landed verification triggers and repaired registry integrity; the October 2026 ducksize scout audited field-robotics coverage against a practitioner directory (scouting-only, with named follow-ups); the November 2026 refresh-and-discovery pass refreshed 14 units in place against landed triggers (EU AI Act enforcement, EN 18286:2026, EDIC for Agri-Food, the 15th FYP agriculture plan) and added 3 units.
+
+The current consolidation priority is presentation-form work: the last archetype-level integration was July 2026, so the EU architecture cycle, the China cycle, and the November pass material have not yet been folded into the archetypes, and the EU block is named as presentation-ready. See `ROADMAP.md` for the full workstream state and the open decisions.
 
 The corpus is structural: scans synthesize research, units anchor specific actor-networks or deployments, quotes capture speaker voices, talks compose units into presentations. `GAPS.md` and `LEADS.md` make the corpus's gap and lead tracking queryable.
 

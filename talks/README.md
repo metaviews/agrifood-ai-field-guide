@@ -97,7 +97,7 @@ Document deviations. When you deviate substantively, add notes — a third-tier 
 
 - Not a slide-deck template. The library is markdown; the archetypes are markdown. Tools that produce slides from this are a Layer 4 concern (`VISION.md`).
 - Not a presentation-skills manual. The focus is assembly of content, not delivery technique.
-- Not exhaustive. Seven archetypes is a working set, not a complete library. New spines (e.g. *AI and labour*, *AI and the climate transition*) should be added when the corpus supports them.
+- Not exhaustive. Eight archetypes are a working set, not a complete library. New spines (e.g. *AI and the climate transition*) should be added when the corpus supports them.
 
 ## Status and freshness
 
@@ -116,8 +116,10 @@ When the corpus grows materially (new regional cycles, new quote categories, new
 
 ## Files
 - `talks/README.md` (this file) — talk-assembly methodology
-- `talks/index.md` — quick-reference table of the seven archetypes
+- `talks/index.md` — quick-reference table of the eight archetypes
 - `talks/cluster-pattern-taxonomy.md` — canonical cluster-pattern vocabulary surfaced across six regional cycles
+- `talks/canada-deepening-cycle-2026-07.md` — dated cycle-findings consolidation (Canada deepening)
+- `talks/canada-ids-cycle-2026-07.md` — dated cycle-findings consolidation (Canada IDSov)
 - `talks/archetypes/01-vendor-sweep-primer.md`
 - `talks/archetypes/02-canadian-data-sovereignty.md`
 - `talks/archetypes/03-canadian-adoption-diagnosis.md`
@@ -125,7 +127,7 @@ When the corpus grows materially (new regional cycles, new quote categories, new
 - `talks/archetypes/05-critical-lens-indigenous-sovereignty.md`
 - `talks/archetypes/06-regional-cluster-comparison.md`
 - `talks/archetypes/07-open-source-smallholder-multilateral.md`
-- `talks/index.md` — quick-reference table of the eight archetypes
+- `talks/archetypes/08-ai-and-labour.md`
 - `../GAPS.md` — corpus-wide gap registry, with the current G-NNN index maintained in the registry
 - `../LEADS.md` — corpus-wide lead registry, with current realized/open status maintained in the registry
 - `../taxonomy/v5.md` — current taxonomy
