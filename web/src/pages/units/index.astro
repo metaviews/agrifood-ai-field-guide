@@ -2,9 +2,47 @@
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 import { bucketize, BUCKET_ORDER } from '../../unit-buckets.ts';
+import {
+  UNIT_KINDS, KIND_LABELS,
+  REGION_ORDER, REGION_LABELS, regionFacets,
+  VERIF_ORDER, VERIF_LABELS, verifFacets, verifChip,
+  GOV_ORDER, GOV_LABELS,
+} from '../../unit-facets.ts';
 
 const units = await getCollection('units');
 units.sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
+
+// Per-unit facet values (v6 taxonomy tags).
+type Facets = { kind: string; gov: string; regions: string[]; verif: string[]; vChip: string | null };
+const facetsOf = new Map<string, Facets>();
+for (const unit of units) {
+  facetsOf.set(unit.id, {
+    kind: unit.data['unit-kind'] ?? '',
+    gov: unit.data['governance-level'] ?? '',
+    regions: regionFacets(unit.data.region),
+    verif: verifFacets(unit.data['maturity-verification']),
+    vChip: verifChip(unit.data['maturity-verification']),
+  });
+}
+const TOTAL = units.length;
+
+// Option counts over unique units, for the select labels.
+function countBy(extract: (f: Facets) => string[]): Record<string, number> {
+  const counts: Record<string, number> = {};
+  for (const f of facetsOf.values()) {
+    for (const v of new Set(extract(f))) counts[v] = (counts[v] ?? 0) + 1;
+  }
+  return counts;
+}
+const kindCounts = countBy((f) => (f.kind ? [f.kind] : []));
+const regionCounts = countBy((f) => f.regions);
+const verifCounts = countBy((f) => f.verif);
+const govCounts = countBy((f) => (f.gov ? [f.gov] : []));
+
+const kindOptions = UNIT_KINDS.filter((k) => kindCounts[k]);
+const regionOptions = REGION_ORDER.filter((r) => regionCounts[r]);
+const verifOptions = VERIF_ORDER.filter((v) => verifCounts[v]);
+const govOptions = GOV_ORDER.filter((g) => govCounts[g]);
 
 // Group units by bucket. A unit may belong to multiple buckets (e.g. a
 // cooperative that spans open-field and livestock production).
@@ -43,6 +81,57 @@ const toc = BUCKET_ORDER.map((bucket) => ({
     across talks.
   </p>
 
+  <div class="facet-bar" id="facet-bar">
+    <h2>Filter units</h2>
+    <div class="facet-row">
+      <label>
+        <span>What it is</span>
+        <select class="facet-select" id="facet-kind" data-facet="kind">
+          <option value="">All kinds</option>
+          {kindOptions.map((k) => (
+            <option value={k}>{KIND_LABELS[k] ?? k} ({kindCounts[k]})</option>
+          ))}
+        </select>
+      </label>
+      <label>
+        <span>Where</span>
+        <select class="facet-select" id="facet-region" data-facet="region">
+          <option value="">All regions</option>
+          {regionOptions.map((r) => (
+            <option value={r}>{REGION_LABELS[r] ?? r} ({regionCounts[r]})</option>
+          ))}
+        </select>
+      </label>
+      <label>
+        <span>Verification</span>
+        <select class="facet-select" id="facet-verif" data-facet="verif">
+          <option value="">Any verification</option>
+          {verifOptions.map((v) => (
+            <option value={v}>{VERIF_LABELS[v] ?? v} ({verifCounts[v]})</option>
+          ))}
+        </select>
+      </label>
+      <label>
+        <span>Governance level</span>
+        <select class="facet-select" id="facet-gov" data-facet="gov">
+          <option value="">Any actor</option>
+          {govOptions.map((g) => (
+            <option value={g}>{GOV_LABELS[g] ?? g} ({govCounts[g]})</option>
+          ))}
+        </select>
+      </label>
+    </div>
+    <p class="facet-status" id="facet-status" aria-live="polite">{TOTAL} units</p>
+    <button class="facet-clear" id="facet-clear" type="button" hidden>Clear filters</button>
+  </div>
+  <noscript>
+    <style>.facet-bar { display: none; }</style>
+    <p class="facet-noscript">
+      Filtering requires JavaScript; the full list below is the same
+      content the filters narrow.
+    </p>
+  </noscript>
+
   <nav class="toc" aria-label="Bucket navigation">
     <h2>Browse by sector</h2>
     <ul>
@@ -50,7 +139,7 @@ const toc = BUCKET_ORDER.map((bucket) => ({
         <li>
           <a href={`#bucket-${entry.id}`}>
             <span class="toc-label">{entry.label}</span>
-            <span class="toc-count">{entry.count}</span>
+            <span class="toc-count" data-toc-for={entry.id}>{entry.count}</span>
           </a>
         </li>
       ))}
@@ -61,23 +150,183 @@ const toc = BUCKET_ORDER.map((bucket) => ({
     const list = byBucket[bucket.id];
     if (list.length === 0) return null;
     return (
-      <section class="bucket" id={`bucket-${bucket.id}`}>
-        <h2>{bucket.label} <span class="bucket-count">({list.length})</span></h2>
+      <section class="bucket" id={`bucket-${bucket.id}`} data-bucket={bucket.id}>
+        <h2>{bucket.label} (<span class="bucket-count" data-count-for={bucket.id}>{list.length}</span>)</h2>
         <p class="bucket-desc">{bucket.description}</p>
         <ul class="bucket-list">
-          {list.map((unit) => (
-            <li>
-              <a href={`/units/${unit.id}/`}>{titleOf(unit)}</a>
-              {unit.data.summary && <span class="bucket-summary"> — {unit.data.summary}</span>}
-            </li>
-          ))}
+          {list.map((unit) => {
+            const f = facetsOf.get(unit.id)!;
+            return (
+              <li
+                data-uid={unit.id}
+                data-kind={f.kind}
+                data-gov={f.gov}
+                data-regions={f.regions.join(' ')}
+                data-verif={f.verif.join(' ')}
+              >
+                <a href={`/units/${unit.id}/`}>{titleOf(unit)}</a>
+                {f.kind && <span class="chip chip-kind" title="Unit kind (taxonomy v6)">{KIND_LABELS[f.kind] ?? f.kind}</span>}
+                {f.vChip && <span class="chip chip-v" title="Verification tier (maturity-verification)">{f.vChip}</span>}
+                {unit.data.summary && <span class="bucket-summary"> — {unit.data.summary}</span>}
+              </li>
+            );
+          })}
         </ul>
       </section>
     );
   })}
 </Base>
 
+<script is:inline>
+  (function () {
+    var bar = document.getElementById('facet-bar');
+    if (!bar) return;
+    var selects = Array.prototype.slice.call(bar.querySelectorAll('select.facet-select'));
+    var items = Array.prototype.slice.call(document.querySelectorAll('li[data-uid]'));
+    var sections = Array.prototype.slice.call(document.querySelectorAll('section.bucket[data-bucket]'));
+    var status = document.getElementById('facet-status');
+    var clearBtn = document.getElementById('facet-clear');
+    var total = items.length ? parseInt(status.textContent, 10) : 0;
+    // The status text starts as "<N> units"; total unit count is the
+    // number of unique data-uid values, not list items (units can
+    // appear in more than one sector bucket).
+    var uniqueIds = {};
+    items.forEach(function (li) { uniqueIds[li.dataset.uid] = true; });
+    total = Object.keys(uniqueIds).length;
+
+    function current() {
+      var c = {};
+      selects.forEach(function (s) { c[s.dataset.facet] = s.value; });
+      return c;
+    }
+
+    function apply() {
+      var c = current();
+      var filtering = !!(c.kind || c.region || c.verif || c.gov);
+      var visible = {};
+      items.forEach(function (li) {
+        var show = true;
+        if (c.kind && li.dataset.kind !== c.kind) show = false;
+        if (show && c.region && (' ' + li.dataset.regions + ' ').indexOf(' ' + c.region + ' ') === -1) show = false;
+        if (show && c.verif && (' ' + li.dataset.verif + ' ').indexOf(' ' + c.verif + ' ') === -1) show = false;
+        if (show && c.gov && li.dataset.gov !== c.gov) show = false;
+        li.classList.toggle('facet-hidden', !show);
+        if (show) visible[li.dataset.uid] = true;
+      });
+      var n = Object.keys(visible).length;
+      status.textContent = filtering ? ('Showing ' + n + ' of ' + total + ' units') : (total + ' units');
+      clearBtn.hidden = !filtering;
+      sections.forEach(function (sec) {
+        var lis = sec.querySelectorAll('li[data-uid]');
+        var shown = 0;
+        Array.prototype.forEach.call(lis, function (li) {
+          if (!li.classList.contains('facet-hidden')) shown++;
+        });
+        sec.classList.toggle('facet-hidden', filtering && shown === 0);
+        var countEl = sec.querySelector('.bucket-count');
+        if (countEl) countEl.textContent = filtering ? shown : lis.length;
+        var tocEl = document.querySelector('[data-toc-for="' + sec.dataset.bucket + '"]');
+        if (tocEl) {
+          tocEl.textContent = filtering ? shown : lis.length;
+          tocEl.closest('li').classList.toggle('facet-hidden', filtering && shown === 0);
+        }
+      });
+    }
+
+    selects.forEach(function (s) { s.addEventListener('change', apply); });
+    clearBtn.addEventListener('click', function () {
+      selects.forEach(function (s) { s.value = ''; });
+      apply();
+    });
+    apply();
+  })();
+</script>
+
 <style>
+  .facet-bar {
+    background: var(--cream-soft);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    padding: 1.1rem 1.25rem;
+    margin: 1.5rem 0;
+  }
+  .facet-bar h2 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-soft);
+    margin: 0 0 0.6em 0;
+    padding: 0;
+    border: none;
+  }
+  .facet-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0.6rem 1rem;
+  }
+  .facet-row label {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+  }
+  .facet-select {
+    font: inherit;
+    font-size: 0.9rem;
+    color: var(--ink);
+    background: var(--cream, #fff);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    padding: 0.3em 0.5em;
+    max-width: 100%;
+  }
+  .facet-status {
+    margin: 0.7em 0 0 0;
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    font-variant-numeric: tabular-nums;
+  }
+  .facet-clear {
+    font: inherit;
+    font-size: 0.8rem;
+    margin-top: 0.5em;
+    background: none;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    color: var(--ink-soft);
+    padding: 0.2em 0.7em;
+    cursor: pointer;
+  }
+  .facet-clear:hover {
+    color: var(--ink);
+    border-color: var(--ink-soft);
+  }
+  .facet-hidden {
+    display: none !important;
+  }
+  .facet-noscript {
+    font-size: 0.9rem;
+    color: var(--ink-soft);
+    font-style: italic;
+  }
+
+  .chip {
+    display: inline-block;
+    font-size: 0.72rem;
+    line-height: 1.6;
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 0 0.45em;
+    margin-left: 0.5em;
+    color: var(--ink-faint);
+    white-space: nowrap;
+    vertical-align: baseline;
+  }
+  .chip-v {
+    font-variant-numeric: tabular-nums;
+  }
+
   .toc {
     background: var(--cream-soft);
     border: 1px solid var(--rule);

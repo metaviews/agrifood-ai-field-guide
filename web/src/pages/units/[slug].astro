@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
+import { KIND_LABELS, GOV_LABELS, verifChip } from '../../unit-facets.ts';
 
 export async function getStaticPaths() {
   const units = await getCollection('units');
@@ -9,10 +10,13 @@ export async function getStaticPaths() {
     props: { unit },
   }));
 }
-
 const { unit } = Astro.props;
 const { Content } = await render(unit);
 const title = unit.data.title ?? unit.id;
+
+const kind = unit.data['unit-kind'];
+const gov = unit.data['governance-level'];
+const vChip = verifChip(unit.data['maturity-verification']);
 ---
 
 <Base title={title} description={unit.data.summary ?? `Unit: ${title}`}>
@@ -22,6 +26,13 @@ const title = unit.data.title ?? unit.id;
   <h1>{title}</h1>
   {unit.data.region && (
     <p class="unit-region">{unit.data.region}</p>
+  )}
+  {(kind || gov || vChip) && (
+    <p class="unit-taxonomy" title="Taxonomy v6 tags from this unit's frontmatter">
+      {kind && <span class="chip">{KIND_LABELS[kind] ?? kind}</span>}
+      {gov && <span class="chip">{GOV_LABELS[gov] ?? gov}</span>}
+      {vChip && <span class="chip" title="Verification tier (maturity-verification)">{vChip}</span>}
+    </p>
   )}
   <Content />
 </Base>
@@ -38,5 +49,20 @@ const title = unit.data.title ?? unit.id;
     margin-top: -0.5em;
     margin-bottom: 1.5em;
     font-size: 0.95rem;
+  }
+  .unit-taxonomy {
+    margin-top: -1em;
+    margin-bottom: 1.5em;
+  }
+  .chip {
+    display: inline-block;
+    font-size: 0.75rem;
+    line-height: 1.7;
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    padding: 0 0.5em;
+    margin-right: 0.4em;
+    color: var(--ink-faint);
+    white-space: nowrap;
   }
 </style>
