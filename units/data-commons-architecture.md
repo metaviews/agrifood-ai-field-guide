@@ -15,6 +15,10 @@ actor: JoinData, NAPDC / Ag Data Coop, OADA, Ag Data Transparent, FAIR Principle
 actor-type: '(multi-type: farmer-cooperative, state-agency, standards-body, civil-society)'
 data-governance: not applicable
 data-rights-framework: not applicable
+maturity-scale: S0
+maturity-verification: V1
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

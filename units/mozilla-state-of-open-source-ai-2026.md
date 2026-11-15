@@ -13,6 +13,10 @@ policy-instrument: strategy
 region: Global
 actor: Mozilla Foundation; Raffi Krikorian (CTO); 950+ developer survey (SlashData)
 actor-type: civil-society (Mozilla Foundation) + standards-body (SlashData)
+maturity-scale: S0
+maturity-verification: V2
+maturity-longevity: L1
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 data-governance: open

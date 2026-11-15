@@ -15,6 +15,10 @@ actor: Loblaw Companies Limited (with Blue Yonder)
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
+maturity-scale: S3
+maturity-verification: V1
+maturity-longevity: L3
+maturity-translation: T3
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

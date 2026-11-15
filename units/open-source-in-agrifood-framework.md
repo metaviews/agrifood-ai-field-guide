@@ -13,6 +13,10 @@ policy-instrument: regulatory (CARE Principles, IEEE 2890-2025); strategy (Mozil
 region: Global
 actor: Mozilla Foundation; FAO; CARE Principles / GIDA; OADA; JoinData; La Ferme Digitale / GAIA; CGIAR; NAPDC / Ag Data Coop; Indigenous Navigator; FarmOS; FarmVibes.AI
 actor-type: '(multi-type: civil-society, multilateral-body, farmer-cooperative, standards-body, critical-civil-society)'
+maturity-scale: S0
+maturity-verification: V1
+maturity-longevity: L1
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 data-governance: open; co-operative / commons

@@ -15,6 +15,10 @@ actor: Alibaba Cloud (with pig farming and fruit / vegetable enterprises)
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
+maturity-scale: S3
+maturity-verification: V0
+maturity-longevity: L3
+maturity-translation: T3
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

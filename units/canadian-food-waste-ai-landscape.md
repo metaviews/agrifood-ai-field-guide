@@ -15,6 +15,10 @@ actor: ReFED, Shelf Engine, Afresh (US AI deployments); ECCC (Canadian policy); 
 actor-type: vendor (US AI vendors) / state-agency (ECCC) / standards-body (ReFED)
 data-governance: mixed
 data-rights-framework: not applicable
+maturity-scale: S1
+maturity-verification: V0
+maturity-longevity: L1
+maturity-translation: T1
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

@@ -15,6 +15,10 @@ actor: 'AI-LEAF Institute (lead: Pennsylvania State University)'
 actor-type: academic
 data-governance: mixed (research data partly public; partner integration varies)
 data-rights-framework: distributed (research outputs public; deployed tools vary by partner)
+maturity-scale: S0
+maturity-verification: V1
+maturity-longevity: L1
+maturity-translation: T1
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

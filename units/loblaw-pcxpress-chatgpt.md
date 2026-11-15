@@ -15,6 +15,10 @@ actor: Loblaw Companies Limited (with OpenAI)
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
+maturity-scale: S1
+maturity-verification: V1
+maturity-longevity: L1
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

@@ -15,6 +15,10 @@ actor: AGCO Corporation (Fendt, Massey Ferguson, Valtra, PTx, Precision Planting
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
+maturity-scale: S3
+maturity-verification: V0
+maturity-longevity: L2
+maturity-translation: T3
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

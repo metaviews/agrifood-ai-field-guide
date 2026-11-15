@@ -13,6 +13,10 @@ policy-instrument: regulatory (IEEE 2890-2025; EMRIP Advice No. 18; UNDRIP Artic
 region: Global (with operational anchors in Peru, Canada, Mexico, Aotearoa New Zealand)
 actor: Global Indigenous Data Alliance (GIDA); IWGIA; ONAMIAP (Peru); FNIGC (Canada); Te Mana Raraunga (Māori Data Sovereignty Network, Aotearoa NZ); AIPP (Asia); UNESCO
 actor-type: Indigenous-organisation (operational); critical-civil-society (framework); multilateral-body (UN system)
+maturity-scale: S0
+maturity-verification: V2
+maturity-longevity: L3
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 data-governance: co-operative / commons (Indigenous-led); state-stewarded (UN system)

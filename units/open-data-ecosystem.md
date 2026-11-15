@@ -15,6 +15,10 @@ actor: GODAN, CGIAR Platform for Big Data in Agriculture, USDA National Agricult
 actor-type: '(multi-type: civil-society for GODAN; multilateral-body for CGIAR, FAO; state-agency for USDA, ESA, GBIF)'
 data-governance: open
 data-rights-framework: state-stewarded
+maturity-scale: S3
+maturity-verification: V2
+maturity-longevity: L3
+maturity-translation: T3
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

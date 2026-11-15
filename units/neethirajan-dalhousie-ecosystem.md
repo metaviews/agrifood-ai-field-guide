@@ -15,6 +15,10 @@ actor: Suresh Neethirajan (Dalhousie University Research Chair in Digital Livest
 actor-type: (multi-type ecosystem; primary classification academic)
 data-governance: not applicable
 data-rights-framework: not applicable
+maturity-scale: S0
+maturity-verification: V2
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

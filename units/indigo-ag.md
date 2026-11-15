@@ -15,6 +15,10 @@ actor: Indigo Ag
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
+maturity-scale: S2
+maturity-verification: V1
+maturity-longevity: L1
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

@@ -15,6 +15,10 @@ actor: Bayer Crop Science (Climate LLC, the digital farming arm)
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
+maturity-scale: S4
+maturity-verification: V1
+maturity-longevity: L4
+maturity-translation: T4
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

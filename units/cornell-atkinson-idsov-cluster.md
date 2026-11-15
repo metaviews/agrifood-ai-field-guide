@@ -15,6 +15,10 @@ actor: Cornell Atkinson Center for Sustainability; American Indian and Indigenou
 actor-type: '(multi-type: academic primary; Indigenous-organisation partnership; critical-civil-society adjacent)'
 data-governance: co-operative / commons (Indigenous-led)
 data-rights-framework: Indigenous-sovereign
+maturity-scale: S0
+maturity-verification: V1
+maturity-longevity: L1
+maturity-translation: T1
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

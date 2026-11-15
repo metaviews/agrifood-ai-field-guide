@@ -15,6 +15,10 @@ actor: Zone Agtech; Montréal International; Sollum, ChrysaLabs, SoraLINK, Savou
 actor-type: '(multi-type: industry-association for cluster, vendor for individual businesses, state-agency-adjacent for Montréal International)'
 data-governance: mixed
 data-rights-framework: not applicable
+maturity-scale: S2
+maturity-verification: V1
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

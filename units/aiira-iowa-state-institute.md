@@ -15,6 +15,10 @@ actor: 'AIIRA — AI Institute for Resilient Agriculture (lead: Iowa State Unive
 actor-type: academic
 data-governance: mixed (research datasets partly public; breeding pipelines proprietary)
 data-rights-framework: distributed (research outputs public; deployed outcomes via breeding pipelines vendor-mediated)
+maturity-scale: S0
+maturity-verification: V1
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

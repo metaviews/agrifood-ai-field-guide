@@ -15,6 +15,10 @@ actor: Bayer Climate FieldView, John Deere Operations Center, AGCO PTx Trimble, 
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
+maturity-scale: (n/a — analytical)
+maturity-verification: V2
+maturity-longevity: L2
+maturity-translation: (n/a)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

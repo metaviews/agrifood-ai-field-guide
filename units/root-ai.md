@@ -15,6 +15,10 @@ actor: Farm Credit Canada (FCC); with RDAR partnership
 actor-type: vendor (FCC is state-adjacent; partner RDAR is producer-led)
 data-governance: mixed
 data-rights-framework: state-stewarded
+maturity-scale: S1
+maturity-verification: V2
+maturity-longevity: L1
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

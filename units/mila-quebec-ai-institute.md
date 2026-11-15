@@ -15,6 +15,10 @@ actor: Mila — Quebec Artificial Intelligence Institute; DISA project (Rwanda);
 actor-type: academic
 data-governance: state-stewarded
 data-rights-framework: state-stewarded
+maturity-scale: S0
+maturity-verification: V1
+maturity-longevity: L3
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

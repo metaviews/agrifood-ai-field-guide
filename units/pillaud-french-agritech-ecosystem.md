@@ -15,6 +15,10 @@ actor: Hervé Pillaud (co-founder La Ferme Digitale); with Justine Lipuma, David
 actor-type: (multi-type ecosystem; primary classification industry-association)
 data-governance: co-operative / commons
 data-rights-framework: co-operative
+maturity-scale: S0
+maturity-verification: V2
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

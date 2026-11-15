@@ -15,6 +15,10 @@ actor: 'AgAID Institute (lead: Washington State University; Director Ananth Kaly
 actor-type: academic
 data-governance: mixed (research data via Cooperative Extension partnerships; proprietary vendor integrations where commercialised)
 data-rights-framework: distributed (research outputs are public; deployed extensions vary by partner)
+maturity-scale: S0
+maturity-verification: V1
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

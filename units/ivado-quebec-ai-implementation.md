@@ -15,6 +15,10 @@ actor: IVADO (Institute for Data Valorization); with R3AI project
 actor-type: academic
 data-governance: state-stewarded
 data-rights-framework: state-stewarded
+maturity-scale: S1
+maturity-verification: V0
+maturity-longevity: L1
+maturity-translation: T1
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

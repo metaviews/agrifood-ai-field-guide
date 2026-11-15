@@ -15,6 +15,10 @@ actor: 'Pinduoduo (China''s largest agricultural e-commerce platform); with Chin
 actor-type: vendor (with academic partnership)
 data-governance: proprietary
 data-rights-framework: vendor-owned
+maturity-scale: S1
+maturity-verification: V1
+maturity-longevity: L1
+maturity-translation: T1
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

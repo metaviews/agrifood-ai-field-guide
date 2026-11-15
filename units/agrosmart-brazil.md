@@ -15,6 +15,10 @@ actor: Agrosmart (Brazil; venture-funded)
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
+maturity-scale: S2
+maturity-verification: V0
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

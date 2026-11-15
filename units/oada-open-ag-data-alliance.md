@@ -15,6 +15,10 @@ actor: Open Ag Data Alliance (open project)
 actor-type: '(multi-type: standards-body / academic / vendor-contributing)'
 data-governance: open
 data-rights-framework: distributed
+maturity-scale: S0
+maturity-verification: V1
+maturity-longevity: L3
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

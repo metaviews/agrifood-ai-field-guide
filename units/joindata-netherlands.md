@@ -15,6 +15,10 @@ actor: JoinData (independent non-profit cooperative)
 actor-type: farmer-cooperative
 data-governance: co-operative / commons
 data-rights-framework: co-operative
+maturity-scale: S3
+maturity-verification: V2
+maturity-longevity: L3
+maturity-translation: T3
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

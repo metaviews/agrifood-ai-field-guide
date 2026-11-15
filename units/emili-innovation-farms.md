@@ -15,6 +15,10 @@ actor: Enterprise Machine Intelligence and Learning Initiative (EMILI)
 actor-type: '(multi-type: industry-led nonprofit; classified as industry-association for taxonomy purposes)'
 data-governance: co-operative / commons
 data-rights-framework: co-operative
+maturity-scale: S1
+maturity-verification: V0
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

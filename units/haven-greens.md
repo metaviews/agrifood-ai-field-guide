@@ -15,6 +15,10 @@ actor: Haven Greens (Jay Willmot, founder / CEO)
 actor-type: vendor
 data-governance: proprietary
 data-rights-framework: vendor-owned
+maturity-scale: S1
+maturity-verification: V0
+maturity-longevity: L1
+maturity-translation: T1
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

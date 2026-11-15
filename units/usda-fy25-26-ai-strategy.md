@@ -15,6 +15,10 @@ actor: USDA (Secretary Tom Vilsack at signing; Christopher Alvares, Chief Data O
 actor-type: state-agency
 data-governance: state-stewarded (USDA data; aligned with Foundations for Evidence-Based Policymaking Act of 2018)
 data-rights-framework: state-stewarded
+maturity-scale: (n/a — strategy)
+maturity-verification: V2
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

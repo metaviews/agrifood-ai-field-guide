@@ -15,6 +15,10 @@ actor: 'Extension Foundation (lead authors: Aaron Weibe, Dhruti Patel, David War
 actor-type: '(multi-type: industry-association for Extension Foundation; USDA-NIFA funded; academic-via-Extension-affiliated-universities)'
 data-governance: mixed (Extension data partly public; vendor-integrated tools proprietary)
 data-rights-framework: distributed (research outputs public; deployed extension tools vary)
+maturity-scale: S1
+maturity-verification: V2
+maturity-longevity: L1
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

@@ -15,6 +15,10 @@ actor: Michael Carolan (Professor of Sociology; Co-Director, Food Systems Instit
 actor-type: academic
 data-governance: (not applicable)
 data-rights-framework: (not applicable)
+maturity-scale: (n/a — analytical)
+maturity-verification: V2
+maturity-longevity: L2
+maturity-translation: (n/a)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

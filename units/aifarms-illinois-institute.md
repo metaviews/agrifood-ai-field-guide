@@ -15,6 +15,10 @@ actor: 'AIFARMS Institute (lead: University of Illinois Urbana-Champaign; Center
 actor-type: academic
 data-governance: mixed (research datasets public; deployment-via-partner commercial)
 data-rights-framework: distributed (research outputs public; deployment integration varies)
+maturity-scale: S0
+maturity-verification: V1
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

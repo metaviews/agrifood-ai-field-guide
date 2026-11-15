@@ -15,6 +15,10 @@ actor: 'AI-CLIMATE Institute (lead: University of Minnesota Twin Cities)'
 actor-type: academic
 data-governance: mixed (research data public; carbon-market partner data proprietary)
 data-rights-framework: distributed (research outputs public; deployed carbon-accounting tools vary)
+maturity-scale: S0
+maturity-verification: V1
+maturity-longevity: L1
+maturity-translation: T1
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

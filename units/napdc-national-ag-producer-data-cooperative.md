@@ -15,6 +15,10 @@ actor: National Agricultural Producers Data Cooperative (NAPDC); University of N
 actor-type: farmer-cooperative (with state-agency funding and academic lead)
 data-governance: co-operative / commons
 data-rights-framework: co-operative
+maturity-scale: S0
+maturity-verification: V0
+maturity-longevity: L1
+maturity-translation: T1
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

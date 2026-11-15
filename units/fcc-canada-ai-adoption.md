@@ -15,6 +15,10 @@ actor: Statistics Canada (data source); FCC and Deloitte Canada (analytical work
 actor-type: state-agency (Statistics Canada) / vendor (FCC analytical arm)
 data-governance: mixed
 data-rights-framework: state-stewarded
+maturity-scale: (n/a — statistic)
+maturity-verification: V2
+maturity-longevity: L2
+maturity-translation: (n/a)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

@@ -15,6 +15,10 @@ actor: Olds College of Agriculture & Technology
 actor-type: academic
 data-governance: mixed
 data-rights-framework: state-stewarded
+maturity-scale: S1
+maturity-verification: V0
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

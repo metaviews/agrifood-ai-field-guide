@@ -15,6 +15,10 @@ actor: MARA (Ministry of Agriculture and Rural Affairs); State Council; provinci
 actor-type: state-agency
 data-governance: state-stewarded
 data-rights-framework: state-stewarded
+maturity-scale: (n/a — policy)
+maturity-verification: V2
+maturity-longevity: L2
+maturity-translation: (n/a)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 

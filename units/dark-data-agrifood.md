@@ -15,6 +15,10 @@ actor: (multi-type — IoT vendors, equipment makers, government agencies, vendo
 actor-type: (multi-type)
 data-governance: dark
 data-rights-framework: vendor-owned
+maturity-scale: (n/a — analytical)
+maturity-verification: V1
+maturity-longevity: L2
+maturity-translation: (n/a)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

@@ -271,6 +271,7 @@ This is the first-pass maturity assessment for all current units. Each row shows
 
 - last-verified: 2026-07
 - last-regionally-scanned: 2026-07
+- transcription note (2026-11-15): the 58 still-untagged grades from this unit's table were transcribed into unit frontmatter (`maturity-scale` / `maturity-verification` / `maturity-longevity` / `maturity-translation`), lifting v5 tag coverage from 65/249 to 123/249. Where a unit was rewritten by a later cycle and carries its own graded tags, the unit frontmatter governs and the table row is superseded — currently `dji-agriculture-global-export.md` (table S4/V0/L3/T3 → unit S4/V0/L3/T4 after the September verification pass) and `xag-china-drone-leader.md` (table S4/V0/L3/T3 → unit S3/V2/L2/T2 on the strength of the HK prospectus, the cycle's only regulated-disclosure source). The table below remains the July 2026 snapshot; it is not regenerated.
 - sources (for methodology; the framework itself is a methodology unit, not a content claim):
   - Field guide corpus: 60+ units across `units/`. Maturity grades drawn from each unit's claims, sources, and freshness dates.
   - Taxonomy v4 (`taxonomy/v4.md`): activity-status tag and its limitations

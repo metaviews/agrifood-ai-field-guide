@@ -15,6 +15,10 @@ actor: La Ferme Digitale (industry association); with INRAE, ACTA, OSFARM partne
 actor-type: industry-association
 data-governance: co-operative / commons
 data-rights-framework: co-operative
+maturity-scale: S0
+maturity-verification: V1
+maturity-longevity: L2
+maturity-translation: T2
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---

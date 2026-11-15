@@ -15,6 +15,10 @@ actor: Farm Credit Canada (FCC) and Deloitte Canada, in collaboration
 actor-type: state-agency-adjacent (Crown corporation + analyst)
 data-governance: not applicable
 data-rights-framework: not applicable
+maturity-scale: (n/a — analysis)
+maturity-verification: V2
+maturity-longevity: L2
+maturity-translation: (n/a)
 last-verified: 2026-07
 last-regionally-scanned: 2026-07
 ---
