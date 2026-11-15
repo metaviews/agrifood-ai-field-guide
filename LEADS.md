@@ -14,8 +14,8 @@ Two surfaces in the corpus produce leads:
   - bullet items in cycle tail sections (deferred-scope / next-cycle hooks)
 
 Status:
-  - 26 leads have been realized as standalone units (closed)
-  - 16 leads remain open with named target filename
+  - 27 leads have been realized as standalone units (closed)
+  - 15 leads remain open with named target filename
   - 8 cluster-pattern / framework-level candidates
     not tied to a single unit
 
@@ -106,6 +106,9 @@ realized by split (every named unit is verified to exist before it moves).
 - **china-state-farms-provincial-deployment.md** — realized from `2026-09-china-cycle.md` L224
   gaps: -
   Beidahuang's data-management case, the XPCC, Heilongjiang's provincial programme.
+- **eu-agrifood-ai-decision-calendar.md** — realized from `2026-09-eu-substrate-deepening.md` L207
+  gaps: G-436
+  a tracked decision calendar for EU agrifood AI, 2026-2028, maintained as a single corpus artefact.
 
 ## Open leads (named target unit not yet written)
 
@@ -149,9 +152,6 @@ Cycle work should target these next when capacity permits.
 - **sikia-artemis-smallholder-design-pattern.md** — surfaced in `2026-07-sub-saharan-africa-multilateral.md` L582
   gaps: G-247
   SIKIA + Artemis unit covering voice-first + low-bandwidth + co-design pattern.
-- **eu-agrifood-ai-decision-calendar.md** — surfaced in `2026-09-eu-substrate-deepening.md` L207
-  gaps: G-436
-  a tracked decision calendar for EU agrifood AI, 2026-2028, maintained as a single corpus artefact.
 - **eu-funding-flow-comparison-us-china.md** — surfaced in `2026-09-eu-substrate-deepening.md` L208
   gaps: -
   a comparative funding-flow unit putting the EU's dispersed instruments against USDA-NIFA, NSF, the US hyperscaler substrate, and China's state-led programmes at the same figure-level.
