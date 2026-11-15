@@ -5,6 +5,7 @@ sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting — data infrastructure)
 purpose: governance
 claim-type: example
+unit-kind: data-infrastructure
 activity-status: deployed
 critical-voice: digital-equity
 capital-intensity: (not applicable — cooperative)

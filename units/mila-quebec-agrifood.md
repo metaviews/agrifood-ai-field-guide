@@ -5,6 +5,7 @@ sector-position: (cross-cutting — academic AI-research substrate for agrifood 
 ai-technique-class: (cross-cutting — computer vision, satellite imagery, regenerative-agriculture analytics, AI-driven aquaculture, AI4Food-adjacent)
 purpose: (cross-cutting — academic AI-research substrate for Quebec + international agrifood)
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (adjacent — UdeM/Mila/IVADO bioethics scholarship has documented the AI-military and AI-ethics concerns; not directly agrifood)
 capital-intensity: (cross-cutting — academic-budget scale)

@@ -5,6 +5,7 @@ sector-position: animal-production
 ai-technique-class: computer-vision, predictive-ml, sensors-and-iot-ml
 purpose: supply-chain-traceability, deforestation-monitoring, compliance
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: deforestation-and-supply-chain
 capital-intensity: enterprise

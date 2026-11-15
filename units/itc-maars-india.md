@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field, distribution-and-retail
 ai-technique-class: predictive-ml, computer-vision, generative-ai-llms, sensors-and-iot-ml
 purpose: yield-optimisation, input-reduction, supply-chain-efficiency, market-access
 claim-type: example
+unit-kind: institution
 activity-status: deployed
 critical-voice: digital-equity (FPO-mediated, but conglomerate-owned data layer)
 capital-intensity: mixed (smallholder interface via FPOs; conglomerate balance-sheet backing)

@@ -5,6 +5,7 @@ sector-position: (cross-cutting — labour-side and producer-side institutional 
 ai-technique-class: (cross-cutting)
 purpose: governance (labour-side institutional voice); worker conditions (labour-side evidence base); data governance (NFU data-rights framing); food security / sovereignty (NFU food sovereignty framing)
 claim-type: claim (substantive institutional analytical contribution)
+unit-kind: critical-analysis
 activity-status: (not applicable — institutional voice, not deployment)
 critical-voice: labour-conditions (labour-organisation institutional voice); data-governance (NFU farm-data-rights framing); food-sovereignty (NFU food sovereignty framing); worker-conditions-and-recognition
 capital-intensity: (not applicable)

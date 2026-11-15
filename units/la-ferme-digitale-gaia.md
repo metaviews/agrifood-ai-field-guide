@@ -5,6 +5,7 @@ sector-position: (cross-cutting — industry association and platform)
 ai-technique-class: generative-ai-and-llms
 purpose: extension-and-advisory
 claim-type: example
+unit-kind: institution
 activity-status: piloting
 critical-voice: food-sovereignty
 capital-intensity: smallholder

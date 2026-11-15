@@ -5,6 +5,7 @@ sector-position: inputs (seed + crop protection digital platform); on-farm-produ
 ai-technique-class: predictive-ml, generative-ai-llm, decision-support-systems, digital-twin-modelling
 purpose: yield-optimisation, input-reduction, regulatory-efficiency, breeding-and-genetics-discovery
 claim-type: example (live, time-sensitive — split not yet executed as of mid-2026)
+unit-kind: deployment
 activity-status: deployed (Granular + CARL operational); planned-restructuring (split announced 1 Oct 2025, pending execution)
 critical-voice: digital-equity (analyst skepticism on whether AI/data infrastructure survives the split)
 capital-intensity: industrial

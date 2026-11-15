@@ -5,12 +5,14 @@ sector-position: (cross-cutting — policy framework)
 ai-technique-class: (cross-cutting)
 purpose: governance (rural governance digitalisation, data and infrastructure); supply chain efficiency (rural industry digitalisation); food security / sovereignty
 claim-type: framework
+unit-kind: policy-instrument
 activity-status: announced (issued September 2026; 2030 targets forward-looking)
 critical-voice: (none directly — joint ministerial release)
 capital-intensity: mixed (public infrastructure plus industry digitalisation)
 language-literacy-profile: (not applicable)
 policy-instrument: strategy
 region: East-Asia (China; national)
+governance-level: national
 actor: Cyberspace Administration of China (CAC) with MARA and MIIT
 actor-type: state-agency
 data-governance: state-stewarded

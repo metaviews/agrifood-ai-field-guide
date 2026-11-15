@@ -5,12 +5,14 @@ sector-position: (cross-cutting — federal Global Innovation Cluster funder/con
 ai-technique-class: (cross-cutting — predictive-ml, computer-vision, generative-ai-and-llms)
 purpose: (cross-cutting — processing-efficiency, supply-chain-efficiency, plant-protein innovation)
 claim-type: claim
+unit-kind: funding-programme
 activity-status: completed (programme ended March 2026)
 critical-voice: (none directly — cluster programme framing)
 capital-intensity: industrial
 language-literacy-profile: (not applicable)
 policy-instrument: Pan-Canadian Artificial Intelligence Strategy (PCAIS) delivery mandate via Protein Industries Canada; $30M committed
 region: NA-Canada (Prairie-anchored; Saskatchewan, Manitoba, Alberta)
+governance-level: national
 actor: Protein Industries Canada (PIC) — Global Innovation Cluster; PCAIS delivery vehicle
 actor-type: state-agency (federal cluster programme delivery)
 data-governance: mixed (project-by-project)

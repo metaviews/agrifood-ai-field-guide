@@ -5,6 +5,7 @@ sector-position: (cross-cutting — Indigenous-led data infrastructure)
 ai-technique-class: Indigenous Knowledge integration + ML for ice + weather monitoring
 purpose: governance (Indigenous data sovereignty); climate adaptation; community economic development; research and discovery (Indigenous methodologies)
 claim-type: deployment (operational digital infrastructure with AI/ML integration)
+unit-kind: deployment
 activity-status: deployed (operational; 125,000+ posts; 100+ active projects; Indigenous data stored only in Canada)
 critical-voice: indigenous-data-sovereignty; food-sovereignty
 capital-intensity: mixed (community-led; mixed funding)

@@ -5,12 +5,14 @@ sector-position: (cross-cutting — federal AI strategy across all USDA mission 
 ai-technique-class: predictive ML; computer vision; generative AI / LLMs; sensors and IoT ML; decision-support systems
 purpose: governance (federal AI policy, data, ethics); extension and advisory; supply chain efficiency; climate adaptation
 claim-type: framework
+unit-kind: policy-instrument
 activity-status: deployed (operational; in effect)
 critical-voice: (none directly — institutional framing; explicit responsible-AI framing)
 capital-intensity: (not applicable — federal strategy)
 language-literacy-profile: standard-smartphone
 policy-instrument: regulatory (USDA AI Compliance Plan for OMB Memorandum M-25-21); strategy (FY25-26 AI Strategy, FY24-26 Data Strategy, FY23-26 Science and Research Strategy)
 region: NA-US (national federal strategy)
+governance-level: national
 actor: USDA (Secretary Tom Vilsack at signing; Christopher Alvares, Chief Data Officer and Chief AI Officer, July 2026)
 actor-type: state-agency
 data-governance: state-stewarded (USDA data; aligned with Foundations for Evidence-Based Policymaking Act of 2018)

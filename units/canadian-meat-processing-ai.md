@@ -5,6 +5,7 @@ sector-position: processing (meat); cross-cutting (circular-economy, on-farm pro
 ai-technique-class: computer-vision, sensors-and-iot-ml, predictive-ml, hyperspectral-imaging
 purpose: processing-efficiency, food-safety, animal-welfare, climate-adaptation (methane reduction)
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

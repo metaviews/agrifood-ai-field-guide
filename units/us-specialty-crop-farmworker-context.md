@@ -5,6 +5,7 @@ sector-position: (cross-cutting — labour-side context for US specialty-crop AI
 ai-technique-class: (cross-cutting)
 purpose: governance (farmworker labour and AI deployment context); worker conditions (labour-and-migrant context); food security / sovereignty (US specialty-crop supply chain resilience)
 claim-type: claim (substantive analytical contribution — institutional landscape + regional labour context + H-2A scale); framework-pattern
+unit-kind: meta-pattern
 activity-status: (not applicable — context, not deployment)
 critical-voice: worker-conditions; migrant-labour; race-and-food; labour-organisation
 capital-intensity: (not applicable)

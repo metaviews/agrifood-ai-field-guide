@@ -5,6 +5,7 @@ sector-position: (cross-cutting — Indigenous-led agrifood institutional vehicl
 ai-technique-class: (not applicable — institutional infrastructure, not AI deployment)
 purpose: governance (Indigenous agrifood); food sovereignty / sovereignty; reconciliation in agriculture
 claim-type: framework + institutional infrastructure
+unit-kind: institution
 activity-status: deployed (institutionally); piloting (programmes); expanding (2024-2026)
 critical-voice: indigenous-data-sovereignty; food-sovereignty
 capital-intensity: low (Indigenous-led non-profit; FCC support at launch)

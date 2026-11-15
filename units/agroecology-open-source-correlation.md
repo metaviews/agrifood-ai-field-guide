@@ -5,6 +5,7 @@ sector-position: (cross-cutting — seed commons at inputs; open machinery and o
 ai-technique-class: "(cross-cutting — the digital layer of the note is open farm software and open sensing: farmOS, SurveyStack, LiteFarm)"
 purpose: governance (commons, data sovereignty, anti-enclosure); research and discovery (correlation mapping)
 claim-type: claim (a mapping note; the correlation structure is the claim)
+unit-kind: methodology
 activity-status: research (a correlation note, not a deployment)
 critical-voice: "food-sovereignty (IPES-Food's enclosure critique and La Via Campesina vocabulary); indigenous-data-sovereignty (the CARE / OCAP® knowledge-sovereignty axis)"
 capital-intensity: smallholder (peasant-agency framing); research

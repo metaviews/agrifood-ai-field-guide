@@ -5,6 +5,7 @@ sector-position: (cross-cutting — labour-side positioning across on-farm produ
 ai-technique-class: (cross-cutting — analytical work + frameworks; Green AI computational sustainability)
 purpose: governance (Canadian academic-policy critical voice on AI-and-labour); worker conditions (rural-urban gap + succession + critical infrastructure); food security / sovereignty (Green AI + computational sustainability)
 claim-type: claim (substantive analytical contribution); framework (labour-side positioning)
+unit-kind: critical-analysis
 activity-status: (not applicable — analytical work, not deployment)
 critical-voice: digital-equity (rural-urban gap); worker-conditions (succession + critical infrastructure); critical-civil-society (Green AI computational sustainability)
 capital-intensity: (not applicable)

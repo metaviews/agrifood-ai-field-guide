@@ -5,6 +5,7 @@ sector-position: (cross-cutting — inputs cell; conceptual/methodological unit)
 ai-technique-class: (cross-cutting — high-throughput phenotyping; genomic selection; multi-omics; machine-learning trait prediction; deep-learning image analysis; generative AI / LLM retrieval; CRISPR-AI guide design; speed breeding; agronomic predictive modelling; knowledge-graph integration)
 purpose: (cross-cutting — accelerate cultivar development; climate-resilient breeding; reduce breeder subjective scoring)
 claim-type: claim
+unit-kind: methodology
 activity-status: deployed (the methodology stack is the default workflow in major commercial breeding programs as of 2026; academic adoption accelerating)
 critical-voice: (concentration + genetic-diversity narrowing concerns per `units/ai-breeding-genetic-diversity-counter-narrative.md`)
 capital-intensity: (cross-cutting — academic-budget scale for academic programs; corporate-R&D hundreds-of-millions for multinational pipelines)

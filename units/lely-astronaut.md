@@ -5,6 +5,7 @@ sector-position: animal-production
 ai-technique-class: robotics-autonomy-ground, computer-vision, sensors-and-iot-ml
 purpose: worker-conditions, input-reduction
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none — vendor and farmer framing; implicit worker-displacement framing worth naming)
 capital-intensity: industrial

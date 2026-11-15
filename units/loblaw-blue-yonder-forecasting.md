@@ -5,6 +5,7 @@ sector-position: distribution-and-retail
 ai-technique-class: predictive-ml
 purpose: supply-chain-efficiency
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none — vendor case study)
 capital-intensity: industrial

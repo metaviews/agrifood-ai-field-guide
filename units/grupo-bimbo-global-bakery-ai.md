@@ -5,6 +5,7 @@ sector-position: processing
 ai-technique-class: reinforcement-learning-deep-rl, computer-vision, predictive-ml
 purpose: quality-control, energy-efficiency, demand-forecasting
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none)
 capital-intensity: enterprise

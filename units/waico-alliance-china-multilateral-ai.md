@@ -5,12 +5,14 @@ sector-position: (cross-cutting — multilateral governance frame covering all m
 ai-technique-class: (cross-cutting — governance / institutional layer rather than a specific technique class; covers generative AI, predictive ML, computer vision, and decision-support as vertical applications)
 purpose: governance, food-security-sovereignty, market-access, climate-adaptation
 claim-type: framework (state-led multilateral AI governance institution) + example (the agreement itself + announced capacity-building commitments)
+unit-kind: policy-instrument
 activity-status: announced (founding treaty signed 16 July 2026; headquarters Shanghai; secretariat formation in progress)
 critical-voice: food-sovereignty (state-stewarded multilateral governance frame for AI including agriculture as a named vertical)
 capital-intensity: (cross-cutting — multilateral-state-funded with capacity-building commitments to developing-country members; vendor-layer deployments to follow per member-state priority)
 language-literacy-profile: (cross-cutting — member-state-led; Chinese-language and English-language operational framing per Xinhua)
 policy-instrument: regulatory, fiscal, strategy (multilateral agreement + announced capacity-building including 5,000 AI research projects for developing-country members over next five years; functions as the China-side counterweight to OECD-anchored AI governance frames)
 region: 'East-Asia (institutional leadership: China, headquartered in Shanghai; multi-continent membership spanning East-Asia, South-Asia, Central Asia, Africa, Latin America, MENA)'
+governance-level: multilateral
 actor: WAICO secretariat (Shanghai; formation in progress as of mid-July 2026) — operating under signed agreement of 29 founding member states with Chinese Foreign Minister Wang Yi signing on behalf of China; UN Secretary-General Guterres attending ceremony as institutional observer
 actor-type: state-agency (multilateral; treaty-based intergovernmental organisation)
 data-governance: state-stewarded (the institution's frame is state-led multilateral AI governance; per-vertical data-rights posture not yet specified at signing)

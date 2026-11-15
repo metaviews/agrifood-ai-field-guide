@@ -5,6 +5,7 @@ sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting)
 purpose: governance, market access
 claim-type: framework
+unit-kind: methodology
 activity-status: deployed (framework articulation); piloting (open-source agrifood AI deployment)
 critical-voice: digital-equity
 capital-intensity: (cross-cutting — smallholder cooperative to industrial)

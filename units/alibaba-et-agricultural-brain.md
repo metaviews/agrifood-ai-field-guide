@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field, animal-production
 ai-technique-class: predictive-ml, computer-vision
 purpose: yield-optimisation, input-reduction
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none — vendor and state-aligned framing)
 capital-intensity: smallholder (interface), industrial (back-end)

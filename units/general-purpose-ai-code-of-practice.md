@@ -5,12 +5,14 @@ sector-position: (cross-cutting — applies to model providers, not to agrifood 
 ai-technique-class: generative AI / LLMs (foundation models and general-purpose systems); (cross-cutting — any technique class hosted on a GPAI model)
 purpose: governance (compliance pathway for model providers); (none directly — no agrifood purpose in the instrument)
 claim-type: framework (a voluntary code with named obligations; signatories are examples)
+unit-kind: policy-instrument
 activity-status: deployed (published 10 July 2025; adequate since 1 August 2025; a Signatory Taskforce operating since January 2026)
 critical-voice: "digital-equity (who can realistically demonstrate compliance by other means); (none directly in the instrument)"
 capital-intensity: industrial (addresses frontier model providers)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (Article 56 AI Act; Article 53 obligations for all GPAI providers and Article 55 for systemic-risk models)
 region: EU (applies to providers placing models on the EU market globally) — signatories are US, EU and UK companies
+governance-level: supranational
 actor: "European AI Office (Signatory Taskforce chair); 21 signatories (AI Studio Delta, Aleph Alpha, Almawave, Amazon, Anthropic, Black Forest Labs, Bria AI, Cohere, Domyn, Dweve, Fastweb, Google, IBM, LINAGORA, Microsoft, Mistral AI, Open Hippo, OpenAI, Pleias, ServiceNow, WRITER) plus xAI (Safety and Security chapter only); Meta (non-signatory)"
 actor-type: vendor; eu-institution (AI Office)
 data-governance: mixed (model documentation and training-data summaries required; no open-data obligations)

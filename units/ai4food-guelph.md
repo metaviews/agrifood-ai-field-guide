@@ -5,6 +5,7 @@ sector-position: (cross-cutting — academic-research-institute)
 ai-technique-class: (cross-cutting — digital twins, distributed AI, automation/robotics, decision-support systems, human-centric AI, data technologies)
 purpose: (cross-cutting — agrifood resilience, food safety, production, sustainability through AI + data technologies)
 claim-type: example
+unit-kind: institution
 activity-status: deployed
 critical-voice: digital-equity (data-governance, responsibility)
 capital-intensity: (cross-cutting — academic-budget scale)

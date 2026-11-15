@@ -5,6 +5,7 @@ sector-position: cross-value-chain (industrial + agricultural + consumer-goods +
 ai-technique-class: (cross-technique — federation-format institutional substrate rather than deployment)
 purpose: cooperative-federation-institutional-substrate (no specific AI deployment-of-record surfaced in scout; institutional anchor for cooperative-led AI framing)
 claim-type: institutional-anchor (substantive cooperative-cluster-format substrate)
+unit-kind: deployment
 activity-status: (federation operates since 1956; AI deployment of record at primary-source tier not surfaced in scout)
 critical-voice: (none — institutional-historical framing)
 capital-intensity: cooperative-federation-scale

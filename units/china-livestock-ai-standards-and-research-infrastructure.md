@@ -5,12 +5,14 @@ sector-position: animal production (livestock — pigs and dairy cattle)
 ai-technique-class: computer vision (behaviour and posture recognition); generative AI / LLMs (vision-language models for annotation)
 purpose: governance (standards, data comparability); worker conditions (animal welfare assessment); yield optimisation (precision feeding, oestrus detection)
 claim-type: example
+unit-kind: policy-instrument
 activity-status: deployed (industry standard issued; annotation tool released and being integrated into national data infrastructure)
 critical-voice: (none directly — standards bodies and a national research institute)
 capital-intensity: research (public research and standards work)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (technical standard) and strategy (national data platform integration)
 region: East-Asia (China); national, with Chongqing as the standard's lead province
+governance-level: national
 actor: MARA standardisation machinery (农业信息化标准化技术委员会); Chongqing Animal Husbandry Technology Extension Station; CAAS Institute of Animal Science (智慧畜牧业创新团队)
 actor-type: state-agency
 data-governance: mixed (public standard; open research tool; national data-sharing platform)

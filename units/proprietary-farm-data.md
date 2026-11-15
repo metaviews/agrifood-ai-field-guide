@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field, on-farm-production-protected, an
 ai-technique-class: (cross-cutting — data infrastructure)
 purpose: (cross-cutting)
 claim-type: framework
+unit-kind: critical-analysis
 activity-status: deployed
 critical-voice: (none directly — vendor framing; Ag Data Transparent is industry-led counter-institutional response)
 capital-intensity: industrial

@@ -3,14 +3,16 @@ id: china-state-farms-provincial-deployment
 title: 'State farms and provincial deployment vehicles — Beidahuang, Heilongjiang province, and the thinnest XPCC evidence in the corpus'
 sector-position: on-farm production — open field, large-scale grain (the state-farm / land-consolidated layer where China's smart-agriculture programmes are actually delivered)
 ai-technique-class: remote sensing and machine vision (48-satellite crop-growth monitoring, seedling recognition); IoT sensing networks (33,000+ terminals, four-situation monitoring); decision-support LLMs (寒地作物大模型, BDH-Rice, 天工开悟); variable-rate prescription maps; unmanned-machinery fleet coordination
-purpose: "yield-optimisation (staple-crop per-mu gains); input-reduction (water 10-20%, fertiliser 10-20%); labour-substitution (unmanned-farm operations); food-security-sovereignty (the state grain mission)"
+purpose: "yield-optimisation (staple-crop per-mu gains); input-reduction (water 10-20%, fertiliser 10-20%); labour-substitution (unmanned-farm operations); food-security-sovereignty (the state grain mission); state capacity and visibility (instrumentation of provincial state-farm land, stocks and flows)"
 claim-type: programme (the Group Smart Agriculture Action Plan 2026-2030 and the provincial implementation plan) + deployment examples (the data-platform estate, the 农服 App economics)
+unit-kind: deployment
 activity-status: deployed at estate scale (platforms operating across 111+ farms; sensing across 4.64M mu; five-level fibre network built) — with the corpus's standing caveat that all figures are self-reported and unaudited
 critical-voice: thin and structural — no independent audit of any Beidahuang figure exists (the corpus's China no-audit finding at its most concentrated); the province-reported fleet statistics carry no method note; the XPCC layer rests on division-level cases with no corps-level programme document
 capital-intensity: 'high (state-farm-group infrastructure: 25,300 fibre-km, 48-satellite feed, county-scale irrigation automation)'
 language-literacy-profile: not applicable — the deployment surface is estate machinery and platform administration, not farmer-facing chat
 policy-instrument: strategy and fiscal (Beidahuang Group Smart Agriculture Action Plan 2026-2030 with a three-tier 集团统筹/产业协同/农场落地 system; 《黑龙江省大力发展智慧农业实施方案》 as the provincial frame; the Group's new-quality-productive-forces action plan 2024-2030)
 region: East-Asia (China — Heilongjiang province and the Beidahuang reclamation area; a shorter XPCC/Xinjiang section)
+governance-level: subnational
 actor: "Beidahuang Group (北大荒农垦集团) and its information-company subsidiary (北大荒信息有限公司); Heilongjiang provincial MARA and provincial government; the Smart Farm Technology and Systems State Key Lab (Beidahuang + HIT + NEAU); HIT (天工开悟); XPCC divisions (8th Division Shihezi cotton LLM; 10th Division Beitun digital platform; 6th Division Qitai farm); 新疆耘筹 (first XPCC agricultural data product)"
 actor-type: state-enterprise (Beidahuang Group — the corpus's largest single agri-AI deployment vehicle); state-agency (provincial MARA); academic-institute (HIT, NEAU via the state key lab); subnational (XPCC divisions)
 data-governance: state-enterprise-stewarded (the estate's data platform aggregates 19 systems and 48,000+ GIS layers; 农服 App mediates CNY 101.8bn in online service fees)

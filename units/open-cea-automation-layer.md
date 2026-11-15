@@ -5,6 +5,7 @@ sector-position: on-farm-production-protected
 ai-technique-class: sensors-and-iot-ml, predictive-ml, decision-support-systems
 purpose: yield-optimisation, input-reduction, governance
 claim-type: claim
+unit-kind: data-infrastructure
 activity-status: mixed (active small-scale software; dormant flagship; research data; closed commercial)
 critical-voice: digital-equity
 capital-intensity: low-to-medium (open small-scale layer; contrast to industrial closed systems)

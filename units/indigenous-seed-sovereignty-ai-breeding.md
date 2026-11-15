@@ -5,6 +5,7 @@ sector-position: (cross-cutting — governance / critical-voice / policy frame u
 ai-technique-class: (cross-cutting — genomic prediction requires genomic-data substrate; DSI is the digital/sequence-data layer; AI plant-breeding pipelines depend on DSI)
 purpose: (cross-cutting — surface governance / sovereignty / critical-voice observations for AI plant breeding; articulate farmer + Indigenous + Global-South concerns about AI-augmented breeding)
 claim-type: claim
+unit-kind: deployment
 activity-status: deployed (ITPGRFA Multilateral System; CARE Principles in active use; DSI access-and-benefit-sharing under negotiation as of 2024-2026)
 critical-voice: explicit — IPES-Food 2026 *Head in the Cloud*; UN Special Rapporteur on Right to Food Michael Fakhri 2024-2025 statements; GRAIN 2023 *Capturing the seed*; ETC Group/GRAIN 2025 *Top 10 agribusiness giants*
 capital-intensity: (cross-cutting — applies across all deployment tiers)

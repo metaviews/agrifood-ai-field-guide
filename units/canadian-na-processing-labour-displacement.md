@@ -5,6 +5,7 @@ sector-position: processing (NA meat + dairy processing — Canada); cross-cutti
 ai-technique-class: predictive-ml, sensors-and-iot-ml, computer-vision, digital-twin, hyperspectral-imaging
 purpose: processing-efficiency; supply-chain-efficiency; worker-conditions (labour-displacement + labour-monitoring + worker-safety); input-reduction (yield)
 claim-type: cluster-pattern-observation (consolidated cell with multiple Canadian NA processor deployments + UFCW Canada representation + cross-deployment context)
+unit-kind: deployment
 activity-status: deployed (Maple Leaf Foods Braincube + Emulate3D + AVEVA; SoraLINK × Saputo/Olymel/Agropur; CAAIN meat portfolio)
 critical-voice: worker-conditions (UFCW Canada + UFCW International representation; labour-displacement + labour-monitoring + worker-safety legacy)
 capital-intensity: industrial (Canadian NA processor; unionised workforce)

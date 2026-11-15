@@ -5,6 +5,7 @@ sector-position: (cross-cutting — Indigenous data governance institutional inf
 ai-technique-class: (not applicable — institutional infrastructure)
 purpose: governance (Indigenous data sovereignty); First Nations data governance
 claim-type: framework + institutional infrastructure
+unit-kind: policy-instrument
 activity-status: deployed (national strategy); planning (regional centres)
 critical-voice: indigenous-data-sovereignty
 capital-intensity: medium (federal + FNIGC + regional partners)

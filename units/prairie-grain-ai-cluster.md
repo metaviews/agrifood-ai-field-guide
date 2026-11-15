@@ -5,6 +5,7 @@ sector-position: (cross-cutting — regional value-chain substrate)
 ai-technique-class: (cross-cutting — computer-vision, sensors-and-iot-ml, predictive-ml, geospatial-ai, robotics-autonomy-ground, hyperspectral-imaging)
 purpose: (cross-cutting — yield-optimisation, input-reduction, animal-health, climate-adaptation)
 claim-type: claim
+unit-kind: ecosystem-map
 activity-status: deployed
 critical-voice: (none directly — vendor + academic framing)
 capital-intensity: industrial

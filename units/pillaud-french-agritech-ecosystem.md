@@ -5,6 +5,7 @@ sector-position: (cross-cutting — ecosystem mapping)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
 claim-type: example
+unit-kind: ecosystem-map
 activity-status: deployed
 critical-voice: food-sovereignty
 capital-intensity: smallholder

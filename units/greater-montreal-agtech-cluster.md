@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field, on-farm-production-protected, pr
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
 claim-type: framework
+unit-kind: ecosystem-map
 activity-status: deployed
 critical-voice: (none directly — cluster framing)
 capital-intensity: (mixed)

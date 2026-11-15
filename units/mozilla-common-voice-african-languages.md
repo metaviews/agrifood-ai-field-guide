@@ -5,6 +5,7 @@ sector-position: (open-source voice dataset — multilingual speech recognition 
 ai-technique-class: (cross-cutting — speech recognition + voice dataset + multilingual + spontaneous speech + African language data + voice-first AI training + low-resource language support)
 purpose: "deployment-of-record (Mozilla Common Voice is the corpus's most-substantive open-source voice dataset globally; substantive African deployment via Maseno University + Africa Next Voices + Kiswahili Hackathon)"
 claim-type: framework (open-source voice dataset framework; 357 hours Spontaneous Speech across 51 languages); deployment (substantive African deployment via Maseno University + Africa Next Voices + Africa's Talking Kiswahili Hackathon Series)
+unit-kind: data-infrastructure
 activity-status: mature (Common Voice 23.0 with 357 hours Spontaneous Speech across 51 languages; substantive African deployment via named African partners); ongoing (Common Voice applications accepted on rolling basis until March 24, 2025)
 critical-voice: digital-divide-equity (multilingual + low-resource language support + African language data + voice-first design consistent with CGIAR smallholder-side design pattern)
 capital-intensity: philanthropic (Mozilla Foundation); open-source (CC0 license for Common Voice dataset)

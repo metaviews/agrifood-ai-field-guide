@@ -5,12 +5,14 @@ sector-position: (cross-cutting — strategic frame, not deployment-as-such)
 ai-technique-class: (cross-cutting — strategy unit)
 purpose: governance, food-security-sovereignty, climate-adaptation
 claim-type: framework
+unit-kind: policy-instrument
 activity-status: deployed (mission operational; agriculture-specific deployment is folded into Digital Agriculture Mission unit)
 critical-voice: food-sovereignty (state-led AI frame with cross-sectoral reach)
 capital-intensity: research (strategy); deployment units (DAM, ITCMAARS, Cropin) carry the actual capital-intensity tags
 language-literacy-profile: (not applicable — strategy unit)
 policy-instrument: regulatory (MeitY Cabinet decision March 2024), fiscal (₹10,300 crore / ~$1.25B), strategy
 region: South-Asia (India; pan-Indian)
+governance-level: national
 actor: Government of India — Ministry of Electronics & Information Technology (MeitY), in collaboration with Office of the Principal Scientific Adviser to the Government of India
 actor-type: state-agency
 data-governance: (state-stewarded via AgriStack fold-in; cross-cutting)

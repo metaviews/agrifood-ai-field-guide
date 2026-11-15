@@ -5,6 +5,7 @@ sector-position: on-farm-production (controlled-environment)
 ai-technique-class: predictive-ml, sensors-and-iot-ml, automation/robotics
 purpose: climate-adaptation, water-savings, supply-chain-resilience (hops for climate-threatened beer brewing)
 claim-type: example
+unit-kind: deployment
 activity-status: deploying (climate-controlled vertical/indoor production; ~10m hop plants under multi-colour LED)
 critical-voice: (none — climate-threatened supply-chain resilience narrative)
 capital-intensity: venture-funded-venture-equity

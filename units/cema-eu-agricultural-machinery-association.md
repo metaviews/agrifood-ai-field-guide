@@ -5,6 +5,7 @@ sector-position: inputs (machinery and implements as farm inputs); (cross-cuttin
 ai-technique-class: robotics — autonomy — ground (autonomous mobile machinery); sensors and IoT ML (ISOBUS/AEF machine data); computer vision (camera systems, sprayers); decision-support systems (FMIS)
 purpose: "governance (AI Act and Machinery Regulation interpretation for machinery with AI safety functions); input reduction (precision spraying and application); yield optimisation (autonomy and machine efficiency)"
 claim-type: framework (an industry federation whose regulatory dossier is the object; its member companies are examples)
+unit-kind: institution
 activity-status: deployed (a continuously operating federation; its regulatory asks are live in the AI Act and Machinery Regulation processes)
 critical-voice: (none directly — equipment-maker framing); digital-equity (its self-certification ask and "rural realities" argument are the contested claims)
 capital-intensity: industrial (member companies from multinationals to SMEs; ~1,300 manufacturers per CEMA's own About page)

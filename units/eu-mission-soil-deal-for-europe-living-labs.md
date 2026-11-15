@@ -5,12 +5,14 @@ sector-position: on-farm production-open field (soil management on agricultural 
 ai-technique-class: decision-support systems (the explicit AI topic); sensors and IoT ML (soil monitoring); predictive ML (modelling from long-term field experiments); remote sensing and Earth observation (data sources feeding the Living Labs)
 purpose: input reduction (soil-health-driven reduction of inputs); climate adaptation (soil carbon, drought); governance (harmonised soil-health indicators and data architecture); research and discovery
 claim-type: framework (a mission programme whose call structure is the object; individual Living-Lab projects are examples)
+unit-kind: funding-programme
 activity-status: deployed (Living Labs funded and running since 2023; 2026 calls open)
 critical-voice: (none directly — EU mission instrument); digital-equity (the multi-actor requirement and the €60,000 third-party support cap are the mechanism by which small actors can participate)
 capital-intensity: research (Living Lab consortia at €12m per project; third-party support up to €60,000 per recipient)
 language-literacy-profile: (not applicable — programme unit)
 policy-instrument: fiscal (Horizon Europe Missions work programme part, Decision C(2025) 8493 of 11 December 2025); strategy (Mission Soil; the EU soil-health framework)
 region: EU (EU member states + associated countries; Living Labs organised by biogeographical region)
+governance-level: supranational
 actor: "European Commission (DG AGRI, DG RTD); European Research Executive Agency; SOILL-Stepup (Grant Agreement 101262100, coordinated by the European Network of Living Labs, ENoLL); named Living-Lab projects (LILAS4SOILS, LivingSoiLL, GOV4ALL, iCOSHELLs, SOILCRATES, TRAILS4SOIL, Nemesis, GroundWork, URSOILL, and 11 brownfield projects)"
 actor-type: eu-institution; state-agency (REA); academic (Living Lab consortia); farmer-led (participating land managers); standards-body (soil-health indicator work)
 data-governance: mixed (project data; the mission's stated direction is harmonised and shared soil data; the EU Carbon Farming Database and JRC iMRV work are the EU-level layers)

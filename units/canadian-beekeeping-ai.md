@@ -5,6 +5,7 @@ sector-position: animal-production (bees); cross-cutting (pollination services t
 ai-technique-class: predictive-ml, sensors-and-iot-ml
 purpose: animal-health, business-profitability, climate-adaptation, supply-chain-efficiency
 claim-type: example
+unit-kind: deployment
 activity-status: completed (project); deployed (BeeTrack platform continues)
 critical-voice: (none directly — vendor + producer framing)
 capital-intensity: industrial (commercial beekeeping at 4,000–9,000 hive scale)

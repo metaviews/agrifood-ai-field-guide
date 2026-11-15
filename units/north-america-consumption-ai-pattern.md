@@ -5,6 +5,7 @@ sector-position: consumption, distribution-and-retail, post-harvest
 ai-technique-class: generative-ai-and-llms, predictive-ml, computer-vision, robotics-automation
 purpose: consumer-facing, supply-chain-efficiency
 claim-type: claim
+unit-kind: meta-pattern
 activity-status: deployed
 critical-voice: digital-equity
 capital-intensity: industrial

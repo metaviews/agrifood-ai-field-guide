@@ -5,12 +5,14 @@ sector-position: inputs (machinery and implements); on-farm production-open fiel
 ai-technique-class: robotics — autonomy — ground; computer vision (camera and perception systems); sensors and IoT ML (machine data, ISOBUS); decision-support systems (FMIS)
 purpose: "governance (conformity assessment for AI safety functions); worker conditions (autonomous-machinery supervision and safety); yield optimisation and input reduction (the applications the machinery enables)"
 claim-type: framework (a regulatory compliance route; named machine classes are examples)
+unit-kind: policy-instrument
 activity-status: announced-to-deployed (in force since 19 July 2023; applies from 20 January 2027; the AI-specific delegated act is pending to 2 August 2028)
 critical-voice: "(none directly — product-safety regulation); digital-equity (cost and complexity of conformity assessment falls on manufacturers, including SMEs)"
 capital-intensity: industrial (machine manufacturers; CEMA cites >€1m per platform architecture for cybersecurity compliance)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (Regulation (EU) 2023/1230; AI Act Regulation (EU) 2024/1689 Annex I Section B as amended by Regulation (EU) 2026/1744; Regulation (EU) No 167/2013 for agricultural and forestry vehicles; Regulation (EU) 2024/2847 Cyber Resilience Act)
 region: EU (EU-27; machinery placed on the EU market from anywhere)
+governance-level: supranational
 actor: "European Commission (DG GROW, DG CNECT); CEMA and national equipment-maker associations (VDMA, AXEMA, FederUnacoma); machine manufacturers (CLAAS, AGCO, CNH, John Deere, Kubota, SDF, KUHN, Lely, Alois Pöttinger, JCB, Lemken); EU-OSHA"
 actor-type: eu-institution; industry-association; vendor
 data-governance: mixed (machine data access under the Data Act and the 2018 Code of Conduct; safety-decision data retention required by the Regulation)

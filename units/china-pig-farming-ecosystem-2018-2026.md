@@ -5,6 +5,7 @@ sector-position: animal production (livestock — pigs)
 ai-technique-class: computer vision (rail inspection robots, weight estimation, behaviour recognition); sensors and IoT ML (chips, environmental control); decision-support systems (herd management platforms)
 purpose: yield optimisation (feed conversion, labour productivity); worker conditions (biosecurity, replacive automation); financial services / risk (insurance identification)
 claim-type: claim
+unit-kind: ecosystem-map
 activity-status: deployed (multi-vendor market from 2018; platforms operational)
 critical-voice: "(partially — Chinese Agricultural University economists frame the structural risks — cost of retrofitting, retraining needs, low information utilisation for small and medium farms)"
 capital-intensity: industrial (large-scale farms and integrators; retrofit economics exclude smaller operators)

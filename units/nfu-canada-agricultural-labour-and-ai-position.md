@@ -5,6 +5,7 @@ sector-position: (cross-cutting — on-farm production, farm labour, and food-sy
 ai-technique-class: (cross-cutting — automation, robotics, self-driving tractors, algorithms, farm data)
 purpose: governance (agricultural labour and technology policy); worker conditions (farm-worker dignity and rights); food security / sovereignty (food sovereignty and family-farm viability)
 claim-type: framework (institutional policy position)
+unit-kind: critical-analysis
 activity-status: (not applicable — institutional policy position, not deployment)
 critical-voice: labour-conditions; food-sovereignty; data-governance; producer-conditions
 capital-intensity: (not applicable)

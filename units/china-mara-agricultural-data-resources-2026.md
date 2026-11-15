@@ -3,14 +3,16 @@ id: china-mara-agricultural-data-resources-2026
 title: 'MARA''s agricultural data estate, measured — 18 PB stored, 105 TB open, 240 million tokens a year'
 sector-position: (cross-cutting — national data infrastructure for agriculture)
 ai-technique-class: generative AI / LLMs (token consumption); sensors and IoT ML (collected data); (cross-cutting)
-purpose: governance (national data management); food security / sovereignty
+purpose: state capacity and visibility (national agricultural data resource inventory and management); food security / sovereignty
 claim-type: statistic
+unit-kind: policy-instrument
 activity-status: deployed (platform in operation; figures as of end-2025)
 critical-voice: (none directly — ministry self-report)
 capital-intensity: research (public data infrastructure)
 language-literacy-profile: (not applicable)
 policy-instrument: strategy
 region: East-Asia (China; national)
+governance-level: national
 actor: MARA 市场与信息化司 (Market and Informatisation Department), reporting to the National Data Administration
 actor-type: state-agency
 data-governance: state-stewarded

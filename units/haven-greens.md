@@ -5,6 +5,7 @@ sector-position: on-farm-production-protected
 ai-technique-class: sensors-and-iot-ml, predictive-ml, robotics-autonomy-ground
 purpose: yield-optimisation, input-reduction, supply-chain-efficiency
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — corporate framing; food-sovereignty positioning implicit)
 capital-intensity: industrial

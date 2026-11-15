@@ -5,6 +5,7 @@ sector-position: distribution-and-retail
 ai-technique-class: generative-ai-llm
 purpose: operational-efficiency, employee-productivity
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none)
 capital-intensity: enterprise

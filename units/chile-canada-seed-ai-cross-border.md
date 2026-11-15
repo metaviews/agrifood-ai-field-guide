@@ -5,6 +5,7 @@ sector-position: inputs
 ai-technique-class: computer-vision, predictive-ml, sensors-and-iot-ml
 purpose: cross-border-seed-supply, genetic-resource-protection, breeding-pipeline-acceleration
 claim-type: pattern (cross-deployment cluster with named primary-source anchors)
+unit-kind: meta-pattern
 activity-status: (cross-deployment pattern; deployments themselves at varying stages)
 critical-voice: (multinational-corporate-concentration; data-sovereignty-cross-border)
 capital-intensity: enterprise

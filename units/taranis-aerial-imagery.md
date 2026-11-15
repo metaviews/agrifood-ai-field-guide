@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: robotics-autonomy-aerial, computer-vision
 purpose: disease-pest-weed-detection, yield-optimisation
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

@@ -5,6 +5,7 @@ sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting — data infrastructure)
 purpose: (cross-cutting)
 claim-type: framework
+unit-kind: critical-analysis
 activity-status: deployed
 critical-voice: (none directly — structural observation; IPES-Food and Civil Eats critical voices adjacent)
 capital-intensity: (not applicable)

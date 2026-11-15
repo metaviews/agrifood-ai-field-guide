@@ -5,12 +5,14 @@ sector-position: on-farm-production-open-field (plus neighbouring land, resident
 ai-technique-class: robotics-autonomy-aerial (spray drones); the governance layer is regulatory rather than model-based
 purpose: governance (liability, compensation, standards for spray operations); worker conditions and community safety (pesticide exposure beyond the farm)
 claim-type: claim (drift causation and harm) + framework (the emerging standards and liability regime)
+unit-kind: policy-instrument
 activity-status: deployed (thousands of spray drones in routine operation); regulatory response under construction
 critical-voice: explicit and official — MARA's own environmental research institute quantifies drift limits; provincial forensic assessments document damage; residents' complaints
 capital-intensity: mixed (individual operators and service companies; the liability falls on operators and their clients)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (NY/T spray-operation standards; airspace and operator rules) and fiscal (machinery subsidy with usage conditions)
 region: East-Asia (China); national, with documented cases in Gansu, Henan, Hebei, Tianjin, Shanghai
+governance-level: national
 actor: MARA and its standardisation machinery; MARA Environmental Protection Research and Monitoring Institute (农业农村部环境保护科研监测所); provincial forensic assessment centres; operators and service organisations
 actor-type: state-agency (regulator and researcher); vendor (operators and service companies)
 data-governance: state-stewarded (operator flight and spray records via manufacturer platforms; used for subsidy verification)

@@ -5,6 +5,7 @@ sector-position: on-farm-production + inputs (cross-cell)
 ai-technique-class: generative-ai (chatbot/WhatsApp) + controlled-environment (vertical-farming automation)
 purpose: farmer-advisory, water-savings, controlled-environment-automation, food-security
 claim-type: cluster-example (multiple Lebanese agritech deployments)
+unit-kind: institution
 activity-status: deploying (Berytech Agrytech accelerator Batch 7 Phase 2 active Oct 2025)
 critical-voice: (Lebanese economic-instability context surfaced but not anchored to specific agritech-deployment evidence)
 capital-intensity: smallholder-cluster (Berytech program); startup (AgriSmart); smallholder-cluster (Ground Vertical Farming)

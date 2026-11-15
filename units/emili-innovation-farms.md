@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field, animal-production
 ai-technique-class: (cross-cutting — multiple AI classes being validated)
 purpose: (cross-cutting)
 claim-type: example
+unit-kind: funding-programme
 activity-status: deployed
 critical-voice: (none directly — institutional framing; explicit farmer-centric design)
 capital-intensity: industrial

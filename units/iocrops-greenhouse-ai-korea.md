@@ -5,6 +5,7 @@ sector-position: on-farm-production-protected
 ai-technique-class: predictive-ml, sensors-and-iot-ml, robotics-autonomy-ground, decision-support-systems
 purpose: yield-optimisation, worker-conditions, input-reduction
 claim-type: example (deployment)
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing dominates the public surface)
 capital-intensity: industrial (Korean-origin AgTech with multi-country expansion)

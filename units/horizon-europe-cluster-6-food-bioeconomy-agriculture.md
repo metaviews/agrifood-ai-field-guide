@@ -5,12 +5,14 @@ sector-position: (cross-cutting — Cluster 6 spans inputs, on-farm production, 
 ai-technique-class: (cross-cutting — generative AI, predictive ML, computer vision, remote sensing and Earth observation, digital decision support, robotics-adjacent digital innovation)
 purpose: "governance (data availability, EU data-space construction, policy-making); research and discovery (the structural purpose of the instrument); input reduction (water and nutrient-scarce environments); food security (foodomics, diet-related disease)"
 claim-type: framework (a funding instrument whose programme structure is the object of the unit; individual call topics are examples)
+unit-kind: funding-programme
 activity-status: deployed (calls open and awarding; 117 projects selected from the 2025 calls on 6 July 2026)
 critical-voice: (none directly — institutional funding instrument); governance (the AKIS and advisory strands are explicit about who receives knowledge)
 capital-intensity: research (consortium grants at €5m-€60m; third-party support capped at €60,000 per recipient)
 language-literacy-profile: (not applicable — institutional funder unit)
 policy-instrument: fiscal (Horizon Europe 2021-2027, Work Programme 2026-2027); strategy (Cluster 6 destinations; the Coordinated Plan on AI, via the AgData partnership)
 region: EU (EU member states + Horizon Europe associated countries)
+governance-level: supranational
 actor: "European Commission (DG AGRI, DG RTD, DG CONNECT); European Research Executive Agency (REA); project coordinators named below (FBK for agrifoodTEF; ENoLL for SOILL-Stepup); AgData partnership (61 partners, 22 countries)"
 actor-type: eu-institution; state-agency (REA); academic (FBK, Wageningen University); multilateral-body (AgData partnership)
 data-governance: mixed (open-research requirements in funded projects; the AgData partnership and CEADS build EU-governed data infrastructure)

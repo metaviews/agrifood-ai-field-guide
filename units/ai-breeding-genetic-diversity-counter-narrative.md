@@ -5,6 +5,7 @@ sector-position: (cross-cutting — applies across all regional AI plant-breedin
 ai-technique-class: (cross-cutting — genomic selection can substantively narrow genetic base; AI-ML cross-validation has substantively overestimated predictive accuracy; substantive 2025-2026 observation is the substantive narrowing-diversity tension)
 purpose: (cross-cutting — substantive governance / methodological / critical-voice observation; substantive tension observation between AI-accelerated breeding speed and crop-diversity preservation)
 claim-type: claim
+unit-kind: critical-analysis
 activity-status: (cross-cutting — substantive observation from peer-reviewed academic literature; ETC Group/GRAIN 2025; IPES-Food 2026; Varshney 2026)
 critical-voice: explicit — Varshney 2026 substantive tension framing; Fu 2015 (cited 388) substantive genetic-erosion primary source; Bohra 2022 (cited 433) substantive crop-wild-relatives observation; biorxiv 2026 substantive cross-validation overestimation observation
 capital-intensity: (cross-cutting — applies across all deployment tiers)

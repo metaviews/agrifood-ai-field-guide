@@ -5,6 +5,7 @@ sector-position: animal-production
 ai-technique-class: computer-vision, sensors-and-iot-ml
 purpose: input-reduction, traceability
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none — corporate reporting framing)
 capital-intensity: industrial

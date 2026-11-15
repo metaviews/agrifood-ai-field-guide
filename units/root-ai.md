@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: generative-ai-and-llms
 purpose: extension-and-advisory
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: digital-equity
 capital-intensity: smallholder

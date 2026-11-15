@@ -5,12 +5,14 @@ sector-position: (cross-cutting — policy framework; on-farm production, inputs
 ai-technique-class: (cross-cutting — names drones, IoT and robots as application scenarios)
 purpose: food security / sovereignty (grain output floor); yield optimisation; market access (export support)
 claim-type: framework
+unit-kind: policy-instrument
 activity-status: deployed (issued 3 January 2026; the year's binding rural work document)
 critical-voice: (none directly — central policy document)
 capital-intensity: mixed
 language-literacy-profile: (not applicable)
 policy-instrument: strategy
 region: East-Asia (China); national, with provincial implementation
+governance-level: national
 actor: CPC Central Committee and State Council (中共中央 国务院)
 actor-type: state-agency
 data-governance: state-stewarded

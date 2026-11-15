@@ -5,6 +5,7 @@ sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting)
 purpose: governance
 claim-type: framework
+unit-kind: data-infrastructure
 activity-status: deployed (operational layer); piloting (framework layer); deployed (standards layer)
 critical-voice: digital-equity
 capital-intensity: (not applicable)

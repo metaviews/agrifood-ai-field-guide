@@ -5,6 +5,7 @@ sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting — data infrastructure)
 purpose: (cross-cutting)
 claim-type: framework
+unit-kind: ecosystem-map
 activity-status: deployed
 critical-voice: (none directly — institutional / state framing; IDSov context distinct)
 capital-intensity: (not applicable)

@@ -5,12 +5,14 @@ sector-position: inputs (seed-breeding; 12 priority crops across CGIAR portfolio
 ai-technique-class: (cross-cutting — genomic selection; predictive breeding; AI-driven predictive breeding; speed breeding; advanced data management; knowledge-graph LLM integration; pilot-scale unmanned-farm robotics integration)
 purpose: (cross-cutting — climate-resilient crops for smallholder farmers in low- and middle-income countries; genetic gain acceleration; women + Indigenous + youth inclusion in breeding pipeline design)
 claim-type: example
+unit-kind: institution
 activity-status: deployed (CGIAR 2025-2030 portfolio launched)
 critical-voice: (implicit — CGIAR Independent Evaluation Function of EiB 2021-22; the multilateral-system IPR debates around seed-data-sharing with public-platform vs private-multinational IP)
 capital-intensity: smallholder (public-platform budget scale; bilateral-multilateral co-investment)
 language-literacy-profile: standard-smartphone (farmer-deployment layer)
 policy-instrument: International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA); CGIAR 2025-2030 Research Portfolio; Gates Foundation / FFAR / USAID Feed the Future / GIZ co-investment
 region: (Global South — Africa, Asia, Latin America; with 13 CGIAR Research Centers worldwide)
+governance-level: multilateral
 actor: CGIAR System (13 CGIAR Research Centers); specifically Breeding for Tomorrow + Excellence in Breeding; CIMMYT; ICRISAT; IRRI; ICARDA; CIP; IITA; AfricaRice; WorldFish; CIFOR-ICRAF; Bioversity International; ILRI; ICRAF
 actor-type: public-platform (multilateral research network; not-for-profit; multilateral-system)
 data-governance: multilateral-system (ITPGRFA Article 15 multilateral system of access and benefit-sharing)

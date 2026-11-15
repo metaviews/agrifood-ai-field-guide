@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: robotics-autonomy-ground, sensors-and-iot-ml
 purpose: yield-optimisation, input-reduction
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: right-to-repair
 capital-intensity: industrial

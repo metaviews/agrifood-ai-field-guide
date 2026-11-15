@@ -5,6 +5,7 @@ sector-position: (cross-cutting — regional value-chain substrate; animal-produ
 ai-technique-class: computer-vision, sensors-and-iot-ml, predictive-ml, behavioral-monitoring
 purpose: yield-optimisation, animal-health, processing-efficiency, fisheries-monitoring
 claim-type: example
+unit-kind: deployment
 activity-status: deployed (ReelData, WellFish, Mowi); active pilot (OnDeck, Ocean Supercluster); early-stage (Marine Thinking)
 critical-voice: (none directly — vendor + industry framing)
 capital-intensity: industrial

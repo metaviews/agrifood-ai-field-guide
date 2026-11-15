@@ -5,6 +5,7 @@ sector-position: animal-production (livestock) + dairy + meat-processing + Iberi
 ai-technique-class: predictive-ml, computer-vision, sensors-and-iot-ml, consumer-personalization-ai
 purpose: precision-livestock-farming (cattle health/feed/welfare monitoring); consumer-personalization + trend-analysis; energy-optimization; supply-chain optimization
 claim-type: example (named deployment tracks via open-innovation challenge)
+unit-kind: deployment
 activity-status: deploying (challenge opened 2025; named deployment tracks via ANCES Open Innovation platform; deployment-of-record specifics not yet at single-product tier)
 critical-voice: (none — cooperative-institutional framing)
 capital-intensity: cooperative-internal + EU-research-funding + open-innovation challenge

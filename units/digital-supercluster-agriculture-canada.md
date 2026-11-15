@@ -5,12 +5,14 @@ sector-position: (cross-cutting — federal Global Innovation Cluster funder/con
 ai-technique-class: (cross-cutting — computer-vision, predictive-ml, sensors-and-iot-ml)
 purpose: (cross-cutting — climate-adaptation, supply-chain-efficiency, workforce training)
 claim-type: claim
+unit-kind: funding-programme
 activity-status: deployed
 critical-voice: (none directly — cluster programme framing)
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone (programme training component)
 policy-instrument: Global Innovation Clusters program (ISED); DIGITAL multi-hundred-million federal funding
 region: NA-Canada (BC-anchored, national; Ontario, BC, Quebec, Atlantic)
+governance-level: national
 actor: Digital Technology Supercluster (DTC / DIGITAL) — Global Innovation Cluster
 actor-type: state-agency (federal cluster programme)
 data-governance: mixed

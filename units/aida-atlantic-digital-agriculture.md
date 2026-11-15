@@ -5,6 +5,7 @@ sector-position: (cross-cutting — regional academic+convening substrate)
 ai-technique-class: (cross-cutting — precision agriculture, robotics, AI, IoT, big-data analytics)
 purpose: (cross-cutting — academic research + convening + knowledge mobilization for Atlantic digital agriculture)
 claim-type: example
+unit-kind: institution
 activity-status: deployed
 critical-voice: (none directly — institutional / academic voice)
 capital-intensity: (cross-cutting — academic-budget scale)

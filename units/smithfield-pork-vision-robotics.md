@@ -5,6 +5,7 @@ sector-position: processing
 ai-technique-class: robotics-and-autonomy, computer-vision
 purpose: input-reduction, supply-chain-efficiency
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

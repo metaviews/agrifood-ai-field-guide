@@ -5,6 +5,7 @@ sector-position: on-farm production — open field (climate-adaptation applicati
 ai-technique-class: predictive ML; computer vision (satellite and remote sensing); sensors and IoT ML; decision-support systems
 purpose: climate adaptation; supply chain efficiency (carbon markets); governance (carbon accounting); extension and advisory
 claim-type: example
+unit-kind: institution
 activity-status: deployed (research; pilot deployment via climate-adaptation and carbon-market partners)
 critical-voice: (none directly — institutional framing; some digital-equity concerns in the rural-workforce framing)
 capital-intensity: industrial

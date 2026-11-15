@@ -5,6 +5,7 @@ sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting)
 purpose: governance
 claim-type: framework
+unit-kind: critical-analysis
 activity-status: deployed
 critical-voice: food-sovereignty, indigenous-data-sovereignty, digital-equity
 capital-intensity: (not applicable)

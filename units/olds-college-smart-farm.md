@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: sensors-and-iot-ml, predictive-ml, robotics-autonomy-ground, robotics-autonomy-aerial
 purpose: yield-optimisation, input-reduction, climate-adaptation
 claim-type: example
+unit-kind: institution
 activity-status: deployed
 critical-voice: (none directly — institutional framing)
 capital-intensity: industrial

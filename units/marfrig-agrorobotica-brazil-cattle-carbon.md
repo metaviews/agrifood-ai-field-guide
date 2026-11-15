@@ -5,6 +5,7 @@ sector-position: animal-production
 ai-technique-class: sensors-and-iot-ml, predictive-ml
 purpose: climate-adaptation, supply-chain-traceability
 claim-type: example
+unit-kind: deployment
 activity-status: piloting
 critical-voice: deforestation-and-supply-chain
 capital-intensity: enterprise

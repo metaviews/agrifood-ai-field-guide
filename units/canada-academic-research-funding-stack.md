@@ -5,12 +5,14 @@ sector-position: (cross-cutting — academic-research funding substrate)
 ai-technique-class: (cross-cutting — academic-research prototype funding)
 purpose: (cross-cutting — funding for academic-research-led agrifood AI prototypes and applied research)
 claim-type: example
+unit-kind: funding-programme
 activity-status: deployed
 critical-voice: (academic-policy)
 capital-intensity: smallholder (academic-project scale, $50K–$5M typical)
 language-literacy-profile: (academic-research)
 policy-instrument: (funding-stack — multiple federal + provincial channels)
 region: NA-Canada (national)
+governance-level: national
 actor: NSERC + Mitacs + CFI + CFREF + FRQ + Food from Thought (U Guelph) + U Saskatchewan GIFS + other CFREF + AAFC + provincial RDC
 actor-type: state-agency (federal funding) + academic-institute (CFREF + Food from Thought)
 data-governance: (mixed)

@@ -5,12 +5,14 @@ sector-position: (cross-cutting — affects all import-dependent sectors)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
 claim-type: statistic
+unit-kind: ecosystem-map
 activity-status: deployed
 critical-voice: (none directly — government outlook framing)
 capital-intensity: (not applicable)
 language-literacy-profile: (not applicable)
 policy-instrument: strategy
 region: East-Asia (China); global impact
+governance-level: national
 actor: China Ministry of Agriculture and Rural Affairs (MARA); China Agricultural Outlook Committee
 actor-type: state-agency
 data-governance: state-stewarded

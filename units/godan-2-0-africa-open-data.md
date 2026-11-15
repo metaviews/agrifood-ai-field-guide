@@ -5,12 +5,14 @@ sector-position: (international coordination — open data for agriculture and n
 ai-technique-class: (cross-cutting — open data coordination + FAIR principles + Five stars of open data + AI training data + agricultural research methodology + international policy coordination)
 purpose: "coordination body (GODAN is the corpus's most-substantive international open-data coordination body for agriculture and nutrition; substantive African chapter + 2024 side event on Open Data for Agricultural Innovation)"
 claim-type: framework (international open-data coordination framework; Five stars of open data + FAIR principles); deployment (substantive African chapter + 2024 side event outcomes + CGIAR partnership)
+unit-kind: institution
 activity-status: mature (founded 2013; 13+ years operation; GODAN 2.0 framing)
 critical-voice: digital-divide-equity (open-data coordination + youth-led innovation + inclusive digital infrastructure per GODAN 2.0 framing); food-sovereignty (open data for agriculture + nutrition)
 capital-intensity: multilateral-coordination (G8-initiated); philanthropic (multiple philanthropic supporters); institutional-budget (GODAN institutional operations)
 language-literacy-profile: low (open-data coordination for African agricultural research + extension services + smallholder farmers); multilingual (multilingual context across Africa + Global South)
 policy-instrument: 'international-coordination (G8-initiated; multi-stakeholder coordination); open-data-framework (Five stars of open data + FAIR principles); CGIAR partnership (2016 *Global Data Ecosystem for Agriculture and Food* paper)'
 region: Global (international coordination body); SSA (substantive African chapter + 2024 side event on Open Data for Agricultural Innovation); Latin America + Asia (substantive cross-region coordination)
+governance-level: multilateral
 actor: 'GODAN (Global Open Data for Agriculture and Nutrition; founded 2013 G8-initiated); GODAN 2.0 framing; CGIAR (substantive partnership + 2016 *Global Data Ecosystem for Agriculture and Food* paper); Syngenta (commissioned 2016 paper); African Union (DAU Africa-relevant framework); AUDA-NEPAD (African Union Development Agency); FAO (UN Food and Agriculture Organization); African agricultural research systems; named African deployment partners'
 actor-type: 'multilateral-coordination (GODAN international coordination body); multilateral-body (CGIAR + FAO); private-foundation (multiple philanthropic supporters); state-agency (G8-initiated); regional-body (African Union + AUDA-NEPAD)'
 data-governance: 'open-data-coordination (Five stars of open data + FAIR principles + open-access mandate); multilateral-coordination (G8-initiated + CGIAR partnership + FAO partnership)'

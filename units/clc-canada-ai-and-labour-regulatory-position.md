@@ -5,6 +5,7 @@ sector-position: (cross-cutting — labour governance across agrifood and other 
 ai-technique-class: (cross-cutting — artificial intelligence, automated decision-making, workplace monitoring, algorithmic management)
 purpose: governance (rights-based AI regulation); worker conditions (job security, work organisation, monitoring, discrimination); data governance (workplace data and transparency)
 claim-type: framework (institutional policy position)
+unit-kind: critical-analysis
 activity-status: (not applicable — institutional policy position, not deployment)
 critical-voice: labour-conditions; worker-voice; algorithmic-management; human-rights
 capital-intensity: (not applicable)

@@ -5,6 +5,7 @@ sector-position: consumption
 ai-technique-class: predictive-ml, robotics-automation
 purpose: supply-chain-efficiency (in-store automation; indirectly consumer-facing)
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none — vendor announcement)
 capital-intensity: industrial

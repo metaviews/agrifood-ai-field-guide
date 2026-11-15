@@ -5,6 +5,7 @@ sector-position: fisheries + aquaculture (wild salmon monitoring)
 ai-technique-class: computer vision + fish weir AI integration
 purpose: governance (Indigenous data sovereignty); food sovereignty / sovereignty; fisheries management; salmon conservation
 claim-type: deployment
+unit-kind: deployment
 activity-status: peer-reviewed (2023); operational at Bear River + Kitwanga River; expansion to Koeye and KwaKwa rivers unclear (G-336)
 critical-voice: indigenous-data-sovereignty; food-sovereignty
 capital-intensity: low (Indigenous-led + academic + BCSFA + Ocean AID + DFO)

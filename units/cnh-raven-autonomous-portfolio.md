@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field (equipment-vendor substrate); on-
 ai-technique-class: robotics-autonomy-ground, computer-vision, sensor-lidar, decision-support-systems
 purpose: input-reduction (precision application), labour-substitution (autonomous operation), yield-optimisation, energy-efficiency (baling automation)
 claim-type: example (announced deployment) + framework (Raven-acquired vertical-integration trajectory)
+unit-kind: deployment
 activity-status: deploying (Case IH Trident 5550 + Raven Autonomy first autonomous spreader announced 2022; Driverless Tillage + Driver Assist Harvest demonstrated 2022 Tech Day; commercial availability narrower than Deere See & Spray)
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

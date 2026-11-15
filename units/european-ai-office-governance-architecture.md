@@ -5,12 +5,14 @@ sector-position: (cross-cutting — governance architecture over every sector po
 ai-technique-class: (cross-cutting — the architecture governs models and systems regardless of technique)
 purpose: governance (enforcement, standardisation, advice); (none directly — no agrifood purpose in the architecture)
 claim-type: framework (governance bodies and their instruments; named members and authorities are examples)
+unit-kind: policy-instrument
 activity-status: deployed (AI Office operational since 2025; Scientific Panel and Advisory Forum seated 1 June 2026; enforcement live from 2 August 2026)
 critical-voice: "governance (the corpus's own governance-absence finding); digital-equity (who is at the table — 174 Advisory Forum members selected from 700+ applications, none from farming)"
 capital-intensity: (not applicable — governance bodies)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (AI Act Articles 67, 68, 75a-75e; Commission Decision establishing the European AI Office; Implementing Regulation (EU) 2025/454 for the Scientific Panel)
 region: EU (EU-27 plus EEA-EFTA observers; one third-country member listed)
+governance-level: supranational
 actor: "European AI Office (DG CONNECT; Director Lucilla Sioli; head of unit for AI Safety Matthieu Delescluse; Lead Scientific Adviser Alessandro Abate); European AI Board (member-state representatives, chaired by the rotating Council Presidency, AI Office as secretariat); Scientific Panel of Independent Experts (60 members appointed 1 June 2026, incl. Yoshua Bengio, Miles Brundage, Adam Gleave, Marius Hobbhahn, Judith Simon); Advisory Forum (174 members appointed 1 June 2026, plus FRA, ENISA, CEN, CENELEC, ETSI as permanent members); national authorities (AESIA Spain, DGCCRF France, Bundesnetzagentur Germany, ACN Italy, RDI Netherlands, AI Office of Ireland, others)"
 actor-type: eu-institution; state-agency; academic; critical-civil-society; industry-association (member-based bodies)
 data-governance: mixed (expert-group declarations of interest are published; model documentation flows through the Code of Practice)

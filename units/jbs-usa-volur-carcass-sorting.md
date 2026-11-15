@@ -5,6 +5,7 @@ sector-position: processing
 ai-technique-class: predictive-ml, decision-support-systems
 purpose: input-reduction, supply-chain-efficiency
 claim-type: example
+unit-kind: deployment
 activity-status: piloting
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

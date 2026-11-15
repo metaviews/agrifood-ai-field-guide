@@ -5,12 +5,14 @@ sector-position: (cross-cutting — policy frame spanning on-farm inputs through
 ai-technique-class: (cross-cutting — applies to all major technique classes)
 purpose: food-security-sovereignty, governance, climate-adaptation, market-access
 claim-type: framework (state policy instrument) + example (statutory target with operational programme)
+unit-kind: policy-instrument
 activity-status: deployed (statutory target active; zonal designations 2025)
 critical-voice: food-sovereignty (state-anchored agrifood-data-and-production instrument; smart-farming target as policy answer to ageing-farmer succession)
 capital-intensity: (cross-cutting — applies to smallholder young-farmer integration + industrial-scale anchor farms)
 language-literacy-profile: (cross-cutting — Korean statutory language; vendor and academic Korean + multilingual extension)
 policy-instrument: regulatory, fiscal, strategy (the *Act* is the regulatory layer; zonal designations are the administrative layer; 30%-by-2027 is the strategic target; MAFRA funding is the fiscal layer)
 region: East-Asia (Korea; Republic of Korea national, multi-provincial implementation)
+governance-level: national
 actor: Republic of Korea — Ministry of Agriculture, Food and Rural Affairs (MAFRA) as policy-owner; Rural Development Administration (RDA) as operational lead; provincial governments as co-implementers
 actor-type: state-agency
 data-governance: mixed (state-anchored framework; vendor-ICT-stack specific to each cluster)

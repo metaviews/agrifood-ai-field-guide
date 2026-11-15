@@ -5,6 +5,7 @@ sector-position: on-farm-production-protected (Korean smart-farming cluster); gr
 ai-technique-class: predictive-ml, sensors-and-iot-ml, generative-ai-and-llms, computer-vision, decision-support-systems
 purpose: input-reduction (Korean precision agriculture), yield-optimisation, labour-substitution (the explicit cluster purpose), climate-adaptation (smart farm controlled environment)
 claim-type: example (cluster-pattern-observation; state-led quantitative labour-substitution target)
+unit-kind: meta-pattern
 activity-status: deploying (Korean state-led smart farm deployment; 30%-by-2027 target adopted 2024)
 critical-voice: labour-conditions (Korean rural labour decline as explicit cluster driver); structural labour-substitution
 capital-intensity: industrial (Korean state-cluster financing)

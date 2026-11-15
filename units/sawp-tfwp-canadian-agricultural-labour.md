@@ -5,6 +5,7 @@ sector-position: (cross-cutting — migrant agricultural labour context for AI d
 ai-technique-class: (cross-cutting)
 purpose: governance (migrant agricultural labour regulatory substrate); worker conditions (migrant agricultural labour context); food security / sovereignty (Canadian agricultural labour capacity)
 claim-type: claim (substantive analytical contribution; regulatory structural finding; closes G-375 substantively)
+unit-kind: policy-instrument
 activity-status: (not applicable — labour-side context, not deployment)
 critical-voice: worker-conditions (migrant agricultural labour); labour-organisation; data-sovereignty (labour-side)
 capital-intensity: (not applicable)

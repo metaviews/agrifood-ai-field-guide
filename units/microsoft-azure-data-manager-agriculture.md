@@ -5,6 +5,7 @@ sector-position: (cross-cutting — hyperscaler data infrastructure serving on-f
 ai-technique-class: (cross-cutting — IoT, edge computing, computer vision, drone-based imagery, generative AI on Azure AI Foundry; substrate rather than a single technique)
 purpose: (cross-cutting — substrate layer enabling yield-optimisation, input-reduction, climate-adaptation, supply-chain-efficiency across the agrifood value chain)
 claim-type: framework (hyperscaler-as-substrate architecture) + example (specific Microsoft Research projects → product transition)
+unit-kind: deployment
 activity-status: deployed (Azure Data Manager for Agriculture is the current product; FarmBeats project transitioned to product)
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial (Microsoft Research → Microsoft Azure commercial product)

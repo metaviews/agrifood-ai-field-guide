@@ -5,6 +5,7 @@ sector-position: on-farm — open field (small-parcel southwestern Ontario); als
 ai-technique-class: (cross-cutting — deployer/validator, not vendor)
 purpose: (cross-cutting — substrate for agtech validation; deployer of CAAIN-funded autonomous manure application)
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: digital-equity (rural southwestern Ontario substrate)
 capital-intensity: smallholder (farm + retail) supporting industrial AI deployment

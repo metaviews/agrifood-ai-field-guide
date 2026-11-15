@@ -5,6 +5,7 @@ sector-position: on-farm production — open field (broadacre crops, primarily s
 ai-technique-class: predictive ML; computer vision; generative AI / LLMs (limited)
 purpose: yield optimisation; input reduction (fertilizer, water, pesticide); climate adaptation; research and discovery
 claim-type: example
+unit-kind: institution
 activity-status: deployed (research; pilot deployment via breeding pipelines)
 critical-voice: digital-equity
 capital-intensity: industrial

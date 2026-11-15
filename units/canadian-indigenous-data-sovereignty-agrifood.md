@@ -5,12 +5,14 @@ sector-position: (cross-cutting — Indigenous-led data infrastructure; agrifood
 ai-technique-class: (cross-cutting — Indigenous-led AI deployment; community-led monitoring methodology)
 purpose: governance (Indigenous data sovereignty); food security / sovereignty; climate adaptation; research and discovery (Indigenous methodologies)
 claim-type: framework + deployment
+unit-kind: policy-instrument
 activity-status: deployed (framework); piloting + emerging (Indigenous-led agrifood AI deployment)
 critical-voice: indigenous-data-sovereignty; food-sovereignty; data-justice
 capital-intensity: mixed (Indigenous-led small-scale; international framework scale)
 language-literacy-profile: (not applicable — multilingual; Indigenous-language relevant)
 policy-instrument: regulatory (IEEE 2890-2025; CARE Principles; OCAP®; FNDGS; UNDRIP Article 3; UNESCO IDSov in AI guidelines)
 region: NA-Canada (with international framework anchors; Aotearoa NZ, Peru, US land-grant comparative anchors)
+governance-level: multilateral
 actor: GIDA; FNIGC; NCIAF; Mila Indigenous AI infrastructure; FNTC; FDDGS regional centres; AAFC Indigenous Agriculture and Food Systems Initiative (closed); ISC Pathway Initiative; BC Indigenous Food Sovereignty funding; UNESCO; ITK; AIPP; Te Mana Raraunga; ONAMIAP-IWGIA; Cornell Atkinson IDSov cluster (US); Collaboratory for Indigenous Data Governance
 actor-type: Indigenous-organisation (operational); academic (institutional infrastructure); critical-civil-society (framework); multilateral-body (UN system)
 data-governance: co-operative / commons (Indigenous-led); state-stewarded (UN system)

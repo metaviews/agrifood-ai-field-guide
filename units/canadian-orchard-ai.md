@@ -5,6 +5,7 @@ sector-position: on-farm-production (orchard); cross-cutting (pest management, t
 ai-technique-class: computer-vision, sensors-and-iot-ml, predictive-ml
 purpose: input-reduction (pesticide), yield-optimisation, climate-adaptation
 claim-type: example
+unit-kind: deployment
 activity-status: active
 critical-voice: (none directly — vendor + industry-program framing)
 capital-intensity: industrial

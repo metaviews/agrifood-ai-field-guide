@@ -5,12 +5,14 @@ sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting — data infrastructure)
 purpose: governance
 claim-type: example
+unit-kind: data-infrastructure
 activity-status: deployed (standards / open source project)
 critical-voice: digital-equity
 capital-intensity: (not applicable)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (interoperability standards)
 region: Global (open-source project)
+governance-level: multilateral
 actor: Open Ag Data Alliance (open project)
 actor-type: '(multi-type: standards-body / academic / vendor-contributing)'
 data-governance: open

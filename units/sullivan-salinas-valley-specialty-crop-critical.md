@@ -5,6 +5,7 @@ sector-position: (cross-cutting — analytical work on US specialty-crop AI depl
 ai-technique-class: (cross-cutting — ethnographic and field-research analysis of AI deployment in specialty-crop agriculture)
 purpose: governance (critical analysis of agrifood AI deployment); worker-conditions (labour and labour displacement); food security / sovereignty (US specialty-crop supply chain resilience)
 claim-type: claim (substantive analytical contribution — interview-and-fieldwork-based ethnography); critical-voice-pattern
+unit-kind: critical-analysis
 activity-status: (not applicable — analytical work, not deployment)
 critical-voice: digital-equity (Silicon Valley vs Salinas Valley framing); worker-conditions (substantive farmworker labour framing); critical-civil-society (analytical work adjacent to FIAN, IPES-Food critical voice posture)
 capital-intensity: (not applicable)

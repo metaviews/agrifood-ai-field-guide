@@ -5,6 +5,7 @@ sector-position: on-farm-production-protected (Ontario greenhouse horticulture; 
 ai-technique-class: sensors-and-iot-ml, workplace-monitoring, robotics-and-autonomy, biometric-and-tracking
 purpose: governance (worker-centred agtech); worker conditions (surveillance, health and safety, stress, discipline, solidarity); labour-productivity (performance tracking)
 claim-type: claim (peer-reviewed mixed-methods study; worker experience evidence)
+unit-kind: critical-analysis
 activity-status: deployed (surveillance and tracking agtech reported by workers; specific systems vary)
 critical-voice: worker-conditions; migrant-labour; worker-voice; algorithmic-management
 capital-intensity: industrial

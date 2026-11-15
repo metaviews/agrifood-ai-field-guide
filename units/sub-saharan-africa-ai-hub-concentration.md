@@ -5,6 +5,7 @@ sector-position: (cross-cutting — Sub-Saharan Africa AI hub concentration; sma
 ai-technique-class: (cross-cutting — drone imagery + ML; satellite remote sensing + ML; predictive demand modelling; smallholder mobile agriculture; data marketplace infrastructure)
 purpose: ecosystem-anchor (the four-country concentration is the corpus's structural anchor for Sub-Saharan African agritech AI; AI hub concentration anchors the deployment layer)
 claim-type: ecosystem-cluster (named corporate, government, multilateral actors; AI hub concentration quantified; named deployment examples)
+unit-kind: ecosystem-map
 activity-status: deployed (across South Africa, Kenya, Nigeria, Egypt; named corporate deployment Aerobotics 18 countries, Hello Tractor Kenya+Nigeria, DigiFarm 3M+ Kenyan farmers)
 critical-voice: digital-divide-equity (the AI hub concentration is structurally constrained by recipient-state digital infrastructure depth; the 2.5% Africa AI market share limits deployment-scale at continental level; the smallholder "willingness" gap vs "adoption" gap is substantive)
 capital-intensity: mixed (commercial-export for Aerobotics; smallholder financial inclusion for M-PESA/DigiFarm/Apollo Agriculture; government research-budget for KALRO; multilateral research-budget for CGIAR); smallholder-default (the cluster pattern is built on smallholder-default because smallholders are the dominant agricultural demographic across Sub-Saharan Africa)

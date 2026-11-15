@@ -5,6 +5,7 @@ sector-position: post-harvest-handling-and-storage; on-farm-production-open-fiel
 ai-technique-class: computer-vision, geospatial-ai, predictive-ml, sensors-and-iot-ml
 purpose: yield-optimisation, supply-chain-efficiency, climate-adaptation, market-transparency
 claim-type: example
+unit-kind: deployment
 activity-status: deployed (Super GeoAI app available; Grain Discovery platform active)
 critical-voice: (none directly — vendor + producer framing)
 capital-intensity: industrial

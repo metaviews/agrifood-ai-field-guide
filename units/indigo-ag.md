@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: predictive-ml
 purpose: input-reduction, yield-optimisation
 claim-type: example
+unit-kind: deployment
 activity-status: deployed (restructured)
 critical-voice: digital-equity (boom-bust pattern worth naming)
 capital-intensity: industrial

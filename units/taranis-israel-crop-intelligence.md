@@ -5,6 +5,7 @@ sector-position: on-farm-production
 ai-technique-class: computer-vision, predictive-ml, sensors-and-iot-ml
 purpose: yield-protection, input-reduction, decision-support
 claim-type: example
+unit-kind: deployment
 activity-status: deployed (global scale)
 critical-voice: (none — corporate-vendor deployment)
 capital-intensity: enterprise

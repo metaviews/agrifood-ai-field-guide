@@ -5,12 +5,14 @@ sector-position: (cross-cutting — federal Global Innovation Cluster funder/con
 ai-technique-class: (cross-cutting — predictive-ml, computer-vision, generative-ai-and-llms, sensors-and-iot-ml)
 purpose: (cross-cutting — supply-chain-efficiency, yield-optimisation, climate-adaptation, insurance risk management)
 claim-type: claim
+unit-kind: funding-programme
 activity-status: deployed
 critical-voice: (none directly — cluster programme framing)
 capital-intensity: industrial
 language-literacy-profile: (not applicable)
 policy-instrument: Global Innovation Clusters program (ISED); Scale AI up to $284M federal funding
 region: NA-Canada (national; Ontario, BC, Quebec, Prairies, Atlantic)
+governance-level: national
 actor: Scale AI Cluster (Global Innovation Cluster)
 actor-type: state-agency (federal cluster programme)
 data-governance: mixed

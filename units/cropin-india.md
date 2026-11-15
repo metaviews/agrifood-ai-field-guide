@@ -2,9 +2,10 @@
 id: cropin-india
 title: Cropin — AI-first agrifood platform, the largest deployment substrate in South Asia
 sector-position: on-farm-production-open-field, distribution-and-retail
-ai-technique-class: predictive-ml, computer-vision, generative-ai-llms
+ai-technique-class: predictive-ml, computer-vision, generative-ai-llms, agentic systems / harness layer (OrbitAI on the Gemini Enterprise Agent Platform; exposed as an MCP server)
 purpose: yield-optimisation, input-reduction, supply-chain-efficiency, climate-adaptation
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: digital-equity (data ownership across 103 countries — vendor-owned)
 capital-intensity: mixed (B2B enterprise customers + smallholder pilots via ADPC)

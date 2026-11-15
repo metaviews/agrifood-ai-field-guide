@@ -5,12 +5,14 @@ sector-position: (multi-sector — institutional anchor)
 ai-technique-class: (multi-technique — institutional anchor)
 purpose: (multi-purpose — institutional anchor)
 claim-type: pattern-institutional-convening
+unit-kind: ecosystem-map
 activity-status: institutional-anchor
 critical-voice: (none — institutional role, not deployment)
 capital-intensity: multilateral-institutional
 language-literacy-profile: institutional-multilateral
 policy-instrument: multilateral-institutional
 region: Global (IICA member states across the Americas; 2025-10 event hosted at IICA HQ San José, Costa Rica)
+governance-level: multilateral
 actor: Inter-American Institute for Cooperation on Agriculture (IICA) — 34 member states across the Americas
 actor-type: state-agency (multilateral)
 data-governance: (not applicable — institutional role)

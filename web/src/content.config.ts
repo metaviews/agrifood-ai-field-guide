@@ -26,6 +26,8 @@ const units = defineCollection({
     'ai-technique-class': z.string().optional(),
     purpose: z.string().optional(),
     'claim-type': z.string().optional(),
+    'unit-kind': z.string().optional(),
+    'governance-level': z.string().optional(),
     'activity-status': z.string().optional(),
     'critical-voice': z.string().optional(),
     'capital-intensity': z.string().optional(),

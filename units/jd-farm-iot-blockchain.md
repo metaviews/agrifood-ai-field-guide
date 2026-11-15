@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field, animal-production
 ai-technique-class: computer-vision, sensors-and-iot-ml
 purpose: supply-chain-efficiency, traceability
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing; some digital-equity concerns at the smallholder-interface layer)
 capital-intensity: smallholder (interface), industrial (back-end)

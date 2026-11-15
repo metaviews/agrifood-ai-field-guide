@@ -5,6 +5,7 @@ sector-position: on-farm-production
 ai-technique-class: predictive-ml, computer-vision, sensors-and-iot-ml
 purpose: disease-and-stress-detection, resource-optimization, decision-support
 claim-type: example
+unit-kind: deployment
 activity-status: deploying (216 Capital investment June 2026; African + Middle Eastern expansion)
 critical-voice: (none — startup deployment narrative)
 capital-intensity: venture-funded (216 Capital six-figure)

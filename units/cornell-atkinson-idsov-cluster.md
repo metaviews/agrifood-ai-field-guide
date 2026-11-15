@@ -5,6 +5,7 @@ sector-position: (cross-cutting — Indigenous-led data infrastructure; agrifood
 ai-technique-class: (cross-cutting — Indigenous-led AI deployment; community-led monitoring methodology)
 purpose: governance (Indigenous data sovereignty); food security / sovereignty; climate adaptation; research and discovery (Indigenous methodologies)
 claim-type: framework
+unit-kind: institution
 activity-status: piloting (Indigenous-led AI deployment in US land-grant context)
 critical-voice: indigenous-data-sovereignty; food-sovereignty
 capital-intensity: mixed (Indigenous-led small-scale; international framework scale)

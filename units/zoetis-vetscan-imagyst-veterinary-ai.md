@@ -5,6 +5,7 @@ sector-position: animal-production (livestock pharma + monitoring); processing-a
 ai-technique-class: computer-vision (image-based diagnostics), predictive-ml, decision-support-systems (specialist network + AI)
 purpose: animal-health, food-safety (livestock disease detection, food contamination detection at processing), yield-optimisation (livestock productivity via early disease detection)
 claim-type: example (deployed commercial scale) + framework (point-of-care AI diagnostic architecture)
+unit-kind: deployment
 activity-status: deployed (Vetscan Imagyst, OptiCell, VS2, HM5, AlphaTrak — Zoetis product portfolio)
 critical-voice: (none directly — vendor framing; independent multicentre validation exists per Nagamori 2024)
 capital-intensity: industrial (Zoetis is the world's largest animal-health company; spun out of Pfizer 2012)

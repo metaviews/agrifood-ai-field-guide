@@ -5,12 +5,14 @@ sector-position: (cross-cutting — strategy and compute substrate for all secto
 ai-technique-class: (cross-cutting — compute, foundation models, adoption support across technique classes)
 purpose: "governance (AI Act simplification as a named pillar; the Apply AI Alliance and AI Observatory); research and discovery (agriculture-specific foundation models); supply chain efficiency and input reduction (the named adoption use cases)"
 claim-type: framework (strategic documents and their action tables; the named use cases are examples)
+unit-kind: policy-instrument
 activity-status: announced (strategy layer; compute partly operational; the agri-food flagship not yet built)
 critical-voice: "digital-equity (uptake barriers named in the strategy itself — lack of time and skills, mistrust of AI, uncertainty over liability, fear of losing control over decision-making)"
 capital-intensity: industrial (€200bn mobilisation; €10bn EuroHPC envelope); smallholder-relevant only through TEF and advisory channels
 language-literacy-profile: (not applicable)
 policy-instrument: strategy (COM(2025) 165; COM(2025) 723; COM(2025) 835 Data Union Strategy); fiscal (EuroHPC JU, Digital Europe Programme); regulatory (AI Act simplification pillar)
 region: EU (EU-27 + associated countries; AI Factory hosts across 19 countries)
+governance-level: supranational
 actor: "European Commission (DG CNECT, DG AGRI); EuroHPC Joint Undertaking; named AI Factory hosts (LUMI AIF Finland, AI2F France, JAIF and HammerHAI Germany, BSC AIF Spain, IT4LIA Italy, others); agrifoodTEF (Fondazione Bruno Kessler); AgData partnership; CEADS; EDIC for Agri-Food (Paris, established 8 September 2026)"
 actor-type: eu-institution; state-agency (EuroHPC JU); academic (AI Factory host consortia); industry-association (Apply AI Alliance)
 data-governance: state-stewarded (EU data spaces, Data Union Strategy); mixed for project data

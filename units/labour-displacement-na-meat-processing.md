@@ -5,6 +5,7 @@ sector-position: processing (NA meat processing — beef, poultry, pork; plus Ca
 ai-technique-class: computer-vision, robotics-autonomy-ground, predictive-ml, sensors-and-iot-ml
 purpose: input-reduction (yield), supply-chain-efficiency, worker-conditions (labour-displacement + labour-monitoring + worker-safety)
 claim-type: cluster-pattern-observation (consolidated cell with multiple vendors; labour-monitoring + labour-displacement + worker-safety as distinct dimensions)
+unit-kind: deployment
 activity-status: deployed (Cargill CarVe + Tyson × AWS + Smithfield vision + robotics + Maple Leaf Braincube + Emulate3D + SoraLINK); planning / announced (line-side CV deployments beyond currently named)
 critical-voice: worker-conditions (labour-displacement + labour-monitoring dual-use + worker-safety legacy)
 capital-intensity: industrial

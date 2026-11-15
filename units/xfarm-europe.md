@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field, distribution-and-retail
 ai-technique-class: predictive-ml, sensors-and-iot-ml
 purpose: supply-chain-efficiency, extension-and-advisory
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing; "started by farmers for farmers" positioning)
 capital-intensity: smallholder

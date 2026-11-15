@@ -5,12 +5,14 @@ sector-position: (CGIAR-Affiliate crop disease surveillance + banana specialty c
 ai-technique-class: (cross-cutting — open-source dashboard + GPS-referenced observation data + crop disease surveillance + extension worker integration + smallholder farmer integration + banana specialty crop)
 purpose: "deployment-of-record (Alliance Bioversity-CIAT banana disease dashboard is the corpus's substantive CGIAR-Affiliate open-source agritech AI deployment for African smallholder farmers)"
 claim-type: deployment (100,000+ GPS-referenced banana disease observations across 17 countries; eastern Uganda extension worker integration); framework (open-source dashboard methodology)
+unit-kind: deployment
 activity-status: deployed (100,000+ GPS-referenced observations across 17 countries; eastern Uganda extension worker integration ongoing); mature
 critical-voice: digital-divide-equity (smallholder farmer integration + extension worker integration); food-sovereignty (crop disease surveillance + smallholder farmer food security)
 capital-intensity: multilateral-research-budget (Alliance Bioversity-CIAT CGIAR-Affiliate institutional operations); philanthropic (CGIAR partner ecosystem)
 language-literacy-profile: low (extension-services-mediated + smallholder farmer integration + multilingual context); multilingual (multilingual context across 17 countries)
 policy-instrument: 'crop-disease-surveillance (open-source dashboard + GPS-referenced observation data); multilateral-research (Alliance Bioversity-CIAT CGIAR-Affiliate); smallholder-extension-integration (eastern Uganda extension workers)'
 region: 'SSA (primary: eastern Uganda extension worker integration; 17 countries of deployment); Global South (cross-region deployment)'
+governance-level: multilateral
 actor: 'Alliance of Bioversity International + CIAT (CGIAR-Affiliate research center); CGIAR (multilateral agricultural research body; partner ecosystem); eastern Uganda extension workers (substantive last-mile integration); smallholder farmer networks across 17 countries; named country partners'
 actor-type: 'multilateral-research (Alliance of Bioversity International + CIAT; CGIAR-Affiliate); extension-services (eastern Uganda extension workers); smallholder-farmer-networks (across 17 countries)'
 data-governance: 'open-source-dashboard (open-source dashboard methodology); GPS-referenced-observation-data (substantive spatial data); multilateral-research-data-governance (Alliance Bioversity-CIAT CGIAR-Affiliate institutional data governance)'

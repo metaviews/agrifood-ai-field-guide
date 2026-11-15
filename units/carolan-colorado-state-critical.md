@@ -5,6 +5,7 @@ sector-position: (cross-cutting — sociological analysis of agrifood AI)
 ai-technique-class: (cross-cutting — critical analysis of AI deployment)
 purpose: governance (critical analysis of agrifood AI); worker conditions (labour and recognition); food security / sovereignty
 claim-type: claim
+unit-kind: critical-analysis
 activity-status: (not applicable — analytical work, not deployment)
 critical-voice: digital-equity; worker-conditions-adjacent
 capital-intensity: (not applicable)

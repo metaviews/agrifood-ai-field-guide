@@ -5,6 +5,7 @@ sector-position: on-farm-production (fertilization + crop-management) + cross-va
 ai-technique-class: predictive-ml, sensors-and-iot-ml
 purpose: fertilizer-optimization, soil-management, resource-optimization, agronomic-decision-support
 claim-type: example
+unit-kind: deployment
 activity-status: deploying (since 2018; SIAM 2026 confirmation; 2025-2026 bilan)
 critical-voice: (none — OCP-state-narrative + state-trade-finance framing)
 capital-intensity: state-backed-corporate (OCP Group + Moroccan state)

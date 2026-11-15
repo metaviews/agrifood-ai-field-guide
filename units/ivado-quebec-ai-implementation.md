@@ -5,6 +5,7 @@ sector-position: (cross-cutting — implementation / policy partner)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
 claim-type: framework
+unit-kind: institution
 activity-status: piloting
 critical-voice: (none directly — institutional framing; some AI governance work positions responsibility)
 capital-intensity: (not applicable)

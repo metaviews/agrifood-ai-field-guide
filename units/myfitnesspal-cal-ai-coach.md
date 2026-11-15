@@ -5,6 +5,7 @@ sector-position: consumption
 ai-technique-class: generative-ai-and-llms, computer-vision
 purpose: consumer-facing
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: digital-equity
 capital-intensity: industrial

@@ -5,6 +5,7 @@ sector-position: post-harvest-handling-and-storage, distribution-and-retail
 ai-technique-class: computer-vision
 purpose: supply-chain-efficiency, input-reduction
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

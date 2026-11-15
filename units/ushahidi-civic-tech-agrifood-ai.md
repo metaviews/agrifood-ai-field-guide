@@ -5,6 +5,7 @@ sector-position: (civic technology — crowdsourcing + citizen-generated data + 
 ai-technique-class: (cross-cutting — crowdsourcing + citizen-generated reporting + mapping + SMS + interactive voice response + mobile data collection + smallholder-voter-farmer integration)
 purpose: 'platform anchor (Kenyan-originated open-source platform; substantive agritech AI deployment potential — deployment-of-record at civic tech + crisis response scale; agritech AI deployment is forthcoming)'
 claim-type: framework (open-source civic-tech platform with substantive cross-sector deployment); deployment (civic-tech + crisis-response deployment scale; agritech AI deployment potential)
+unit-kind: institution
 activity-status: mature (founded 2007; 18+ years of operation; global deployment); agritech AI deployment is forthcoming (pilot-stage for agritech-specific deployment)
 critical-voice: digital-divide-equity (low-bandwidth + SMS + IVR + voice-first design consistent with CGIAR smallholder-side design pattern); food-sovereignty (Kenyan origin + African-led + community-mediated)
 capital-intensity: open-source (no licensing fees; substantive donor + grant funding); philanthropic (Global South deployment via philanthropic + multilateral partners)

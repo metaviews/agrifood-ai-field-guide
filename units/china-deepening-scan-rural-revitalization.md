@@ -5,12 +5,14 @@ sector-position: (cross-cutting — policy framework)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
 claim-type: framework
+unit-kind: policy-instrument
 activity-status: deployed (Action Plan 2022-2025); piloting (2024-2028 Smart Agriculture Action Plan); forward-looking (2027 Plan)
 critical-voice: (none directly — government framing; Tandfonline GAI paper is academic critique)
 capital-intensity: (not applicable)
 language-literacy-profile: (not applicable)
 policy-instrument: strategy
 region: East-Asia (China); national framework with provincial implementation
+governance-level: national
 actor: MARA (Ministry of Agriculture and Rural Affairs); State Council; provincial agricultural authorities
 actor-type: state-agency
 data-governance: state-stewarded

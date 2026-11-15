@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: robotics-autonomy-aerial, sensors-and-iot-ml, decision-support-systems
 purpose: input-reduction, yield-optimisation, worker-conditions, climate-adaptation
 claim-type: example (deployment)
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing dominates the public surface)
 capital-intensity: industrial (small-engine + FRP + electronic-control equipment, deployed at rice-grower cooperative distribution level)

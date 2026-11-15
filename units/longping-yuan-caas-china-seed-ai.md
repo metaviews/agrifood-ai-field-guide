@@ -5,6 +5,7 @@ sector-position: inputs (seed-breeding; wheat, maize, rice, soybean, vegetables)
 ai-technique-class: (cross-cutting — knowledge-graph LLM; genomic selection; multi-omics; phenomics; CRISPR-AI; unmanned-farm robotics; massive-scale DNBSEQ sequencing; integration of Huawei 5G + BGI sequencing + China Mobile networks)
 purpose: (cross-cutting — food security; climate-resilient super crops; accelerate breeding cycle; commercial seed deployment through Sinochem-ChemChina state-owned Syngenta Group)
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (implicit — GRAIN 2023 "Capturing the seed" critique of Chinese agribusiness expansion; China iplawupdate analysis of Seed Law IP-strengthening)
 capital-intensity: industrial (state-scale deployment; multi-billion sequencing infrastructure)

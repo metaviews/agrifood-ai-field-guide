@@ -5,12 +5,14 @@ sector-position: (cross-cutting — policy framework; spans on-farm production, 
 ai-technique-class: (cross-cutting — names LLMs, computer vision, robotics, IoT ML as deployment targets)
 purpose: food security / sovereignty (domestic production capacity); governance (national data platform); supply chain efficiency (whole-chain digitalisation)
 claim-type: framework
+unit-kind: policy-instrument
 activity-status: deployed (in force since October 2024; 2026 and 2028 targets pending)
 critical-voice: (none directly — government framing; the plan's own monitoring language acknowledges implementation risk)
 capital-intensity: mixed (public-service layer state-funded; farm-layer adoption includes smallholder-facing services)
 language-literacy-profile: (not applicable)
 policy-instrument: strategy
 region: East-Asia (China); national plan with designated provincial pilot (Zhejiang)
+governance-level: national
 actor: MARA (Ministry of Agriculture and Rural Affairs)
 actor-type: state-agency
 data-governance: state-stewarded

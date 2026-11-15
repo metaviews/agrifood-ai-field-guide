@@ -5,6 +5,7 @@ sector-position: consumption
 ai-technique-class: predictive-ml (Nuance-era), generative-ai-and-llMs (recent extension)
 purpose: consumer-facing
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none — vendor announcement)
 capital-intensity: industrial

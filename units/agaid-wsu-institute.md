@@ -5,6 +5,7 @@ sector-position: on-farm production — open field (broadacre crops, fruits, veg
 ai-technique-class: predictive ML; computer vision; robotics and autonomy — ground; decision-support systems
 purpose: yield optimisation; input reduction (water); climate adaptation; worker conditions; extension and advisory
 claim-type: example
+unit-kind: institution
 activity-status: deployed (research and pilot deployment)
 critical-voice: digital-equity
 capital-intensity: industrial

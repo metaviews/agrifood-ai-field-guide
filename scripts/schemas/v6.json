@@ -1,0 +1,81 @@
+{
+  "version": "v6",
+  "comment": "Vocabulary data for scripts/validate_frontmatter.py. Taxonomy v6 + v5.1 errata conventions. Change vocabularies here, not in the validator.",
+  "unit_kind": [
+    "deployment",
+    "institution",
+    "policy-instrument",
+    "funding-programme",
+    "data-infrastructure",
+    "ecosystem-map",
+    "meta-pattern",
+    "critical-analysis",
+    "methodology",
+    "tracker-artefact"
+  ],
+  "governance_level": [
+    "subnational",
+    "national",
+    "supranational",
+    "multilateral"
+  ],
+  "claim_type_primaries": [
+    "example",
+    "examples",
+    "claim",
+    "statistic",
+    "framework",
+    "fact",
+    "deployment",
+    "programme",
+    "pattern",
+    "cluster-pattern-observation",
+    "critical-voice-pattern",
+    "ecosystem-pattern-observation",
+    "ecosystem-observation",
+    "pattern-institutional-convening",
+    "institutional-anchor",
+    "critical-voice",
+    "institutional",
+    "cluster-example",
+    "ecosystem-cluster",
+    "framework-pattern"
+  ],
+  "region_prefixes": [
+    "NA-US",
+    "NA-Canada",
+    "LATAM",
+    "EU",
+    "EU-Spain",
+    "EU-Netherlands",
+    "EU-France",
+    "EU-Germany",
+    "EU-other",
+    "MENA",
+    "SSA",
+    "South-Asia",
+    "East-Asia",
+    "Oceania",
+    "Global",
+    "Global-South",
+    "multi-region"
+  ],
+  "required_fields": [
+    "title",
+    "sector-position",
+    "ai-technique-class",
+    "purpose",
+    "claim-type",
+    "unit-kind",
+    "activity-status",
+    "region",
+    "actor-type"
+  ],
+  "maturity_value_pattern": "^[SVLT][0-4](-[0-4])?\\b",
+  "maturity_fields": [
+    "maturity-scale",
+    "maturity-verification",
+    "maturity-longevity",
+    "maturity-translation"
+  ]
+}

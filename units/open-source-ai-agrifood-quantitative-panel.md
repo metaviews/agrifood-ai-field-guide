@@ -5,6 +5,7 @@ sector-position: (cross-cutting — methodology / quantitative anchor / state-of
 ai-technique-class: (cross-cutting)
 purpose: governance (cross-cutting empirical anchor for any talk about open-source / vendor / multilateral / public-investment activity); research and discovery (bibliometric + adoption-rate + public-investment + market-size aggregation)
 claim-type: framework (the cross-corpus quantitative panel — six distinct aggregation currents, panel matrix in §5)
+unit-kind: methodology
 activity-status: (not applicable — methodology / empirical synthesis)
 critical-voice: (not applicable — methodology; aggregator-figure hygiene critical-voice adjacent; per Mozilla 2026 the deployment gap is *infrastructure* not capability)
 capital-intensity: (not applicable)

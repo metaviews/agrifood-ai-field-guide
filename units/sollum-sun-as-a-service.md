@@ -5,6 +5,7 @@ sector-position: on-farm-production-protected
 ai-technique-class: predictive-ml, sensors-and-iot-ml
 purpose: input-reduction, yield-optimisation
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

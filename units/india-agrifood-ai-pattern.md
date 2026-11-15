@@ -5,6 +5,7 @@ sector-position: (cross-cutting — meta-pattern observation)
 ai-technique-class: (cross-cutting — all major technique classes represented)
 purpose: (cross-cutting — all major purpose categories represented)
 claim-type: claim (structural / pattern claim, not single-deployment example)
+unit-kind: meta-pattern
 activity-status: deployed (the pattern is observable across the four anchor units)
 critical-voice: food-sovereignty (state-stewarded data layer as primary critical-voice anchor; digital-equity as secondary)
 capital-intensity: mixed (private vendors + state DPI + smallholder robotics + conglomerate)

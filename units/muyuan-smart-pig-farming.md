@@ -5,6 +5,7 @@ sector-position: animal production (livestock — pigs)
 ai-technique-class: computer vision (inspection robots, weight estimation, head counting); sensors and IoT ML (IoT platform, 1.04 M devices online daily); robotics — autonomy — ground (inspection robots, needle-free injectors)
 purpose: yield optimisation (feed conversion, growth); worker conditions (labour reduction, biosecurity); supply chain efficiency (remote trading, head counting)
 claim-type: statistic
+unit-kind: deployment
 activity-status: deployed (smart equipment in scaled application; IoT platform operational)
 critical-voice: (none directly — this is company-sourced scale reporting; the critical-voice treatment of Chinese livestock AI remains a corpus gap)
 capital-intensity: industrial

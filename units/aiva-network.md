@@ -5,6 +5,7 @@ sector-position: (cross-cutting — validation infrastructure)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
 claim-type: example
+unit-kind: funding-programme
 activity-status: deployed
 critical-voice: (none directly — institutional framing)
 capital-intensity: smallholder (interface), industrial (back-end)

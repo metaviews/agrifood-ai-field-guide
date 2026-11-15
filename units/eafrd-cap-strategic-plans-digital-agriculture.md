@@ -5,12 +5,14 @@ sector-position: on-farm production-open field; on-farm production-protected; an
 ai-technique-class: (cross-cutting — precision farming, GPS-guided machinery, variable-rate application, farm management software, robotics and data-sharing platforms are the CAP Network's own categories)
 purpose: "input reduction (precision-farming eco-schemes); yield optimisation (investments in digital equipment); governance (farm advisory services must cover digital; FaST nutrient tool); climate adaptation (AECC digital components)"
 claim-type: framework (a funding mechanism whose coding is the object; member states and projects are examples)
+unit-kind: funding-programme
 activity-status: deployed (CAP Strategic Plans running 2023-2027; 28 plans approved)
 critical-voice: digital-equity (Italy's 16%/7% North-South digital-use gap is the corpus's clearest EU intra-national digital divide); (none directly in the instrument's framing)
 capital-intensity: smallholder (CAP income and investment support is the EU's main farm-level channel); industrial (capital investments in machinery)
 language-literacy-profile: (not applicable — funding mechanism); standard-smartphone (the advisory and Farm Sustainability Tool layer)
 policy-instrument: fiscal (EAFRD, EAGF, CAP Strategic Plans 2023-2027, Regulation (EU) 2021/2115); strategy (digital as cross-cutting objective and Specific Objective 2); regulatory (mandatory national digital strategies, Art. 114(b))
 region: EU (all EU member states; 28 approved plans, Belgium having two)
+governance-level: supranational
 actor: "European Commission (DG AGRI); EU CAP Network; member-state managing authorities (France, Spain, Netherlands, Germany, Italy, Poland, Ireland, Greece and others); CAP Network Seminar on Robotics and AI (Utrecht, 19-20 February 2025)"
 actor-type: eu-institution; state-agency (national paying agencies and managing authorities); farmer-cooperative (via cooperation and LEADER measures); academic (JRC, EU CAP Network evaluation)
 data-governance: mixed (CAP identification and farm advisory systems; FaST as a public nutrient tool)

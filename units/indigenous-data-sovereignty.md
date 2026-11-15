@@ -5,6 +5,7 @@ sector-position: (cross-cutting — Indigenous-led data infrastructure)
 ai-technique-class: (cross-cutting — Indigenous-led AI deployment)
 purpose: governance, food sovereignty / sovereignty, climate adaptation, market access
 claim-type: framework
+unit-kind: policy-instrument
 activity-status: deployed (framework); piloting (Indigenous-led AI deployment)
 critical-voice: indigenous-data-sovereignty
 capital-intensity: mixed (Indigenous-led small-scale; international framework scale)

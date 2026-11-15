@@ -5,6 +5,7 @@ sector-position: (cross-cutting — primary agriculture, processing, retail, hos
 ai-technique-class: (cross-cutting — artificial intelligence, advanced robotics, automated decision-making, workplace surveillance)
 purpose: governance (worker voice and collective bargaining); worker conditions (job security, training, dignity, algorithmic management); food security / sovereignty (decent work across the food chain)
 claim-type: framework (institutional labour position)
+unit-kind: critical-analysis
 activity-status: (not applicable — institutional policy position, not deployment)
 critical-voice: labour-conditions; worker-voice; algorithmic-management; migrant-labour
 capital-intensity: (not applicable)

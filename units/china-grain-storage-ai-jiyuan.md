@@ -3,8 +3,9 @@ id: china-grain-storage-ai-jiyuan
 title: 'Jiyuan and the inspection robots — China puts AI inside the state grain reserve'
 sector-position: post-harvest handling and storage (grain procurement, storage, condition monitoring)
 ai-technique-class: generative AI / LLMs (the Jiyuan grain-storage model); computer vision (imperfect-kernel and pest recognition); robotics — autonomy (sampling and inspection robots); sensors and IoT ML (temperature, humidity, moisture, gas)
-purpose: food security / sovereignty (reserve integrity, loss reduction); governance (supervision of the state reserve); input reduction (storage loss)
+purpose: food security / sovereignty (reserve integrity, loss reduction); state capacity and visibility (supervision and telemetry of the state grain reserve); input reduction (storage loss)
 claim-type: example (deployed systems with enterprise counts) + statistic (detection performance)
+unit-kind: deployment
 activity-status: deployed (sampling-inspection system at 80 enterprises; Jiyuan model released and hosted on SASAC's AI platform)
 critical-voice: (none directly — state enterprise and ministry research framing; supervision is the state's own)
 capital-intensity: industrial (state reserve infrastructure)

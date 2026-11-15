@@ -5,6 +5,7 @@ sector-position: (cross-cutting — Cooperative Extension deployment infrastruct
 ai-technique-class: (cross-cutting — generative AI / LLMs in ExtensionBot; broader AI for Extension professionals)
 purpose: extension and advisory; governance (workforce readiness, public trust); research and discovery (translation)
 claim-type: framework
+unit-kind: ecosystem-map
 activity-status: deployed (ExtensionBot and MERLIN operational; report released May 14, 2026)
 critical-voice: digital-equity
 capital-intensity: (not applicable — institutional deployment infrastructure)

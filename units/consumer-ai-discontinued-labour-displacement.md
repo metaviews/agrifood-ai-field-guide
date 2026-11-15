@@ -5,6 +5,7 @@ sector-position: consumption (US restaurant + grocery)
 ai-technique-class: robotics-automation, generative-ai-and-llms (voice-based conversational ordering), predictive-ml
 purpose: supply-chain-efficiency (in-store automation + voice AI drive-thru); consumer-facing; worker-conditions (labour-displacement-doesn't-happen-yet)
 claim-type: cluster-pattern-observation (consolidated cell with multiple vendors; the discontinued cluster as labour-displacement negative-result)
+unit-kind: deployment
 activity-status: deployed (Sweetgreen Infinite Kitchen FY2025 deployment + Wendy's FreshAI ~100 restaurants + Taco Bell × Omilia 890+ units); discontinued (McDonald's × IBM AOT June 2024 + Kroger × Ocado CFC closures November 2025 + DoorDash voice AI discontinued)
 critical-voice: worker-conditions (labour-displacement dimension explicitly named in working deployments; constrained by technology readiness in discontinued deployments)
 capital-intensity: industrial

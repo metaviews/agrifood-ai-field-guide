@@ -5,6 +5,7 @@ sector-position: processing
 ai-technique-class: computer-vision
 purpose: input-reduction, food-security-and-sovereignty
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

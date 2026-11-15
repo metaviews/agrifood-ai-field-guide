@@ -5,6 +5,7 @@ sector-position: distribution-and-retail
 ai-technique-class: predictive-ml, sensors-and-iot-ml, computer-vision
 purpose: supply-chain-efficiency, input-reduction
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

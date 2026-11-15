@@ -5,6 +5,7 @@ sector-position: (cross-cutting — mobile data collection + agricultural resear
 ai-technique-class: (cross-cutting — mobile data collection + form-based data gathering + offline-first + cloud sync + multilingual form design + multi-actor collaboration + research survey methodology)
 purpose: deployment-of-record (ODK is the corpus's most-substantive open-source mobile data collection framework in African agritech deployments)
 claim-type: framework (open-source mobile data collection framework); deployment (substantive African agritech deployment-of-record across Nigeria + Sierra Leone + Tanzania + Ghana + multiple African countries)
+unit-kind: data-infrastructure
 activity-status: mature (ODK open-source framework since 2008; substantive African deployment since 2010s); agritech-specific deployment is at scale across multiple African countries
 critical-voice: digital-divide-equity (offline-first + low-bandwidth + feature-phone compatibility consistent with CGIAR smallholder-side design pattern); food-sovereignty (substantive African research + government + humanitarian deployment)
 capital-intensity: open-source (Apache 2.0 license; no licensing fees); philanthropic (substantive humanitarian + research + government funding)

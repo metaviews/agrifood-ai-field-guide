@@ -5,6 +5,7 @@ sector-position: (cross-cutting — Canadian academic Indigenous AI institutiona
 ai-technique-class: (cross-cutting — Indigenous AI convening + education + capacity-building)
 purpose: governance (Indigenous AI); AI capacity-building; Indigenous researcher development
 claim-type: framework + institutional infrastructure
+unit-kind: institution
 activity-status: deployed (institutionally); ongoing (programmes)
 critical-voice: indigenous-data-sovereignty
 capital-intensity: medium (Mila institutional funding; CIFAR partnership)

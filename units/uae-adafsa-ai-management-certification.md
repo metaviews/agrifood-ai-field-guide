@@ -5,12 +5,14 @@ sector-position: cross-value-chain (regulatory + agricultural + food safety)
 ai-technique-class: (cross-technique; ISO 42001 governs AI deployment across all techniques)
 purpose: regulatory-compliance, AI-management-systems, supply-chain-quality-assurance
 claim-type: example
+unit-kind: policy-instrument
 activity-status: 'certified (ISO 42001:2023 received 2025)'
 critical-voice: (none — government body; certification achievement)
 capital-intensity: state-funded
 language-literacy-profile: (not applicable — institutional regulatory framework)
 policy-instrument: 'national-AI-strategy (UAE AI Strategy 2031) + international-standards (ISO 42001:2023)'
 region: MENA (UAE / Abu Dhabi)
+governance-level: subnational
 actor: ADAFSA (Abu Dhabi Agriculture and Food Safety Authority) — UAE federal-level agricultural regulatory body; partner Khalifa University
 actor-type: state-agency (federal); university (research partner)
 data-governance: state-federal-internal

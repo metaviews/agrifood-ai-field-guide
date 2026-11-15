@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: robotics-autonomy-ground, computer-vision
 purpose: input-reduction, yield-optimisation, climate-adaptation
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing; soil-health angle substantive)
 capital-intensity: smallholder (rental / service-partner model explicitly planned)

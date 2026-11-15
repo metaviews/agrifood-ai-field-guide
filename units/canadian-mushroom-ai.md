@@ -5,6 +5,7 @@ sector-position: on-farm-production (specialty — mushroom)
 ai-technique-class: computer-vision, robotics-autonomy-ground, sensors-and-iot-ml, predictive-ml
 purpose: yield-optimisation, processing-efficiency, labour-shortage-mitigation, climate-adaptation (CO2 reduction)
 claim-type: example
+unit-kind: deployment
 activity-status: active
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

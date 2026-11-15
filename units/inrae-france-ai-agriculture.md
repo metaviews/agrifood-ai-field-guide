@@ -5,6 +5,7 @@ sector-position: (cross-cutting — research infrastructure)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting — research mandate)
 claim-type: framework
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — research framing)
 capital-intensity: (not applicable — research)

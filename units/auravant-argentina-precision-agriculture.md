@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: predictive-ml, computer-vision
 purpose: input-reduction, yield-estimation, traceability
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none)
 capital-intensity: smallholder-cluster

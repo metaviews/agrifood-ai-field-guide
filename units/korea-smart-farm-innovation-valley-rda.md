@@ -5,12 +5,14 @@ sector-position: on-farm-production-protected, distribution-and-retail, consumpt
 ai-technique-class: predictive-ml, sensors-and-iot-ml, generative-ai-llms
 purpose: supply-chain-efficiency, food-security-sovereignty, market-access, climate-adaptation, worker-conditions
 claim-type: example (deployment) + framework (state-anchored cluster-incubation architecture)
+unit-kind: policy-instrument
 activity-status: deployed
 critical-voice: food-sovereignty (state-anchored agrifood cluster programme targeting 30% agricultural output via smart farming by 2027)
 capital-intensity: mixed (state-funded infrastructure; incubation approach supports both industrial-scale anchor farms and smallholder young-farmer integration)
 language-literacy-profile: mixed (Korean-language curriculum; vendor-built operational applications; international expansion via FAO Digital Villages Initiative)
 policy-instrument: regulatory, fiscal, strategy (the *Act on Fostering and Supporting Smart Farming* provides statutory frame; Smart Farm Innovation Valley is operational programme; 30%-by-2027 target is strategy anchor)
 region: 'East-Asia (Korea; Republic of Korea, four provincial sites: Sangju-Gyeongsangbuk, Gimje-Jeollabuk, Milyang-Gyeongsangnam, Goheung-Jeollanam)'
+governance-level: national
 actor: Republic of Korea — Ministry of Agriculture, Food and Rural Affairs (MAFRA), operational via Rural Development Administration (RDA), with provincial co-location
 actor-type: state-agency (with FAO Digital Villages Initiative international recognition)
 data-governance: mixed (state-anchored cluster; vendor-ICT-stack controlled at site level)

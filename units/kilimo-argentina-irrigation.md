@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: predictive-ml, sensors-and-iot-ml
 purpose: input-reduction, climate-adaptation
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: digital-equity
 capital-intensity: smallholder

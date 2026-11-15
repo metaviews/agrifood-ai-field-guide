@@ -5,6 +5,7 @@ sector-position: consumption
 ai-technique-class: generative-ai-and-llms (voice-based conversational ordering)
 purpose: consumer-facing, worker-conditions
 claim-type: example
+unit-kind: deployment
 activity-status: discontinued
 critical-voice: (none directly — vendor framing, with worker-conditions concerns surfaced in coverage)
 capital-intensity: industrial

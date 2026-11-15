@@ -5,12 +5,14 @@ sector-position: on-farm production — protected and aquatic (deep-sea and offs
 ai-technique-class: sensors and IoT ML (water-quality and physical-parameter monitoring); robotics — autonomy (underwater robots); digital twin and decision-support systems
 purpose: yield optimisation (survival, quality, biomass); worker conditions (unmanned operation, labour reduction); climate adaptation (typhoon and red-tide resilience)
 claim-type: example (named platforms) + statistic (national fleet composition)
+unit-kind: deployment
 activity-status: deployed (national platform fleet operational; multiple provinces)
 critical-voice: (none directly — state and industry promotion; the ecological claims are asserted not audited)
 capital-intensity: industrial (platforms cost tens of millions of yuan each; 100,000-tonne-class vessels at CNY 2.29 bn for four)
 language-literacy-profile: (not applicable at the platform layer; the farmer-facing layer is a phone terminal)
 policy-instrument: strategy (deep-sea aquaculture in the 十四五 and the 2026 No. 1 Central Document)
 region: East-Asia (China) — Fujian, Guangdong, Shandong, Shenzhen
+governance-level: national
 actor: Provincial and state platform operators (闽投1号, 恒燚一号, 明渔一号, 格盛一号, 海威2号), with the National Data Administration and MARA as programme framers; CATL-era industrial investors in Shenzhen's farming vessels
 actor-type: state-enterprise and joint-venture operators (platforms), state-agency (programme framing)
 data-governance: mixed (platform telemetry to operator and provincial platforms; national data-asset registration being formalised)

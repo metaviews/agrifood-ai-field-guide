@@ -5,12 +5,14 @@ sector-position: (cross-cutting — federal funder/convenor substrate)
 ai-technique-class: (cross-cutting — automation, robotics, data-driven decision-making, sensors-and-iot-ml, predictive-ml, computer-vision, robotics-autonomy-ground, robotics-autonomy-aerial)
 purpose: (cross-cutting — yield-optimisation, input-reduction, climate-adaptation, animal-health, processing-efficiency, supply-chain-efficiency)
 claim-type: claim
+unit-kind: funding-programme
 activity-status: deployed
 critical-voice: digital-equity, vendor-concentration
 capital-intensity: industrial
 language-literacy-profile: (not applicable)
 policy-instrument: ISED Strategic Innovation Fund + AAFC Clean Technology Programme Research and Innovation Stream–Accelerator
 region: NA-Canada (national; Ontario, Quebec, Saskatchewan, Manitoba, Alberta, BC, New Brunswick, Nova Scotia)
+governance-level: national
 actor: Canadian Agri-Food Automation and Intelligence Network (CAAIN)
 actor-type: state-agency (federal third-party delivery)
 data-governance: mixed

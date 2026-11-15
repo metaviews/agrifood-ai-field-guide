@@ -5,6 +5,7 @@ sector-position: (cross-cutting — applies across all sector positions where hy
 ai-technique-class: (cross-cutting — applies across all technique classes hosted on hyperscaler infrastructure)
 purpose: governance (sovereignty + verification); research and discovery (research-to-deployment translation under vendor-reported bias)
 claim-type: framework (verification methodology for hyperscaler-reported agritech figures; sovereignty dimension as 2025-2026 critical voice)
+unit-kind: ecosystem-map
 activity-status: (not applicable — methodology framework)
 critical-voice: digital-equity (data sovereignty framing); food-sovereignty (farmer-data-as-commons framing); critical-civil-society (analytical work on hyperscaler concentration)
 capital-intensity: (not applicable)

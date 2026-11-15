@@ -5,6 +5,7 @@ sector-position: on-farm-production-protected (specialty-crop weeding); on-farm-
 ai-technique-class: computer-vision (plant/weed identification), robotics-autonomy-ground, sensor-lidar (perception systems), machine-learning (proprietary image-capture models)
 purpose: input-reduction (herbicide reduction or elimination), labour-substitution (weeding labour), yield-optimisation (crop protection)
 claim-type: cluster-pattern-observation (consolidated cell with multiple vendors; weeding at commercial scale distinct from harvest at "zero percent" per Sullivan)
+unit-kind: deployment
 activity-status: deploying (Advanced Farm Technologies strawberry robotics commercial scale 2019, ongoing; FarmWise Vulcan launched 2025; Carbon Robotics LaserWeeder at operational scale; Harvest CROO berry prototype)
 critical-voice: "(sullivan-farms-critical-voice counterweight: harvest automation at 'zero percent'; weeding distinct from harvest)"
 capital-intensity: industrial (venture-funded specialty-crop robotics vendors; consolidated cell)

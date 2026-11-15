@@ -2,15 +2,17 @@
 id: china-agricultural-llms-landscape
 title: 'Chinese agricultural LLMs beyond fisheries — the university-model wave, the SOE entrants, and the honest adoption picture'
 sector-position: (cross-cutting — decision-support layer across crop production, livestock, breeding and farm advisory; complements the fisheries-specific unit)
-ai-technique-class: LLM / foundation models (domain fine-tunes and RAG over agricultural corpora); multi-agent systems (Shennong's 36 specialist agents, Tiangong Kaiwu's 1,200-algorithm agent platform); open-weight releases (Sinong 8B/32B)
+ai-technique-class: LLM / foundation models (domain fine-tunes and RAG over agricultural corpora); agentic systems / harness layer (multi-agent systems — Shennong's 36 specialist agents, Tiangong Kaiwu's 1,200-algorithm agent platform); open-weight releases (Sinong 8B/32B)
 purpose: "advisory and decision support (pest/disease diagnosis, agronomy questions); supply chain efficiency; research and discovery (breeding knowledge tools)"
 claim-type: deployment examples (named models with named institutions and, in two cases, named farmer-level adoption) + pattern observation (a university-model wave with no independent evaluation)
+unit-kind: ecosystem-map
 activity-status: deployed at pilot-to-regional scale (Tiangong Kaiwu on 114 Heilongjiang farms; Shennong claiming 31-province reach; Sinong open-weight) — with the corpus's standing caveat that no independent audit exists
 critical-voice: "present and remarkable for China: a provincial official-media piece carries the industry's own verdict — '只是盆景，还不是风景' (\"just a potted landscape, not yet scenery\") — most agricultural LLMs remain in labs and demonstration bases; plus a critical Chinese blog finding Gengyun had no findable public entry point"
 capital-intensity: mixed (university teams on grant funding; SOE entrants Sinochem + China Mobile and China Telecom bringing hyperscaler-class compute)
 language-literacy-profile: Chinese-language interfaces throughout (WeChat mini-programs, mobile apps); the relevant literacy question is elderly-farmer usability, which Chinese sources themselves name as a barrier
 policy-instrument: strategy (State Council "AI Plus" Opinions implementation framing; 备案 model registration as the state's visible hand); fiscal (university and CAS funding); the 15th FYP "AI + agriculture" named action (2026-10) as the successor policy frame
 region: East-Asia (China); notable concentration in Heilongjiang (Tiangong Kaiwu, Shennong rollout) and Jiangsu (~20 models, per provincial media)
+governance-level: national
 actor: "China Agricultural University (Shennong 神农); Nanjing Agricultural University (Sinong 司农; 问梨; 司农智机); Harbin Institute of Technology (Tiangong Kaiwu 天工开悟, Liu Jie team); Hebei provincial MARA + China Telecom (Xiongxiaonong 雄小农, on 星辰·神农一号); Anhui provincial MARA + iFlytek (Gengyun 耕云); Sinochem + China Mobile (iMAP); CAAS (agricultural knowledge LLM with CNKI; 農耕大模型1.0 farmland-monitoring model); CAU (工耕 agri-robotics model)"
 actor-type: academic (CAU, NAU, HIT, Anhui Agricultural University); state-enterprise (Sinochem, China Telecom, China Mobile); state-agency (provincial MARAs as co-developers); vendor (iFlytek, CNKI)
 data-governance: mixed (university corpora — Sinong's ~4bn-token open dataset; SOE platforms on proprietary infrastructure; provincial platforms aggregating farm data)

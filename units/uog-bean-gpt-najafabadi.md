@@ -5,6 +5,7 @@ sector-position: inputs (seed-breeding; specifically dry bean breeding); with re
 ai-technique-class: (cross-cutting — generative AI / LLM-based retrieval; computer vision; machine learning for trait prediction; AI-assisted selection; multi-omics + hyperspectral + drone imagery integration)
 purpose: (cross-cutting — climate-resilient variety development + breeding-decision acceleration + Ontario quality-assessment rebuild)
 claim-type: example
+unit-kind: institution
 activity-status: deployed (BeanGPT platform live since Sept 2025; AI4Food faculty page lists 6 named projects)
 critical-voice: (none directly — institutional/vendor-adjacent framing)
 capital-intensity: smallholder (academic-research-grade deployment at Ontario scale)

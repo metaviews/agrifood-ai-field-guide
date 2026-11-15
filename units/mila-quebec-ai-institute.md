@@ -5,6 +5,7 @@ sector-position: (cross-cutting — research institute)
 ai-technique-class: computer-vision, predictive-ml
 purpose: climate-adaptation, yield-optimisation
 claim-type: example
+unit-kind: institution
 activity-status: deployed (DISA project)
 critical-voice: (none directly — research framing)
 capital-intensity: (research)

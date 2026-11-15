@@ -5,12 +5,14 @@ sector-position: inputs
 ai-technique-class: computer-vision (variety identification) + predictive-ml (genetic-diversity analytics)
 purpose: genetic-resource-preservation, food-security, agricultural-knowledge-management
 claim-type: example
+unit-kind: institution
 activity-status: deployed (April 2026 launch)
 critical-voice: (none — federal state project; cultural-stewardship narrative)
 capital-intensity: state-funded
 language-literacy-profile: (not applicable — institutional / state-funded AI deployment)
 policy-instrument: national-AI-strategy (UAE AI Strategy 2031) + cultural-stewardship (Zayed legacy) + multilateral-foundation-partnership
 region: MENA (UAE / Abu Dhabi)
+governance-level: national
 actor: Zayed For Good Foundation (UAE heritage / cultural-stewardship foundation); Khalifa International Award for Date Palm and Agricultural Innovation (UAE presidential award); Abu Dhabi Agriculture and Food Safety Authority (ADAFSA)
 actor-type: state-foundation + state-agency + federal-ministry
 data-governance: state-federal-internal

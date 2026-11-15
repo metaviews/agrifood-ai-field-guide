@@ -5,6 +5,7 @@ sector-position: inputs
 ai-technique-class: computer-vision
 purpose: quality-control, labour-augmentation, traceability
 claim-type: example
+unit-kind: institution
 activity-status: piloting
 critical-voice: (none — academic-research deployment)
 capital-intensity: smallholder-cluster

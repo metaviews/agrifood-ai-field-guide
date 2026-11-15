@@ -5,6 +5,7 @@ sector-position: (cross-cutting — aquaculture; digital fisheries infrastructur
 ai-technique-class: generative AI / LLMs (domain model); computer vision (the released dataset is image and visual-cognition based)
 purpose: yield optimisation (feed, health, water quality); governance (shared data, model standards); climate adaptation (water-quality control)
 claim-type: example (a released model and dataset) + framework (the emerging agricultural LLM standards series)
+unit-kind: deployment
 activity-status: deployed (four iterations released; public dataset published August 2026)
 critical-voice: (none directly — university and FAO framing; the model's own evaluation is not published)
 capital-intensity: research

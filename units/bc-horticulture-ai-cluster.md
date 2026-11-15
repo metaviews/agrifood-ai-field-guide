@@ -5,6 +5,7 @@ sector-position: (cross-cutting — regional value-chain substrate)
 ai-technique-class: computer-vision, sensors-and-iot-ml, robotics-autonomy-ground, hyperspectral-imaging, predictive-ml
 purpose: input-reduction, yield-optimisation, processing-efficiency, climate-adaptation, animal-welfare
 claim-type: claim
+unit-kind: ecosystem-map
 activity-status: deployed (CropVue, 4AG, Mowi); active pilot (Excel Career College AI for Aquaculture); venture-funded (Catalera)
 critical-voice: (none directly — vendor + industry-program framing)
 capital-intensity: industrial

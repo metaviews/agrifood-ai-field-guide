@@ -5,6 +5,7 @@ sector-position: inputs
 ai-technique-class: predictive-ml, computer-vision, sensors-and-iot-ml
 purpose: breeding-pipeline-acceleration, genomic-selection, phenotyping-throughput
 claim-type: cluster-pattern-observation (mostly negative-finding; minimal corporate-vendor deployment at scale)
+unit-kind: meta-pattern
 activity-status: academic-research-dominant; corporate-vendor-deployment thin
 critical-voice: (none — academic-research lead)
 capital-intensity: state-research-funding + multinational-corporate-pipeline

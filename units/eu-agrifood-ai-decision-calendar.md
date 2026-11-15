@@ -5,12 +5,14 @@ sector-position: (cross-cutting — the decision layer over every sector positio
 ai-technique-class: (cross-cutting — the calendar tracks decisions, not techniques)
 purpose: "governance (the corpus's single tracked view of EU decision dates bearing on agrifood AI); extension-and-advisory (a delivery-preparation tool: any EU-facing talk or policy engagement checks this artefact first)"
 claim-type: fact (dated statutory, administrative and target events; each row carries its own status and as-of verification; the artefact as a whole is a maintained tracker, re-verified on the trigger cadence below)
+unit-kind: tracker-artefact
 activity-status: active (a living corpus artefact; the tracked decisions range from in-force law to unfunded targets)
 critical-voice: "governance (the calendar is the evidence base for the dispersion finding — no row is an agrifood-AI programme decision, and the two agrifood-specific rows are the ones with no date or no budget)"
 capital-intensity: institutional (tracking artefact; the decisions it tracks span €95.5bn EAFRD to zero-budget flagships)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (AI Act, Machinery Regulation, CRCF); fiscal (EuroHPC calls, Horizon Europe / MFF); strategy (Apply AI, AI Continent Action Plan); infrastructure (EDIC for Agri-Food)
 region: EU (EU-27)
+governance-level: supranational
 actor: "European Commission (AI Office, DG CNECT, DG AGRI, DG CLIMA, DG RTD); EuroHPC Joint Undertaking; European Parliament and Council (MFF and Horizon negotiations); member-state authorities (sandboxes, gigafactory tenders); EDIC for Agri-Food; CRCF Buyers' Club; CEN/CENELEC (standards pipeline)"
 actor-type: eu-institution; state-agency; standards-body
 data-governance: (not applicable — tracking artefact)

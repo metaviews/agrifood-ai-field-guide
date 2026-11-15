@@ -5,12 +5,14 @@ sector-position: (cross-cutting — data-infrastructure and governance substrate
 ai-technique-class: (cross-cutting — infrastructure and identifier layer; AI named as an application area, not a technique commitment)
 purpose: "governance (interoperability, reporting-burden reduction); market-access (traceability); climate-adaptation (carbon certification named as a candidate service); supply chain efficiency (risk management, farm data services)"
 claim-type: framework (founding instrument + launch communications; the named services are exploratory)
+unit-kind: data-infrastructure
 activity-status: announced (legal personality established 8 September 2026; launch event 1 October 2026 reporting; no operational services, no budget line published)
 critical-voice: "digital-equity (the founding instrument's own framing is administrative-burden reduction for farmers — but no farm organisation is named in the membership); governance (an EU-level identifier for farms raises data-rights questions the corpus tracks elsewhere)"
 capital-intensity: institutional (member-state consortium under the EDIC regulation; no published budget — G-474)
 language-literacy-profile: (not applicable at establishment; service layer TBD)
 policy-instrument: regulatory (Commission Implementing Decision (EU) 2026/1978 of 8 September 2026 establishing the EDIC, under Decision (EU) 2022/2481); strategy (apply-AI alignment written into the instrument)
 region: EU (EU-27; seat Paris, France)
+governance-level: supranational
 actor: "EDIC for Agri-Food — members: Austria, Croatia, Finland, France, Italy, the Netherlands, Poland, Romania, Slovenia, the region of Flanders; observers: Germany, Ireland, Latvia, Spain; European Commission (DG CNECT, DG AGRI context); French Ministry of Agriculture (launch convener, Annie Genevard); builds on CEADS (Common European Agricultural Data Space)"
 actor-type: eu-institution; state-agency (member-state consortium); subnational (Flanders as a regional member — the corpus's first subnational member in an EU digital body)
 data-governance: state-stewarded (a multi-country public-body consortium; federated identifier design interconnecting national systems)

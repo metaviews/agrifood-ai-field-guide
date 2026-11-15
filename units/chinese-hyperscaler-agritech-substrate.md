@@ -5,12 +5,14 @@ sector-position: (cross-cutting — hyperscaler substrate for Chinese agritech A
 ai-technique-class: (cross-cutting — predictive ML, computer vision, IoT, generative AI; substrate-level not a single technique)
 purpose: yield-optimisation, input-reduction, climate-adaptation, supply-chain-efficiency, food-security-sovereignty
 claim-type: example (named deployments at scale) + framework (state-aligned hyperscaler substrate; structurally distinct from US commercial substrate)
+unit-kind: ecosystem-map
 activity-status: deployed (across multiple Chinese provinces and rural revitalisation contexts; rural revitalisation national programme 2022-2025 active)
 critical-voice: food-sovereignty (state-stewarded rural modernisation frame); digital-equity (rural-urban AI gap)
 capital-intensity: industrial (Alibaba Cloud, Tencent Cloud, Huawei Cloud are top-tier Chinese hyperscalers); smallholder (interface layer for farmer smartphone access)
 language-literacy-profile: standard-smartphone (Alibaba ET Agricultural Brain farmer smartphone interface per deployment evidence)
 policy-instrument: state-led (National Smart Farming Plan 2025; Action Plan for the Development of Digital Villages 2022-2025; 15th Five-Year Plan 2026-2030 agricultural and rural modernisation; WAICO multilateral governance)
 region: East-Asia (China-headquartered hyperscalers; deployments across Heilongjiang, Jiangsu, Henan, Hubei, Sichuan, Guangdong and other provinces; some APAC and Belt-and-Road export)
+governance-level: national
 actor: Alibaba Cloud (Hangzhou; ET Agricultural Brain product); Tencent Cloud (Shenzhen; AI Lab autonomous greenhouse challenge); Huawei Cloud (Shenzhen; Connected Farming programme, formerly Smart Pig-Raising Program); Wens Foodstuff Group (Guangdong; major Alibaba Cloud agritech customer); Wageningen University & Research (Tencent AI Lab partner); Ministry of Agriculture and Rural Affairs (MARA) state-side; National Smart Farming Plan implementation
 actor-type: vendor (hyperscaler); state-agency (MARA policy frame); academic-partnership (Wageningen-Tencent AI Lab collaboration)
 data-governance: state-stewarded (data flows through Chinese hyperscaler infrastructure under Chinese data regulations; cross-border data flow restricted per China's data regulation environment)

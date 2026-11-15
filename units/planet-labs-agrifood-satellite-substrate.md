@@ -5,6 +5,7 @@ sector-position: (cross-cutting — satellite substrate serving on-farm through 
 ai-technique-class: computer-vision (satellite imagery), predictive-ml (analytical feeds and planetary variables), decision-support-systems (crop health monitoring, yield estimation)
 purpose: yield-optimisation (crop selection, seeding, harvest planning), input-reduction (precision application), climate-adaptation (drought monitoring), supply-chain-efficiency (commodity trader and cooperative inventory)
 claim-type: example (deployed substrate) + framework (satellite-imagery-as-input architecture)
+unit-kind: ecosystem-map
 activity-status: deployed (commercial scale; multi-continent)
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial (Public Benefit Corporation; ~200 CubeSats; multi-billion-dollar public company)

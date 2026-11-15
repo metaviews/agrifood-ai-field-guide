@@ -5,6 +5,7 @@ sector-position: animal-production
 ai-technique-class: (multi-technique — cross-deployment critical voice)
 purpose: deforestation-monitoring, supply-chain-traceability, accountability
 claim-type: critical-voice-pattern
+unit-kind: critical-analysis
 activity-status: (cross-deployment critique; not a single deployment)
 critical-voice: deforestation-and-supply-chain
 capital-intensity: enterprise

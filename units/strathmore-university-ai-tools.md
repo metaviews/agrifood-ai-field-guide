@@ -5,6 +5,7 @@ sector-position: (academic — open-source AI deployment + smallholder farmer fo
 ai-technique-class: (cross-cutting — open-source AI tools + smallholder farmer AI + African academic AI deployment + AI accessibility + adapt-and-scale methodology)
 purpose: "platform anchor (Strathmore University AI tools is the corpus's substantive Kenyan academic open-source AI deployment for smallholder farmers)"
 claim-type: framework (open-source AI deployment methodology for African smallholder farmers); deployment (substantive Kenyan academic AI deployment)
+unit-kind: institution
 activity-status: deployed (Strathmore University AI tools are open-source for African smallholder farmers); ongoing deployment
 critical-voice: digital-divide-equity (open-source AI deployment + AI accessibility + adapt-and-scale methodology for smallholder farmers); food-sovereignty (substantive African academic + African-led AI)
 capital-intensity: academic-budget (Strathmore University institutional operations); philanthropic (academic philanthropic supporters)

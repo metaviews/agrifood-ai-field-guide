@@ -5,6 +5,7 @@ sector-position: (cross-cutting — Canadian regulatory substrate for AI deploym
 ai-technique-class: (cross-cutting)
 purpose: governance (Canadian AI deployment regulatory substrate); worker conditions (worker-monitoring dual-use + algorithmic-management regulatory absence); data-sovereignty (PIPEDA + provincial privacy)
 claim-type: claim (substantive analytical contribution; regulatory structural finding)
+unit-kind: policy-instrument
 activity-status: (not applicable — regulatory substrate, not deployment)
 critical-voice: regulatory-absence; data-sovereignty; worker-protection
 capital-intensity: (not applicable)

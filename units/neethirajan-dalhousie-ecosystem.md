@@ -5,6 +5,7 @@ sector-position: animal-production, on-farm-production-open-field
 ai-technique-class: sensors-and-iot-ml, predictive-ml, computer-vision
 purpose: climate-adaptation, input-reduction, governance
 claim-type: example
+unit-kind: ecosystem-map
 activity-status: deployed
 critical-voice: digital-equity
 capital-intensity: industrial

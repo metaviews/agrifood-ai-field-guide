@@ -5,6 +5,7 @@ sector-position: animal-production (poultry); processing
 ai-technique-class: computer-vision, hyperspectral-imaging, sensors-and-iot-ml, predictive-ml
 purpose: animal-welfare, food-safety, processing-efficiency
 claim-type: example
+unit-kind: deployment
 activity-status: deployed (Targan WingScan at Quebec hatcheries); active (CAAIN projects)
 critical-voice: (none directly — vendor framing, with substantive animal-welfare framing in MatrixSpec claim)
 capital-intensity: industrial

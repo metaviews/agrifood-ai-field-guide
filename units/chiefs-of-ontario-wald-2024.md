@@ -5,6 +5,7 @@ sector-position: critical-voice (Canadian First Nations AI policy)
 ai-technique-class: (not applicable — institutional analysis)
 purpose: governance (Indigenous data sovereignty + AI); First Nations AI policy
 claim-type: critical-voice / institutional analysis
+unit-kind: critical-analysis
 activity-status: published (2024)
 critical-voice: indigenous-data-sovereignty
 capital-intensity: low (commissioned paper; Ontario Ministry of Health funding)

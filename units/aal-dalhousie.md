@@ -5,6 +5,7 @@ sector-position: (cross-cutting — academic-policy lab with AI / data-deficit c
 ai-technique-class: (cross-cutting — analytics, consumer-behaviour research, food-price analytics, food-sentiment survey)
 purpose: (cross-cutting — food price, food safety, food sovereignty, AI-data-deficit critique)
 claim-type: claim
+unit-kind: institution
 activity-status: deployed
 critical-voice: data-deficit ("the problem isn't AI, it's data"); food-system adoption framing
 capital-intensity: (academic-policy lab — small budget relative to federal-cluster substrate)

@@ -5,6 +5,7 @@ sector-position: distribution-and-retail
 ai-technique-class: robotics-and-autonomy
 purpose: supply-chain-efficiency, worker-conditions
 claim-type: example
+unit-kind: deployment
 activity-status: discontinued
 critical-voice: (none directly — vendor framing, with Kroger's own post-mortem "bet on robotics went too far")
 capital-intensity: industrial

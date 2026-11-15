@@ -5,6 +5,7 @@ sector-position: (cross-cutting — the institutional voice layer for all farm-l
 ai-technique-class: (cross-cutting — the federation's digital content is precision-farming and data-sharing framing rather than any technique class)
 purpose: "governance (farm-data ownership, access, control and security; the 2018 Code of Conduct on Agricultural Data Sharing); market access (cooperative and advisory infrastructure); food security / sovereignty (farmers as the precondition for the agri-tech transition)"
 claim-type: framework (an institution whose position-taking is the object; its projects are examples)
+unit-kind: institution
 activity-status: deployed (representative federation in continuous operation since 1958; project portfolio running to 2029)
 critical-voice: digital-equity (farmer-data ownership framing); food-sovereignty ("An 'agri-tech revolution' is impossible without farmers and agri-cooperatives")
 capital-intensity: (not applicable — federation); its project portfolio is research-and-knowledge funding

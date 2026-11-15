@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: robotics-autonomy-aerial, sensors-and-iot-ml
 purpose: input-reduction, yield-optimisation, supply-chain-efficiency, worker-conditions
 claim-type: example (deployment) + statistic (contested environmental totals)
+unit-kind: deployment
 activity-status: deployed
 critical-voice: partially official — MARA's own environmental research institute quantifies drift limits (see china-agricultural-drone-drift-liability.md); DJI's environmental totals have no external check
 capital-intensity: smallholder and industrial

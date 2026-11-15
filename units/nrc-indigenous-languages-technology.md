@@ -5,6 +5,7 @@ sector-position: Indigenous languages; NLP infrastructure
 ai-technique-class: NLP + speech recognition + machine translation
 purpose: Indigenous language revitalisation; Indigenous data sovereignty (language data)
 claim-type: deployment (operational federal programme)
+unit-kind: deployment
 activity-status: deployed (operational)
 critical-voice: indigenous-data-sovereignty
 capital-intensity: medium (federal NRC funding)

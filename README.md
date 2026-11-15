@@ -10,7 +10,8 @@ A knowledge base and presentation framework for public education on artificial i
 - `ROADMAP.md` — workstream state table, milestones (Done / Now / Next / Later), open decisions
 - `scans/` — environmental scan outputs (37 scan files through September 2026)
 - `scouts/` — coverage audits and pre-scan reconnaissance (7 scouts; latest: the October 2026 ducksize field-robotics whole-site audit)
-- `taxonomy/v5.md` — current taxonomy (fifth iteration). `taxonomy/v1.md..v4.md` retained as change-history anchors. Adds `maturity-scale`, `maturity-verification`, `maturity-longevity`, and `maturity-translation` cross-cutting tags for four-dimension maturity assessment.
+- `taxonomy/v6.md` — current taxonomy (sixth iteration; adds the `unit-kind` and `governance-level` tags, the *agentic systems / harness layer* technique value and the *state capacity and visibility* purpose value, and machine-enforced vocabularies). `taxonomy/v5.md`, the `v5.1.md` region-normalization errata, and `v1.md..v4.md` retained as change-history anchors.
+- `scripts/` — stdlib-only corpus tooling: `build_gap_lead_registries.py` (registry regeneration, `--check` for drift) and `validate_frontmatter.py` + `schemas/v6.json` (frontmatter validation against the v6 vocabulary; runs in CI via `.github/workflows/validate-corpus.yml`).
 - `units/` — content units (249 entries) — the substrate from which talks are built. Vendor deployments, NA/EU/LAC/Africa/MENA/Asia academic institutes, data cooperatives, IDSov frameworks, critical voices, ecosystem mappings, hyperscaler and EU institutional/regulatory substrate.
 - `quotes/` — speaker voices (45 entries across 7 categories)
 - `talks/` — talk-assembly methodology: eight working archetypes + cluster-pattern taxonomy. See `talks/README.md` for operating principles.

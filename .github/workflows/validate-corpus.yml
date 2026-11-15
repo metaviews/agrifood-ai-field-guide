@@ -1,0 +1,31 @@
+name: Validate corpus
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'units/**'
+      - 'quotes/**'
+      - 'scripts/**'
+      - 'taxonomy/**'
+      - '.github/workflows/validate-corpus.yml'
+  pull_request:
+    paths:
+      - 'units/**'
+      - 'quotes/**'
+      - 'scripts/**'
+      - 'taxonomy/**'
+      - '.github/workflows/validate-corpus.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate unit frontmatter (taxonomy v6 schema)
+        run: python3 scripts/validate_frontmatter.py
+      - name: Check registry drift
+        run: python3 scripts/build_gap_lead_registries.py --check

@@ -5,6 +5,7 @@ sector-position: cross-value-chain (cooperative-governed agricultural + food pro
 ai-technique-class: (across classes per deployment; cluster observation not single technique)
 purpose: digital-transformation, AI-integration-into-cooperative-strategy, member-data-governance
 claim-type: cluster-pattern-observation (negative-finding-dominant at deployment-of-record tier)
+unit-kind: meta-pattern
 activity-status: peer-reviewed-discussion + emerging-single-coop deployment + Mondragón institutional-anchor
 critical-voice: (none — peer-reviewed academic + cooperative-institutional framing)
 capital-intensity: cooperative-internal-investment + member-fees + EU-research-funding

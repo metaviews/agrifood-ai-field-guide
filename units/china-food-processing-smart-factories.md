@@ -5,12 +5,14 @@ sector-position: processing (food and feed processing, flour milling, dairy, pre
 ai-technique-class: computer vision (sorting, grading, defect detection); predictive ML (production scheduling); sensors and IoT ML (line monitoring, digital thread); decision-support systems
 purpose: supply chain efficiency (throughput, traceability, yield); input reduction (defect waste, energy); food security / sovereignty (safety supervision); market access (prepared-food industry)
 claim-type: framework (the smart-factory programme with numerical AI requirements) + example (named plants and equipment)
+unit-kind: policy-instrument
 activity-status: deployed (named factories rated at provincial level; commercial equipment exported)
 critical-voice: (none directly — state industrial policy and company framing; no independent evaluation of the AI content)
 capital-intensity: industrial
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory and fiscal (MIIT smart-factory tiering with AI-scenario thresholds; provincial ratings; cold-chain and food-industry manufacturing plans)
 region: East-Asia (China); national with provincial concentrations (Liaoning, Guangdong, Shandong)
+governance-level: national
 actor: MIIT and six departments (programme); COFCO and its engineering arm 中粮科工 (COFCO Engineering); Mengniu; equipment makers 泰禾智能 (Taiho) and 绿萌 (Lumeng) in sorting
 actor-type: state-agency (programme) and state-enterprise and vendor (implementation)
 data-governance: mixed (company platforms; state supervision and traceability layers)

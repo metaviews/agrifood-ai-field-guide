@@ -5,6 +5,7 @@ sector-position: waste-and-recovery, distribution-and-retail
 ai-technique-class: predictive-ml
 purpose: supply-chain-efficiency
 claim-type: framework
+unit-kind: ecosystem-map
 activity-status: piloting
 critical-voice: (none directly)
 capital-intensity: industrial

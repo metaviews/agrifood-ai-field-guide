@@ -5,6 +5,7 @@ sector-position: animal-production (dairy); processing; distribution-and-retail 
 ai-technique-class: predictive-ml, computer-vision, sensors-and-iot-ml, generative-ai-and-llms
 purpose: animal-health, processing-efficiency, supply-chain-efficiency, fertility-management
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor / institutional framing)
 capital-intensity: industrial

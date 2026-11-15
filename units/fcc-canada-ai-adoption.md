@@ -5,12 +5,14 @@ sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
 claim-type: statistic
+unit-kind: institution
 activity-status: (not applicable — adoption measurement, not deployment)
 critical-voice: digital-equity
 capital-intensity: (not applicable)
 language-literacy-profile: (not applicable)
 policy-instrument: (not applicable)
 region: NA-Canada
+governance-level: national
 actor: Statistics Canada (data source); FCC and Deloitte Canada (analytical work)
 actor-type: state-agency (Statistics Canada) / vendor (FCC analytical arm)
 data-governance: mixed

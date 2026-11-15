@@ -5,6 +5,7 @@ sector-position: inputs (seed-breeding + crop protection + trait pipelines; comb
 ai-technique-class: (cross-cutting — predictive breeding; genomic selection; high-throughput phenotyping; AI-accelerated crop-protection molecule discovery; AI-assisted CRISPR guide design; AI-augmented cross-decision; data integration across on-farm + trial + genetic data)
 purpose: (cross-cutting — commercial cultivar deployment + crop protection pipeline acceleration + global commercial seed-business deployment)
 claim-type: example
+unit-kind: deployment
 activity-status: deployed (commercial pipelines at TRL 9)
 critical-voice: explicit — ETC Group & GRAIN 2025 "Top 10 agribusiness giants" — corporate concentration in commercial seeds; substantively "four firms control 56% of the global seed market"
 capital-intensity: industrial (multinational-corporate R&D budgets; Bayer Crop Science 2024 R&D pipeline ~€6-11bn over 2024-2030+)

@@ -5,6 +5,7 @@ sector-position: climate adaptation + community travel safety
 ai-technique-class: machine learning + edge sensing + Indigenous Knowledge integration
 purpose: governance (Indigenous data sovereignty); climate adaptation; community economic development; research and discovery (Indigenous methodologies)
 claim-type: deployment (operational; social enterprise model)
+unit-kind: deployment
 activity-status: deployed (operational since before 2020; 9 Inuit communities by 2025)
 critical-voice: indigenous-data-sovereignty; climate-adaptation
 capital-intensity: mixed (social enterprise; mixed federal + private + Indigenous funding)

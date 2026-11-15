@@ -5,6 +5,7 @@ sector-position: inputs (microbial fertiliser; gene-edited biological)
 ai-technique-class: predictive-ml (microbial strain discovery), genomic-and-molecular-modelling, decision-support-systems (in-furrow application timing)
 purpose: input-reduction (synthetic nitrogen fertiliser replacement), yield-optimisation, climate-adaptation (nitrogen-use efficiency)
 claim-type: example (deployment) + framework (peer-reviewed gene-edited-microbe architecture)
+unit-kind: deployment
 activity-status: deployed (PROVEN 40, PROVEN G3 commercial 2026 pending state registrations; cotton CERT-N launched 2025)
 critical-voice: (none directly — vendor and academic framing align)
 capital-intensity: industrial (Series D $430M; Time best inventions 3x; CNBC Disruptor 50; MIT Tech Review climate tech to watch 15)

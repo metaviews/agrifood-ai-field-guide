@@ -5,6 +5,7 @@ sector-position: consumption
 ai-technique-class: generative-ai-and-llms
 purpose: business-to-business (consumer-facing surface)
 claim-type: example
+unit-kind: deployment
 activity-status: discontinued
 critical-voice: digital-equity
 capital-intensity: industrial

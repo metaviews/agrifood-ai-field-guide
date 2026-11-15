@@ -5,12 +5,14 @@ sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting)
 claim-type: framework
+unit-kind: ecosystem-map
 activity-status: (not applicable — analytical framework)
 critical-voice: digital-equity
 capital-intensity: (not applicable)
 language-literacy-profile: (not applicable)
 policy-instrument: strategy
 region: NA-Canada
+governance-level: national
 actor: Farm Credit Canada (FCC) and Deloitte Canada, in collaboration
 actor-type: state-agency-adjacent (Crown corporation + analyst)
 data-governance: not applicable

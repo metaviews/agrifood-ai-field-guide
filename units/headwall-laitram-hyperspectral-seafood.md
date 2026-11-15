@@ -5,6 +5,7 @@ sector-position: processing
 ai-technique-class: computer-vision, sensors-and-iot-ml
 purpose: input-reduction, supply-chain-efficiency, food-security-and-sovereignty
 claim-type: example
+unit-kind: deployment
 activity-status: piloting
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

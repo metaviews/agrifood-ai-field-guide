@@ -5,6 +5,7 @@ sector-position: (cross-cutting — conceptual / methodological unit for plant-b
 ai-technique-class: (cross-cutting — genomic selection (GS), marker-assisted selection (MAS), predictive breeding pipelines, machine-learning trait prediction, AI-assisted selection, multi-omics integration, drone + hyperspectral phenotyping, multi-environment trial (MET) modelling)
 purpose: (cross-cutting — accelerate cultivar development; integrate phenotypic + genotypic + environmental prediction; reduce breeder subjective scoring)
 claim-type: claim
+unit-kind: methodology
 activity-status: deployed (concept is well established in 2026 literature; tools deployed across academia + industry)
 critical-voice: (varies — academic critique of GS-prediction accuracy; industry critique of regulatory acceptance)
 capital-intensity: (cross-cutting — academic-budget scale; corporate-R&D scale)

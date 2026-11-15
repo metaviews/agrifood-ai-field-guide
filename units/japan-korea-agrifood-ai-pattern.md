@@ -5,6 +5,7 @@ sector-position: (cross-cutting — meta-pattern observation across the value ch
 ai-technique-class: (cross-cutting — all major technique classes represented across the seven anchor units)
 purpose: (cross-cutting — all major purpose categories represented; ageing-farmer succession is the shared structural driver)
 claim-type: claim (structural / pattern claim, not single-deployment example)
+unit-kind: meta-pattern
 activity-status: deployed (the pattern is observable across the seven anchor units)
 critical-voice: food-sovereignty (state-stewarded data layers in both countries; Japan WAGRI + Korea Smart Farm Innovation Valley + Korea Act on Fostering Smart Farming as primary critical-voice anchors)
 capital-intensity: mixed (industrial equipment vendors + state-funded clusters + recurring capital for L4 tractor / vertical-farm scale-out)

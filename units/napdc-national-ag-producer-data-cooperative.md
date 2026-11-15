@@ -5,12 +5,14 @@ sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting — data infrastructure)
 purpose: governance
 claim-type: example
+unit-kind: policy-instrument
 activity-status: piloting
 critical-voice: digital-equity
 capital-intensity: (not applicable — cooperative / framework-development)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (data trust structure); strategy (national framework)
 region: NA-US
+governance-level: national
 actor: National Agricultural Producers Data Cooperative (NAPDC); University of Nebraska lead; USDA NIFA funding
 actor-type: farmer-cooperative (with state-agency funding and academic lead)
 data-governance: co-operative / commons

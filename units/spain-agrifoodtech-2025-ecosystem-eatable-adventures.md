@@ -5,12 +5,14 @@ sector-position: cross-value-chain (ecosystem substrate)
 ai-technique-class: (cross-technique — ecosystem aggregate)
 purpose: ecosystem-mapping, innovation-pipeline-management, AI-adoption-rate-tracing
 claim-type: ecosystem-pattern-observation
+unit-kind: ecosystem-map
 activity-status: (state-of-ecosystem report; not a specific deployment)
 critical-voice: (none — industry-report framing)
 capital-intensity: state-trade-promotion + venture-funding
 language-literacy-profile: (industry-aggregate framing)
 policy-instrument: national-AI-strategy (Spain ENIA = Estrategia Nacional de Inteligencia Artificial) + state-trade-promotion (ICEX)
 region: EU-Spain
+governance-level: national
 actor: Eatable Adventures (Spanish agritech accelerator; Madrid / Barcelona offices); ICEX Spain Trade and Investment; Spanish National AI Strategy (ENIA); ENIA International Chair CIIAA (Artificial Intelligence and Agriculture)
 actor-type: state-agency (ICEX, ENIA) + accelerator (Eatable Adventures) + multi-institutional chair (CIIAA)
 data-governance: (multiple — varies per startup)

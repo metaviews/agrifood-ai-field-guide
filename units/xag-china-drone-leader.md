@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: robotics-autonomy-aerial, robotics-autonomy-ground (R-series UGVs), sensors-and-iot-ml (smart-farm IoT)
 purpose: input-reduction, yield-optimisation, supply-chain-efficiency, worker-conditions
 claim-type: statistic (prospectus financials) + example (deployment model)
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — founder narrative carries labour-saving and safety framing; the co-founder supplies the sector's most honest penetration figure)
 capital-intensity: smallholder and industrial

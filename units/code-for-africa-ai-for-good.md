@@ -5,6 +5,7 @@ sector-position: (cross-cutting — pan-African data journalism + open-source in
 ai-technique-class: (cross-cutting — data journalism + open-source investigation tools + AI for good applications + civic technology + accountability reporting + multilingual pan-African deployment)
 purpose: "platform anchor (Code for Africa is the corpus's substantive African-led open-source data journalism + AI-for-good network; substantive pan-African deployment + 2026 AI For Good Fellowship)"
 claim-type: framework (pan-African open-source data journalism + AI-for-good network); deployment (substantive pan-African deployment + AAOSI Fellowships + 2026 AI For Good Fellowship + AfricaMiningWatch collaboration)
+unit-kind: institution
 activity-status: mature (pan-African deployment scale; substantive AAOSI Fellowships; 2026 AI For Good Fellowship forthcoming); AI-for-good deployment is forthcoming (2026 fellowship applications deadline 11 May 2026)
 critical-voice: 'digital-divide-equity (pan-African open-source + AI for good + inclusive digital infrastructure); food-sovereignty (substantive African-led open-source + AI for good); indigenous-data-sovereignty (substantive IDSov-aligned framing via African-led accountability reporting)'
 capital-intensity: philanthropic (multiple philanthropic supporters); institutional-budget (CfA institutional operations); pan-African-coordination

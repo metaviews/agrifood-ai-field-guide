@@ -5,6 +5,7 @@ sector-position: inputs (seed-breeding; maize + soybean + wheat + sorghum + rice
 ai-technique-class: (cross-cutting — AI-driven digital twins; genomic prediction; predictive plant breeding; high-throughput phenotyping; AI-augmented crossing; deep-learning phenomics; AI-environmental data integration)
 purpose: (cross-cutting — climate-resilient crop improvement; AI-augmented public + private breeding pipelines; digital twin modeling of plant growth)
 claim-type: example
+unit-kind: institution
 activity-status: deployed
 critical-voice: (implicit — substantive corporate-startup Heritable Agriculture from Google X lab + corporate-academic partnerships; substantive tension between public-academic + commercial-corporate deployments)
 capital-intensity: smallholder-to-industrial (USDA-NIFA grants $1-2M individual; USDA-NIFA AFRI Strengthening Agricultural Systems FY2026 $140M pool; Heritable Agriculture corporate-startup scale)

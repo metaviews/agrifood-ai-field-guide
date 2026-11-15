@@ -5,6 +5,7 @@ sector-position: processing
 ai-technique-class: predictive-ml, sensors-and-iot-ml
 purpose: input-reduction, supply-chain-efficiency, governance
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

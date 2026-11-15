@@ -5,6 +5,7 @@ sector-position: (cross-cutting — regional value-chain substrate; federal fund
 ai-technique-class: (cross-cutting — predictive-ml, generative-ai-and-llms, sensors-and-iot-ml)
 purpose: (cross-cutting — economic-development, AI literacy, climate-adaptation, food-security)
 claim-type: example
+unit-kind: deployment
 activity-status: active
 critical-voice: (none directly — federal programme framing)
 capital-intensity: (varies — small-business support; not industrial)

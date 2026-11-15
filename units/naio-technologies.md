@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field, on-farm-production-protected
 ai-technique-class: robotics-autonomy-ground, computer-vision
 purpose: input-reduction, yield-optimisation, worker-conditions
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing; structural small-farmer positioning is distinctive)
 capital-intensity: smallholder (interface), industrial (back-end)

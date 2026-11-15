@@ -5,6 +5,7 @@ sector-position: fisheries + aquaculture (Inuit-led); climate adaptation
 ai-technique-class: remote sensing + Indigenous Knowledge integration
 purpose: governance (Indigenous data sovereignty); food sovereignty / sovereignty; climate adaptation; fisheries management
 claim-type: deployment
+unit-kind: deployment
 activity-status: peer-reviewed (2025); pilot completed; production mariculture status unclear (G-335)
 critical-voice: indigenous-data-sovereignty; food-sovereignty
 capital-intensity: low (Indigenous-led small-scale; mixed academic + Indigenous + International)

@@ -5,6 +5,7 @@ sector-position: (cross-cutting — AI ecosystem infrastructure)
 ai-technique-class: (cross-cutting)
 purpose: governance
 claim-type: statistic
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — substantive empirical report)
 capital-intensity: (not applicable)

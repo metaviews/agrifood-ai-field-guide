@@ -5,6 +5,7 @@ sector-position: retail-inputs + grain-handling (Chatham-Kent / Essex / Middlese
 ai-technique-class: (cross-cutting — co-operative as substrate and policy actor, not vendor)
 purpose: (cross-cutting — co-operative as deployer, funder substrate, and farm-data-governance alternative)
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: co-operative (Canadian Centre for the Study of Co-operatives, Murray Fulton); digital-equity
 capital-intensity: smallholder (member-farmer equity)

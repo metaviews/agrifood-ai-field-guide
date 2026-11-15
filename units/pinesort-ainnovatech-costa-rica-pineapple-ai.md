@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: computer-vision
 purpose: yield-estimation, labour-efficiency
 claim-type: pattern (two distinct deployments at single commodity × single region)
+unit-kind: deployment
 activity-status: deployed (PineSORT); piloting-to-deployed (AinnovaTech)
 critical-voice: (none)
 capital-intensity: smallholder-cluster

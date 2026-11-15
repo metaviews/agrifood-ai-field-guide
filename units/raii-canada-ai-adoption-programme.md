@@ -5,12 +5,14 @@ sector-position: (cross-cutting — federal funder/convenor substrate, regional 
 ai-technique-class: (cross-cutting)
 purpose: (cross-cutting — productivity, competitiveness, AI adoption across priority sectors including agriculture)
 claim-type: claim
+unit-kind: funding-programme
 activity-status: deployed
 critical-voice: (none directly — federal programme framing)
 capital-intensity: (not applicable)
 language-literacy-profile: (not applicable)
 policy-instrument: RAII — Budget 2024 ($200M / 5 years); AI for All June 2026 (scale to $500M); delivered by ISED through 7 RDAs
 region: NA-Canada (national; Atlantic, Quebec, Northern territories, Northern Ontario, Southern Ontario, Prairies, BC)
+governance-level: national
 actor: Innovation, Science and Economic Development Canada (ISED); delivered by Atlantic Canada Opportunities Agency (ACOA), Canada Economic Development for Quebec Regions (CED-Q), Canadian Northern Economic Development Agency (CanNor), Federal Economic Development Agency for Northern Ontario (FedNor), Federal Economic Development Agency for Southern Ontario (FedDev Ontario), Prairies Economic Development Canada (PrairiesCan), Pacific Economic Development Canada (PacifiCan)
 actor-type: state-agency
 data-governance: mixed (project-by-project)

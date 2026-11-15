@@ -5,6 +5,7 @@ sector-position: inputs (seed-breeding; arable wheat + maize + sugar beet + sunf
 ai-technique-class: (cross-cutting — genomic selection; speed breeding; high-throughput phenotyping; computer vision; predictive breeding; genomic best linear unbiased prediction; AI-augmented crossing decision support; CRISPR integration post-NGT regulation)
 purpose: (cross-cutting — accelerate breeding cycles; expand genetic diversity; sustainable agriculture input innovation; cooperative + family-controlled + corporate seed-business deployment)
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (NGT regulation debate — substantive EU policy frame around New Genomic Techniques that determines AI/CRISPR-augmented breeding regulatory status)
 capital-intensity: industrial (multinational-corporate R&D budgets; family-controlled mid-cap corporates; cooperative structures; substantial EU Horizon Cluster 6 funding for public-academic)

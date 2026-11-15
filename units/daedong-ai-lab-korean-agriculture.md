@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field, on-farm-production-protected, an
 ai-technique-class: computer-vision, predictive-ml, generative-ai-llms, robotics-autonomy-ground
 purpose: yield-optimisation, worker-conditions, input-reduction, market-access
 claim-type: example (released deployment) + framework (three-AI-domains strategy)
+unit-kind: deployment
 activity-status: deployed (HX1400-AI + HX1200 AI released in Korea April 2026 and reported in field use from launch; RDA new-technology designation Sept 1 2026; RT-100 transport robot launched Feb 2025)
 critical-voice: (none directly — vendor framing dominates; "AI transformation in Korean agriculture" is Daedong's stated frame, not a critical-voice subtype)
 capital-intensity: industrial (Korean agricultural-machinery major; AI software subsidiary founded 2024)

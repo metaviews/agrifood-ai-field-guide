@@ -5,6 +5,7 @@ sector-position: on-farm-production-open-field
 ai-technique-class: sensors-and-iot-ml, predictive-ml
 purpose: yield-optimisation, supply-chain-efficiency
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none — vendor framing)
 capital-intensity: industrial

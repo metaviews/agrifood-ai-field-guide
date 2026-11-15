@@ -5,6 +5,7 @@ sector-position: animal production (livestock and poultry — breeding, health, 
 ai-technique-class: generative AI / LLMs (research agents, literature extraction, disease Q&A); predictive ML (genomic evaluation, mating optimisation); (cross-cutting — research infrastructure)
 purpose: yield optimisation (genetic gain, feed formulation); input reduction (feed cost is 60-70% of production cost); climate adaptation (disease resilience)
 claim-type: claim
+unit-kind: deployment
 activity-status: announced (platform signed and launched 13 July 2026; phase-one project has a 12-month term)
 critical-voice: (none directly — company and state-media framing; the "fifth paradigm" framing is promotional)
 capital-intensity: industrial

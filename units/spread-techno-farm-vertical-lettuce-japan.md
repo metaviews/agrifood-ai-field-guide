@@ -5,6 +5,7 @@ sector-position: on-farm-production-protected
 ai-technique-class: sensors-and-iot-ml, robotics-autonomy-ground, decision-support-systems
 purpose: yield-optimisation, input-reduction, worker-conditions, climate-adaptation
 claim-type: example (deployment)
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing dominates the public surface; IoT-based autonomous-vertical-farm is not a critical-voice subtype)
 capital-intensity: industrial (capital-intensive ¥4B / $30M Series A facility-level automation)

@@ -5,6 +5,7 @@ sector-position: cross-cutting (land economy × agriculture × forestry)
 ai-technique-class: predictive ML; computer vision (satellite / remote sensing); decision-support systems
 purpose: climate adaptation; supply chain efficiency; governance; extension and advisory
 claim-type: example
+unit-kind: institution
 activity-status: deployed (research; pilot deployment)
 critical-voice: (none directly — institutional framing)
 capital-intensity: industrial

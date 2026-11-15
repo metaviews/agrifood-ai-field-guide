@@ -5,12 +5,14 @@ sector-position: (cross-cutting — the regulatory layer over every sector posit
 ai-technique-class: (cross-cutting — the Act applies by use and risk, not by technique; transparency duties bite on generative systems, high-risk classification on safety components of regulated products)
 purpose: "governance (the corpus's primary regulatory-architecture unit for Europe); food security (food-safety AI's non-high-risk status); worker conditions (emotion-recognition prohibitions and workplace use)"
 claim-type: framework (the regulation and its amended timeline; specific agrifood applications are examples)
+unit-kind: policy-instrument
 activity-status: deployed (in force since 1 August 2024; enforcement began 2 August 2026; high-risk obligations deferred)
 critical-voice: "governance (the Act's own risk-tier construction); digital-equity (compliance cost and sandbox access fall unevenly on SMEs)"
 capital-intensity: (not applicable — regulation); industrial (compliance consequences for machinery makers and processors)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (Regulation (EU) 2024/1689 as amended by Regulation (EU) 2026/1744; Article 6 classification; Article 50 transparency; Article 57 sandboxes; Article 99 penalties)
 region: EU (EU-27; extends to providers placing systems on the EU market from anywhere)
+governance-level: supranational
 actor: "European Commission (DG CNECT, European AI Office); European Parliament; Council of the EU; national competent authorities (AESIA Spain, Bundesnetzagentur Germany, RDI Netherlands, CNIL France — active on AI but not confirmed as sandbox operator); Idse Lucien Val (Wageningen University, peer-reviewed agrifood analysis)"
 actor-type: eu-institution; state-agency; academic
 data-governance: mixed (special-category personal data processing permitted for bias detection under new Article 4a; GDPR applies in parallel)

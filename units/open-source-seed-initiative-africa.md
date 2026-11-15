@@ -5,6 +5,7 @@ sector-position: (cross-cutting — seed-sovereignty + open-source licensing + p
 ai-technique-class: (cross-cutting — open-source licensing methodology + plant breeding + genetic resource stewardship + traditional seed saving + IDSov-aligned governance + seed company commercial engagement)
 purpose: "deployment-of-record (OSSI is the corpus's substantive open-source seed-sovereignty movement with 14+ year track record; African deployment via named actors)"
 claim-type: framework (open-source licensing methodology for seed-sovereignty); deployment (substantive African deployment via Daniel Wanjama + Pelum Zambia + Swaziland Rural Women's assembly + International Seed Federation engagement)
+unit-kind: institution
 activity-status: mature (initiated 2012; 14+ years operation; substantive OSSI Seed Company Partners; African deployment)
 critical-voice: food-sovereignty (substantive seed-sovereignty open-source commitment); digital-divide-equity (open-source + traditional seed saving + community-mediated); indigenous-data-sovereignty (substantive IDSov-aligned framing per `units/indigenous-data-sovereignty.md`)
 capital-intensity: open-source (OSSI Pledge + non-restrictive licensing); philanthropic (A Growing Culture + Pelum + community organizations); commercial (OSSI Seed Company Partners)

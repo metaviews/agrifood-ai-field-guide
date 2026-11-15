@@ -5,12 +5,14 @@ sector-position: (cross-cutting — data infrastructure serving on-farm through 
 ai-technique-class: predictive-ml, decision-support-systems, generative-ai-llms
 purpose: supply-chain-efficiency, governance, climate-adaptation, food-security-sovereignty
 claim-type: example (deployment) + framework (state-anchored data-collaboration architecture)
+unit-kind: data-infrastructure
 activity-status: deployed
 critical-voice: food-sovereignty (state-stewarded data layer — Japan's only DPI-grade agricultural data platform)
 capital-intensity: (cross-cutting — state-funded public infrastructure serving industrial + smallholder users)
 language-literacy-profile: (cross-cutting — APIs are served to ICT vendors, who then expose them via farmer-facing applications)
 policy-instrument: regulatory (WAGRI is operated under MAFF oversight and NARO as the operating body; the *Act on the Promotion of Smart Agricultural Technology Utilization to Improve Agricultural Productivity*, effective October 2024, provides the broader policy frame)
 region: East-Asia (Japan; national platform with multi-prefecture data coverage)
+governance-level: national
 actor: WAGRI, operated by NARO (National Agriculture and Food Research Organization), under MAFF (Ministry of Agriculture, Forestry and Fisheries) oversight. Operational since April 2019.
 actor-type: state-agency (with NARO as operating body)
 data-governance: state-stewarded (WAGRI is described in the MAFF official explainer as "the agricultural data platform combining 'WA (which means circle in Japanese)' that links various data and services and 'WA (which means harmony in Japanese)' that promotes further harmonization of various communities")

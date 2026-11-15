@@ -5,6 +5,7 @@ sector-position: distribution-and-retail
 ai-technique-class: generative-ai-and-llms, predictive-ml
 purpose: supply-chain-efficiency, worker-conditions, market-access
 claim-type: example
+unit-kind: deployment
 activity-status: deployed
 critical-voice: (none directly — vendor framing)
 capital-intensity: industrial

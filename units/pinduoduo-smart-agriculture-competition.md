@@ -5,6 +5,7 @@ sector-position: on-farm-production-protected, distribution-and-retail, consumpt
 ai-technique-class: predictive-ml, sensors-and-iot-ml
 purpose: yield-optimisation, governance
 claim-type: example (with embedded statistics)
+unit-kind: deployment
 activity-status: deployed (ongoing competition series)
 critical-voice: (none directly; Pinduoduo's framing includes digital-inclusion narrative)
 capital-intensity: industrial and smallholder

@@ -5,12 +5,14 @@ sector-position: on-farm-production-open-field, distribution-and-retail
 ai-technique-class: predictive-ml, generative-ai-llms, sensors-and-iot-ml
 purpose: climate-adaptation, supply-chain-efficiency, food-security-sovereignty, governance
 claim-type: example (deployment) + framework (state-DPI architecture)
+unit-kind: data-infrastructure
 activity-status: deployed
 critical-voice: food-sovereignty (state-stewarded data layer across farmer registry, plot registry, crop-sown registry — the corpus's first DPI-grade deployment)
 capital-intensity: mixed (state-funded, designed for both smallholder interface and enterprise-grade data layer)
 language-literacy-profile: voice-first (Kisan e-Mitra in 11 regional languages; Bharat-VISTAAR voice-first via dial 155261), low-literacy (SMS-based advisory for non-smartphone users)
 policy-instrument: regulatory (Digital Agriculture Mission is a Government of India Cabinet decision, September 2024), fiscal (₹2,817 crore / $321M outlay)
 region: South-Asia (India; pan-Indian; multi-state implementation)
+governance-level: national
 actor: 'Government of India — Ministry of Agriculture & Farmers'' Welfare (DA&FW) and Ministry of Electronics & Information Technology (MeitY)'
 actor-type: state-agency
 data-governance: state-stewarded

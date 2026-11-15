@@ -5,12 +5,14 @@ sector-position: animal-production
 ai-technique-class: predictive-ml, sensors-and-iot-ml
 purpose: supply-chain-traceability, regulatory-compliance, data-infrastructure
 claim-type: example
+unit-kind: policy-instrument
 activity-status: deploying (gradual rollout; mandatory for all cattle by July 2026)
 critical-voice: deforestation-and-supply-chain (Gran Chaco context)
 capital-intensity: state-funded
 language-literacy-profile: (not applicable — supply-chain AI)
 policy-instrument: state-mandate + World Bank financing
 region: LATAM (Argentina; 33% of national cattle in Gran Chaco per Evidensia 2023)
+governance-level: national
 actor: SENASA (Servicio Nacional de Sanidad y Calidad Agroalimentaria) — Argentine federal animal-health agency; funded by World Bank; SIGSA IT system
 actor-type: state-agency (federal) + multilateral-bank-financing
 data-governance: state-federal-internal

@@ -5,12 +5,14 @@ sector-position: on-farm production-open field (soil carbon in agriculture and a
 ai-technique-class: predictive ML (process-based soil carbon models); sensors and IoT ML (soil sampling and proximal sensing); computer vision and remote sensing (Earth-observation biomass and SOC estimation); decision-support systems (farm-level MRV workflows)
 purpose: "climate adaptation (soil carbon and emission reduction); governance (MRV standards as the condition of market access); input reduction (carbon-input accounting); financial services / risk (certified units, offtakes, carbon revenue)"
 claim-type: framework (a certification framework and its implementing acts; named consortia and vendors are examples)
+unit-kind: policy-instrument
 activity-status: piloting (methodologies adopted; zero certificates issued; schemes applying for recognition)
 critical-voice: "(none directly — market-creation instrument); food-sovereignty and digital-equity (who bears MRV cost and who captures the carbon value are the open questions)"
 capital-intensity: smallholder (farm-level carbon farming); industrial (DACCS, BioCCS and industrial biochar under the permanent-removal methodologies)
 language-literacy-profile: (not applicable — regulatory framework); standard-smartphone (the farm-level MRV interface)
 policy-instrument: regulatory (Regulation (EU) 2024/3012; Implementing Regulation (EU) 2025/2358; Delegated Regulation (EU) 2026/285; the July 2026 carbon-farming delegated act C(2026)4666); fiscal (CAP linkage via Article 9(1))
 region: EU (EU-only activities)
+governance-level: supranational
 actor: "European Commission (DG CLIMA, DG AGRI, DG IT); JRC (iMRV project, JRC145825); EU-funded consortia (LILAS4SOILS, CAFAMORE, CREDIBLE 2.0); commercial MRV vendors (Agreena, Soil Capital, Downforce Technologies, MEEO, Fluffy Systems, MyEasyFarm, RAGT Semences and others); certification schemes applying for recognition (Isometric, Puro Earth, Rainbow Standard, Oncra, Planet First Registry, SURE-CRCF, Carbon Standards International, ClimatePal EU); Buyers' Club participants (Frontier members, Climeworks, South Pole and others)"
 actor-type: eu-institution; academic; vendor; critical-civil-society (via the Climate Agriculture Alliance seat on the CRCF expert group); standards-body (accreditation and methodology work)
 data-governance: state-stewarded (EU certification framework, Union registry due by end-2028); mixed for scheme-level data

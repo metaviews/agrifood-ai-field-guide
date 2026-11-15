@@ -5,6 +5,7 @@ sector-position: on-farm production — open field; animal production (livestock
 ai-technique-class: predictive ML; computer vision; robotics and autonomy — ground; sensors and IoT ML; generative AI / LLMs (CropWizard)
 purpose: yield optimisation; input reduction; climate adaptation; research and discovery; extension and advisory
 claim-type: example
+unit-kind: institution
 activity-status: deployed (research and pilot deployment; foundational AI contributions)
 critical-voice: digital-equity
 capital-intensity: industrial

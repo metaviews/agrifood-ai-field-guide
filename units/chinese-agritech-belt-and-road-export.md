@@ -5,12 +5,14 @@ sector-position: (cross-cutting — hyperscaler substrate extending beyond China
 ai-technique-class: (cross-cutting — predictive ML, computer vision, IoT, generative AI; substrate-level exported via Chinese hyperscalers and tech companies)
 purpose: yield-optimisation, input-reduction, climate-adaptation, supply-chain-efficiency, food-security-sovereignty (recipient-state framing)
 claim-type: example (concrete named deployments — Alibaba Cloud × Regaltech Malaysia durian; Alibaba Cloud × Tanahmu Indonesia; Huawei Cloud Africa deployments) + framework (state-led Digital Silk Road as a pillar of BRI; sovereignty-and-development framing per Hung 2026)
+unit-kind: ecosystem-map
 activity-status: deployed (across Belt-and-Road partner states; 52 African countries + AU have BRI agreements with China as of August 2024)
 critical-voice: food-sovereignty (state-stewarded recipient-state deployment; sovereignty vs autonomy tension); digital-equity (rural-urban AI gap; data-sovereignty implications)
 capital-intensity: industrial (Alibaba Cloud, Tencent Cloud, Huawei Cloud are top-tier Chinese hyperscalers with global availability — 105 availability zones / 32 regions per Alibaba Cloud; Huawei ~170 countries); smallholder (interface layer for farmer smartphone access)
 language-literacy-profile: standard-smartphone (sensor-node + cloud platform pattern documented for durian farming Malaysia deployment)
 policy-instrument: state-led (Belt and Road Initiative 2013; Digital Silk Road 2015; 13th Five-Year Plan 2016-2020; 14th Five-Year Plan 2021-2025; 15th Five-Year Plan 2026-2030; National Smart Farming Plan 2025; China-Africa internet forum April 2024; China-Africa cyberspace regulator cooperation)
 region: 'multi-region (Belt-and-Road partner states: ASEAN primary current agritech deployments; Africa growing; MENA institutional layer; Latin America secondary; Eastern Europe limited)'
+governance-level: national
 actor: 'Alibaba Cloud (Hangzhou; primary Belt-and-Road agritech hyperscaler with named ASEAN deployments); Huawei (Shenzhen; Digital Silk Road tech exporter with African deployments); Tencent Cloud (Shenzhen; smaller Belt-and-Road agritech footprint); CAIED database (China AI Exports Database, academic source); BRI partner-state governments; local agritech integrators (Regaltech Malaysia; Tanahmu Indonesia); academic researchers (Hung, Cambridge Sociology)'
 actor-type: 'vendor (hyperscaler); state-agency (China-side — MARA, MOFCOM, Cyberspace Administration; recipient-state ministries); academic (CAIED database; Frontiers in Political Science peer-reviewed publications)'
 data-governance: 'state-stewarded (Chinese data sovereignty framework extends to overseas deployments via vendor-controlled platforms; Cybersecurity Law 2017 requires data storage on China-based servers for Chinese companies operating overseas; AFR-CCRC, the African Cyberspace Cooperation and Research Centre, per Chinese-state-media framing)'

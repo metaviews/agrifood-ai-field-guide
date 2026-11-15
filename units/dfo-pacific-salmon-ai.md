@@ -5,12 +5,14 @@ sector-position: (cross-cutting — federal regulator + fisheries substrate)
 ai-technique-class: computer-vision, deep-learning-cnns, nlp, sensors-and-iot-ml
 purpose: fish-stock-assessment, watershed-planning, administrative-efficiency
 claim-type: example
+unit-kind: institution
 activity-status: active (pilot-stage)
 critical-voice: (none directly — federal programme framing)
 capital-intensity: (research/pilot)
 language-literacy-profile: (not applicable)
 policy-instrument: DFO Pacific Salmon Strategy Initiative (PSSI); DFO 2026-27 Departmental Plan
 region: NA-Canada (Pacific — British Columbia)
+governance-level: national
 actor: Fisheries and Oceans Canada (DFO); Pacific Salmon Strategy Initiative (PSSI); Integrated Planning for Salmon Ecosystems (IPSE) Nicola Watershed; Chumputer team; computer-vision migration counter team; Factoid Finder team
 actor-type: state-agency
 data-governance: state-stewarded

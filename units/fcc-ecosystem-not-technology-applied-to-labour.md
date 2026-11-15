@@ -5,12 +5,14 @@ sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting)
 purpose: governance (Canadian AI-and-labour analytical framework); worker conditions (labour-side analytical anchor); food security / sovereignty (Canadian structural reading)
 claim-type: framework (substantive analytical contribution; framework re-read)
+unit-kind: ecosystem-map
 activity-status: (not applicable — analytical framework, not deployment)
 critical-voice: labour-conditions; data-sovereignty; structural-analytical
 capital-intensity: (not applicable)
 language-literacy-profile: (not applicable)
 policy-instrument: AI for All (June 2026); PIPEDA (2000); AIDA (Bill C-27, DEAD 6 January 2025); CPPA (DEAD with AIDA)
 region: NA-Canada
+governance-level: national
 actor: Farm Credit Canada (FCC) and Deloitte Canada
 actor-type: state-agency-adjacent (Crown corporation + analyst)
 data-governance: not applicable

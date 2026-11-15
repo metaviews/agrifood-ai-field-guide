@@ -5,6 +5,7 @@ sector-position: (cross-cutting — methodology layer)
 ai-technique-class: (not applicable — methodology)
 purpose: governance (deployment evaluation); research and discovery (research-to-deployment translation)
 claim-type: framework
+unit-kind: methodology
 activity-status: (not applicable — methodology framework)
 critical-voice: (not applicable — methodology; vendor-figure hygiene critical-voice adjacent)
 capital-intensity: (not applicable)
