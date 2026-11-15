@@ -17,7 +17,7 @@ A knowledge base and presentation framework for public education on artificial i
 - `web/` — Astro static site (Layer 3), live at `agrifood.metaviews.ca`. Content collections share the same `.md` sources as the repo; scans and READMEs are corpus-internal and not routed.
 - `METHODS.md` — corpus-build methodology: 15 named methods (environmental scan, region-deepening, follow-on, substrate, two-phase, ecosystem mapping, cluster-pattern analysis, comparative scan, vendor-report hygiene, critical-voice surfacing, quote fishing, contested-claim tracking, negative-finding tolerance, gap + lead surfacing, Pass-2 sanity check)
 - `GAPS.md` — corpus-wide gap registry (462 G-NNN IDs; regenerated from the corpus, not hand-edited)
-- `LEADS.md` — corpus-wide lead registry (49 leads: 25 realized, 16 open, 8 cluster-pattern candidates; regenerated from the corpus, not hand-edited)
+- `LEADS.md` — corpus-wide lead registry (50 leads: 26 realized, 16 open, 8 cluster-pattern candidates; regenerated from the corpus, not hand-edited)
 - `LICENSE` — CC BY 4.0 for content
 - `NOTICE` — MIT for code
 

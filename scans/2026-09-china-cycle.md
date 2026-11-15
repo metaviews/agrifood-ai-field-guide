@@ -220,8 +220,8 @@ It also establishes the corpus's **reserve-and-platform-first** reading of Chine
 ### Future units surfaced by this scan
 
 - ~~**Ground robotics and unmanned farms in China**~~ — **written** as `units/china-ground-robotics-unmanned-farms.md` (Sept 2026). MARA's >1,000 unmanned farms across 23 provinces; the 2025 ten promoted smart-agriculture technologies; Heilongjiang's laser-weeding and driverless-transplanter "future farms"; XAG's Super Cotton Field. **Not written:** the Ningxia state-farm group's 30,000-mu programme (company/provincial claim only, unverified) and the YTO / Lovol / Weichai machinery-maker entries (no primary source surfaced). The unit's substantive correction: the binding constraint is land consolidation and infrastructure, documented in the catalogue's own precondition clauses, not AI capability.
-- **Chinese agricultural LLMs beyond fisheries** — Shennong (CAU) 4.0, Sinong (NAU) open weights, Xiongxiaonong, Gengyun, Tiangong Kaiwu, the SOE models, and the 240 m-token deployment question.
-- **State farms and provincial deployment vehicles** — Beidahuang's data-management case, the XPCC, Heilongjiang's provincial programme.
+- ~~**Chinese agricultural LLMs beyond fisheries**~~ — **written** as `units/china-agricultural-llms-landscape.md` (November 2026). Shennong (CAU) 4.0, Sinong (NAU) open weights, Xiongxiaonong, Gengyun, Tiangong Kaiwu, the SOE models, and the 240 m-token deployment question.
+- ~~**State farms and provincial deployment vehicles**~~ — **written** as `units/china-state-farms-provincial-deployment.md` (November 2026). Beidahuang's data-management case, the XPCC, Heilongjiang's provincial programme.
 - **China's cold chain and prepared-dish data architecture** — the distribution cell remains empty.
 - **A China-vs-EU vs-US instrument comparison** — explicitly out of scope here.
 

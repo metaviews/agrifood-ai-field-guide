@@ -15,7 +15,7 @@ actor: Canadian Agri-Food Automation and Intelligence Network (CAAIN)
 actor-type: state-agency (federal third-party delivery)
 data-governance: mixed
 data-rights-framework: mixed (project-by-project; vendor + research institution + producer)
-last-verified: 2026-07
+last-verified: 2026-11
 last-regionally-scanned: 2026-07
 ---
 
@@ -41,7 +41,7 @@ last-regionally-scanned: 2026-07
 | On-farm — open field (drought) | AI-Powered Broadacre Farming Drought Severity Index | A.U.G. Signals (Toronto ON) + AUAV Tech (Calgary AB) | $1.90M |
 | On-farm — open field (grain sustainability B2B) | Harvesting Sustainability: Empowering Grain Supply Chains with Data | Grain Discovery | Picton ON | $1.31M |
 | On-farm — open field (digital marketplace) | Digital Marketplace App to Modernize Livestock Feed Procurement | Ox + Plow Ag | Calgary AB | $0.99M |
-| On-farm — open field (weeding) | Machine Vision Autonomous Weeding for Battery/Electric Cultivating Tractor | Fulcrum Works | Bellwood ON | $0.47M |
+| On-farm — open field (weeding) | Development of Machine Vision Autonomous Weeding Capability Employing Visual Odometry for a Battery/Electric Cultivating Tractor | Fulcrum Works Inc. (**Werkr Tractors**; Stanley Baer, CEO) | Bellwood ON | $0.47M (CAAIN $133,333) |
 | On-farm — protected (lighting) | Advancing Leading Edge Horticultural Lighting Technology | SmartGro Bioengineering | Calgary AB | $6.41M |
 | On-farm — protected (sensor) | In-Field Real-Time Nitrate Sensors for Advanced Nitrogen Management | Chrysalabs | Montréal QC | $2.39M |
 | On-farm — specialty (mushroom) | Development of 4AG+ (Computer Vision, Sensors, AI for Mushroom Farms) | 4AG Robotics | Salmon Arm BC | $4.66M |
@@ -100,6 +100,8 @@ This is the **federal funder/convenor substrate unit** for the Canadian agrifood
 - **The CAAIN portfolio is concentrated in Ontario, Quebec, Saskatchewan, Manitoba, Alberta, BC, New Brunswick, Nova Scotia.** No CAAIN-funded projects surfaced in Newfoundland and Labrador, PEI (except WellFish Tech indirectly via PEI BioAlliance), or the three Northern territories (YT/NWT/NU). The CanNor Feb 2026 cycle (§6) is the separate funding channel that *does* reach the North.
 - **Indigenous-led AI in the CAAIN portfolio is absent.** No CAAIN project lead is Indigenous-led in the primary sources surfaced. G-313 (see constraint/critical scout §9).
 - **The MatrixSpec 7-billion-chick culling claim is vendor-reported.** Ngadi is a credible academic (James McGill Professor, McGill University, 25 years), but the specific 7 billion figure is widely cited industry framing.
+- **Fulcrum Works Inc. is the corporate entity behind Werkr Tractors** (verified 2026-11-15 on the CAAIN project page: contact "Stanley Baer, CEO, Fulcrum Works"; the project description itself reads "WerkrTractors is developing a battery-powered, driver-optional tractor with RTK navigation and computer vision to support small and mid-scale vegetable farmers"). Werkr is based in Kitchener-Waterloo; the CAAIN project (active; CAAIN $133,333 / $467,603 total) develops machine-vision autonomous weeding with visual odometry, in partnership with University of Waterloo machine-vision graduate researchers (Western Producer, October 2026). Founder Stan Baer came from Waterloo-area EV firm Accelerated Systems Inc.; the design origin is organic-CSA mechanical weed control (Fertile Ground Farm; a Farmall 140's offset view; weeding's low power requirement). The October 2026 trade report has the CAAIN project wrapping up with Baer seeking commercialization partners; interest is primarily from organic and specialty-crop growers reducing seasonal-labour dependence. No independent outcome data on weeding performance exists.
+- **Werkr spec figures conflict across sources — vendor page governs.** Werkr's own spec page: 2WD 22 hp peak / 12 hp continuous; 4WD 32 hp peak / 17 hp continuous; 1–3 swappable 5 kWh LFP batteries (15 kWh rated); max 21 km/h. The ducksize directory card ("Werkr co-bot", the source of `scouts/2026-10-ducksize-field-robotics-scout.md` §4.2) lists 40 hp peak / 25 hp average and an 18 kW battery — as-reported estimates carrying ducksize's own "please verify with supplier" footnote, and inconsistent with the vendor's published figures. Per vendor-report hygiene, the vendor spec governs and the discrepancy is recorded rather than reconciled.
 
 ## Links
 
@@ -110,8 +112,13 @@ This is the **federal funder/convenor substrate unit** for the Canadian agrifood
 
 ## Freshness
 
-- last-verified: 2026-07
+- last-verified: 2026-11
 - last-regionally-scanned: 2026-07
+- refresh 2026-11 source (checked 2026-11-15; Fulcrum Works §1.7 row re-verified and identified as Werkr Tractors, closing `scouts/2026-10-ducksize-field-robotics-scout.md` §4.2; rest of the portfolio stands on the 2026-07 verification):
+  - CAAIN. *Development of Machine Vision Autonomous Weeding Capability Employing Visual Odometry for a Battery/Electric Cultivating Tractor* (project lead Fulcrum Works Inc., Bellwood ON; CAAIN $133,333 / $467,603 total; active; contact Stanley Baer, CEO, Fulcrum Works; description names WerkrTractors). https://caain.ca/projects/development-of-machine-vision-autonomous-weeding-capability-employing-visual-odometry-for-a-battery-electric-cultivating-tractor/
+  - Werkr Tractors. *The Autonomous Electric Tractor* (vendor spec page: 2WD/4WD power figures, 1–3 × 5 kWh swappable LFP batteries, implements). https://www.werkrtractors.com/tractor
+  - Werkr Tractors. *Autonomy* (AI row-following in development; path-following autonomy). https://www.werkrtractors.com/autonomy
+  - Western Producer / Glacier FarmMedia (October 2026). *Smart electric tractor takes aim at vegetable weeds* (Stan Baer profile; CAAIN + University of Waterloo machine-vision partnership; project wrapping up, seeking commercialization partners). https://www.producer.com/crops/smart-electric-tractor-takes-aim-at-vegetable-weeds/
 - sources:
   - CAAIN. *Projects*. https://caain.ca/projects/
   - CAAIN. *Funding Calls*. https://caain.ca/funding-calls/

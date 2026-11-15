@@ -15,7 +15,7 @@ actor: 'Haggerty Creek Ltd. (joint venture since 2001: Baresich brothers + AGRIS
 actor-type: farmer-cooperative (the 50% AGRIS Co-operative partnership makes this structurally a co-operative hybrid)
 data-governance: (private — no public framework)
 data-rights-framework: (private contract terms)
-last-verified: 2026-07
+last-verified: 2026-11
 last-regionally-scanned: 2026-07
 ---
 
@@ -37,6 +37,8 @@ Haggerty Creek Ltd. is the **farm substrate** for two named agritech/AIVA entiti
 2. **Innovation Farms Ontario powered by FCC AgExpert** — the AIVA Network's fourth validation hub. Innovation Farms Ontario is a four-partner collaboration: FCC (financial + AgExpert data backbone), Western Fair Association (The Grove at Western Fair District, London ON), Haggerty AgRobotics, RHA Ventures (London ON ag/food VC). The Innovation Farms Ontario site *is located at Haggerty Creek Ltd.* — the Baresich farm is the substrate the AIVA hub validates on. A second site in Niagara complements the Bothwell site.
 
 **The Innovation Farms Ontario site IS the Haggerty Creek farm.** The two entities are not separate farms; the AIVA hub operates on the Baresich land.
+
+**Korechi RoamIO — the farm's first autonomous-robot deployment thread.** Haggerty Creek Ltd. was the first customer for the Korechi RoamIO-HCT, the large tracked robot in the RoamIO line from Korechi Innovations Inc. (founded 2016 in Ontario; Oshawa HQ; serves US and Canadian markets), delivered in January 2021; it was also the first purchaser of the wheeled RoamIO-HCW (Bioenterprise, 2022). Operations manager Chuck Baresich already owned a DOT Power-Platform at the time, and framed the RoamIO explicitly as labour augmentation rather than labour replacement: "We wanted this robot because every year we have a range of small monotonous tasks that just don't get done… My vision is RoamIO becomes a partner unit to our employees that can increase the productivity of existing staff. It takes some skill to work, so it's augmenting skilled workers ability to get things done" (GreenWorks, January 2021). The robot is a separate unit from any attachment; the steel rack on the early prototype was added at Haggerty Creek to hold an optical soil sensor and a cover-crop-seeding hopper. The relationship is also a sales channel: Korechi and Haggerty AgRobotics showcased the RoamIO HCW together at Canada's Outdoor Farm Show, and FCC's customer story on The Grove / Haggerty AgRobotics lists Korechi RoamIO among the robotic solutions Haggerty AgRobotics offers alongside Naïo Ted and a solar-powered autonomous weeder.
 
 ## Why the JV structure matters
 
@@ -93,18 +95,24 @@ The Haggerty cluster is the operating example of three things our other Canadian
 - **RHA Ventures** is mentioned in `scans/2026-07-canada-cycle-fcc.md` context as an Innovation Farms Ontario partner, but no dedicated unit exists. Worth tracking as a southwestern Ontario VC anchor.
 - The **second Innovation Farms Ontario site in Niagara** is named on the Innovation Farms Ontario site but its farm-substrate is not named in our sources. Province-by-province AIVA expansion is a structural observation the corpus should track.
 - **No farm-data-governance public framework** at Haggerty Creek Ltd. or AGRIS Co-operative. The AgExpert data backbone is FCC's product, used by Haggerty AgRobotics for Innovation Farms Ontario data — but the data-licensing terms are private contract terms. G-316.
+- **The Baresich–Korechi framing is corpus evidence on the augmentation-vs-substitution question.** The January 2021 GreenWorks quote ("partner unit to our employees… augmenting skilled workers ability to get things done") is a deployer-side labour-augmentation position from the same operator the corpus already cites on the bank-financing gap — directly usable in the AI-and-labour spine (archetype 08) as a Canadian producer-deployer voice. No independent outcome data (tasks completed, hours saved) exists for the RoamIO deployment at Haggerty Creek.
 
 ## Links
 
-- related-units: `aiva-network.md`, `caain-portfolio-canada.md`, `fcc-canada-ai-adoption.md`, `olds-college-smart-farm.md`, `emili-innovation-farms.md`, (proposed) `agris-co-operative-ltd.md`, (proposed) `innovation-farms-ontario.md`
+- related-units: `aiva-network.md`, `caain-portfolio-canada.md`, `fcc-canada-ai-adoption.md`, `olds-college-smart-farm.md`, `emili-innovation-farms.md`, `naio-technologies.md`, `cnh-raven-autonomous-portfolio.md` (the DOT Power-Platform Haggerty Creek already owned pre-RoamIO), (proposed) `agris-co-operative-ltd.md`, (proposed) `innovation-farms-ontario.md`
 - contested-claims: C-279 (federal AI strategy is sufficient substrate — Innovation Farms Ontario is the answer for southwestern Ontario, with private data-licensing as the counter)
 - gaps: G-316 (no FCC AgExpert data-licensing public framework)
 - sovereignty-flags: implicit — Innovation Farms Ontario is a Canadian validation infrastructure anchor; AGRIS Co-operative as a 100%-farmer-owned co-operative is a Canadian sovereignty signature
 
 ## Freshness
 
-- last-verified: 2026-07
+- last-verified: 2026-11
 - last-regionally-scanned: 2026-07
+- addition 2026-11 sources (checked 2026-11-15; Korechi RoamIO deployment thread added, closing `scouts/2026-10-ducksize-field-robotics-scout.md` §4.1 — the January 2021 first RoamIO-HCT delivery was missing from this unit at the October 2026 audit):
+  - Korechi Innovations. *Press* (GreenWorks January 2021 item with the Baresich quotes; Canada's Outdoor Farm Show showcase with Haggerty AgRobotics; RoamIO line). https://korechi.com/press/
+  - Korechi Innovations. *Home* (founded 2016 in Ontario; Oshawa HQ; US + Canadian markets). https://korechi.com/
+  - Bioenterprise Canada (2022). *Korechi Innovations Inc.* success story (first RoamIO-HCT delivered January 2021 to Haggerty Creek Ltd.; Haggerty Creek first purchaser of the RoamIO-HCW). https://bioenterprise.ca/success-stories/korechi-innovations-inc/
+  - FCC. *Level up with The Grove and Haggerty AgRobotics* (customer story; Korechi RoamIO in the Haggerty AgRobotics lineup alongside Naïo Ted and a solar-powered autonomous weeder). https://www.fcc-fac.ca/en/about-fcc/media-centre/customer-stories/the-grove-haggerty-agrobotics
 - sources:
   - Haggerty Creek Ltd. *About*. https://haggertycreek.com/about/
   - Innovation Farms Ontario. *About Us*. https://www.innovationfarmson.ca/about-us

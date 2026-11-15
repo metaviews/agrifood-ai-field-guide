@@ -189,3 +189,13 @@ All retrieved 2026-10-08.
 **Corpus checks behind every "absent" above:** `AgXeed|FarmDroid|Agrointelli|Robotti|Sabanto|Ecorobotix|Ekobot|Elatec|Trabotyx|Odd.Bot|Aigro|GOtrack|SITIA|Trektor|Farmertronics|AutoAgri|Horsch|AgreenCulture|Meropy|Octinion|PixelFarming|Agrobot|Robotics Plus|AMOS|Korechi|RoamIO|Werkr|Septentrio|GOFAR|strip.?crop|ducksize|Aspexit|lesoutilsnumeriques` — zero matches across `units/`, `scans/`, `scouts/`, `quotes/`, `talks/`, `GAPS.md`, `LEADS.md`.
 
 Machine-facing notes end here; humans can stop at §6.
+
+---
+
+## Addendum (15 November 2026): disposition of the ranked absences
+
+Dated follow-up per the residual-follow-up convention; the scout body above is unchanged.
+
+- **§4.1 Korechi ↔ Haggerty Creek — FIXED.** `units/haggerty-creek-ltd.md` now carries the Korechi RoamIO deployment thread: first RoamIO-HCT customer (delivered January 2021, Bioenterprise-verified), first RoamIO-HCW purchaser, the Baresich augmentation-not-substitution quotes (GreenWorks January 2021), the Haggerty-Creek-fabricated sensor/seeding rack, and the Korechi × Haggerty AgRobotics sales-channel relationship (Canada's Outdoor Farm Show; FCC customer story). Re-verified against korechi.com, Bioenterprise and the FCC story on 2026-11-15.
+- **§4.2 WerkR — RECORDED, and the scout's framing corrected.** The machine the directory cards as "Werkr co-bot" is Werkr Tractors (Kitchener-Waterloo), and it is not absent from Canadian funder coverage after all: it is CAAIN §1.7, "Development of Machine Vision Autonomous Weeding Capability Employing Visual Odometry for a Battery/Electric Cultivating Tractor," led by **Fulcrum Works Inc.** (Stanley Baer, CEO) — an identity the corpus already held in `units/caain-portfolio-canada.md` without knowing it. That unit now records the Fulcrum↔Werkr identity (verified on the caain.ca project page 2026-11-15), the Western Producer October 2026 profile, and the spec discrepancy: ducksize cards 40 hp peak / 18 kW; the vendor's own page says 32 hp peak (4WD) / 15 kWh rated. Vendor page governs; discrepancy recorded.
+- **§4.3–§4.8 — unchanged**, standing per §6: no vendor-unit cycle on the European fleet; strip cropping × robots (§4.6) and the five-axis framework borrow (§4.7) remain open decisions; ducksize remains a named discovery index with as-reported labelling.

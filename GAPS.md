@@ -30,7 +30,7 @@ end of the range; add an intro bullet at the bottom of the surfacing
 scan using the `**G-NNN (new):** ...` format so this registry stays in
 sync (rebuild via `python scripts/build_gap_lead_registries.py`).
 
-Total gaps registered: 453
+Total gaps registered: 462
 
 ## Initial scope
 
@@ -54,7 +54,7 @@ Total gaps registered: 453
 
 - **G-017** (n=17, src=scans/2026-07-regional-industry-na-eu.md:188) — US row-crop autonomous machinery operational scale beyond Deere. Announcements exceed deployments.
 - **G-018** (n=8, src=scans/2026-07-regional-industry-na-eu.md:189) — US specialty crop AI at scale (strawberry, leafy greens, orchard).
-- **G-019** (n=11, src=scans/2026-07-regional-industry-na-eu.md:190) — EU post-harvest / food processing AI (TOMRA optical sorting, Ellab, Key Technology) beyond Apeel.
+- **G-019** (n=10, src=scans/2026-07-regional-industry-na-eu.md:190) — EU post-harvest / food processing AI (TOMRA optical sorting, Ellab, Key Technology) beyond Apeel.
 - **G-020** (n=21, src=scans/2026-07-regional-industry-na-eu.md:191) — Independent verification of vendor-reported input-reduction figures at scale (See & Spray 50%, Climate FieldView, Taranis, xFarm, Apeel).
 - **G-021** (n=3, src=scans/2026-07-france-cycle.md:111) — French agritech AI deployment at the food-processing, distribution, and consumption stages. Largely under-surfaced.
 - **G-022** (n=3, src=scans/2026-07-france-cycle.md:112) — Mistral AI explicit agrifood partnerships. Worth re-searching after 12 months.
@@ -64,7 +64,7 @@ Total gaps registered: 453
 - **G-026** (n=1, src=scans/2026-07-quebec-cycle.md:96) — Quebec consumer-facing agrifood AI (Loblaw, Metro, Sobeys operations in Quebec). Distinct from Ontario patterns. Largely under-surfaced.
 - **G-027** (n=1, src=scans/2026-07-quebec-cycle.md:97) — Quebec field-crop (open-field) AI deployment. Real but under-surfaced in our scan.
 - **G-028** (n=7, src=scans/2026-07-quebec-cycle.md:98) — IVADO R3AI substantive deployment (vs. positioning). The June 8, 2026 statement is forward-looking; substantive deployment outcomes not yet visible.
-- **G-029** (n=17, src=scans/2026-07-quebec-cycle.md:99) — Mila DISA partner farms and concrete deployed acreage. The project is real but operational scale not surfaced.
+- **G-029** (n=16, src=scans/2026-07-quebec-cycle.md:99) — Mila DISA partner farms and concrete deployed acreage. The project is real but operational scale not surfaced.
 - **G-030** (n=3, src=scans/2026-07-quebec-cycle.md:100) — Sollum / Zone Agtech actual deployed acreage and number of grower deployments. The 40% electricity reduction figure is per-deployment; aggregate deployment is the gap.
 - **G-031** (n=5, src=scans/2026-07-china-deepening.md:180) — Chinese agritech export to specific regions (Africa, Southeast Asia, Latin America, Pacific) by named actors. Worth surfacing.
 - **G-032** (n=9, src=scans/2026-07-china-deepening.md:181) — Chinese AI deployment at the *processing* level. JD Farm is the closest, but the broader processing-cell population in China is under-surfaced.
@@ -109,7 +109,7 @@ Total gaps registered: 453
 - **G-065** (n=1, src=units/kpm-siftai-beef-fm-detection.md:57) — new: NA beef processing AI deployment scope — combined coverage from Cargill CarVe, KPM SiftAI, JBS × Völur is the only public map
 - **G-066** (n=1, src=units/headwall-laitram-hyperspectral-seafood.md:64) — new: NA seafood processing AI deployment scope — apart from Headwall+Laitram, no other named-NA seafood processor AI deployment surfaced in our sources
 - **G-067** (n=5, src=units/cropin-india.md:84) — Vendor-figure hygiene**: 1B acres / 30M digitized / 7M farmers / 103 countries are all from Cropin's own materials. V0 per the corpus's strict discipline. V1 in practice because the customer base
-- **G-068** (n=6, src=units/indiaai-mission-agrifood.md:92) — gaps: (the deployment-figure verification gaps G-067, G-068, G-069, G-070 are anchored in the deployment units; the structural gaps G-071 and G-072 are anchored in `india-agrifood-ai-pattern.md`)
+- **G-068** (n=5, src=units/indiaai-mission-agrifood.md:92) — gaps: (the deployment-figure verification gaps G-067, G-068, G-069, G-070 are anchored in the deployment units; the structural gaps G-071 and G-072 are anchored in `india-agrifood-ai-pattern.md`)
 - **G-069** (n=5, src=units/indiaai-mission-agrifood.md:92) — gaps: (the deployment-figure verification gaps G-067, G-068, G-069, G-070 are anchored in the deployment units; the structural gaps G-071 and G-072 are anchored in `india-agrifood-ai-pattern.md`)
 - **G-070** (n=5, src=units/india-agrifood-ai-pattern.md:102) — gaps: (the deployment-figure verification gaps G-067 through G-070 are anchored in the deployment units; G-071 and G-072 are corpus-wide structural gaps surfaced by the cycle)
 
@@ -123,7 +123,7 @@ Total gaps registered: 453
 - **G-076** (n=2, src=units/japan-korea-agrifood-ai-pattern.md:146) — G-074 — Spread Co. Techno Farm Narita operational date
 - **G-077** (n=6, src=units/japan-korea-agrifood-ai-pattern.md:104) — The Korean post-harvest / processing AI layer is unverified.** G-077 captures this. The Korean cluster's CEA focus is real; the absence of Cargill-CarVe-equivalent processing AI in Korean meat pro
 - **G-078** (n=4, src=units/japan-korea-agrifood-ai-pattern.md:106) — The Korean post-harvest / processing AI layer is unverified.** G-077 captures this. The Korean cluster's CEA focus is real; the absence of Cargill-CarVe-equivalent processing AI in Korean meat pro
-- **G-079** (n=7, src=units/daedong-ai-lab-korean-agriculture.md:130) — Korean NACF / NongHyup agrifood-data platform product — whether Daedong's vendor data strategy has a cooperative counterpart in the Korean market.
+- **G-079** (n=6, src=units/daedong-ai-lab-korean-agriculture.md:130) — Korean NACF / NongHyup agrifood-data platform product — whether Daedong's vendor data strategy has a cooperative counterpart in the Korean market.
 - **G-080** (n=3, src=units/daedong-ai-lab-korean-agriculture.md:129) — release verification is done — April 2026 launch plus the 1 Sept 2026 RDA designation. The open half is deployment volume and named customers, still absent from primary sources.
 - **G-081** (n=2, src=scans/2026-07-china-deepening.md:186) — Independent identification of WAICO operational secretariat structure, named agriculture-vertical lead, and member-state implementation plans. At signing date (16-17 July 2026), no agriculture-vertical secretary, named secretariat, or member-state implementation plan is publicly disclosed.
 - **G-082** (n=2, src=scans/2026-07-china-deepening.md:187) — Independent verification of Xi's "5,000 AI research projects" capacity-building announcement; vertical distribution (agriculture's share) and delivery timeline unverified.
@@ -272,7 +272,7 @@ Total gaps registered: 453
 - **G-210** (n=2, src=scans/2026-07-eu-institutional-funder-substrate.md:384) — Copa-Cogeca × European Space Agency partnership deployment outcomes. The partnership positions Earth observation data as a critical EU asset for agritech AI; deployment outcomes not enumerated.
 - **G-211** (n=3, src=scans/2026-07-eu-institutional-funder-substrate.md:385) — EU regulatory layer scan (deferred — separate scan recommended). EU AI Act + EU Code of Practice on AI + European AI Office + EU Carbon Removal Certification Framework are structurally large and warrant a dedicated scan.
 - **G-212** (n=4, src=scans/2026-07-eu-regulatory-substrate.md:318) — National AI regulatory sandbox implementation by EU member state. The corpus knows Article 57 requires at least one sandbox per member state by 2 August 2026; specific member-state sandbox implementations for agritech AI are next-cycle work.
-- **G-213** (n=4, src=scans/2026-07-eu-regulatory-substrate.md:319) — First EU AI Act fines actually imposed (post-August 2026). The corpus knows the penalty structure but not actual enforcement actions.
+- **G-213** (n=5, src=scans/2026-07-eu-regulatory-substrate.md:319) — First EU AI Act fines actually imposed (post-August 2026). The corpus knows the penalty structure but not actual enforcement actions.
 - **G-214** (n=9, src=scans/2026-07-eu-regulatory-substrate.md:320) — EU AI Act + Machinery Regulation interplay guidance for agricultural AI. OECD 2026 explicitly notes this gap; Commission guidance is forthcoming.
 - **G-215** (n=4, src=scans/2026-07-eu-regulatory-substrate.md:321) — CRCF certification methodologies for carbon farming. The Commission is drafting delegated acts; specific methodologies for soil carbon are substantive next-cycle work.
 - **G-216** (n=4, src=scans/2026-07-eu-regulatory-substrate.md:322) — First certified CRCF projects (likely emerging 2026-2027). Tracking named projects and AI-vendor involvement.
@@ -400,8 +400,8 @@ Total gaps registered: 453
 - **G-332** (n=8, src=scans/2026-07-canada-academic-research-substrate.md:239) — No dedicated federal academic-research funding channel for agrifood AI as a sectoral priority at the research tier; Canadian agrifood AI research is funded as part of general NSERC + Mitacs + CFI + CFREF programs.
 - **G-333** (n=3, src=scans/2026-07-canada-academic-research-substrate.md:240) — Provincial RDC (Research and Development Centre) academic-research inventory not surfaced for AAFC Sherbrooke RDC, AAFC Lacombe RDC, AAFC Saint-Hyacinthe RDC, etc. AAFC runs multiple RDCs that are relevant academic-tier partners; specific RDC × agrifood-AI projects not enumerated.
 - **G-334** (n=7, src=scans/2026-07-canada-academic-research-substrate.md:241) — Amii (Edmonton) + Vector Institute (Toronto) agrifood-AI projects not enumerated. PCAIS Tier 1 institute coverage is asymmetric — only Mila's agrifood surface is visible; Vector and Amii agrifood projects not surfaced.
-- **G-335** (n=10, src=units/canadian-indigenous-data-sovereignty-agrifood.md:142) — PolArctic operational status (production mariculture vs. pilot-completed) unclear post-2025 publication.
-- **G-336** (n=9, src=units/canadian-indigenous-data-sovereignty-agrifood.md:143) — Salmon Vision's stated expansion to Koeye and KwaKwa rivers — operational status unclear.
+- **G-335** (n=9, src=units/canadian-indigenous-data-sovereignty-agrifood.md:142) — PolArctic operational status (production mariculture vs. pilot-completed) unclear post-2025 publication.
+- **G-336** (n=8, src=units/canadian-indigenous-data-sovereignty-agrifood.md:143) — Salmon Vision's stated expansion to Koeye and KwaKwa rivers — operational status unclear.
 - **G-337** (n=4, src=scans/2026-07-ai-plant-breeding-global.md:220) — Multinational seed-corporate internal AI pipelines are private IP.
 - **G-338** (n=3, src=scans/2026-07-ai-plant-breeding-global.md:221) — Breeder subjective vs. AI-augmented speed breeding: comparative cycle-time empirical validation across academic / public / corporate breeding programs.
 - **G-339** (n=3, src=scans/2026-07-ai-plant-breeding-global.md:222) — Public-domain breeding-data availability for academic AI research.
@@ -421,16 +421,16 @@ Total gaps registered: 453
 - **G-353** (n=2, src=scans/2026-07-ai-plant-breeding-global.md:236) — Substantive Indigenous-led AI plant-breeding deployment beyond PolArctic Sanikiluaq not surfaced.
 - **G-354** (n=2, src=scans/2026-07-ai-plant-breeding-global.md:237) — Substantive empirical validation of speed-vs-diversity tension at the 12-priority-crop + 4-firms-56% scale not yet available.
 - **G-355** (n=2, src=scans/2026-07-ai-plant-breeding-global.md:238) — Substantive farmer-led + Indigenous-led seed-network governance integration into AI plant-breeding pipelines substantively sparse.
-- **G-356** (n=34, src=units/open-source-ai-agrifood-quantitative-panel.md:28) — the substrate-scan's call for an agrifood-specific quantitative panel
+- **G-356** (n=30, src=units/open-source-ai-agrifood-quantitative-panel.md:28) — the substrate-scan's call for an agrifood-specific quantitative panel
 - **G-357** (n=1, src=scans/2026-07-open-source-ai-agrifood-quantitative-panel.md:546) — 3. **Productivity impact at scale for AI vs non-AI farms.** McFadden 2024 gives precision-ag adoption; the *productivity impact conditional on adoption* (yield, input reduction, labour hours) requires
 - **G-360** (n=2, src=units/open-source-ai-agrifood-quantitative-panel.md:186) — | Revenue capture open vs closed | 4% | **Not surveyed** | G-368 — gap |
-- **G-366** (n=15, src=units/open-source-ai-agrifood-quantitative-panel.md:3) — id: open-source-ai-agrifood-quantitative-panel
+- **G-366** (n=14, src=units/open-source-ai-agrifood-quantitative-panel.md:3) — id: open-source-ai-agrifood-quantitative-panel
 - **G-367** (n=10, src=units/open-source-ai-agrifood-quantitative-panel.md:154) — | On-farm × precision-ag adoption US (2023) | **27% of US farms** | GAO-24-105962 | USDA-anchored direct |
 - **G-368** (n=6, src=units/open-source-ai-agrifood-quantitative-panel.md:183) — | Capability gap open vs closed (frontier) | 3.3% (Mar 2026) | **Not surveyed** | G-366 — gap |
 - **G-369** (n=4, src=units/open-source-ai-agrifood-quantitative-panel.md:232) — Published agrifood-AI deployment-scale metrics by farm size × region.* McFadden 2024 gives US precision-ag; the cross-country panel (US / China / Brazil / EU / Africa / India / Canada farm-level adoption rates by farm-size quintile) does not exist as a single published survey.
 - **G-370** (n=7, src=units/open-source-ai-agrifood-quantitative-panel.md:102) — Stance.** Public-investment / capacity-build measures activity by *public investment in AI as strategic infrastructure*. It is a *funding-side* reading with institutional-capacity implications.
-- **G-371** (n=14, src=units/open-source-ai-agrifood-quantitative-panel.md:3) — id: open-source-ai-agrifood-quantitative-panel
-- **G-375** (n=12, src=units/canadian-migrant-farmworkers-agtech-surveillance.md:92) — SAWP + AI deployment data
+- **G-371** (n=13, src=units/open-source-ai-agrifood-quantitative-panel.md:3) — id: open-source-ai-agrifood-quantitative-panel
+- **G-375** (n=11, src=units/canadian-migrant-farmworkers-agtech-surveillance.md:92) — SAWP + AI deployment data
 - **G-379** (n=1, src=units/canadian-ai-deployment-regulatory-absence.md:112) — Per global cycle's `scans/2026-07-ai-and-labour.md` §6.3:
 - **G-385** (n=7, src=units/canadian-ai-deployment-regulatory-absence.md:147) — UFCW Canada formal position on AI deployment
 - **G-386** (n=3, src=units/nfu-canada-agricultural-labour-and-ai-position.md:87) — NFU Canada formal position on AI deployment + farm-data-rights — closed as an institutional-position verification gap; deployment-outcome questions remain open
@@ -461,7 +461,7 @@ Total gaps registered: 453
 - **G-411** (n=2, src=units/copa-cogeca-eu-farmer-cooperative-federation.md:99) — per-project AI deployment outcomes across the 15 projects
 - **G-412** (n=3, src=units/cema-eu-agricultural-machinery-association.md:115) — CEMA AI Project Team membership — unpublished
 - **G-413** (n=4, src=units/cema-eu-agricultural-machinery-association.md:115) — CEMA/Copa-Cogeca influence on the Digital Omnibus text — undocumented
-- **G-414** (n=4, src=units/eu-ai-continent-action-plan.md:113) — CEADS/AgriDataSpace deployment-action budget and agritech disbursement evidence
+- **G-414** (n=5, src=units/eu-ai-continent-action-plan.md:113) — CEADS/AgriDataSpace deployment-action budget and agritech disbursement evidence
 - **G-415** (n=2, src=units/cema-eu-agricultural-machinery-association.md:115) — CEMA position on ISO 11783/AEF and on right-to-repair in relation to AI — nothing published since 2017
 - **G-416** (n=3, src=units/eu-ai-continent-action-plan.md:113) — operational agrifood compute reservation at AI Factories — none found
 - **G-417** (n=3, src=units/eu-ai-continent-action-plan.md:113) — the proposed EU digital strategy on agriculture — publication status
@@ -473,7 +473,7 @@ Total gaps registered: 453
 - **G-423** (n=2, src=units/eu-ai-act-agrifood-implications.md:117) — final Article 6 high-risk classification guidelines — draft only
 - **G-424** (n=2, src=units/eu-ai-act-agrifood-implications.md:117) — no agrifood-specific sandbox track in any member state
 - **G-425** (n=2, src=units/eu-machinery-regulation-agricultural-ai.md:85) — the delegated act folding AI requirements into the Machinery Regulation — not adopted; due 2 August 2028
-- **G-426** (n=2, src=units/eu-machinery-regulation-agricultural-ai.md:85) — harmonised standards for AI in machinery — none cited in the OJ as of mid-2026
+- **G-426** (n=3, src=units/eu-machinery-regulation-agricultural-ai.md:85) — harmonised standards for AI in machinery — none cited in the OJ as of mid-2026
 - **G-427** (n=2, src=units/european-ai-office-governance-architecture.md:101) — agrifood representation in the AI Act governance architecture — **none**; register E04009 screened in full
 - **G-428** (n=2, src=units/european-ai-office-governance-architecture.md:101) — Advisory Forum co-chairs, rules of procedure, opinions and annual report — unpublished
 - **G-429** (n=2, src=units/european-ai-office-governance-architecture.md:101) — Scientific Panel chair, vice-chair and outputs — unpublished
@@ -520,13 +520,12 @@ Total gaps registered: 453
 - **G-470** (n=2, src=units/china-ground-robotics-unmanned-farms.md:91) — The two laser-weeding robot figures in circulation (HIT >95% weed recognition; HGTECH >99% recognition and >95% removal) are not comparable and neither is audited. Whether one is an iteration of the other, a different task definition, or a different evaluation protocol is unresolved.
 - **G-471** (n=1, src=units/china-ground-robotics-unmanned-farms.md:92) — XAG's Super Cotton Field management model is reported promoted to more than 2 million mu in Xinjiang, but the corpus has no independent per-mu yield or cost data for the promoted area as distinct from the original 3,000 mu demonstration block. Whether promotion reproduces demonstration yields is the substantive question.
 - **G-472** (n=1, src=units/china-ground-robotics-unmanned-farms.md:93) — Beidahuang's 30 smart-agriculture demonstration projects across 21 farms (since 2025) have no published operational outcomes — area under autonomous management, per-stage operation counts, or input figures. The state-farm carrier is named in MARA's action plan but not reported in its results.
-
 - **G-473** (n=1, src=units/china-no1-central-document-2026-ai.md) — The 15th FYP "Accelerating Agricultural and Rural Modernization" plan is known only through the MARA/NDRC press Q&A (26 October 2026) and provincial reposts; the plan's own full text has not been located or read. Whether the "AI+agriculture" action carries named budgets or task lists is unread.
-- **G-474** (n=1, src=units/edic-agri-food.md) — EDIC for Agri-Food operational detail: no published budget, staffing, work programme, or named delivery partners for the Digital Farm ID or the candidate AI services (risk management, traceability, carbon certification). No farm-organisation seat documented in the membership.
-- **G-475** (n=1, src=units/edic-agri-food.md) — Digital Farm ID data-rights design: whether the federated identifier carries farmer-controlled access rules or re-uses national IACS identity infrastructure with existing access asymmetries is undocumented.
-- **G-476** (n=1, src=units/china-agricultural-llms-landscape.md) — Independent evaluation of Chinese agricultural LLMs: no benchmark, third-party audit or peer-reviewed outcome study of any named model (Shennong, Sinong, Tiangong Kaiwu, iMAP, Xiongxiaonong, Gengyun) exists; the CSAE survey documents the population without evaluating it.
-- **G-477** (n=1, src=units/china-agricultural-llms-landscape.md) — The Shennong user-count discontinuity: >100k users at the 3.0 launch (October 2025) versus "million farmers / 5M mu" for 4.0 (September 2026 media), with no intermediate measurement or methodology in any source.
-- **G-478** (n=1, src=units/china-agricultural-llms-landscape.md) — Xiongxiaonong (雄小农, Hebei MARA + China Telecom) primary documentation: no provincial-government primary page located; known at snippet level via the CSAE survey and China Telecom ESG material; no user or deployment figures anywhere.
-- **G-479** (n=1, src=units/china-state-farms-provincial-deployment.md) — XPCC corps-level smart-agriculture programme: nothing found; only division-level cases (8th Division Shihezi cotton LLM with no named developer or parameters, 10th Division Beitun platform, 6th Division Qitai model). Any 兵团-level plan document closes this.
-- **G-480** (n=1, src=units/china-state-farms-provincial-deployment.md) — The full text of 《黑龙江省大力发展智慧农业实施方案》: the plan is described in provincial work-dynamics but its text was not located; route-map and timetable claims are cited at second hand.
-- **G-481** (n=1, src=units/china-state-farms-provincial-deployment.md) — Independent verification of the Beidahuang estate figures: the CNY 101.8bn 农服 App online-fee total, the 48-satellite monitoring claims and the pilot-farm outcome percentages are company/provincial self-reports with no audit and no regulated disclosure.
+- **G-474** (n=4, src=units/edic-agri-food.md) — EDIC for Agri-Food operational detail: no published budget, staffing, work programme, or named delivery partners for the Digital Farm ID or the candidate AI services (risk management, traceability, carbon certification). No farm-organisation seat documented in the membership.
+- **G-475** (n=2, src=units/edic-agri-food.md) — Digital Farm ID data-rights design: whether the federated identifier carries farmer-controlled access rules or re-uses national IACS identity infrastructure with existing access asymmetries is undocumented.
+- **G-476** (n=3, src=units/china-agricultural-llms-landscape.md) — Independent evaluation of Chinese agricultural LLMs: no benchmark, third-party audit or peer-reviewed outcome study of any named model (Shennong, Sinong, Tiangong Kaiwu, iMAP, Xiongxiaonong, Gengyun) exists; the CSAE survey documents the population without evaluating it.
+- **G-477** (n=2, src=units/china-agricultural-llms-landscape.md) — The Shennong user-count discontinuity: >100k users at the 3.0 launch (October 2025) versus "million farmers / 5M mu" for 4.0 (September 2026 media), with no intermediate measurement or methodology in any source.
+- **G-478** (n=2, src=units/china-agricultural-llms-landscape.md) — Xiongxiaonong (雄小农, Hebei MARA + China Telecom) primary documentation: no provincial-government primary page located; known at snippet level via the CSAE survey and China Telecom ESG material; no user or deployment figures anywhere.
+- **G-479** (n=4, src=units/china-state-farms-provincial-deployment.md) — XPCC corps-level smart-agriculture programme: nothing found; only division-level cases (8th Division Shihezi cotton LLM with no named developer or parameters, 10th Division Beitun platform, 6th Division Qitai model). Any 兵团-level plan document closes this.
+- **G-480** (n=2, src=units/china-state-farms-provincial-deployment.md) — The full text of 《黑龙江省大力发展智慧农业实施方案》: the plan is described in provincial work-dynamics but its text was not located; route-map and timetable claims are cited at second hand.
+- **G-481** (n=4, src=units/china-state-farms-provincial-deployment.md) — Independent verification of the Beidahuang estate figures: the CNY 101.8bn 农服 App online-fee total, the 48-satellite monitoring claims and the pilot-farm outcome percentages are company/provincial self-reports with no audit and no regulated disclosure.
