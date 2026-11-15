@@ -10,7 +10,7 @@ critical-voice: digital-equity
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: (none)
-region: NA-USA (and UK home market)
+region: NA-US (and UK home market)
 actor: ZOE Ltd (with various academic collaborators)
 actor-type: vendor
 data-governance: proprietary

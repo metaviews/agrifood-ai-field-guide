@@ -10,7 +10,7 @@ critical-voice: "digital-equity (the founding instrument's own framing is admini
 capital-intensity: institutional (member-state consortium under the EDIC regulation; no published budget — G-474)
 language-literacy-profile: (not applicable at establishment; service layer TBD)
 policy-instrument: regulatory (Commission Implementing Decision (EU) 2026/1978 of 8 September 2026 establishing the EDIC, under Decision (EU) 2022/2481); strategy (apply-AI alignment written into the instrument)
-region: Europe (EU-27; seat Paris, France)
+region: EU (EU-27; seat Paris, France)
 actor: "EDIC for Agri-Food — members: Austria, Croatia, Finland, France, Italy, the Netherlands, Poland, Romania, Slovenia, the region of Flanders; observers: Germany, Ireland, Latvia, Spain; European Commission (DG CNECT, DG AGRI context); French Ministry of Agriculture (launch convener, Annie Genevard); builds on CEADS (Common European Agricultural Data Space)"
 actor-type: eu-institution; state-agency (member-state consortium); subnational (Flanders as a regional member — the corpus's first subnational member in an EU digital body)
 data-governance: state-stewarded (a multi-country public-body consortium; federated identifier design interconnecting national systems)

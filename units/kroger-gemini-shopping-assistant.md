@@ -10,7 +10,7 @@ critical-voice: digital-equity
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: (none)
-region: NA-USA
+region: NA-US
 actor: The Kroger Co. with Google Cloud (Gemini Enterprise for Customer Experience)
 actor-type: vendor
 data-governance: proprietary

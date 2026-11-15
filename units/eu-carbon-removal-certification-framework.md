@@ -10,7 +10,7 @@ critical-voice: "(none directly — market-creation instrument); food-sovereignt
 capital-intensity: smallholder (farm-level carbon farming); industrial (DACCS, BioCCS and industrial biochar under the permanent-removal methodologies)
 language-literacy-profile: (not applicable — regulatory framework); standard-smartphone (the farm-level MRV interface)
 policy-instrument: regulatory (Regulation (EU) 2024/3012; Implementing Regulation (EU) 2025/2358; Delegated Regulation (EU) 2026/285; the July 2026 carbon-farming delegated act C(2026)4666); fiscal (CAP linkage via Article 9(1))
-region: Europe (EU-only activities)
+region: EU (EU-only activities)
 actor: "European Commission (DG CLIMA, DG AGRI, DG IT); JRC (iMRV project, JRC145825); EU-funded consortia (LILAS4SOILS, CAFAMORE, CREDIBLE 2.0); commercial MRV vendors (Agreena, Soil Capital, Downforce Technologies, MEEO, Fluffy Systems, MyEasyFarm, RAGT Semences and others); certification schemes applying for recognition (Isometric, Puro Earth, Rainbow Standard, Oncra, Planet First Registry, SURE-CRCF, Carbon Standards International, ClimatePal EU); Buyers' Club participants (Frontier members, Climeworks, South Pole and others)"
 actor-type: eu-institution; academic; vendor; critical-civil-society (via the Climate Agriculture Alliance seat on the CRCF expert group); standards-body (accreditation and methodology work)
 data-governance: state-stewarded (EU certification framework, Union registry due by end-2028); mixed for scheme-level data

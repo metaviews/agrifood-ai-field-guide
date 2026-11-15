@@ -10,7 +10,7 @@ critical-voice: governance (peer-reviewed OECD assessment of EU AI policy gaps f
 capital-intensity: industrial (EU institutional funding + corporate deployment); smallholder (interface layer for farmer smartphone + advisory service access)
 language-literacy-profile: mixed (target audience is OECD policymakers, EU regulators, EU member-state implementers, EU business associations — not farmers directly)
 policy-instrument: state-led (EU Coordinated Plan on AI; EU AI Act 2024/1689; Machinery Regulation 2023/1230; CAP 2023-2027; EU Mission Soil Deal for Europe; Common European Agricultural Data Space (CEADS); Digital Europe Programme; Horizon 2020; Horizon Europe)
-region: Europe (EU-27 + Associated Countries; substantive national-level data across France, Germany, Italy, Spain, Netherlands, Poland, Romania)
+region: EU (EU-27 + Associated Countries; substantive national-level data across France, Germany, Italy, Spain, Netherlands, Poland, Romania)
 actor: OECD (Paris; publishing body); European Commission (DG CONNECT, DG AGRI); EU member states (per CAP Strategic Plans and national AI strategies); EU business associations (Copa-Cogeca, CEMA — interviewees per the report); named EU-funded AI projects (AI4SoilHealth, YIPEEO, AgriBIT, Life Smart Sprayer, GEORGIA, Vine Robot, Robs4Crops, Irreo, Agrow Analytics, Farmonaut)
 actor-type: international-organisation (OECD); eu-institution (European Commission); eu-business-association (Copa-Cogeca, CEMA — interviewees); eu-funded-project (AI4SoilHealth, etc.)
 data-governance: state-led (EU data infrastructure including CEADS); eu-institutional-research (OECD report itself is data-gathering and assessment)

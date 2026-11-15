@@ -10,7 +10,7 @@ critical-voice: (none — vendor announcement)
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone, voice-first
 policy-instrument: (none)
-region: NA-USA
+region: NA-US
 actor: Taco Bell (Yum! Brands) with Omilia
 actor-type: vendor
 data-governance: proprietary

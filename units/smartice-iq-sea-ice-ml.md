@@ -10,7 +10,7 @@ critical-voice: indigenous-data-sovereignty; climate-adaptation
 capital-intensity: mixed (social enterprise; mixed federal + private + Indigenous funding)
 language-literacy-profile: Inuit Qaujimajatuqangit terminology integration (IQ sea-ice terms)
 policy-instrument: regulatory (NISR; IQ operationalisation)
-region: Canada (Nunavut + Nunavik)
+region: NA-Canada (Nunavut + Nunavik)
 actor: SmartICE (social enterprise); Nunavut + Nunavik communities
 actor-type: social-enterprise; Indigenous-organisation (operational)
 data-governance: co-operative / commons (Indigenous-led)

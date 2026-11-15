@@ -10,7 +10,7 @@ critical-voice: indigenous-data-sovereignty
 capital-intensity: low (commissioned paper; Ontario Ministry of Health funding)
 language-literacy-profile: English
 policy-instrument: regulatory (OCAP/CARE engagement; AIDA critique)
-region: Canada (Ontario-anchored; First Nations national scope)
+region: NA-Canada (Ontario-anchored; First Nations national scope)
 actor: Chiefs of Ontario; Dr. Benjamin Wald (paper author); Ontario Ministry of Health (funder)
 actor-type: First Nations political organisation; academic (paper author)
 data-governance: (analytical paper)

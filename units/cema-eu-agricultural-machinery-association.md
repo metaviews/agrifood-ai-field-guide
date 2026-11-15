@@ -10,7 +10,7 @@ critical-voice: (none directly — equipment-maker framing); digital-equity (its
 capital-intensity: industrial (member companies from multinationals to SMEs; ~1,300 manufacturers per CEMA's own About page)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (AI Act 2024/1689 interpretation; Machinery Regulation 2023/1230; Data Act; Cyber Resilience Act; Omnibus IV); strategy (post-2027 CAP contribution; Made in Europe)
-region: Europe (11 national member associations; EU-27 plus neighbouring industry bodies)
+region: EU (11 national member associations; EU-27 plus neighbouring industry bodies)
 actor: "CEMA (President Stefan Top, AVR/AGORIA); Secretary General Jelte Wiersma; Technical Director Ivo Hostens; AI Group Chair Francesca Hennig-Possenti (John Deere, AI Senior Legal Counsel)"
 actor-type: industry-association; vendor (member companies)
 data-governance: mixed (the 2018 joint Code of Conduct on data sharing; ISOBUS/ISO 11783 as a de facto open interoperability standard operating inside proprietary machines)

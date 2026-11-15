@@ -10,7 +10,7 @@ critical-voice: digital-equity
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone, voice-first
 policy-instrument: (none)
-region: NA-USA
+region: NA-US
 actor: DoorDash
 actor-type: vendor
 data-governance: proprietary

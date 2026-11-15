@@ -10,7 +10,7 @@ critical-voice: (none)
 capital-intensity: smallholder-cluster
 language-literacy-profile: standard-smartphone-or-sms
 policy-instrument: (none)
-region: South-America (Argentina origin; deployment in 156 countries)
+region: LATAM (Argentina origin; deployment in 156 countries)
 actor: Auravant (Argentina; venture-funded SaaS agronomy)
 actor-type: vendor
 data-governance: proprietary

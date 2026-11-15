@@ -10,7 +10,7 @@ critical-voice: "digital-equity (uptake barriers named in the strategy itself �
 capital-intensity: industrial (€200bn mobilisation; €10bn EuroHPC envelope); smallholder-relevant only through TEF and advisory channels
 language-literacy-profile: (not applicable)
 policy-instrument: strategy (COM(2025) 165; COM(2025) 723; COM(2025) 835 Data Union Strategy); fiscal (EuroHPC JU, Digital Europe Programme); regulatory (AI Act simplification pillar)
-region: Europe (EU-27 + associated countries; AI Factory hosts across 19 countries)
+region: EU (EU-27 + associated countries; AI Factory hosts across 19 countries)
 actor: "European Commission (DG CNECT, DG AGRI); EuroHPC Joint Undertaking; named AI Factory hosts (LUMI AIF Finland, AI2F France, JAIF and HammerHAI Germany, BSC AIF Spain, IT4LIA Italy, others); agrifoodTEF (Fondazione Bruno Kessler); AgData partnership; CEADS; EDIC for Agri-Food (Paris, established 8 September 2026)"
 actor-type: eu-institution; state-agency (EuroHPC JU); academic (AI Factory host consortia); industry-association (Apply AI Alliance)
 data-governance: state-stewarded (EU data spaces, Data Union Strategy); mixed for project data

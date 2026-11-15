@@ -10,7 +10,7 @@ critical-voice: (none — federal state project; cultural-stewardship narrative)
 capital-intensity: state-funded
 language-literacy-profile: (not applicable — institutional / state-funded AI deployment)
 policy-instrument: national-AI-strategy (UAE AI Strategy 2031) + cultural-stewardship (Zayed legacy) + multilateral-foundation-partnership
-region: Middle-East (UAE / Abu Dhabi)
+region: MENA (UAE / Abu Dhabi)
 actor: Zayed For Good Foundation (UAE heritage / cultural-stewardship foundation); Khalifa International Award for Date Palm and Agricultural Innovation (UAE presidential award); Abu Dhabi Agriculture and Food Safety Authority (ADAFSA)
 actor-type: state-foundation + state-agency + federal-ministry
 data-governance: state-federal-internal

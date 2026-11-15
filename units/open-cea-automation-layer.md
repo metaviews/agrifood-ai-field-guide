@@ -10,7 +10,7 @@ critical-voice: digital-equity
 capital-intensity: low-to-medium (open small-scale layer; contrast to industrial closed systems)
 language-literacy-profile: maker-technical
 policy-instrument: "(none — standards layer: Common Greenhouse Ontology; data layer: WUR DOI datasets)"
-region: international (Netherlands, US, Canada, Bhutan)
+region: Global (Netherlands, US, Canada, Bhutan)
 actor: Mycodo (Kyle Gabriel); Wageningen University & Research (Silke Hemming et al.); TNO (Common Greenhouse Ontology); MIT OpenAg (Caleb Harper, defunct); Priva (Hans Peters, Dirk Prins)
 actor-type: community-project, university, research-institute, defunct-initiative, vendor
 data-governance: mixed — GPL local-data software; DOI open research data; Apache-2.0 ontology; proprietary vendor platform

@@ -10,7 +10,7 @@ critical-voice: indigenous-data-sovereignty; food-sovereignty
 capital-intensity: low (Indigenous-led small-scale; mixed academic + Indigenous + International)
 language-literacy-profile: multilingual (Inuktitut + English)
 policy-instrument: regulatory (OCAP® adaptation; IQ operationalisation; CARE Principles alignment via Two-Eyed Seeing)
-region: Canada (Nunavut, Qikiqtaaluk Region, Belcher Islands)
+region: NA-Canada (Nunavut, Qikiqtaaluk Region, Belcher Islands)
 actor: PolArctic team; Inuit community of Sanikiluaq
 actor-type: Indigenous-organisation (operational); academic (peer review)
 data-governance: co-operative / commons (Indigenous-led)

@@ -10,7 +10,7 @@ critical-voice: "governance (the Act's own risk-tier construction); digital-equi
 capital-intensity: (not applicable — regulation); industrial (compliance consequences for machinery makers and processors)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (Regulation (EU) 2024/1689 as amended by Regulation (EU) 2026/1744; Article 6 classification; Article 50 transparency; Article 57 sandboxes; Article 99 penalties)
-region: Europe (EU-27; extends to providers placing systems on the EU market from anywhere)
+region: EU (EU-27; extends to providers placing systems on the EU market from anywhere)
 actor: "European Commission (DG CNECT, European AI Office); European Parliament; Council of the EU; national competent authorities (AESIA Spain, Bundesnetzagentur Germany, RDI Netherlands, CNIL France — active on AI but not confirmed as sandbox operator); Idse Lucien Val (Wageningen University, peer-reviewed agrifood analysis)"
 actor-type: eu-institution; state-agency; academic
 data-governance: mixed (special-category personal data processing permitted for bias detection under new Article 4a; GDPR applies in parallel)

@@ -10,7 +10,7 @@ critical-voice: indigenous-data-sovereignty; food-sovereignty
 capital-intensity: low (Indigenous-led + academic + BCSFA + Ocean AID + DFO)
 language-literacy-profile: (not explicitly multilingual)
 policy-instrument: regulatory (BCSFA + Ocean AID + DFO; CARE Principles alignment via Indigenous-led methodology)
-region: Canada (BC, Central Coast)
+region: NA-Canada (BC, Central Coast)
 actor: SFU (Simon Fraser University); Gitanyow Fisheries Authority; Skeena Fisheries Commission; Ocean AID; DFO
 actor-type: academic; Indigenous-organisation (operational); federal-funding (DFO); industry-association (BCSFA)
 data-governance: co-operative / commons (Indigenous-led + academic)

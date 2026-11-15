@@ -10,7 +10,7 @@ critical-voice: (concentration + genetic-diversity narrowing concerns per `units
 capital-intensity: (cross-cutting — academic-budget scale for academic programs; corporate-R&D hundreds-of-millions for multinational pipelines)
 language-literacy-profile: (academic / industry technical)
 policy-instrument: (cross-cutting — CGIAR EiB public-platform layer; USDA-NIFA AI Institutes; EU Horizon Cluster 6; CGIAR/Gates/FFAR/USAID funding substrate for Global South)
-region: (global)
+region: Global
 actor: (cross-cutting — academic-plant-breeding community + multinational seed-corporate R&D + CGIAR-EiB public-platform + USDA-NIFA-coordinated academic AI Institutes)
 actor-type: (cross-cutting — academic-research + corporate-R&D + public-platform)
 data-governance: (cross-cutting — private-IP corporate; partly-public academic; governed CGIAR-trust germplasm; FAA/FFAR public-funding)

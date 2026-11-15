@@ -10,7 +10,7 @@ critical-voice: (none directly — state enterprise and ministry research framin
 capital-intensity: industrial (state reserve infrastructure)
 language-literacy-profile: (not applicable — institutional system)
 policy-instrument: strategy (national grain reserve modernisation; SASAC AI programme)
-region: East-Asia (China); national
+region: East-Asia (China; national)
 actor: Sinograin (中国储备粮管理集团) via its Chengdu Grain Storage Research Institute (中储粮成都储藏研究院), under the National Engineering Research Centre for Grain Storage and Transport; with COFCO in the adjacent commercial layer
 actor-type: state-enterprise (central SOE research institute)
 data-governance: state-stewarded

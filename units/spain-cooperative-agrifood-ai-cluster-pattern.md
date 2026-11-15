@@ -10,7 +10,7 @@ critical-voice: (none — peer-reviewed academic + cooperative-institutional fra
 capital-intensity: cooperative-internal-investment + member-fees + EU-research-funding
 language-literacy-profile: Spanish (Catalan + Galician + Basque multilingual scope)
 policy-instrument: EU-research-funding + Spanish-AI-strategy (ENIA) + cooperative-institutional-substrate
-region: Spain
+region: EU-Spain
 actor: Spanish agri-food cooperative ecosystem; primary actors include Cooperativas Agro-alimentarias de España; Mondragón Corporation; COVAP; Andalusian Cooperativas Agro-alimentarias; academic-researchers (IUDESCOOP at Universitat de València; UPV CEGEA; UC3M)
 actor-type: (cluster) cooperative-institutional + academic-research-led + emerging-single-deployment + Mondragón-federation-anchor
 data-governance: cooperative-member-governed (where implemented); academic-internal (peer-reviewed tier)

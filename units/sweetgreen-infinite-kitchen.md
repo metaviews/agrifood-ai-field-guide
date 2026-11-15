@@ -10,7 +10,7 @@ critical-voice: (none — vendor announcement)
 capital-intensity: industrial
 language-literacy-profile: (not applicable — in-store)
 policy-instrument: (none)
-region: NA-USA
+region: NA-US
 actor: Sweetgreen, Inc.
 actor-type: vendor
 data-governance: proprietary

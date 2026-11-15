@@ -10,7 +10,7 @@ critical-voice: indigenous-data-sovereignty
 capital-intensity: medium (federal NRC funding)
 language-literacy-profile: Indigenous-language (Inuktitut, Plains Cree, East Cree, Michif, Ojibwe, Gitxsan, Inuinnaqtun)
 policy-instrument: regulatory (federal language preservation)
-region: Canada (national scope)
+region: NA-Canada (national scope)
 actor: National Research Council Canada (NRC); Dr. Patrick Littell (project lead)
 actor-type: federal-research (NRC)
 data-governance: federal (NRC); Indigenous-language community input

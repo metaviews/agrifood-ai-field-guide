@@ -10,7 +10,7 @@ critical-voice: (none — industry-report framing)
 capital-intensity: state-trade-promotion + venture-funding
 language-literacy-profile: (industry-aggregate framing)
 policy-instrument: national-AI-strategy (Spain ENIA = Estrategia Nacional de Inteligencia Artificial) + state-trade-promotion (ICEX)
-region: Spain
+region: EU-Spain
 actor: Eatable Adventures (Spanish agritech accelerator; Madrid / Barcelona offices); ICEX Spain Trade and Investment; Spanish National AI Strategy (ENIA); ENIA International Chair CIIAA (Artificial Intelligence and Agriculture)
 actor-type: state-agency (ICEX, ENIA) + accelerator (Eatable Adventures) + multi-institutional chair (CIIAA)
 data-governance: (multiple — varies per startup)

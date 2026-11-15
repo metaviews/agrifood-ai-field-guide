@@ -10,7 +10,7 @@ critical-voice: digital-equity (who can apply — EU and associated-country elig
 capital-intensity: research (grant-funded early-stage; €3,000 travel grants and €20,000-€50,000 validation awards are not scale capital)
 language-literacy-profile: (not applicable — institutional funder unit)
 policy-instrument: fiscal (EU EIT funding routed through HORIZON.3.3 HORIZON-EIT-KIC); strategy (BP26-28 mission structure)
-region: Europe (EU member states + Horizon Europe associated countries; hubs in Italy, Finland, Germany, France, Netherlands, Poland)
+region: EU (EU member states + Horizon Europe associated countries; hubs in Italy, Finland, Germany, France, Netherlands, Poland)
 actor: "EIT Food (KIC of the European Institute of Innovation and Technology; coordinator EIT FOOD, Ubicenter A, Philipssite 5 Box 34, 3001 Heverlee, Belgium); CEO Richard Zaltzman (since 15 January 2024, succeeding Andy Zynga); Benoit Buntinx (Director of Business Creation); Marie Russier (Head of Entrepreneurship Programmes); Alexandra R. Kyvik (FAN Programme Lead)"
 actor-type: eu-institution (EIT KIC); multilateral-body (EU body); vendor-partners (named reverse-pitch corporates)
 data-governance: mixed (EU institutional programme data; corporate-partner engagement; no open-data commitment specific to the accelerator)

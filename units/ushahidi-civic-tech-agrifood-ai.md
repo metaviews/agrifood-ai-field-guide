@@ -10,7 +10,7 @@ critical-voice: digital-divide-equity (low-bandwidth + SMS + IVR + voice-first d
 capital-intensity: open-source (no licensing fees; substantive donor + grant funding); philanthropic (Global South deployment via philanthropic + multilateral partners)
 language-literacy-profile: low (designed for low literacy + SMS + IVR + voice-first + multilingual); multilingual (Swahili origin + Spanish + Arabic + French + English + multiple African languages + multiple Asian languages)
 policy-instrument: open-source-software (GitHub repository; MIT license); civic-tech (community crowdsourcing); crisis-response (election monitoring + disaster response)
-region: 'Sub-Saharan Africa (origin: Kenya; primary deployment across Africa); Global South (deployment across Latin America + Asia)'
+region: 'SSA (origin: Kenya; primary deployment across Africa); Global South (deployment across Latin America + Asia)'
 actor: 'Ushahidi (Kenyan not-for-profit civic tech company; founded 2007); Erik Hersman + Ory Okolloh + Juliana Rotich + David Kobia (co-founders); Ushahidi Foundation; data.org (partner); Mozilla Foundation (open-source ecosystem partner); Google.org (philanthropic partner); Omidyar Network (philanthropic partner); Ford Foundation (philanthropic partner); Open AIRE (open-source infrastructure partner)'
 actor-type: 'civil-society (Ushahidi Foundation; Kenyan not-for-profit); private-foundation (Mozilla + Google.org + Omidyar + Ford Foundations); open-source-community (GitHub contributors)'
 data-governance: 'open-source (MIT license); community-mediated (citizen-generated reports); named data-governance framework (Ushahidi Crowdmap + SwiftRiver + deployment-instance data)'

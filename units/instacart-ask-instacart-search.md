@@ -10,7 +10,7 @@ critical-voice: digital-equity
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: (none)
-region: NA-USA
+region: NA-US
 actor: Instacart (Maplebear Inc.) with OpenAI
 actor-type: vendor
 data-governance: proprietary

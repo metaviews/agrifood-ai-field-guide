@@ -10,7 +10,7 @@ critical-voice: deforestation-and-supply-chain
 capital-intensity: enterprise
 language-literacy-profile: (not applicable — critical voice)
 policy-instrument: critical-policy-analysis
-region: South-America (Brazil focus; cluster-level critique)
+region: LATAM (Brazil focus; cluster-level critique)
 actor: Multiple Brazilian beef supply-chain AI deployments as a cluster
 actor-type: (multiple — cluster-level)
 data-governance: (multiple)

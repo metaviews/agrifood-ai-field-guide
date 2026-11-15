@@ -10,7 +10,7 @@ critical-voice: digital-equity
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: (none)
-region: NA-USA (and global rollout via Uber Eats)
+region: NA-US (and global rollout via Uber Eats)
 actor: Uber (Uber Eats)
 actor-type: vendor
 data-governance: proprietary

@@ -10,7 +10,7 @@ critical-voice: "(none directly — product-safety regulation); digital-equity (
 capital-intensity: industrial (machine manufacturers; CEMA cites >€1m per platform architecture for cybersecurity compliance)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (Regulation (EU) 2023/1230; AI Act Regulation (EU) 2024/1689 Annex I Section B as amended by Regulation (EU) 2026/1744; Regulation (EU) No 167/2013 for agricultural and forestry vehicles; Regulation (EU) 2024/2847 Cyber Resilience Act)
-region: Europe (EU-27; machinery placed on the EU market from anywhere)
+region: EU (EU-27; machinery placed on the EU market from anywhere)
 actor: "European Commission (DG GROW, DG CNECT); CEMA and national equipment-maker associations (VDMA, AXEMA, FederUnacoma); machine manufacturers (CLAAS, AGCO, CNH, John Deere, Kubota, SDF, KUHN, Lely, Alois Pöttinger, JCB, Lemken); EU-OSHA"
 actor-type: eu-institution; industry-association; vendor
 data-governance: mixed (machine data access under the Data Act and the 2018 Code of Conduct; safety-decision data retention required by the Regulation)

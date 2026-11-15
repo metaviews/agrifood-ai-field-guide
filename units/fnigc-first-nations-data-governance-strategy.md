@@ -10,7 +10,7 @@ critical-voice: indigenous-data-sovereignty
 capital-intensity: medium (federal + FNIGC + regional partners)
 language-literacy-profile: multilingual (English + French + Indigenous languages at regional centres)
 policy-instrument: regulatory (FNDGS is the operative Canadian framework; OCAP®; CARE Principles alignment)
-region: Canada (national scope; regional implementation)
+region: NA-Canada (national scope; regional implementation)
 actor: FNIGC (First Nations Information Governance Centre, Ottawa); Assembly of First Nations (AFN); Indigenous Services Canada (ISC); regional First Nations organisations
 actor-type: Indigenous-organisation (operational); federal-government (ISC); First Nations political (AFN)
 data-governance: co-operative / commons (Indigenous-led; Nation-based)

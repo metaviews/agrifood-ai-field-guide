@@ -10,7 +10,7 @@ critical-voice: (none — academic-research lead)
 capital-intensity: state-research-funding + multinational-corporate-pipeline
 language-literacy-profile: (not applicable — supply-chain / breeding-pipeline AI)
 policy-instrument: state-research-grants; EMBRAPA + Land Grant Universities + multinational corporate crop-breeding programmes
-region: South-America (Brazil; global relevance given Brazilian soy/corn/coffee/sugarcane/cattle export volume)
+region: LATAM (Brazil; global relevance given Brazilian soy/corn/coffee/sugarcane/cattle export volume)
 actor: Brazilian seed-AI deployment as a *cluster*; major actors include Embrapa (Brazilian federal agricultural-research corporation); Brazilian land-grant-equivalent universities (USP, UNICAMP, UFRGS, UFLA, UFV, ESALQ-USP); multinational seed-company crop-breeding programmes (Bayer Crop Science Brazil; Syngenta Brazil; BASF Brazil; Corteva Brazil); Brazilian soybean and sugarcane breeding programmes; Brazilian academic plant-genetics community (referenced in Tedeschi 2025 PMC paper; Sangjan 2025 USDA-ARS review)
 actor-type: (cluster — academic; state-research; multinational-corporate; NGO/circular)
 data-governance: (multiple — academic-public; corporate-internal)

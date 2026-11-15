@@ -10,7 +10,7 @@ critical-voice: digital-equity
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone, voice-first
 policy-instrument: (none)
-region: NA-USA, NA-Canada
+region: NA-US, NA-Canada
 actor: (multiple — meta unit)
 actor-type: (multiple)
 data-governance: proprietary

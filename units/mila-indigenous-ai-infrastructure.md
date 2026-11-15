@@ -10,7 +10,7 @@ critical-voice: indigenous-data-sovereignty
 capital-intensity: medium (Mila institutional funding; CIFAR partnership)
 language-literacy-profile: multilingual (English + French at institutional level)
 policy-instrument: regulatory (CARE Principles engagement)
-region: Canada (Quebec-anchored; national reach through Mila network)
+region: NA-Canada (Quebec-anchored; national reach through Mila network)
 actor: Mila (Quebec AI Institute); CIFAR (Canadian Institute for Advanced Research); First Nations Technology Council (FNTC); Indigenous mentors and advisory circle members
 actor-type: academic (institutional infrastructure)
 data-governance: co-operative / commons (Indigenous-led methodology)

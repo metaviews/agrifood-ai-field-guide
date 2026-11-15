@@ -10,7 +10,7 @@ critical-voice: digital-equity (farmer-data ownership framing); food-sovereignty
 capital-intensity: (not applicable — federation); its project portfolio is research-and-knowledge funding
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (EU Code of Conduct on Agricultural Data Sharing by Contractual Agreement, 2018); strategy (CAP, digital-market, skills and research alignment demands)
-region: Europe (EU-27 member organisations plus partner organisations in Iceland, Norway, Switzerland and Turkey)
+region: EU (EU-27 member organisations plus partner organisations in Iceland, Norway, Switzerland and Turkey)
 actor: "Copa (farmers) and Cogeca (agri-cooperatives); President Copa Massimiliano Giansanti; President Cogeca Lennart Nilsson; Secretary General Elli Tsiforou; Deputy Secretary General Patrick Pagani"
 actor-type: industry-association; farmer-cooperative (via Cogeca's 22,000 cooperatives)
 data-governance: mixed (the 2018 Code of Conduct is a voluntary contractual-data-governance instrument; no open-data commitment)

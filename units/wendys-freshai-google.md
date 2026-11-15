@@ -10,7 +10,7 @@ critical-voice: (none — vendor announcement)
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone, voice-first
 policy-instrument: (none)
-region: NA-USA
+region: NA-US
 actor: 'Wendy''s with Google Cloud'
 actor-type: vendor
 data-governance: proprietary

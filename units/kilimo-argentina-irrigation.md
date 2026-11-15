@@ -10,7 +10,7 @@ critical-voice: digital-equity
 capital-intensity: smallholder
 language-literacy-profile: standard-smartphone
 policy-instrument: (none)
-region: South-America (Argentina origin; deployed across 7+ LAC countries)
+region: LATAM (Argentina origin; deployed across 7+ LAC countries)
 actor: Kilimo (Argentina; venture-funded)
 actor-type: vendor
 data-governance: proprietary

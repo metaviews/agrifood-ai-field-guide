@@ -10,7 +10,7 @@ critical-voice: deforestation-and-supply-chain (Gran Chaco context)
 capital-intensity: state-funded
 language-literacy-profile: (not applicable — supply-chain AI)
 policy-instrument: state-mandate + World Bank financing
-region: South-America (Argentina; 33% of national cattle in Gran Chaco per Evidensia 2023)
+region: LATAM (Argentina; 33% of national cattle in Gran Chaco per Evidensia 2023)
 actor: SENASA (Servicio Nacional de Sanidad y Calidad Agroalimentaria) — Argentine federal animal-health agency; funded by World Bank; SIGSA IT system
 actor-type: state-agency (federal) + multilateral-bank-financing
 data-governance: state-federal-internal

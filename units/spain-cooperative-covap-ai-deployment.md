@@ -10,7 +10,7 @@ critical-voice: (none — cooperative-institutional framing)
 capital-intensity: cooperative-internal + EU-research-funding + open-innovation challenge
 language-literacy-profile: Spanish (Castilian; Andalusian dialect sub-scope)
 policy-instrument: EU-research-funding (DIGIS3 / DIHBU / ANCES); cooperative-institutional substrate
-region: Spain (Andalusia; northern Córdoba; Valle de los Pedroches)
+region: EU-Spain (Andalusia; northern Córdoba; Valle de los Pedroches)
 actor: COVAP (Cooperativa Agroalimentaria del Valle de los Pedroches); partner ecosystem ANCES Open Innovation; DIHBU Digital Innovation Hub Industry 4.0; DIGIS3 project
 actor-type: first-degree-cooperative + EU-research-project-ecosystem
 data-governance: cooperative-internal (member-data-rights-claimed)

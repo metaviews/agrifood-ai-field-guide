@@ -10,7 +10,7 @@ critical-voice: (Lebanese economic-instability context surfaced but not anchored
 capital-intensity: smallholder-cluster (Berytech program); startup (AgriSmart); smallholder-cluster (Ground Vertical Farming)
 language-literacy-profile: consumer-facing (Arabic-language WhatsApp chatbot)
 policy-instrument: Lebanese-economic-development-program (Berytech) + international-foundation-partnership
-region: Middle-East (Lebanon; partial focus of cycle)
+region: MENA (Lebanon; partial focus of cycle)
 actor: Berytech (Lebanese ecosystem for entrepreneurs) + Agrytech Accelerator Program; AgriSmart (Berytech Agrytech Batch 7 Phase 2; co-founders Elie Salloum + Jamal Merhej); Ground Vertical Farming (Berytech Agrytech graduate; vertical-farming startup); KARYA, Luxeed, FoodSight, others in Agrytech cohort (future units)
 actor-type: '(cluster) Lebanese startup-ecosystem: ecosystem-foundation (Berytech); startup (AgriSmart, Ground Vertical Farming, others)'
 data-governance: (multiple — startup-internal)

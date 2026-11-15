@@ -10,7 +10,7 @@ critical-voice: (multinational-corporate-concentration; data-sovereignty-cross-b
 capital-intensity: enterprise
 language-literacy-profile: (not applicable — supply-chain AI)
 policy-instrument: (multinational-corporate-pipeline + Chilean national research grants + Canadian pan-genome consortium)
-region: South-America (Chile origin); North-America (Canadian genetic-tooling origin)
+region: LATAM (Chile origin); NA-Canada (Canadian genetic-tooling origin)
 actor: PUCV + LEM System (Chile) ; Bayer Crop Science / Syngenta / BASF (operating in both); International Canola Pan-genome Consortium (Canadian-led); BioHeuris (Argentine-origin but global)
 actor-type: (multiple — academic + corporate + multinational-vendor + state-agency)
 data-governance: (multiple — project-internal; corporate-internal; consortium-public)

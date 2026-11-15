@@ -10,7 +10,7 @@ critical-voice: explicit — ETC Group & GRAIN 2025 "Top 10 agribusiness giants"
 capital-intensity: industrial (multinational-corporate R&D budgets; Bayer Crop Science 2024 R&D pipeline ~€6-11bn over 2024-2030+)
 language-literacy-profile: (cross-cutting — corporate-commercial + farmer-advisory + on-farm-data-integration)
 policy-instrument: ETC Group/GRAIN 2025 corporate concentration report; Bayer/Corteva/Syngenta/BASF internal R&D pipelines; Syngenta Group Chinese state-ownership; Bayer Seed Production Innovation Center at Iowa State University (2024); Corteva Granular on-farm AI integration
-region: (global — headquartered in DE / CH / US / DE)
+region: (Global — headquartered in DE / CH / US / DE)
 actor: Bayer Crop Science (German HQ); Syngenta Group (Swiss HQ, Chinese state-owned via Sinochem/ChemChina); Corteva Agriscience (US HQ); BASF Agricultural Solutions (German HQ); plus mid-cap corporate peers (KWS DE; Limagrain FR; RAGT FR; Enza Zaden NL; Rijk Zwaan NL)
 actor-type: publicly-traded multinational + state-owned multinational (Syngenta Group) + mid-cap corporate peers
 data-governance: private IP + corporate

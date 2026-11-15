@@ -10,7 +10,7 @@ critical-voice: digital-divide-equity (open-source AI deployment + AI accessibil
 capital-intensity: academic-budget (Strathmore University institutional operations); philanthropic (academic philanthropic supporters)
 language-literacy-profile: low (smallholder farmer target audience + multilingual Kenyan context); multilingual (multilingual Kenyan context)
 policy-instrument: 'academic-AI-deployment (Strathmore University institutional AI deployment); open-source-AI (anyone can access, adapt, and scale); African-academic-AI (substantive African academic AI commitment)'
-region: 'Sub-Saharan Africa (primary: Kenya; Strathmore University Nairobi)'
+region: 'SSA (primary: Kenya; Strathmore University Nairobi)'
 actor: 'Strathmore University (Nairobi Kenya; substantive Kenyan academic institution); Strathmore University AI research team; smallholder farmer networks in Kenya; named Strathmore University AI deployment partners'
 actor-type: 'academic (Strathmore University); private-vendor (Strathmore University AI tools open-source); smallholder-farmer-networks (smallholder farmers in Kenya)'
 data-governance: 'open-source-AI (anyone can access, adapt, and scale); academic-data-governance (Strathmore University institutional data governance); African-academic-data-governance'

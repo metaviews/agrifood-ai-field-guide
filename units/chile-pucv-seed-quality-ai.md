@@ -10,7 +10,7 @@ critical-voice: (none — academic-research deployment)
 capital-intensity: smallholder-cluster
 language-literacy-profile: (not applicable — academic/farmer-cooperative-deployment)
 policy-instrument: national-research-grant
-region: South-America (Chile origin; Valparaíso Region deployment)
+region: LATAM (Chile origin; Valparaíso Region deployment)
 actor: Pontificia Universidad Católica de Valparaíso (PUCV) + LEM System (Chilean agtech company); partner Agrícola Las Garzas (seed-hybridisation services); funded by FONDEF IT Project (Chilean national research agency)
 actor-type: academic (PUCV lead); commercial-partner (LEM System, Agrícola Las Garzas); state-agency (FONDEF IT funder)
 data-governance: project-internal

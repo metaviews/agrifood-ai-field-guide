@@ -10,7 +10,7 @@ critical-voice: (none directly — joint ministerial release)
 capital-intensity: mixed (public infrastructure plus industry digitalisation)
 language-literacy-profile: (not applicable)
 policy-instrument: strategy
-region: East-Asia (China); national
+region: East-Asia (China; national)
 actor: Cyberspace Administration of China (CAC) with MARA and MIIT
 actor-type: state-agency
 data-governance: state-stewarded

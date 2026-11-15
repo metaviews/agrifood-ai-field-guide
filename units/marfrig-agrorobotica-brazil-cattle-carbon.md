@@ -10,7 +10,7 @@ critical-voice: deforestation-and-supply-chain
 capital-intensity: enterprise
 language-literacy-profile: (not applicable — upstream supply-chain AI)
 policy-instrument: private-low-carbon-program
-region: South-America (Brazil origin; pilot in Mato Grosso)
+region: LATAM (Brazil origin; pilot in Mato Grosso)
 actor: Marfrig Global Foods (Brazil)
 actor-type: vendor (Marfrig is a beef/pork/poultry processor; Agrorobótica is the green-fintech AI partner)
 data-governance: proprietary

@@ -10,7 +10,7 @@ critical-voice: (none directly — institutional funding instrument); governance
 capital-intensity: research (consortium grants at €5m-€60m; third-party support capped at €60,000 per recipient)
 language-literacy-profile: (not applicable — institutional funder unit)
 policy-instrument: fiscal (Horizon Europe 2021-2027, Work Programme 2026-2027); strategy (Cluster 6 destinations; the Coordinated Plan on AI, via the AgData partnership)
-region: Europe (EU member states + Horizon Europe associated countries)
+region: EU (EU member states + Horizon Europe associated countries)
 actor: "European Commission (DG AGRI, DG RTD, DG CONNECT); European Research Executive Agency (REA); project coordinators named below (FBK for agrifoodTEF; ENoLL for SOILL-Stepup); AgData partnership (61 partners, 22 countries)"
 actor-type: eu-institution; state-agency (REA); academic (FBK, Wageningen University); multilateral-body (AgData partnership)
 data-governance: mixed (open-research requirements in funded projects; the AgData partnership and CEADS build EU-governed data infrastructure)

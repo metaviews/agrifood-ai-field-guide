@@ -10,7 +10,7 @@ critical-voice: (none)
 capital-intensity: enterprise
 language-literacy-profile: corporate-internal
 policy-instrument: (none)
-region: South-America (Chile origin; deployed across 7 LAC countries)
+region: LATAM (Chile origin; deployed across 7 LAC countries)
 actor: Grupo Falabella (Chile; LAC multi-country retail conglomerate)
 actor-type: vendor
 data-governance: proprietary

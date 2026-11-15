@@ -10,7 +10,7 @@ critical-voice: (none — vendor announcement)
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone, voice-first
 policy-instrument: (none)
-region: NA-USA (and global)
+region: NA-US (and global)
 actor: 'Domino''s Pizza'
 actor-type: vendor
 data-governance: proprietary

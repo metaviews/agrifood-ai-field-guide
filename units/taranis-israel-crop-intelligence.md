@@ -10,7 +10,7 @@ critical-voice: (none — corporate-vendor deployment)
 capital-intensity: enterprise
 language-literacy-profile: (not applicable — corporate-vendor precision-ag AI)
 policy-instrument: (venture-funded private market; Israeli national ecosystem support)
-region: Middle-East (Israel origin; global export to NA / EU / Latin America / Australia / Brazil / Argentina)
+region: MENA (Israel origin; global export to NA / EU / Latin America / Australia / Brazil / Argentina)
 actor: Taranis (Israeli-founded; "AI-powered crop intelligence"; headquartered Israel; global operations)
 actor-type: vendor (corporate, venture-funded); Israeli agritech ecosystem
 data-governance: proprietary

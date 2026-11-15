@@ -10,7 +10,7 @@ critical-voice: digital-divide-equity (smallholder farmer integration + extensio
 capital-intensity: multilateral-research-budget (Alliance Bioversity-CIAT CGIAR-Affiliate institutional operations); philanthropic (CGIAR partner ecosystem)
 language-literacy-profile: low (extension-services-mediated + smallholder farmer integration + multilingual context); multilingual (multilingual context across 17 countries)
 policy-instrument: 'crop-disease-surveillance (open-source dashboard + GPS-referenced observation data); multilateral-research (Alliance Bioversity-CIAT CGIAR-Affiliate); smallholder-extension-integration (eastern Uganda extension workers)'
-region: 'Sub-Saharan Africa (primary: eastern Uganda extension worker integration; 17 countries of deployment); Global South (cross-region deployment)'
+region: 'SSA (primary: eastern Uganda extension worker integration; 17 countries of deployment); Global South (cross-region deployment)'
 actor: 'Alliance of Bioversity International + CIAT (CGIAR-Affiliate research center); CGIAR (multilateral agricultural research body; partner ecosystem); eastern Uganda extension workers (substantive last-mile integration); smallholder farmer networks across 17 countries; named country partners'
 actor-type: 'multilateral-research (Alliance of Bioversity International + CIAT; CGIAR-Affiliate); extension-services (eastern Uganda extension workers); smallholder-farmer-networks (across 17 countries)'
 data-governance: 'open-source-dashboard (open-source dashboard methodology); GPS-referenced-observation-data (substantive spatial data); multilateral-research-data-governance (Alliance Bioversity-CIAT CGIAR-Affiliate institutional data governance)'

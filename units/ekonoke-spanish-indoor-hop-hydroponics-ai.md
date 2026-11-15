@@ -10,7 +10,7 @@ critical-voice: (none — climate-threatened supply-chain resilience narrative)
 capital-intensity: venture-funded-venture-equity
 language-literacy-profile: (not applicable — on-farm AI)
 policy-instrument: (Spain national climate-ag adaptation framing; venture-equity private market)
-region: Spain (northwestern Iberian Peninsula)
+region: EU-Spain (northwestern Iberian Peninsula)
 actor: Ekonoke (Spanish-founded startup; indoor hydroponic hop cultivation)
 actor-type: vendor (corporate, venture-funded)
 data-governance: proprietary

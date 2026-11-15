@@ -10,7 +10,7 @@ critical-voice: (none — startup deployment narrative)
 capital-intensity: venture-funded (216 Capital six-figure)
 language-literacy-profile: farmer-facing (Arabic + French + English — Tunisia is multilingual)
 policy-instrument: none specific (startup-ecosystem; 216 Capital fund-of-funds African-investment vehicle)
-region: Tunisia (with African and Middle Eastern expansion scope)
+region: MENA (Tunisia;with African and Middle Eastern expansion scope)
 actor: RoboCare (Tunisian Sfax-founded agritech startup; multi-source data platform + AI models); 216 Capital (Tunisian VC fund, FIPA-aligned; investor June 2026)
 actor-type: vendor (corporate, venture-funded); venture-capital-firm
 data-governance: proprietary

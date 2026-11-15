@@ -10,7 +10,7 @@ critical-voice: (none directly — ministry self-report)
 capital-intensity: research (public data infrastructure)
 language-literacy-profile: (not applicable)
 policy-instrument: strategy
-region: East-Asia (China); national
+region: East-Asia (China; national)
 actor: MARA 市场与信息化司 (Market and Informatisation Department), reporting to the National Data Administration
 actor-type: state-agency
 data-governance: state-stewarded

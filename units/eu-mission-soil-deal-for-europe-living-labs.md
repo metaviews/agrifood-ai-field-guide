@@ -10,7 +10,7 @@ critical-voice: (none directly — EU mission instrument); digital-equity (the m
 capital-intensity: research (Living Lab consortia at €12m per project; third-party support up to €60,000 per recipient)
 language-literacy-profile: (not applicable — programme unit)
 policy-instrument: fiscal (Horizon Europe Missions work programme part, Decision C(2025) 8493 of 11 December 2025); strategy (Mission Soil; the EU soil-health framework)
-region: Europe (EU member states + associated countries; Living Labs organised by biogeographical region)
+region: EU (EU member states + associated countries; Living Labs organised by biogeographical region)
 actor: "European Commission (DG AGRI, DG RTD); European Research Executive Agency; SOILL-Stepup (Grant Agreement 101262100, coordinated by the European Network of Living Labs, ENoLL); named Living-Lab projects (LILAS4SOILS, LivingSoiLL, GOV4ALL, iCOSHELLs, SOILCRATES, TRAILS4SOIL, Nemesis, GroundWork, URSOILL, and 11 brownfield projects)"
 actor-type: eu-institution; state-agency (REA); academic (Living Lab consortia); farmer-led (participating land managers); standards-body (soil-health indicator work)
 data-governance: mixed (project data; the mission's stated direction is harmonised and shared soil data; the EU Carbon Farming Database and JRC iMRV work are the EU-level layers)

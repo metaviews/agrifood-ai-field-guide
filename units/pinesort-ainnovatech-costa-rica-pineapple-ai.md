@@ -10,7 +10,7 @@ critical-voice: (none)
 capital-intensity: smallholder-cluster
 language-literacy-profile: (not applicable — drone + operator UI)
 policy-instrument: academic-research-partnership
-region: Central-America (Costa Rica canton Río Cuarto, Alajuela province; Pineapple Cámara Nacional)
+region: LATAM (Central America — Costa Rica canton Río Cuarto, Alajuela province; Pineapple Cámara Nacional)
 actor: PineSORT (Fabián Fallas Moya — UCR + Costa Rica Institute of Technology TEC) + AinnovaTech (Rodrigo Herrera Garro, co-founder + CTO) — academic-research + commercial-CRC pairs at single commodity × single region
 actor-type: academic (PineSORT); vendor (AinnovaTech)
 data-governance: proprietary (per-project)

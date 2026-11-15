@@ -10,7 +10,7 @@ critical-voice: digital-equity
 capital-intensity: industrial
 language-literacy-profile: standard-smartphone
 policy-instrument: (none)
-region: NA-USA (and global)
+region: NA-US (and global)
 actor: MyFitnessPal (Francisco Partners ownership; formerly Under Armour)
 actor-type: vendor
 data-governance: proprietary

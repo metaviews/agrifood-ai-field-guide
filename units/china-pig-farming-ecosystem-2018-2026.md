@@ -10,7 +10,7 @@ critical-voice: "(partially — Chinese Agricultural University economists frame
 capital-intensity: industrial (large-scale farms and integrators; retrofit economics exclude smaller operators)
 language-literacy-profile: (not applicable for the industrial layer; the smallholder layer is not covered)
 policy-instrument: strategy (2019 State Council opinion on stabilising hog production and promoting upgrading)
-region: East-Asia (China); national
+region: East-Asia (China; national)
 actor: Chinese pig producers, agri-tech vendors and industry platforms (扬翔 Yangxiang, 新希望 New Hope Liuhe, 农信互联 Nxin, 小龙潜行 Xiaolong Qianxing) with the China Animal Agriculture Association
 actor-type: vendor (mixed — producers building systems, plus specialist technology firms)
 data-governance: mixed (company platforms, closed to each other)

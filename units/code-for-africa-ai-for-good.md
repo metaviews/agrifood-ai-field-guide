@@ -10,7 +10,7 @@ critical-voice: 'digital-divide-equity (pan-African open-source + AI for good + 
 capital-intensity: philanthropic (multiple philanthropic supporters); institutional-budget (CfA institutional operations); pan-African-coordination
 language-literacy-profile: low (pan-African open-source data journalism for African audiences); multilingual (multilingual pan-African context across multiple African countries + multiple African languages)
 policy-instrument: 'pan-African-coordination (CfA institutional coordination); AI-for-good-fellowship (2026 Code for Africa AI For Good Fellowship); open-source-investigation (AAOSI - African Academy for Open Source Investigation Fellowships); accountability (AfricaMiningWatch collaboration)'
-region: 'Sub-Saharan Africa (primary pan-African deployment; named countries: Nigeria + multiple African countries); Africa (pan-African coverage)'
+region: 'SSA (primary pan-African deployment; named countries: Nigeria + multiple African countries); SSA (pan-African coverage)'
 actor: 'Code for Africa (CfA; pan-African data journalism + open-source investigation network); AAOSI (African Academy for Open Source Investigation); Code for Africa AI For Good Fellowship 2026; AfricaMiningWatch collaboration; named pan-African deployment partners'
 actor-type: 'civil-society (Code for Africa itself); pan-African-coordination (CfA pan-African coverage); philanthropic (multiple philanthropic supporters); academic (AAOSI Fellowships + 2026 AI For Good Fellowship)'
 data-governance: 'open-source-investigation (AAOSI open-source methodology); pan-African-coordination (CfA institutional coordination); African-led (substantive African-led governance)'

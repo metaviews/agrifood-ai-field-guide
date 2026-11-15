@@ -10,7 +10,7 @@ critical-voice: digital-equity (Italy's 16%/7% North-South digital-use gap is th
 capital-intensity: smallholder (CAP income and investment support is the EU's main farm-level channel); industrial (capital investments in machinery)
 language-literacy-profile: (not applicable — funding mechanism); standard-smartphone (the advisory and Farm Sustainability Tool layer)
 policy-instrument: fiscal (EAFRD, EAGF, CAP Strategic Plans 2023-2027, Regulation (EU) 2021/2115); strategy (digital as cross-cutting objective and Specific Objective 2); regulatory (mandatory national digital strategies, Art. 114(b))
-region: Europe (all EU member states; 28 approved plans, Belgium having two)
+region: EU (all EU member states; 28 approved plans, Belgium having two)
 actor: "European Commission (DG AGRI); EU CAP Network; member-state managing authorities (France, Spain, Netherlands, Germany, Italy, Poland, Ireland, Greece and others); CAP Network Seminar on Robotics and AI (Utrecht, 19-20 February 2025)"
 actor-type: eu-institution; state-agency (national paying agencies and managing authorities); farmer-cooperative (via cooperation and LEADER measures); academic (JRC, EU CAP Network evaluation)
 data-governance: mixed (CAP identification and farm advisory systems; FaST as a public nutrient tool)

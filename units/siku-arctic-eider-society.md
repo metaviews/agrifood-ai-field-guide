@@ -10,7 +10,7 @@ critical-voice: indigenous-data-sovereignty; food-sovereignty
 capital-intensity: mixed (community-led; mixed funding)
 language-literacy-profile: Indigenous Environmental Terminology (IET); Indigenous Place Names (IPNs); multilingual
 policy-instrument: regulatory (NISR + FAIR + CARE operationalisation explicit per Nowosad et al. 2025 *Arctic Science*)
-region: Canada (Nunavut, Sanikiluaq)
+region: NA-Canada (Nunavut, Sanikiluaq)
 actor: Arctic Eider Society (Sanikiluaq, Nunavut); Indigenous Knowledge Holders; Community members
 actor-type: Indigenous-organisation (operational); academic (peer review)
 data-governance: co-operative / commons (Indigenous-led; private data sovereignty by design; not "open data" by default)

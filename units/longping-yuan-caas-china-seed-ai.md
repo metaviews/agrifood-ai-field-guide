@@ -10,7 +10,7 @@ critical-voice: (implicit — GRAIN 2023 "Capturing the seed" critique of Chines
 capital-intensity: industrial (state-scale deployment; multi-billion sequencing infrastructure)
 language-literacy-profile: (cross-cutting — academic-research + national-policy-deployment + commercial-vendor-integration)
 policy-instrument: 2021 amended Seed Law of the People's Republic of China; 2024-28 Smart Agriculture Action Plan; March 2025 Sanya Seed Congress smart-breeding national-policy frame; ChemChina/Sinochem state-owned seed-enterprise concentration
-region: NA-Asia (China)
+region: East-Asia (China)
 actor: Chinese Academy of Agricultural Sciences (CAAS) + Syngenta Group (Sinochem/ChemChina-owned) + BGI/MGI + Yuan Longping legacy institutions (Hunan Hybrid Rice Research Center; Shanghai Jiao Tong University + Long Ping' cooperation); China Mobile + Huawei (smart-farm infrastructure); MARA (Ministry of Agriculture and Rural Affairs); MOST (Ministry of Science and Technology); provincial seed-industry conglomerates
 actor-type: state-academic + state-owned-enterprise + state-network + private-foundation
 data-governance: (state-coordinated; seed IP strengthening via 2021 amended Seed Law; BGI genomics integrated with state genomics infrastructure; Syngenta Group operates internationally with Swiss HQ but Chinese ownership)

@@ -10,7 +10,7 @@ critical-voice: (none — government body; certification achievement)
 capital-intensity: state-funded
 language-literacy-profile: (not applicable — institutional regulatory framework)
 policy-instrument: 'national-AI-strategy (UAE AI Strategy 2031) + international-standards (ISO 42001:2023)'
-region: Middle-East (UAE / Abu Dhabi)
+region: MENA (UAE / Abu Dhabi)
 actor: ADAFSA (Abu Dhabi Agriculture and Food Safety Authority) — UAE federal-level agricultural regulatory body; partner Khalifa University
 actor-type: state-agency (federal); university (research partner)
 data-governance: state-federal-internal

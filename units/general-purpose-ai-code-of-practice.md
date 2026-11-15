@@ -10,7 +10,7 @@ critical-voice: "digital-equity (who can realistically demonstrate compliance by
 capital-intensity: industrial (addresses frontier model providers)
 language-literacy-profile: (not applicable)
 policy-instrument: regulatory (Article 56 AI Act; Article 53 obligations for all GPAI providers and Article 55 for systemic-risk models)
-region: Europe (applies to providers placing models on the EU market globally) — signatories are US, EU and UK companies
+region: EU (applies to providers placing models on the EU market globally) — signatories are US, EU and UK companies
 actor: "European AI Office (Signatory Taskforce chair); 21 signatories (AI Studio Delta, Aleph Alpha, Almawave, Amazon, Anthropic, Black Forest Labs, Bria AI, Cohere, Domyn, Dweve, Fastweb, Google, IBM, LINAGORA, Microsoft, Mistral AI, Open Hippo, OpenAI, Pleias, ServiceNow, WRITER) plus xAI (Safety and Security chapter only); Meta (non-signatory)"
 actor-type: vendor; eu-institution (AI Office)
 data-governance: mixed (model documentation and training-data summaries required; no open-data obligations)

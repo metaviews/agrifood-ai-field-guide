@@ -10,7 +10,7 @@ critical-voice: indigenous-data-sovereignty; food-sovereignty
 capital-intensity: low (Indigenous-led non-profit; FCC support at launch)
 language-literacy-profile: (not explicitly multilingual; bilingual English + French at institutional level)
 policy-instrument: regulatory (FNDGS alignment; CARE Principles alignment via Indigenous-led methodology)
-region: Canada (national scope; Indigenous-led)
+region: NA-Canada (national scope; Indigenous-led)
 actor: NCIAF; FCC (Farm Credit Canada) at launch; CFA (Canadian Federation of Agriculture) via MOU 2025
 actor-type: Indigenous-organisation (operational); Crown-corporation (FCC partnership)
 data-governance: co-operative / commons (Indigenous-led)

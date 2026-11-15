@@ -10,7 +10,7 @@ critical-voice: (none — institutional-historical framing)
 capital-intensity: cooperative-federation-scale
 language-literacy-profile: Spanish (Castilian + Basque multilingual)
 policy-instrument: cooperative-statutory-framework + member-vote + federation-coordination
-region: Spain (Basque Country)
+region: EU-Spain (Basque Country)
 actor: Mondragón Corporation (federation of worker cooperatives); sub-cooperatives in industrial / consumer-goods / agricultural / financial / retail sectors
 actor-type: cooperative-federation (multi-cooperative cluster-format institutional substrate)
 data-governance: federation-internal + member-cooperative-internal (per cooperative-statutory framework)

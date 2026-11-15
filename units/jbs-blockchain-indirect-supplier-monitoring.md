@@ -10,7 +10,7 @@ critical-voice: deforestation-and-supply-chain
 capital-intensity: enterprise
 language-literacy-profile: (not applicable — supply-chain AI)
 policy-instrument: corporate-public-commitment
-region: South-America (Brazil origin; multi-continent exporter)
+region: LATAM (Brazil origin; multi-continent exporter)
 actor: 'JBS S.A. (Brazil; world''s largest beef processor)'
 actor-type: vendor (industry-leader processor; deploys AI on its own supply chain)
 data-governance: proprietary
