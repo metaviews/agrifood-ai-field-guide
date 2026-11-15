@@ -27,7 +27,7 @@ Substantively mature. Layer 1 (content library: units + scans + scouts + quotes)
 
 Recent movement: the September 2026 EU architecture and China cycles added 26 units; the October 2026 refresh pass closed two landed verification triggers and repaired registry integrity; the October 2026 ducksize scout audited field-robotics coverage against a practitioner directory (scouting-only, with named follow-ups); the November 2026 refresh-and-discovery pass refreshed 14 units in place against landed triggers (EU AI Act enforcement, EN 18286:2026, EDIC for Agri-Food, the 15th FYP agriculture plan) and added 3 units.
 
-The current consolidation priority is presentation-form work: the last archetype-level integration was July 2026, so the EU architecture cycle, the China cycle, and the November pass material have not yet been folded into the archetypes, and the EU block is named as presentation-ready. See `ROADMAP.md` for the full workstream state and the open decisions.
+Presentation-form consolidation landed 15 November 2026: `talks/eu-china-cycles-2026-09.md` folds the EU architecture cycle, the China primary-document cycle and the November refresh into talk-ready findings, with archetype-level integration applied across 01/02/03/06/07/08 (06 deepest). The remaining Now item is the time-sensitive EU decision-calendar lead (G-436). See `ROADMAP.md` for the full workstream state and the open decisions.
 
 The corpus is structural: scans synthesize research, units anchor specific actor-networks or deployments, quotes capture speaker voices, talks compose units into presentations. `GAPS.md` and `LEADS.md` make the corpus's gap and lead tracking queryable.
 

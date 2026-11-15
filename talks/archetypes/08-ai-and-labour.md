@@ -181,6 +181,16 @@ Place it beside:
 
 The distinction matters: a state can provide a regulatory substrate, announce a smart-farming strategy, or explicitly target labour substitution. Those are different political-economic arrangements and should not be collapsed.
 
+**China-side evidence (added 15 November 2026, per the September 2026 China primary-document cycle — `talks/eu-china-cycles-2026-09.md` finding CN-7).** The Chinese record complicates the state-cluster pattern in a productive way — substitution happens, but through different machinery than a statutory adoption target:
+
+- **Wholesale task substitution where the environment is engineered:** Muyuan's smart pig barns replace repetitious barn work at massive scale (30+ smart devices per pig lifetime; 1.61m IoT devices connected; >60m head served) — all company-reported (V0).
+- **Substitution through service providers rather than worker displacement:** XAG's drone operations shift the labour into contractor fleets instead of removing farm workers — the drone-labour question is a question about who operates, not whether operators exist.
+- **Headline savings without baselines:** the deep-sea aquaculture platforms' ~70% labour-cost saving (Lianjiang case) has no disclosed baseline; Beidahuang's unmanned-farm operations report paddy/dryland labour reduced 50.3%/51.5% — self-reported, unaudited (G-481).
+- **The binding constraint is land structure, not AI:** MARA's own promoted-technology catalogue documents land consolidation and infrastructure as preconditions for unmanned farms (`units/china-ground-robotics-unmanned-farms.md`). Labour substitution at scale follows land policy, which is a different political economy from Korea's adoption target.
+- **No employment series exists anywhere in the Chinese record** — the same workforce-impact data gap the North American processing cell has, in a state-primary-source environment.
+
+**Canadian producer-deployer voice on augmentation (added 15 November 2026).** `units/haggerty-creek-ltd.md` now carries Chuck Baresich's framing of the Korechi RoamIO deployment (first delivered January 2021): *"My vision is RoamIO becomes a partner unit to our employees that can increase the productivity of existing staff… it's augmenting skilled workers ability to get things done"* — a deployer-side augmentation-not-substitution position from the operator of a farmer-cooperative JV farm, usable as the Canadian counterweight to both vendor substitution claims and state-cluster targets. No independent outcome data (tasks completed, hours saved) exists for the deployment.
+
 ### 7. Who gets to negotiate the change? (6 min)
 
 Return from deployment to institutions.
@@ -231,7 +241,7 @@ Leave the audience with a reusable way to read any agrifood-AI claim:
 
 ## Freshness check
 
-- Labour cycle sources and units: last verified 2026-07; refresh at the next labour-focused cycle.
+- Labour cycle sources and units: last verified 2026-07; refresh at the next labour-focused cycle. China-side labour evidence (segment 6) last verified 2026-09/2026-11 per the China cycle units; the Baresich/Korechi augmentation quote verified 2026-11-15.
 - US H-2A FY2024 figure: re-verify against US Department of Labor before delivery.
 - Korean 30%-by-2027 target: re-verify current adoption rate and outcome data before delivery.
 - Vendor deployment and ROI figures: treat as vendor-reported unless independently corroborated.

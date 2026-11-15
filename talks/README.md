@@ -101,7 +101,7 @@ Document deviations. When you deviate substantively, add notes — a third-tier 
 
 ## Status and freshness
 
-The eight archetypes are first iteration (July 2026), with archetype 06 added during the Japan+Korea cycle (mid-July 2026), archetype 07 added during the Sub-Saharan Africa multilateral + open-source + Mozilla State of Open Source AI 2026 + CGIAR + AgriLLM cycle wave, and archetype 08 added after the global and Canadian AI-and-labour cycle waves. The AI-and-labour archetype carries the task-level substitution, labour-monitoring, worker-safety, migrant-labour, worker-voice, discontinued-deployment, and state-cluster findings into a reusable talk architecture.
+The eight archetypes are first iteration (July 2026), with archetype 06 added during the Japan+Korea cycle (mid-July 2026), archetype 07 added during the Sub-Saharan Africa multilateral + open-source + Mozilla State of Open Source AI 2026 + CGIAR + AgriLLM cycle wave, and archetype 08 added after the global and Canadian AI-and-labour cycle waves. The AI-and-labour archetype carries the task-level substitution, labour-monitoring, worker-safety, migrant-labour, worker-voice, discontinued-deployment, and state-cluster findings into a reusable talk architecture. **15 November 2026: the September EU architecture and China primary-document cycles plus the November refresh were integrated at archetype level** (06 deepest; 01/02/03/07/08 touched) via `eu-china-cycles-2026-09.md` — the EU/China material now has presentation form without a new spine; a dedicated EU-architecture archetype remains an open decision pending a booked EU-policy audience.
 
 **Cluster-pattern vocabulary.** Across six regional deepening cycles (LAC deepening; Brazil beef + Chile-Canada; Argentine beef + Brazilian seed; MENA + Lebanon; Spain + North Africa; Spanish cooperatives) the cluster-pattern observation has become a load-bearing analytical lens. The canonical cluster-pattern vocabulary is in `talks/cluster-pattern-taxonomy.md` and archetype 06 draws on it. Three observations from the cluster-pattern taxonomy:
 - (a) **Cluster patterns are layered-mix, not single-pattern** — observed across LAC, MENA, and EU-cluster-pattern.
@@ -120,6 +120,7 @@ When the corpus grows materially (new regional cycles, new quote categories, new
 - `talks/cluster-pattern-taxonomy.md` — canonical cluster-pattern vocabulary surfaced across six regional cycles
 - `talks/canada-deepening-cycle-2026-07.md` — dated cycle-findings consolidation (Canada deepening)
 - `talks/canada-ids-cycle-2026-07.md` — dated cycle-findings consolidation (Canada IDSov)
+- `talks/eu-china-cycles-2026-09.md` — dated cycle-findings consolidation (EU architecture + China primary-document cycles, consolidated November 2026)
 - `talks/archetypes/01-vendor-sweep-primer.md`
 - `talks/archetypes/02-canadian-data-sovereignty.md`
 - `talks/archetypes/03-canadian-adoption-diagnosis.md`
