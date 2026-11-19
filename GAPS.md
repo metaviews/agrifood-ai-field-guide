@@ -30,7 +30,7 @@ end of the range; add an intro bullet at the bottom of the surfacing
 scan using the `**G-NNN (new):** ...` format so this registry stays in
 sync (rebuild via `python scripts/build_gap_lead_registries.py`).
 
-Total gaps registered: 475
+Total gaps registered: 476
 
 ## Initial scope
 
@@ -531,7 +531,7 @@ Total gaps registered: 475
 - **G-481** (n=4, src=units/china-state-farms-provincial-deployment.md) — Independent verification of the Beidahuang estate figures: the CNY 101.8bn 农服 App online-fee total, the 48-satellite monitoring claims and the pilot-farm outcome percentages are company/provincial self-reports with no audit and no regulated disclosure.
 - **G-482** (n=3, src=units/retrofit-autonomy-economics.md:58) — Deere autonomy deployment scale never disclosed
 - **G-483** (n=5, src=units/john-deere-see-and-spray.md:66) — independent verification of spot-spraying challenger figures
-- **G-484** (n=5, src=units/john-deere-see-and-spray.md:66) — multi-year multi-state outcomes for low-sensitivity spot spraying
+- **G-484** (n=12, src=units/john-deere-see-and-spray.md:66) — multi-year multi-state outcomes for low-sensitivity spot spraying
 - **G-485** (n=12, src=units/grain-marketing-agentic-ai.md:55) — NASS decline driver
 - **G-486** (n=4, src=units/grain-harvest-quality-sensing.md:52) — harvest-quality sensing deployment scale unpublished
 - **G-487** (n=6, src=units/grain-harvest-quality-sensing.md:52) — marketing-agent layer
@@ -542,3 +542,4 @@ Total gaps registered: 475
 - **G-492** (n=2, src=units/farm-succession-and-ai-transfer-moment.md:260) — AI-ready farm-data continuity at transfer — no documented process (open or closed) for handing a farm's records to its next operator; the substrate farm-level AI needs to survive a handover. Surfaced by opensource-agrifood cycle C5; connects G-036..G-042 (data co-ops / OADA / commons) and G-316 (FCC AgExpert private data-licensing terms).
 - **G-493** (n=2, src=units/farm-succession-and-ai-transfer-moment.md:261) — Succession-specific AI advisory trust evidence — who farmers actually listen to for succession decisions is correspondence-bound; no farmer-side trust survey exists online, constraining any AI succession-advisory deployment. Surfaced by opensource-agrifood cycle C11; connects G-231 (AI literacy for older farmers) and the extension-and-advisory cluster.
 - **G-494** (n=8, src=scans/2026-11-row-crop-nass-decline-followup.md:131) — NASS technology-use frame-comparison / comparability study: no
+- **G-495** (n=8, src=scans/2026-11-row-crop-spot-spray-trials-followup.md:166) — Multi-state, commercial-machine, grower-setting replication of the low-sensitivity spot-spray seed-bank consequence — the multi-year seed-bank increase is documented at one location (Keiser, AR, prototype machine, soybean; Avent et al. 2026); whether commercial machines at grower sensitivity settings in other states and crops reproduce it is not established by a replicated multi-state seed-bank study.
