@@ -14,7 +14,7 @@ Two surfaces in the corpus produce leads:
   - bullet items in cycle tail sections (deferred-scope / next-cycle hooks)
 
 Status:
-  - 27 leads have been realized as standalone units (closed)
+  - 32 leads have been realized as standalone units (closed)
   - 15 leads remain open with named target filename
   - 8 cluster-pattern / framework-level candidates
     not tied to a single unit
@@ -109,6 +109,21 @@ realized by split (every named unit is verified to exist before it moves).
 - **eu-agrifood-ai-decision-calendar.md** — realized from `2026-09-eu-substrate-deepening.md` L207
   gaps: G-436
   a tracked decision calendar for EU agrifood AI, 2026-2028, maintained as a single corpus artefact.
+- **row-crop-ai-independent-adoption-evidence.md** — realized from `2026-11-row-crop-grain-deep-dive.md` L123
+  gaps: -
+  NASS decline, Purdue dealer/agribusiness surveys, Bushel farmer data, Simpson Centre prairie data, FSC-CCF farm-size bifurcation. The corpus's row-crop cell currently has no independent adoption evidence at all; this is the highest-value unit. Closes the evidence side of G-017 and anchors C-363.
+- **spot-spraying-challengers.md** — realized from `2026-11-row-crop-grain-deep-dive.md` L124
+  gaps: -
+  Greeneye, WEED-IT, ONE SMART SPRAY, Solinftec Solix, Aigen; the sensing-modality contrast (camera vs fluorescence vs per-plant mechanical). Extends `john-deere-see-and-spray.md` rather than competing with it.
+- **retrofit-autonomy-economics.md** — realized from `2026-11-row-crop-grain-deep-dive.md` L125
+  gaps: -
+  PTx OutRun, Sabanto, Deere kit pricing, the subscription-forever structure, Purdue's $30/hr model, Sabanto's labour-excluding cost case, the FTC settlement's repair-for-data trade. The critical-economics counterpart to the incumbent units.
+- **grain-marketing-agentic-ai.md** — realized from `2026-11-row-crop-grain-deep-dive.md` L126
+  gaps: -
+  FBN Context Engine, GrainFox Sinoa, Ever.Ag Everett, Bushel's office-not-field finding. The gen-AI deployment story the vendor pitch misses; also the first concrete material toward G-173.
+- **grain-harvest-quality-sensing.md** — realized from `2026-11-row-crop-grain-deep-dive.md` L127
+  gaps: -
+  HarvestLab 3000, CropScanAg, Ground Truth Ag; the quiet OEM-standard deployment zone that complicates C-365.
 
 ## Open leads (named target unit not yet written)
 

@@ -21,7 +21,7 @@ maturity-verification: V0-V2 (Spread operating-rate V1; WAGRI architecture V1; Y
 maturity-longevity: L1-L4 (Yamaha FAZER/RMAX L4 35-year product line; WAGRI L3 since April 2019; Spread L2 multi-site; Smart Farm Innovation Valley L1 first-gen since 2018; Daedong L1 first-gen since 2024)
 maturity-translation: T2-T3 (Japan-side vendor T3 with FAA exemption path / corporate R&D; Korea-side state T3 with MAFRA + RDA institutional pathway; corporate T2 via Doosan Robotics + Daedong partnership)
 last-verified: 2026-11
-last-regionally-scanned: 2026-07
+last-regionally-scanned: 2026-11
 
 
 ---
@@ -36,6 +36,8 @@ The Japan + Korea agrifood AI cycle surfaces a structural distinction the corpus
 
 - **Japan = industrial automation under equipment-vendor concentration.** Spread Co. (vertical-farm automation), Yamaha Motor (aerial-spraying helicopters), Kubota + Yanmar (autonomous tractor concepts). State plays infrastructure-and-data-substrate role via MAFF / NARO WAGRI. AI is the orchestration layer under an **ageing-farmer labour-shortage** imperative.
 - **Korea = state-anchored cluster programme with vendor participation.** Smart Farm Innovation Valley (Sangju, Gimje, Milyang, Goheung) under RDA / MAFRA; *Act on Fostering and Supporting Smart Farming* with 30%-by-2027 statutory target; Smart Farmland Distribution Centers scaling 14 → 26 → planned 100. AI is the incubation layer under a **young-farmer recruitment** imperative. Vendor participation (ioCrops, Daedong AI Lab) is real but operates alongside the state-anchored cluster programme, not in the lead.
+
+**Refresh (November 2026) — Kubota Agri Robo Tractor MR Series.** Kubota announced (6 August 2026, April 2027 launch) the Agri Robo Tractor MR Series: two unmanned models (100/105 hp) and three manned models (80/100/105 hp), with unmanned operation under remote monitoring (tablet over cellular) — Kubota's claim as first domestically manufactured tractors with unmanned autonomous operation under remote monitoring (vendor claim). Eight work types across rice and dry-field farming: tillage, puddling, primary tillage, seeding, fertilisation, intertillage/ridging, intertillage/weeding, subsoiling; slopes to 10 degrees. Context: ~700 Agri Robo series machines shipped and in use in Japan by 2024 (vendor-reported) — the largest shipped-count disclosure among major OEMs. Post-July 2026 partnership moves point outward from rice: Kubota–Agtonomy expanded pilot for autonomous M5L (orchard/nut, availability early 2027) and Kubota–Kilter AX-1 European distribution framework (October 2026). An AGCO–Kubota collaboration surfaced nothing in the 2026-11 row-crop deep-dive pass — treat as unconfirmed. The MR Series strengthens the corpus's Japan reading: vendor-led industrial automation, rice-and-dry-field first, moving to specialty crops through partnerships rather than through a state cluster programme.
 
 **Pattern table:**
 

@@ -30,7 +30,7 @@ end of the range; add an intro bullet at the bottom of the surfacing
 scan using the `**G-NNN (new):** ...` format so this registry stays in
 sync (rebuild via `python scripts/build_gap_lead_registries.py`).
 
-Total gaps registered: 464
+Total gaps registered: 474
 
 ## Initial scope
 
@@ -52,7 +52,7 @@ Total gaps registered: 464
 
 ## EU + LAC (early)
 
-- **G-017** (n=17, src=scans/2026-07-regional-industry-na-eu.md:188) — US row-crop autonomous machinery operational scale beyond Deere. Announcements exceed deployments.
+- **G-017** (n=23, src=scans/2026-07-regional-industry-na-eu.md:188) — US row-crop autonomous machinery operational scale beyond Deere. Announcements exceed deployments.
 - **G-018** (n=8, src=scans/2026-07-regional-industry-na-eu.md:189) — US specialty crop AI at scale (strawberry, leafy greens, orchard).
 - **G-019** (n=10, src=scans/2026-07-regional-industry-na-eu.md:190) — EU post-harvest / food processing AI (TOMRA optical sorting, Ellab, Key Technology) beyond Apeel.
 - **G-020** (n=21, src=scans/2026-07-regional-industry-na-eu.md:191) — Independent verification of vendor-reported input-reduction figures at scale (See & Spray 50%, Climate FieldView, Taranis, xFarm, Apeel).
@@ -229,7 +229,7 @@ Total gaps registered: 464
 - **G-170** (n=4, src=scans/2026-07-us-industry-ai.md:336) — Sound Agriculture, Anuvia, and the broader US biologicals + ML cluster beyond Pivot Bio.
 - **G-171** (n=3, src=scans/2026-07-us-industry-ai.md:337) — Corteva spinout — what happens to Granular, CARL, One Seed, and the digital twin of the seed business when SpinCo is created. Live, time-sensitive, structural.
 - **G-172** (n=2, src=scans/2026-07-us-industry-ai.md:338) — Salinas Valley lettuce harvest automation — the Sullivan ethnography is the most substantive critical voice on US specialty-crop AI; not yet unitized. Direct counterweight to vendor and investor pitches.
-- **G-173** (n=4, src=scans/2026-07-us-industry-ai.md:339) — US grain/seed processing AI — Cargill, ADM, Bunge have grain-handling AI initiatives; under-surfaced in the corpus.
+- **G-173** (n=9, src=scans/2026-07-us-industry-ai.md:339) — US grain/seed processing AI — Cargill, ADM, Bunge have grain-handling AI initiatives; under-surfaced in the corpus.
 - **G-174** (n=3, src=scans/2026-07-us-industry-ai.md:340) — American industry analyst skepticism — Bloomberg Intelligence, Oppenheimer, Bank of America, AgFunderNews journalists as substantive analyst voices on US industry AI events (e.g., the Corteva split). The corpus has critical voices on technology but underweight on the financial-analysis side.
 - **G-175** (n=2, src=scans/2026-07-us-industry-ai.md:341) — Independent verification of vendor-reported figures at scale — the discipline (cite, name, flag verification gap) is in place; a consolidated framework listing every US industry vendor figure and its verification status would be the corpus-level artefact.
 - **G-176** (n=13, src=units/advanced-farm-tech-farmwise-carbon-robotics-specialty-crop-weeders.md:135) — farmworker-side critical voice beyond Salinas Valley — Sullivan anchors; broader US specialty-crop labour contexts remain thin
@@ -516,7 +516,7 @@ Total gaps registered: 464
 - **G-466** (n=3, src=units/china-food-processing-smart-factories.md:73) — in China — the prepared-dish sector's data and traceability architecture, and whether processors or regulators hold the traceability data
 - **G-467** (n=2, src=units/china-ground-robotics-unmanned-farms.md:88) — The MARA primary document behind the "more than 1,000 unmanned farms across 23 provinces" February 2025 figure was not located. The figure is widely reported through secondary Chinese outlets; Jiangsu's itemised 283-farm breakdown is the corpus's best-documented anchor. Worth locating the ministry original before citing the national number as more than ministry-reported-through-secondary.
 - **G-468** (n=2, src=units/china-ground-robotics-unmanned-farms.md:89) — No independent peer-reviewed evaluation of any Chinese autonomous-machinery yield, labour-saving or input-reduction figure. The MARA promoted-technology catalogue publishes its own numbers; the ministry's new quality inspection and testing centre has not yet been used to test them. The subsidy-integrity precedent (BeiDou terminal data used in audit cases) shows the data to check this exists.
-- **G-469** (n=1, src=units/china-ground-robotics-unmanned-farms.md:90) — The rice-transplanting automation exception is unexplained. China reports automated operation for every other rice and wheat stage and excludes transplanting, which the Heilongjiang 15th Five-Year Plan simultaneously names as a flagship ("driverless rice transplanters"). Whether this is a technical difficulty, a paddy-terrain problem, or a commercial-availability gap is not resolved by any source surfaced here.
+- **G-469** (n=2, src=units/china-ground-robotics-unmanned-farms.md:90) — The rice-transplanting automation exception is unexplained. China reports automated operation for every other rice and wheat stage and excludes transplanting, which the Heilongjiang 15th Five-Year Plan simultaneously names as a flagship ("driverless rice transplanters"). Whether this is a technical difficulty, a paddy-terrain problem, or a commercial-availability gap is not resolved by any source surfaced here.
 - **G-470** (n=2, src=units/china-ground-robotics-unmanned-farms.md:91) — The two laser-weeding robot figures in circulation (HIT >95% weed recognition; HGTECH >99% recognition and >95% removal) are not comparable and neither is audited. Whether one is an iteration of the other, a different task definition, or a different evaluation protocol is unresolved.
 - **G-471** (n=1, src=units/china-ground-robotics-unmanned-farms.md:92) — XAG's Super Cotton Field management model is reported promoted to more than 2 million mu in Xinjiang, but the corpus has no independent per-mu yield or cost data for the promoted area as distinct from the original 3,000 mu demonstration block. Whether promotion reproduces demonstration yields is the substantive question.
 - **G-472** (n=1, src=units/china-ground-robotics-unmanned-farms.md:93) — Beidahuang's 30 smart-agriculture demonstration projects across 21 farms (since 2025) have no published operational outcomes — area under autonomous management, per-stage operation counts, or input figures. The state-farm carrier is named in MARA's action plan but not reported in its results.
@@ -529,5 +529,15 @@ Total gaps registered: 464
 - **G-479** (n=4, src=units/china-state-farms-provincial-deployment.md) — XPCC corps-level smart-agriculture programme: nothing found; only division-level cases (8th Division Shihezi cotton LLM with no named developer or parameters, 10th Division Beitun platform, 6th Division Qitai model). Any 兵团-level plan document closes this.
 - **G-480** (n=2, src=units/china-state-farms-provincial-deployment.md) — The full text of 《黑龙江省大力发展智慧农业实施方案》: the plan is described in provincial work-dynamics but its text was not located; route-map and timetable claims are cited at second hand.
 - **G-481** (n=4, src=units/china-state-farms-provincial-deployment.md) — Independent verification of the Beidahuang estate figures: the CNY 101.8bn 农服 App online-fee total, the 48-satellite monitoring claims and the pilot-farm outcome percentages are company/provincial self-reports with no audit and no regulated disclosure.
+- **G-482** (n=3, src=units/retrofit-autonomy-economics.md:58) — Deere autonomy deployment scale never disclosed
+- **G-483** (n=5, src=units/john-deere-see-and-spray.md:66) — independent verification of spot-spraying challenger figures
+- **G-484** (n=5, src=units/john-deere-see-and-spray.md:66) — multi-year multi-state outcomes for low-sensitivity spot spraying
+- **G-485** (n=4, src=units/grain-marketing-agentic-ai.md:55) — NASS decline driver
+- **G-486** (n=4, src=units/grain-harvest-quality-sensing.md:52) — harvest-quality sensing deployment scale unpublished
+- **G-487** (n=6, src=units/grain-harvest-quality-sensing.md:52) — marketing-agent layer
+- **G-488** (n=1, src=scans/2026-11-row-crop-grain-deep-dive.md:114) — G-488 (n=1, src=this scan) — Operational accuracy of geospatial foundation models outside the Corn Belt: Prithvi-based crop classification reaches F1 0.84/0.78 (corn/soy) in the Corn Belt but median
+- **G-489** (n=1, src=scans/2026-11-row-crop-grain-deep-dive.md:115) — G-489 (n=1, src=this scan) — TerraBlaster LIBS soil-nutrient mapping: single-source coverage (WinSSolutions), no vendor primary located; $12.5M seed, 0.15-acre-resolution pH/NPK claims need direct
+- **G-490** (n=3, src=units/retrofit-autonomy-economics.md:58) — FieldAI foundation-model robotics capital vs ag deployment
+- **G-491** (n=5, src=units/retrofit-autonomy-economics.md:58) — subscription economics by farm size — no data
 - **G-492** (n=2, src=units/farm-succession-and-ai-transfer-moment.md:260) — AI-ready farm-data continuity at transfer — no documented process (open or closed) for handing a farm's records to its next operator; the substrate farm-level AI needs to survive a handover. Surfaced by opensource-agrifood cycle C5; connects G-036..G-042 (data co-ops / OADA / commons) and G-316 (FCC AgExpert private data-licensing terms).
 - **G-493** (n=2, src=units/farm-succession-and-ai-transfer-moment.md:261) — Succession-specific AI advisory trust evidence — who farmers actually listen to for succession decisions is correspondence-bound; no farmer-side trust survey exists online, constraining any AI succession-advisory deployment. Surfaced by opensource-agrifood cycle C11; connects G-231 (AI literacy for older farmers) and the extension-and-advisory cluster.
