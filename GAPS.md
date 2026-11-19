@@ -30,7 +30,7 @@ end of the range; add an intro bullet at the bottom of the surfacing
 scan using the `**G-NNN (new):** ...` format so this registry stays in
 sync (rebuild via `python scripts/build_gap_lead_registries.py`).
 
-Total gaps registered: 476
+Total gaps registered: 477
 
 ## Initial scope
 
@@ -535,7 +535,7 @@ Total gaps registered: 476
 - **G-485** (n=12, src=units/grain-marketing-agentic-ai.md:55) — NASS decline driver
 - **G-486** (n=4, src=units/grain-harvest-quality-sensing.md:52) — harvest-quality sensing deployment scale unpublished
 - **G-487** (n=6, src=units/grain-harvest-quality-sensing.md:52) — marketing-agent layer
-- **G-488** (n=1, src=scans/2026-11-row-crop-grain-deep-dive.md:114) — G-488 (n=1, src=this scan) — Operational accuracy of geospatial foundation models outside the Corn Belt: Prithvi-based crop classification reaches F1 0.84/0.78 (corn/soy) in the Corn Belt but median
+- **G-488** (n=9, src=scans/2026-11-row-crop-grain-deep-dive.md:114) — G-488 (n=1, src=this scan) — Operational accuracy of geospatial foundation models outside the Corn Belt: Prithvi-based crop classification reaches F1 0.84/0.78 (corn/soy) in the Corn Belt but median
 - **G-489** (n=1, src=scans/2026-11-row-crop-grain-deep-dive.md:115) — G-489 (n=1, src=this scan) — TerraBlaster LIBS soil-nutrient mapping: single-source coverage (WinSSolutions), no vendor primary located; $12.5M seed, 0.15-acre-resolution pH/NPK claims need direct
 - **G-490** (n=3, src=units/retrofit-autonomy-economics.md:58) — FieldAI foundation-model robotics capital vs ag deployment
 - **G-491** (n=5, src=units/retrofit-autonomy-economics.md:58) — subscription economics by farm size — no data
@@ -543,3 +543,4 @@ Total gaps registered: 476
 - **G-493** (n=2, src=units/farm-succession-and-ai-transfer-moment.md:261) — Succession-specific AI advisory trust evidence — who farmers actually listen to for succession decisions is correspondence-bound; no farmer-side trust survey exists online, constraining any AI succession-advisory deployment. Surfaced by opensource-agrifood cycle C11; connects G-231 (AI literacy for older farmers) and the extension-and-advisory cluster.
 - **G-494** (n=8, src=scans/2026-11-row-crop-nass-decline-followup.md:131) — NASS technology-use frame-comparison / comparability study: no
 - **G-495** (n=8, src=scans/2026-11-row-crop-spot-spray-trials-followup.md:166) — Multi-state, commercial-machine, grower-setting replication of the low-sensitivity spot-spray seed-bank consequence — the multi-year seed-bank increase is documented at one location (Keiser, AR, prototype machine, soybean; Avent et al. 2026); whether commercial machines at grower sensitivity settings in other states and crops reproduce it is not established by a replicated multi-state seed-bank study.
+- **G-496** (n=7, src=scans/2026-11-row-crop-geospatial-foundation-model-followup.md:108) — generalization and production validation of the GeoFM transferability
