@@ -30,7 +30,7 @@ end of the range; add an intro bullet at the bottom of the surfacing
 scan using the `**G-NNN (new):** ...` format so this registry stays in
 sync (rebuild via `python scripts/build_gap_lead_registries.py`).
 
-Total gaps registered: 474
+Total gaps registered: 475
 
 ## Initial scope
 
@@ -532,7 +532,7 @@ Total gaps registered: 474
 - **G-482** (n=3, src=units/retrofit-autonomy-economics.md:58) — Deere autonomy deployment scale never disclosed
 - **G-483** (n=5, src=units/john-deere-see-and-spray.md:66) — independent verification of spot-spraying challenger figures
 - **G-484** (n=5, src=units/john-deere-see-and-spray.md:66) — multi-year multi-state outcomes for low-sensitivity spot spraying
-- **G-485** (n=4, src=units/grain-marketing-agentic-ai.md:55) — NASS decline driver
+- **G-485** (n=12, src=units/grain-marketing-agentic-ai.md:55) — NASS decline driver
 - **G-486** (n=4, src=units/grain-harvest-quality-sensing.md:52) — harvest-quality sensing deployment scale unpublished
 - **G-487** (n=6, src=units/grain-harvest-quality-sensing.md:52) — marketing-agent layer
 - **G-488** (n=1, src=scans/2026-11-row-crop-grain-deep-dive.md:114) — G-488 (n=1, src=this scan) — Operational accuracy of geospatial foundation models outside the Corn Belt: Prithvi-based crop classification reaches F1 0.84/0.78 (corn/soy) in the Corn Belt but median
@@ -541,3 +541,4 @@ Total gaps registered: 474
 - **G-491** (n=5, src=units/retrofit-autonomy-economics.md:58) — subscription economics by farm size — no data
 - **G-492** (n=2, src=units/farm-succession-and-ai-transfer-moment.md:260) — AI-ready farm-data continuity at transfer — no documented process (open or closed) for handing a farm's records to its next operator; the substrate farm-level AI needs to survive a handover. Surfaced by opensource-agrifood cycle C5; connects G-036..G-042 (data co-ops / OADA / commons) and G-316 (FCC AgExpert private data-licensing terms).
 - **G-493** (n=2, src=units/farm-succession-and-ai-transfer-moment.md:261) — Succession-specific AI advisory trust evidence — who farmers actually listen to for succession decisions is correspondence-bound; no farmer-side trust survey exists online, constraining any AI succession-advisory deployment. Surfaced by opensource-agrifood cycle C11; connects G-231 (AI literacy for older farmers) and the extension-and-advisory cluster.
+- **G-494** (n=8, src=scans/2026-11-row-crop-nass-decline-followup.md:131) — NASS technology-use frame-comparison / comparability study: no
