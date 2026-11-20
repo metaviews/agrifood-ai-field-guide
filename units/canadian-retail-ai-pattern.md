@@ -1,6 +1,7 @@
 ---
 id: canadian-retail-ai-pattern
 title: Canadian retail AI in agrifood — the pattern beneath Loblaw × ChatGPT, Blue Yonder, and similar deployments
+summary: "The recognisable pattern beneath Canadian agrifood retail AI deployments — Loblaw x ChatGPT, Blue Yonder, and similar — as of mid-2026."
 sector-position: consumption, distribution-and-retail
 ai-technique-class: generative-ai-and-llms, predictive-ml
 purpose: consumer-facing, supply-chain-efficiency

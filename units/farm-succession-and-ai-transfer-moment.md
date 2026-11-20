@@ -1,6 +1,7 @@
 ---
 id: farm-succession-and-ai-transfer-moment
 title: 'Farm succession and AI — the transfer moment as the missing data-continuity layer'
+summary: "Bridges the field guide and the opensource-agrifood succession program: the farm transfer moment is the missing AI data-continuity layer — succession is a substrate and licensing problem, not a tooling problem."
 sector-position: (cross-cutting)
 ai-technique-class: (cross-cutting)
 purpose: governance

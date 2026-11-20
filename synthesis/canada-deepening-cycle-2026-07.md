@@ -1,5 +1,6 @@
 ---
-title: Canada deepening cycle — talk-ready findings (July 2026)
+title: Canada deepening cycle — synthesized findings (July 2026)
+summary: "Canada's agrifood AI runs through a federal funder/convenor substrate (CAAIN, Scale AI, Digital, PIC, RAII) with a cross-cluster funding-stack pattern and a RAII/UBF binding-constraint tension; Indigenous-led deployments are operational."
 date: 2026-07
 status: cycle-talk-summary
 parent_cycle:
@@ -19,7 +20,7 @@ archetype_integration:
   - 06-regional-cluster-comparison
 ---
 
-# Canada deepening cycle — talk-ready findings (July 2026)
+# Canada deepening cycle — synthesized findings (July 2026)
 
 **Status.** Cycle-level consolidation of substantive findings for talk-building. The 18 new units each have their own "Why this matters for talks" section (load-bearing); the 3 scans each have their own "What this scan asks of the field guide" section (cross-unit synthesis). This document collapses those into a single navigable talk-ready index. **Use this document when building a talk and you need to know which of the 18 units to pull from, and which of the 10 substantive findings are the headline arguments.**
 

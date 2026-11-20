@@ -118,9 +118,9 @@ When the corpus grows materially (new regional cycles, new quote categories, new
 - `talks/README.md` (this file) — talk-assembly methodology
 - `talks/index.md` — quick-reference table of the eight archetypes
 - `talks/cluster-pattern-taxonomy.md` — canonical cluster-pattern vocabulary surfaced across six regional cycles
-- `talks/canada-deepening-cycle-2026-07.md` — dated cycle-findings consolidation (Canada deepening)
-- `talks/canada-ids-cycle-2026-07.md` — dated cycle-findings consolidation (Canada IDSov)
-- `talks/eu-china-cycles-2026-09.md` — dated cycle-findings consolidation (EU architecture + China primary-document cycles, consolidated November 2026)
+- `synthesis/canada-deepening-cycle-2026-07.md` — dated cycle-findings consolidation (Canada deepening)
+- `synthesis/canada-ids-cycle-2026-07.md` — dated cycle-findings consolidation (Canada IDSov)
+- `synthesis/eu-china-cycles-2026-09.md` — dated cycle-findings consolidation (EU architecture + China primary-document cycles, consolidated November 2026)
 - `talks/archetypes/01-vendor-sweep-primer.md`
 - `talks/archetypes/02-canadian-data-sovereignty.md`
 - `talks/archetypes/03-canadian-adoption-diagnosis.md`

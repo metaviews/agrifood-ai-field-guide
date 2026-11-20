@@ -181,7 +181,7 @@ Place it beside:
 
 The distinction matters: a state can provide a regulatory substrate, announce a smart-farming strategy, or explicitly target labour substitution. Those are different political-economic arrangements and should not be collapsed.
 
-**China-side evidence (added 15 November 2026, per the September 2026 China primary-document cycle — `talks/eu-china-cycles-2026-09.md` finding CN-7).** The Chinese record complicates the state-cluster pattern in a productive way — substitution happens, but through different machinery than a statutory adoption target:
+**China-side evidence (added 15 November 2026, per the September 2026 China primary-document cycle — `synthesis/eu-china-cycles-2026-09.md` finding CN-7).** The Chinese record complicates the state-cluster pattern in a productive way — substitution happens, but through different machinery than a statutory adoption target:
 
 - **Wholesale task substitution where the environment is engineered:** Muyuan's smart pig barns replace repetitious barn work at massive scale (30+ smart devices per pig lifetime; 1.61m IoT devices connected; >60m head served) — all company-reported (V0).
 - **Substitution through service providers rather than worker displacement:** XAG's drone operations shift the labour into contractor fleets instead of removing farm workers — the drone-labour question is a question about who operates, not whether operators exist.

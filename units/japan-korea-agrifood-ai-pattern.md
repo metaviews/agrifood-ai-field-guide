@@ -1,6 +1,7 @@
 ---
 id: japan-korea-agrifood-ai-pattern
 title: 'Japan and Korea agrifood AI pattern — equipment-vendor industrial automation (Japan) + state-anchored cluster programme (Korea), in parallel — the corpus''s first multi-country East-Asia meta-pattern'
+summary: "Japan and Korea's agrifood AI clusters are complementary in shape: equipment-vendor industrial automation (Japan) alongside a state-anchored cluster programme (Korea)."
 sector-position: (cross-cutting — meta-pattern observation across the value chain)
 ai-technique-class: (cross-cutting — all major technique classes represented across the seven anchor units)
 purpose: (cross-cutting — all major purpose categories represented; ageing-farmer succession is the shared structural driver)

@@ -1,6 +1,7 @@
 ---
 id: korean-state-cluster-labour-substitution
 title: Korean state-cluster labour-substitution — 30%-by-2027 smart-farming adoption target + ioCrops + Daedong + RDA Smart Farm Innovation Valley + Act on Fostering Smart Farm
+summary: "The corpus's most-substantive state-led labour-substitution anchor: Korea's explicit 30%-by-2027 smart-farming adoption target, with rural labour substitution as the structural rationale (ioCrops, Daedong, RDA)."
 sector-position: on-farm-production-protected (Korean smart-farming cluster); greenhouse / vertical farming primary
 ai-technique-class: predictive-ml, sensors-and-iot-ml, generative-ai-and-llms, computer-vision, decision-support-systems
 purpose: input-reduction (Korean precision agriculture), yield-optimisation, labour-substitution (the explicit cluster purpose), climate-adaptation (smart farm controlled environment)

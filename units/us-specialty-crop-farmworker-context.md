@@ -1,6 +1,7 @@
 ---
 id: us-specialty-crop-farmworker-context
 title: US specialty-crop farmworker context — H-2A scale, regional labour contexts, and the organised-voice institutional landscape (CIW, UFW, PCUN, FUF, FARF, CRLA)
+summary: "The labour-side substrate for US specialty-crop AI: H-2A scale, regional labour contexts, and the organised-voice institutional landscape (CIW, UFW, PCUN, FUF, FARF, CRLA) — closing G-176."
 sector-position: (cross-cutting — labour-side context for US specialty-crop AI deployment)
 ai-technique-class: (cross-cutting)
 purpose: governance (farmworker labour and AI deployment context); worker conditions (labour-and-migrant context); food security / sovereignty (US specialty-crop supply chain resilience)

@@ -1,6 +1,7 @@
 ---
 id: spain-cooperative-agrifood-ai-cluster-pattern
 title: Spanish agri-food cooperative AI deployment — cluster-pattern with peer-reviewed-led + Mondragón institutional-anchor + emerging-single-coop deployment (analogous to Brazilian seed AI cluster-with-three-structures)
+summary: "Spanish cooperative AI is a cluster-pattern-with-three-structures — peer-reviewed-led + Mondragon institutional-anchor + emerging-single-coop deployment — analogous to the Brazilian seed AI cluster."
 sector-position: cross-value-chain (cooperative-governed agricultural + food production)
 ai-technique-class: (across classes per deployment; cluster observation not single technique)
 purpose: digital-transformation, AI-integration-into-cooperative-strategy, member-data-governance

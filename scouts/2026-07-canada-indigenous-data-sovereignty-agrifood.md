@@ -10,7 +10,7 @@ builds_on:
 subsequent_artifacts:
   - scans/2026-07-canada-indigenous-data-sovereignty-agrifood.md
   - units/ (4-6 new units)
-  - talks/canada-ids-cycle-2026-07.md (cycle findings)
+  - synthesis/canada-ids-cycle-2026-07.md (cycle findings)
 ---
 
 # Canada Indigenous Data Sovereignty + AI in Agrifood — Consolidation Scout

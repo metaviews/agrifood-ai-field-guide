@@ -1,6 +1,7 @@
 ---
 id: north-america-consumption-ai-pattern
 title: North America consumption AI pattern — the deployment landscape in US/Canadian grocery, food delivery, QSR, and consumer nutrition (mid-2026)
+summary: "The meta-unit for North American consumer-facing AI in grocery and food (mid-2026), synthesising deployment evidence across grocery, food delivery, QSR, and consumer nutrition."
 sector-position: consumption, distribution-and-retail, post-harvest
 ai-technique-class: generative-ai-and-llms, predictive-ml, computer-vision, robotics-automation
 purpose: consumer-facing, supply-chain-efficiency

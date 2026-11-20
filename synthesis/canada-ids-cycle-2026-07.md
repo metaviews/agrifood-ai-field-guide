@@ -1,5 +1,6 @@
 ---
-title: Canada Indigenous Data Sovereignty + AI in Agrifood cycle — talk-ready findings (July 2026)
+title: Canada Indigenous Data Sovereignty + AI in Agrifood cycle — synthesized findings (July 2026)
+summary: "Canadian Indigenous-led agrifood AI deployments are operational but funded through non-Indigenous-specific instruments — a framework-deployment funding-instrument gap (G-313): sovereignty frameworks are not yet matched by dedicated funding."
 date: 2026-07
 status: cycle-talk-summary
 parent_cycle:
@@ -16,7 +17,7 @@ archetype_integration:
   - 06-regional-cluster-comparison
 ---
 
-# Canada Indigenous Data Sovereignty + AI in Agrifood cycle — talk-ready findings (July 2026)
+# Canada Indigenous Data Sovereignty + AI in Agrifood cycle — synthesized findings (July 2026)
 
 **Status.** Cycle-level consolidation of substantive findings for talk-building. The 6 new units each have their own "Why this matters for talks" section (load-bearing); the consolidation scout §1 carries the headline finding; this document collapses them into a single navigable talk-ready index.
 
@@ -313,4 +314,4 @@ For a 60-min regional-cluster-comparison talk:
   - Existing units referenced: `units/indigenous-data-sovereignty.md` (updated), `units/cornell-atkinson-idsov-cluster.md`
   - Existing scans referenced: `scans/2026-07-canada-regional-substrate.md` (PolArctic + Salmon Vision + CanNor projects)
   - Existing scouts referenced: `scouts/2026-07-canada-constraint-critical.md` (framework §4 + G-313 origin)
-  - Existing talks layer: `talks/README.md`, `talks/index.md`, `talks/canada-deepening-cycle-2026-07.md` (previous cycle findings), `talks/archetypes/02/04/05/06`
+  - Existing talks layer: `talks/README.md`, `talks/index.md`, `synthesis/canada-deepening-cycle-2026-07.md` (previous cycle findings), `talks/archetypes/02/04/05/06`

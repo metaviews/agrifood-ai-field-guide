@@ -1,6 +1,7 @@
 ---
 id: row-crop-ai-deployment-synthesis
 title: AI in row-crop farming — a two-speed deployment pattern, and what the independent evidence actually shows
+summary: "Row-crop AI is a two-speed structure — real retrofit/sensing deployment vs announcement-dominated headline cells; the independent evidence shows thin adoption, a management-sensitive savings dial, and region-bound foundation models."
 sector-position: on-farm-production-open-field
 ai-technique-class: mixed
 purpose: decision-support

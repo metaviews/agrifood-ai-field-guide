@@ -80,4 +80,20 @@ const talks = defineCollection({
   }),
 });
 
-export const collections = { units, quotes, talks };
+// Synthesis — cross-cycle consolidations: narrative integrations of multiple
+// units/cycles into a single reading (the project's "what the evidence shows"
+// layer). Distinct from talks (talk-assembly methodology) and from the
+// meta-pattern units (which stay in the units collection and are surfaced
+// alongside these on the Synthesis index). Scans remain corpus-internal.
+const synthesis = defineCollection({
+  loader: glob({ pattern: '**/!(README|index|_index)*.md', base: `${repoRoot}synthesis` }),
+  schema: z.object({
+    title: z.string(),
+    date: z.union([z.string(), z.number(), z.date()]).optional(),
+    status: z.string().optional(),
+    summary: z.string().optional(),
+    region: z.string().optional(),
+  }),
+});
+
+export const collections = { units, quotes, talks, synthesis };

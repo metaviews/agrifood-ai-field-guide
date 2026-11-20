@@ -1,0 +1,111 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { regionFacets, REGION_LABELS, verifChip } from '../../unit-facets.ts';
+
+// The Synthesis layer is a cross-collection view: narrative cross-cycle
+// consolidations (the synthesis collection) plus the integrative meta-pattern
+// units (which live in the units collection). It is the "what the evidence
+// shows" entry point — start here for the reading, drill into units for evidence.
+const consolidations = (await getCollection('synthesis'))
+  .sort((a, b) => String(b.data.date ?? '').localeCompare(String(a.data.date ?? ''))
+    || (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
+
+const units = await getCollection('units');
+const patterns = units
+  .filter((u) => u.data['unit-kind'] === 'meta-pattern')
+  .sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
+
+function regionsOf(region: string | undefined): string[] {
+  return regionFacets(region).map((r) => REGION_LABELS[r] ?? r);
+}
+const total = consolidations.length + patterns.length;
+---
+
+<Base title="Synthesis" description="Integrated readings of AI in agrifood — cross-cycle consolidations and cross-case patterns, each led by its central claim.">
+  <h1>Synthesis</h1>
+  <p>
+    The integrated understanding: what the evidence shows across cases and
+    regions. Each synthesis is led by its central claim and draws on named
+    units; in the corpus each also carries an honest ceiling and the open
+    questions that would change the reading. Start here for the argument,
+    then follow the links down to the units for the evidence.
+  </p>
+  <p class="layer-note">
+    {total} syntheses — {consolidations.length} cross-cycle consolidations and
+    {patterns.length} cross-case patterns. The underlying research passes
+    (scans) and the gap / contested-claim registries are corpus-internal,
+    readable on GitHub.
+  </p>
+
+  <section class="synth-group">
+    <h2>Cross-cycle consolidations</h2>
+    <p class="group-desc">
+      Narrative integrations of whole research cycles into a single reading.
+    </p>
+    <div class="cards">
+      {consolidations.map((doc) => (
+        <article class="synth-card">
+          <h3><a href={`/synthesis/${doc.id}/`}>{doc.data.title ?? doc.id}</a></h3>
+          {doc.data.summary && <p class="card-claim">{doc.data.summary}</p>}
+          {doc.data.date && <span class="card-date">{String(doc.data.date)}</span>}
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="synth-group">
+    <h2>Cross-case patterns</h2>
+    <p class="group-desc">
+      Integrative units that read across multiple deployments — regional
+      cluster patterns and topic syntheses. Each links to its full unit.
+    </p>
+    <ul class="pattern-list">
+      {patterns.map((unit) => {
+        const regions = regionsOf(unit.data.region);
+        const vChip = verifChip(unit.data['maturity-verification']);
+        return (
+          <li>
+            <a href={`/units/${unit.id}/`}>{unit.data.title ?? unit.id}</a>
+            {regions.slice(0, 2).map((r) => <span class="chip">{r}</span>)}
+            {vChip && <span class="chip chip-v" title="Verification tier">{vChip}</span>}
+            {unit.data.summary && <span class="pattern-summary"> — {unit.data.summary}</span>}
+          </li>
+        );
+      })}
+    </ul>
+  </section>
+</Base>
+
+<style>
+  .layer-note { font-size: 0.9rem; color: var(--ink-faint); margin-top: -0.5rem; }
+  .synth-group { margin: 2.5rem 0; }
+  .synth-group h2 {
+    font-size: 1.4rem; color: var(--ink);
+    border-bottom: 1px solid var(--rule); padding-bottom: 0.25em; margin-bottom: 0.4em;
+  }
+  .group-desc { color: var(--ink-soft); font-size: 0.95rem; font-style: italic; margin: 0 0 1rem 0; }
+  .cards { display: grid; grid-template-columns: 1fr; gap: 0.85rem; }
+  .synth-card {
+    background: var(--cream-soft); border: 1px solid var(--rule); border-radius: 3px;
+    padding: 1rem 1.15rem;
+  }
+  .synth-card h3 { margin: 0 0 0.5rem 0; font-size: 1.1rem; font-weight: 600; line-height: 1.3; }
+  .synth-card h3 a { color: var(--ink); text-decoration: none; border-bottom: 1px solid transparent; }
+  .synth-card h3 a:hover { border-bottom-color: var(--ink-soft); }
+  .card-claim { margin: 0 0 0.6rem 0; color: var(--ink-soft); font-size: 0.95rem; line-height: 1.5; }
+  .card-date { font-size: 0.78rem; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
+  .pattern-list { list-style: none; padding: 0; margin: 0; }
+  .pattern-list li { padding: 0.5em 0; border-bottom: 1px dotted var(--rule); line-height: 1.5; }
+  .pattern-list li:last-child { border-bottom: none; }
+  .pattern-list a { color: var(--ink); text-decoration: none; border-bottom: 1px solid transparent; }
+  .pattern-list a:hover { border-bottom-color: var(--ink-soft); }
+  .pattern-summary { color: var(--ink-soft); font-size: 0.92em; }
+  .chip {
+    display: inline-block; font-size: 0.72rem; line-height: 1.6; border: 1px solid var(--rule);
+    border-radius: 2px; padding: 0 0.45em; margin-left: 0.5em; color: var(--ink-faint);
+    white-space: nowrap; vertical-align: baseline;
+  }
+  .chip-v { font-variant-numeric: tabular-nums; }
+  @media (min-width: 720px) { .cards { grid-template-columns: 1fr 1fr; } }
+</style>

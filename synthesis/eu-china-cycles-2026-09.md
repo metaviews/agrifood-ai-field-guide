@@ -1,5 +1,6 @@
 ---
-title: EU architecture + China primary-document cycles — talk-ready findings (September 2026 cycles, consolidated 15 November 2026)
+title: EU architecture + China primary-document cycles — synthesized findings (September 2026 cycles, consolidated 15 November 2026)
+summary: "The EU and China are near-mirror institutional-architecture pictures: the EU has instruments without a programme; China has a programme without a standalone instrument. Neither has an 'agrifood AI policy' in the sense audiences assume."
 date: 2026-11
 status: cycle-talk-summary
 parent_cycle:
@@ -16,7 +17,7 @@ archetype_integration:
   - 08-ai-and-labour
 ---
 
-# EU architecture + China primary-document cycles — talk-ready findings
+# EU architecture + China primary-document cycles — synthesized findings
 
 **Status.** Cycle-level consolidation of substantive findings for talk-building, covering the two September 2026 cycles (EU architecture: 12 units closing the thirteen July EU leads; China primary-document: 14 units from Chinese-language primary sources) and the November 2026 refresh-and-discovery pass (14 units refreshed in place, 3 new units: `edic-agri-food.md`, `china-agricultural-llms-landscape.md`, `china-state-farms-provincial-deployment.md`). Written 15 November 2026. Each unit carries its own "Why this matters" material; the two cycle scans carry "Why this scan matters for talks" sections. **This document collapses those into a single navigable index: which findings are the headline arguments, and which archetypes they upgrade.**
 

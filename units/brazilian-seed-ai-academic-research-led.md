@@ -1,6 +1,7 @@
 ---
 id: brazilian-seed-ai-academic-research-led
 title: Brazilian seed AI — academic-research-led + multinational-corporate-pipelined + substantial negative-finding layer
+summary: "Brazilian seed AI is academic-research-led + multinational-corporate-pipelined, with a substantial negative-finding layer — a shape distinct from Argentine beef, Brazilian beef, and Chilean seed AI."
 sector-position: inputs
 ai-technique-class: predictive-ml, computer-vision, sensors-and-iot-ml
 purpose: breeding-pipeline-acceleration, genomic-selection, phenotyping-throughput

@@ -1,0 +1,39 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const docs = await getCollection('synthesis');
+  return docs.map((doc) => ({
+    params: { slug: doc.id },
+    props: { doc },
+  }));
+}
+
+const { doc } = Astro.props;
+const { Content } = await render(doc);
+const title = doc.data.title ?? doc.id;
+---
+
+<Base title={title} description={doc.data.summary ?? `Synthesis: ${title}`}>
+  <nav class="back-link">
+    <a href="/synthesis/">&larr; All synthesis</a>
+  </nav>
+  <h1>{title}</h1>
+  {doc.data.summary && <p class="standfirst">{doc.data.summary}</p>}
+  <Content />
+</Base>
+
+<style>
+  .back-link { font-size: 0.9rem; color: var(--ink-soft); margin-bottom: 1rem; }
+  .back-link a { color: var(--ink-soft); text-decoration: none; border-bottom: 1px solid var(--rule); }
+  .back-link a:hover { color: var(--ink); border-bottom-color: var(--ink-soft); }
+  .standfirst {
+    font-size: 1.05rem;
+    color: var(--ink-soft);
+    font-style: italic;
+    border-left: 3px solid var(--rule);
+    padding-left: 1rem;
+    margin: 0 0 1.75rem 0;
+  }
+</style>

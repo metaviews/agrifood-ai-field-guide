@@ -1,6 +1,7 @@
 ---
 id: india-agrifood-ai-pattern
 title: 'India agrifood AI pattern — three private + one state, layered on a DPI substrate (the corpus''s first South-Asia meta-pattern unit)'
+summary: "India's agrifood AI cluster: three private players plus one state, layered on a DPI substrate — a structural shape distinct from the NA-EU and China clusters."
 sector-position: (cross-cutting — meta-pattern observation)
 ai-technique-class: (cross-cutting — all major technique classes represented)
 purpose: (cross-cutting — all major purpose categories represented)

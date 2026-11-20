@@ -1,6 +1,7 @@
 ---
 id: row-crop-ai-independent-adoption-evidence
 title: "Independent adoption evidence — AI and precision agriculture in row-crop and grain farming (USDA NASS, Purdue, Bushel, Simpson Centre)"
+summary: "The independent (non-vendor) adoption evidence for row-crop AI — USDA NASS, Purdue, Bushel, Simpson Centre — anchoring the 'announcements exceed deployments' finding; farm-level adoption is thin and office-side."
 sector-position: (cross-cutting — independent adoption evidence for row-crop and grain AI deployment)
 ai-technique-class: (cross-cutting)
 purpose: governance (adoption evidence base); input-optimisation (what farmers actually adopt)

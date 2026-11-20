@@ -1,6 +1,7 @@
 ---
 id: chile-canada-seed-ai-cross-border
 title: Chile ↔ Canada seed-AI cross-border cluster — counter-season supply chain + pan-genome consortium as the structural connection
+summary: "The structural Canada-Chile seed-AI connection: Chile's counter-season seed production linked to Canada's breeding-tool AI cluster via multinational seed-company pipelines and a pan-genome consortium."
 sector-position: inputs
 ai-technique-class: computer-vision, predictive-ml, sensors-and-iot-ml
 purpose: cross-border-seed-supply, genetic-resource-protection, breeding-pipeline-acceleration
