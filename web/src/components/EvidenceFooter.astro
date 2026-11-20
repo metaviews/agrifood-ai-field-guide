@@ -1,0 +1,99 @@
+---
+// Visitor-friendly "Evidence & open questions" footer for synthesis pages.
+// Surfaces the evidence chain that remarkStripMeta removes from the prose:
+// the units a reading draws on (navigable), its open gaps, and the contested
+// claims it engages. Renders nothing when there is no evidence chain.
+import { splitEntries, type EvidenceLinks } from '../evidence-chain.ts';
+
+interface Props {
+  links: EvidenceLinks;
+  unitTitles: Record<string, string>;
+}
+const { links, unitTitles } = Astro.props;
+const gapEntries = splitEntries(links.gapsText, 'G');
+const claimEntries = splitEntries(links.claimsText, 'C');
+const hasContent = links.units.length > 0 || links.gapsText || links.claimsText;
+const repo = 'https://github.com/metaviews/agrifood-ai-field-guide/blob/main';
+---
+
+{hasContent && (
+  <section class="evidence-footer" aria-label="Evidence and open questions">
+    <h2>Evidence &amp; open questions</h2>
+    <p class="evidence-intro">
+      This reading is part of ongoing inquiry. Here is the evidence it draws
+      on, the claims it contests, and the open questions that would change it.
+    </p>
+
+    {links.units.length > 0 && (
+      <div class="evidence-block">
+        <h3>Draws on these units</h3>
+        <ul class="evidence-units">
+          {links.units.map((id) => (
+            <li><a href={`/units/${id}/`}>{unitTitles[id] ?? id}</a></li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {links.claimsText && (
+      <div class="evidence-block">
+        <h3>Contested claims it engages</h3>
+        {claimEntries.length > 0 ? (
+          <ul class="evidence-list">
+            {claimEntries.map((c) => <li>{c}</li>)}
+          </ul>
+        ) : (
+          <p class="evidence-text">{links.claimsText}</p>
+        )}
+      </div>
+    )}
+
+    {links.gapsText && (
+      <div class="evidence-block">
+        <h3>Open questions</h3>
+        {gapEntries.length > 0 ? (
+          <ul class="evidence-list">
+            {gapEntries.map((g) => <li>{g}</li>)}
+          </ul>
+        ) : (
+          <p class="evidence-text">{links.gapsText}</p>
+        )}
+      </div>
+    )}
+
+    <p class="registry-note">
+      The gap (G-NNN) and contested-claim (C-NNN) registries are maintained in
+      the source repository:
+      <a href={`${repo}/GAPS.md`}>gaps</a> ·
+      <a href={`${repo}/LEADS.md`}>leads</a>.
+    </p>
+  </section>
+)}
+
+<style>
+  .evidence-footer {
+    margin-top: 3rem; padding: 1.25rem 1.5rem;
+    background: var(--cream-soft); border: 1px solid var(--rule);
+    border-top: 3px solid var(--ink-soft); border-radius: 3px;
+  }
+  .evidence-footer h2 { font-size: 1.2rem; margin: 0 0 0.4rem; border: none; padding: 0; }
+  .evidence-intro { font-size: 0.9rem; color: var(--ink-soft); margin: 0 0 1rem; line-height: 1.5; }
+  .evidence-block { margin: 1rem 0; }
+  .evidence-block h3 {
+    font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em;
+    color: var(--ink-soft); margin: 0 0 0.5rem;
+  }
+  .evidence-units { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.4rem 0.6rem; }
+  .evidence-units li { margin: 0; }
+  .evidence-units a {
+    display: inline-block; font-size: 0.85rem; color: var(--ink); text-decoration: none;
+    border: 1px solid var(--rule); border-radius: 2px; padding: 0.15em 0.6em;
+    background: var(--cream, #fff);
+  }
+  .evidence-units a:hover { border-color: var(--ink-soft); }
+  .evidence-list { margin: 0; padding-left: 1.2rem; line-height: 1.55; }
+  .evidence-list li { margin: 0.3em 0; font-size: 0.9rem; color: var(--ink-soft); }
+  .evidence-text { font-size: 0.9rem; color: var(--ink-soft); line-height: 1.55; margin: 0; }
+  .registry-note { font-size: 0.8rem; color: var(--ink-faint); margin: 1rem 0 0; }
+  .registry-note a { color: var(--ink-soft); }
+</style>

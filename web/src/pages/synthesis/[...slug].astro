@@ -1,6 +1,8 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
+import { parseEvidenceLinks } from '../../evidence-chain.ts';
+import EvidenceFooter from '../../components/EvidenceFooter.astro';
 
 export async function getStaticPaths() {
   const docs = await getCollection('synthesis');
@@ -13,6 +15,13 @@ export async function getStaticPaths() {
 const { doc } = Astro.props;
 const { Content } = await render(doc);
 const title = doc.data.title ?? doc.id;
+
+// Evidence-chain footer when a synthesis doc carries a structured Links
+// section (the consolidations render their evidence as prose instead).
+const evidence = parseEvidenceLinks(doc.body);
+const showEvidence = evidence.units.length > 0 || evidence.gapsText || evidence.claimsText;
+const allUnits = await getCollection('units');
+const unitTitles = Object.fromEntries(allUnits.map((u) => [u.id, u.data.title ?? u.id]));
 ---
 
 <Base title={title} description={doc.data.summary ?? `Synthesis: ${title}`}>
@@ -22,6 +31,7 @@ const title = doc.data.title ?? doc.id;
   <h1>{title}</h1>
   {doc.data.summary && <p class="standfirst">{doc.data.summary}</p>}
   <Content />
+  {showEvidence && <EvidenceFooter links={evidence} unitTitles={unitTitles} />}
 </Base>
 
 <style>

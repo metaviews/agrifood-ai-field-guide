@@ -2,6 +2,8 @@
 import Base from '../../layouts/Base.astro';
 import { getCollection, render } from 'astro:content';
 import { KIND_LABELS, GOV_LABELS, verifChip } from '../../unit-facets.ts';
+import { parseEvidenceLinks } from '../../evidence-chain.ts';
+import EvidenceFooter from '../../components/EvidenceFooter.astro';
 
 export async function getStaticPaths() {
   const units = await getCollection('units');
@@ -17,6 +19,14 @@ const title = unit.data.title ?? unit.id;
 const kind = unit.data['unit-kind'];
 const gov = unit.data['governance-level'];
 const vChip = verifChip(unit.data['maturity-verification']);
+
+// Evidence-chain footer for integrative (meta-pattern) syntheses: surface the
+// units/gaps/contested-claims that remarkStripMeta removes from the prose.
+const evidence = parseEvidenceLinks(unit.body);
+const showEvidence = kind === 'meta-pattern'
+  && (evidence.units.length > 0 || evidence.gapsText || evidence.claimsText);
+const allUnits = await getCollection('units');
+const unitTitles = Object.fromEntries(allUnits.map((u) => [u.id, u.data.title ?? u.id]));
 ---
 
 <Base title={title} description={unit.data.summary ?? `Unit: ${title}`}>
@@ -35,6 +45,7 @@ const vChip = verifChip(unit.data['maturity-verification']);
     </p>
   )}
   <Content />
+  {showEvidence && <EvidenceFooter links={evidence} unitTitles={unitTitles} />}
 </Base>
 
 <style>
