@@ -1,13 +1,16 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import { regionFacets, REGION_LABELS, verifChip } from '../../unit-facets.ts';
 
-// The Synthesis layer is a cross-collection view: narrative cross-cycle
-// consolidations (the synthesis collection) plus the integrative meta-pattern
-// units (which live in the units collection). It is the "what the evidence
-// shows" entry point — start here for the reading, drill into units for evidence.
-const consolidations = (await getCollection('synthesis'))
+// The Synthesis layer is a cross-collection view: a whole-corpus overview,
+// narrative cross-cycle consolidations (the synthesis collection), and the
+// integrative meta-pattern units (which live in the units collection). It is
+// the "what the evidence shows" entry point.
+const allSynth = await getCollection('synthesis');
+const overview = allSynth.find((d) => d.id === 'overview-ai-in-agriculture');
+const consolidations = allSynth
+  .filter((d) => d.id !== 'overview-ai-in-agriculture')
   .sort((a, b) => String(b.data.date ?? '').localeCompare(String(a.data.date ?? ''))
     || (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
 
@@ -16,23 +19,36 @@ const patterns = units
   .filter((u) => u.data['unit-kind'] === 'meta-pattern')
   .sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id));
 
+const { Content: OverviewContent } = overview ? await render(overview) : { Content: null };
+
 function regionsOf(region: string | undefined): string[] {
   return regionFacets(region).map((r) => REGION_LABELS[r] ?? r);
 }
-const total = consolidations.length + patterns.length;
 ---
 
-<Base title="Synthesis" description="Integrated readings of AI in agrifood — cross-cycle consolidations and cross-case patterns, each led by its central claim.">
+<Base title="Synthesis" description="Integrated readings of AI in agrifood — a whole-corpus overview, cross-cycle consolidations, and cross-case patterns, each led by its central claim.">
   <h1>Synthesis</h1>
   <p>
     The integrated understanding: what the evidence shows across cases and
-    regions. Each synthesis is led by its central claim and draws on named
-    units; in the corpus each also carries an honest ceiling and the open
-    questions that would change the reading. Start here for the argument,
-    then follow the links down to the units for the evidence.
+    regions. Start with the overview below for the whole picture, then follow
+    the links down to the consolidations, patterns, and units for the evidence.
   </p>
+
+  {overview && (
+    <section class="overview-lead" aria-label="Overview">
+      <div class="overview-kicker">
+        <span>Overview</span>
+        <a href={`/synthesis/${overview.id}/`}>standalone page &#8599;</a>
+      </div>
+      <h2 class="overview-title">
+        <a href={`/synthesis/${overview.id}/`}>{overview.data.title}</a>
+      </h2>
+      <OverviewContent />
+    </section>
+  )}
+
   <p class="layer-note">
-    {total} syntheses — {consolidations.length} cross-cycle consolidations and
+    Below: {consolidations.length} cross-cycle consolidations and
     {patterns.length} cross-case patterns. The underlying research passes
     (scans) and the gap / contested-claim registries are corpus-internal,
     readable on GitHub.
@@ -78,7 +94,25 @@ const total = consolidations.length + patterns.length;
 </Base>
 
 <style>
-  .layer-note { font-size: 0.9rem; color: var(--ink-faint); margin-top: -0.5rem; }
+  .overview-lead {
+    background: var(--cream-soft); border: 1px solid var(--rule);
+    border-left: 3px solid var(--ink-soft); border-radius: 3px;
+    padding: 1.25rem 1.5rem 1.5rem; margin: 1.5rem 0 2rem 0;
+  }
+  .overview-kicker {
+    display: flex; justify-content: space-between; align-items: baseline;
+    font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.07em;
+    color: var(--ink-faint); margin-bottom: 0.5rem;
+  }
+  .overview-kicker a { color: var(--ink-faint); text-decoration: none; border-bottom: 1px solid var(--rule); text-transform: none; letter-spacing: 0; }
+  .overview-kicker a:hover { color: var(--ink); }
+  .overview-title { font-size: 1.5rem; margin: 0 0 0.75rem 0; line-height: 1.25; border: none; padding: 0; }
+  .overview-title a { color: var(--ink); text-decoration: none; }
+  .overview-title a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .overview-lead :global(h2) { font-size: 1.12rem; margin: 1.4rem 0 0.5rem; border: none; padding: 0; }
+  .overview-lead :global(p) { line-height: 1.6; }
+  .overview-lead :global(ul) { line-height: 1.6; }
+  .layer-note { font-size: 0.9rem; color: var(--ink-faint); }
   .synth-group { margin: 2.5rem 0; }
   .synth-group h2 {
     font-size: 1.4rem; color: var(--ink);
